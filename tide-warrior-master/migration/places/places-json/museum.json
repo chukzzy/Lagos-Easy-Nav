@@ -1,0 +1,252 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44342,
+                    "lng": 3.403957
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "fd60b22b5ed0995a00354012d944b024a76877d0",
+            "name": "National Meseum",
+            "photos": [
+                {
+                    "height": 972,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRvAAAAwD1e13ZurJq8JHs5SnhpYBp7BqFH9tqhsHcE_0DnjHQmB09X_d-OQg_CqtfYiJeXJfabjfd0_o3JY-KOZkZwhK51Ovdl2AbOIpAMM4dm18V0qPR5f4744HIbJHIreZwgE1KY7HfZQbn-hVm5yMu_AhIQpHN2_jmK4shbzYegyA2xJRoUosuQZuSP04RyYY31eN66gOn0nS8",
+                    "width": 1296
+                }
+            ],
+            "place_id": "ChIJ1QlG4COLOxAR5m31wVLyW3I",
+            "rating": 4,
+            "reference": "CnRiAAAAKk6mlmcIW8K7a4X-v2IT6sQEhvZ-b4rzjxwLUmqP2ZrlwrambX7sd3tr2gZbU9YUohOjMANCIr7mSlZH8qxozM6uc7y4eKZzx4DY2eBili1KtXRnMh-y1OGnFFqbrMR7Cn-6KstLKCFUZ5u_InNbmBIQRGEqHeoOpDO3uwcA61AUxRoU-i9iWPd1LeBxhe44PaI_YR94LHI",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Onikan"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.556178,
+                    "lng": 3.338749
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "3d1b54e451925240aaea425d892244b3ee15d294",
+            "name": "Ikenga Museum",
+            "place_id": "ChIJGe1LAgiOOxARq1Hs4BEqvUY",
+            "reference": "CmRgAAAAF5DouUTLGRXQJAboqYYW5v9wPEMb-kkHKaU3u3Veby8lv7QB1XoZ4mLzhh4fMPlOekFJUpzOBUZDPf2nKqoiBJrrM1ao_y5glhO65X3gYmUufDvlgK9c-Gjn8Hhug5wMEhDSOXQz4XDJ_EUaNQx7zp63GhTrzhynyYe7N0eITrWVipDSO2zJRg",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "16,Marble Hill Street,Off Okpanam Road,Asaba Delta State, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441512,
+                    "lng": 3.420663
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "54640de26fdb246a353bcf9480b0d3c77d93e661",
+            "name": "Ethnic Heritage Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJew5fINX0OxAR5uJ2l1FYsfk",
+            "reference": "CnRqAAAA_qBsmkq-LHDEEX6l3FaapXJw1Cla39R63KU_IDBsRXP2uU5PTucMHcRYmgsIFLaQ-n7wIb95QOD2j_pQ89KOJXWJjww0qxy631XHVe5FFCR1CDjGa3FKmL6g5tLhMccNUog2MnIVCml_2l6kp7sRLBIQxBWDleNCXQpuK7-1cCSIHxoU6N1rpYbYvNfFDzhrX9f0OKmSshY",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Off Awolowo Road, 35 A Raymond Njoku Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454708,
+                    "lng": 3.404083
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "5f466f56da44c8319aa04a33705d53e8ac51b876",
+            "name": "TTS Technology",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJz_X7AzyLOxARZzQQb0feXSg",
+            "reference": "CnRhAAAAaHmQukt_Re3Q1AU9InQfgYZIHx6_pWuEYWpw9eNlzhr8GfAtWP40C3j0lVjGMZp0vVVIvv_9auEo-q4QNyxfbou8W5QyBcKwVXhaKO46AGAQgqCI9K9bUPB33cK3G34TARNFTiR2NzXQulWCIUrVgRIQr6Iq6Wmc4H1jIrR-tdz7yRoUlJ-egrysSZDc1oMl7jbjzEEYKLo",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Suite No. 15 - 16, Block A4, Sura Shopping Complex, Simpson St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.5339,
+                    "lng": 3.325022
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "29555d56c774820eebb946240f5a2fc790ced30d",
+            "name": "Spyarena",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ0Xd-wGWOOxARQe8RupZ6XTU",
+            "reference": "CmRbAAAAl7w3__kVAgee0R-s8-2cv0SEqpnis-SI_WPhMdO7p62tH2V9F3n39_7jgkHKcQF6cbHnJdqmwBCHovb13XdVJJdLYlOYEI6niLPLwkG3GgHj6vIntc0-x4cfOIQNk55ZEhANMDdAFiu1-ene_U7ZhhEbGhRvDutcnB99g5CBKHWpnTERjSPwqQ",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Isolo, 4 Adekunle Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606071,
+                    "lng": 3.34979
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "cbc90b90267e1ad6871bdd3780e3b3766a78547f",
+            "name": "Tade Kids",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJP2xPbDKSOxAR-ORO4rM1i78",
+            "reference": "CmRdAAAA5vjU8z_IZQQqyXB8kMeOzAvETxQS3tkhnQRXkUCamM1TPlTkIdDNWOEz3hR3YnlbsRcg9xACjnHa3quGmcCZxWOiduKTAPAqxIVu1fGYk0XSNYe58s3sEHskpL_mySgvEhBi1FLeNurxvE4FOsSFwzH4GhQGgkXxksvYoDMm2yb6h1ka1gv0gQ",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Alade Market, Allen Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596086,
+                    "lng": 3.340247
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "ab2ea09bb71e49834e55d5301d75b6c499b13c7f",
+            "name": "Arewa systems Ltd.",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJqdaDdSeSOxARf-BdwaROuqs",
+            "reference": "CnRmAAAAIuVO3W-uj8GwVleq7jlKwxWrPBYCcTKpSdSutrUvUwaYoq3F55m2C_Agv_gxZqNkG5MVh2oMGMkQdk1mQicfxbghizWdlo5GIZhvCcNJR-rtYGmway1_plIh7ZqRCBpojeVQ5s-YM5MCi6mJSOWPWhIQJMgk_tTiB1FLz9S2R9kQtBoUvGEFg4jmCLp3C2eBj4LYoygjf4k",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Computer Village, Ground Floor, Bonfel Plaza, 24 Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.514672,
+                    "lng": 3.364383
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "a639fc48aa4cd4e1a2cfb536bf086672081cffde",
+            "name": "Arts and Nature",
+            "place_id": "ChIJ2XBe6GGMOxARVcaZ_Uuz7jE",
+            "reference": "CnRiAAAA2AvyQwdUv-eKJYhFVcKLFKoAm2zx6pDoTDwrqP65kz_BqsQGh1RkImhILEvedPFIw-kW_c94MiKs49xIo3366npAAT-NO8Bm3Z6kW349zKP_chQAP4_6qNJtaB9qhIpR_1oI4EpzR7kBurrUDxs4XBIQgpz4B1yjzZ61aWakp34R4xoUevdOWolK0qBuHUJFoCVd6PpSmOk",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606639,
+                    "lng": 3.348702
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "6b0bf0096cbb3dc09a354100e8bafd5628e9841c",
+            "name": "Kalakuta Museum",
+            "place_id": "ChIJHwdvhi2SOxARBY6D0HYMCMs",
+            "reference": "CnRjAAAAOh2feORDyJaXG6_pT1dmvK9LJMUyw0hpRxGRUqS6MrL3xrxCAp5AiDzc5UG0CT6U3b5cSGWW3Se7a0dfINEY-Ban5SW4OdcdiADSCuldyTpbBfeSY7z1KgeFBB4VqhVPmb-soeNR7D-utYkMVkacZhIQ2WmFEiG-p_MV40Apq7OKbBoUngMq5cNknLj3MaH9VuFOARUEnzg",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Balogun, Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.456019,
+                    "lng": 3.441254
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "148cea7c381b498fb5c43fd3a25b3840e12c41c0",
+            "name": "Quitessance Nigeria Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJtblAP-r0OxARLEzqr9coPPo",
+            "reference": "CnRrAAAAdC-cRTnYVMuWaC7pa2j9XAdS7OLmiKlW4ICntwsz8Tx7RPT6KkOpvBpznBgW3M2tkwBJo2IU-XvclKJiJET2P9X2gkQeyE68Tq7nkASXu8SNV34VI-f1mkC1r_MxPH9dkeO9QXxjEBTKRB6lMVDrdBIQ64PnuRZM8fuKyAuuO09JBhoUK4MkBVNZnu72xY4T7tmSJmK2AHQ",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Main Entrance, Off Gerrard Road, Ikoyi, Park View"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.461621,
+                    "lng": 3.319594
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+            "id": "83ff9e6779ad2d6922b0578b58c53241293bf003",
+            "name": "Signals Barracks Suru Alaba",
+            "place_id": "ChIJkQWUEECJOxARTyCJXQW70K8",
+            "reference": "CnRvAAAACHJf6J7uts1yAqVOBdwpTRkPvUWzi7iKUnkZM9JUWRekz6vZ7_-LGv8-rbbhYn_HPTO60u84A1c7Opkaw9JVm0SrEom_tIW3DGYWaujDO_PgwHjdNmyMC5VMuQy_Ru1xqmTnrJUJgQS5sFNQT3iEFBIQKipP3GXs14-iQcHoC_HJ4RoUQnj1aq-p6MrT7lMNnc-dwFqeHSw",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "establishment"
+            ],
+            "vicinity": "Lagos - Badagry Expy"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,407 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-QAAAPGliekwcS8HgWVWyazSo1FfxP6W51uWJHcUeHYD3JdCRc6b7cLyQ2SerHMsHzTmQVUzVLi2Je5YW3TRC5G0rw_S4zAaxrOcq4yBLhM9YOnLk62hsLuXzi4kXC5XS42t9odZQdKLYwO726MOfcuGxPn0R26Lysuh7hhhdUiOWrXc0gFjEassP_qPrGT2fveRsTz2nJRBUpaU8UfrUVKwwINj6bA1p4ZMldlrS9wkyi8Wfs2uX2NOSG6logmkzt5UfSRUEReHxfAepkL3tmZpZNVxei8DtqFwSDkvvAd2Mvjm5D4QdfyGVbMUoR_0U1ZF1bnqRD8ErfKHpeh_YlLGOlUSEKBqB0pQBBhBE6KtGoqYBhoaFAEUSUoBVZkAKU6EMDCo-U4Z_qu3",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.535211,
+                    "lng": 3.386718
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d18343ee545d3f1e9208583f60fd9898b912b0a7",
+            "name": "Igbo Ogunuko Bus Stop",
+            "place_id": "ChIJWSlpfw-NOxARXMkqmZ87OmQ",
+            "reference": "CnRoAAAASDG8FjcE24PVjCqpZpBbGws23Wy3bjEjKlPoNG7uouvzaz26ADN2I0OswJ4v0uOC2aUpQtXc9XVq5QDNtJbM7vHfMSA3MRh2lcNxgx2YjnzaAcuH2PC4TCsVHExpxXE5RumB3UT0iUVgcGEpb8bm9xIQOCmMbHHKtrCKWi9V-RVH1RoUSoAvY4ailQmAeVUCpKwns_Ww2-Y",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Abule Okuta Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.590818,
+                    "lng": 3.400156
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "aaff3c3cdbf468b7e2d82a156e4847601ec2ff62",
+            "name": "Iyana School Bus Stop, Alapere",
+            "place_id": "ChIJ5U_WMsCSOxAR4Li6LDEPo4E",
+            "reference": "CoQBcgAAAODg2YbzbOd_VhL5_1dQkuFfCCAM-qwJRER7lxeqFthah5U2vxniblld6uwHxpb6uvjjkmu-yBm-BSO2-v1YsTelVo6UWcOy-3nK9PZbti6F07Qj0idhzCUlvVDg4O3RySwx3t1_cAGwlFOVVxZM3vG7N3UE9-_tQU_eLBfxToeREhAjesAXzwL9vo_RiXiqTBL8GhSPCDFPSCdMQf9I3DlNysuOZRw65w",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Alapere, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604096,
+                    "lng": 3.336557
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e71872993ee8f4f2d9ed7e2b6bd10fb04db16621",
+            "name": "Asbestos",
+            "place_id": "ChIJo18BMoeROxARq3rgEBOO5J4",
+            "reference": "CmRcAAAAwkck-6J9Y57xo_QWJXUZ4RC1HvNDhisB8fhhz1IeSbm8GKZijjczGzidY-zpUHkcxHdrYrQBRirqo9DC8i5exmwCiFRW67_XCMtS0hwfjfcu33VlUJ87nlMz3RdMCou0EhA_bCbwAfKv55r5WNtK7dpqGhSOFbk-pQVzREDC-yPZUSmtkes21Q",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Oba Akran Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595539,
+                    "lng": 3.399099
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4e566752f21051a6f3ad7f0cb63c0c10f6a09beb",
+            "name": "Abiola Bus Stop",
+            "place_id": "ChIJd1VX1-mSOxARPvXVE3HwHlI",
+            "reference": "CnRiAAAA3MZ5vop1JL2AXmlYLpTFVjFj-00r8AzfQ3wcNsczvqvNqXbuVUFG6bv5yXUFXYrNCamm-JDQEe6hAONQoGJA1wYpQnQ3gZF9GucKDK_GkGcH-ibhJRBRi4qQ35oShqNLuS8FUoriYb8CHgqvv4qZjRIQVkGFJ483sgc0A3q3XP0d7BoUqalCEcJhATFfHdsOYyrzcelffjo",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Demurin Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.615072,
+                    "lng": 3.335602
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c61c9bdec0b6fdf47d7e20f2b8c029bdea44f450",
+            "name": "Guinness Bus Stop",
+            "place_id": "ChIJ4zblnH6ROxARGXosSEbeysU",
+            "reference": "CnRlAAAA42o0-ht4WxdyPuO7dYQqkJURhfG4wCO_R1X-o8No5v2-DfTV3DyoQTg0VgSivvtUY_Ay0wIWN_rHuaPGpPPm0r3p5NUYO0awo_VFdAfF85uIiiT5iomRTxGvS5JpuyadqqWx1MZm8eAtpcBfGH2uyhIQgEGi-YDjE1n5h87tAcqeyxoUhigN7PK-1fPElf0TX48uACGLH98",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Oba Akran Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.536171,
+                    "lng": 3.386509
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "70176d7fad406d9aed4593c8ee115cc4e6ce80cd",
+            "name": "Idi Aba Bus Stop",
+            "place_id": "ChIJ3bCOdA-NOxARKq8adU3JaPE",
+            "reference": "CnRkAAAAWLu9XUFnp0VmE97SROTXc7vdOgZyuBVu9N21-_rPPMnfuK_mdDXzeJEdKgtOcZJckdj2cvsVErvX2Tt3TaSh3dVBYZqjFKmK9ADCC2N8PqlXVJbFY6DKOGnmnXeEyaxbUi1MsFkXo35PYDTaRwblUhIQtEnkb0nLQbksI2DkUVJVLBoUDQQnBYoh2SLkhmGwjPCM1sV16Lc",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Tapka street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.584386,
+                    "lng": 3.389937
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "be4d3a92b3d57968f84d1a6239d401e9fe2f3a83",
+            "name": "Estate Bustop",
+            "place_id": "ChIJRY98bZKSOxAR32tPdWC3eRk",
+            "reference": "CmRgAAAAirelmjF-lTvJZ9GEqOHSJiUoaoVxo02piL-ENSMU7kpNyiPnUZh1o67f0Czo45OHhnsMtcQf7LTYZFtyrqLzO1Lp2-a74Kd_iBzPepb0LV99R1fot13iSbiro92amk8pEhBD5ptZdsZux2cVdpFcwZfLGhRxzL3Tabl0rskRO-DziudPbD4reg",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Alapere Overpass, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.483032,
+                    "lng": 3.385454
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "14e5527786ff20128513d52bb7a44c1059374d95",
+            "name": "Bus Rapid Transport",
+            "place_id": "ChIJQQLKaoKMOxARMSO2zZ2_oPo",
+            "reference": "CnRnAAAAbAunXHum2o4KDBDwvBeV1oAC94TzmXJHuPhBaYx61h4KsBLA3JeWaNNTibRQ61NV0ds87Fy9n2ONPoZVUQCExy-KKAJ_48uJKsku8pCtshRuivzmM94fu___Zd622RuU6cJPFEToGmahU_iWjIgHLxIQ2nSehILSTUqKu8--q8wDyxoUk7mQ4AQ4O1xgVv4W7nFrXvztpGo",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Oyingbo Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447874,
+                    "lng": 3.323364
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d86e6198e5fcd1c8172522ed6772c5f2e9a8f772",
+            "name": "Trinity Bus Stop",
+            "place_id": "ChIJeT0kLHKJOxAR4P8mXVCJ5tc",
+            "reference": "CnRkAAAAyZF_fefROH2kRrFfljnC7fJyMcNO678LIG7rvrmjNGtlJVXaDVGINhscbMGZa7uknr-JH-rQ4w9gKadPkx4B0-h6w7HkhuZct6TCWvwotYKdxvssiHSCB__xN4I0VgKQ7KPMZHmv9nrYmbP8nwzPORIQQ6iPGCBAdkxbpscnmuhsXBoUxFJwSnh-IrUKb7oKm9fcUdYk05k",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Kirikiri Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.587013,
+                    "lng": 3.35701
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2fb2d10ee01b45f02ec3e90cadc09760a8b0160a",
+            "name": "Abule Bus Stop",
+            "place_id": "ChIJwWkkQG2SOxAR3_9I6AJ798M",
+            "reference": "CnRiAAAAvGvCYCAZ7u_LR-YuKjPxP98g0ptPPd4zTrSdtCKcZy_SONfRafSxv4DmFizvJ-C8u03U1Uo1VfF48xD25YKX1e_5sJdTYyRS7jo6Grt1jXQf4VCLjY2pmbcpvDlCkj44bhzMPL2ZufzQCs09Or9vkBIQYd2JykSLnUvdD9DdbJDSIRoUjryVRYOuNiMz_KWnVpz_5mdyTTY",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Mobolaji Bank Anthony Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44978,
+                    "lng": 3.40897
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4e5bb6959471badb06e1c273800002bbe429e2d6",
+            "name": "Obalende",
+            "place_id": "ChIJc30brTqLOxARwf9ajKf0cRg",
+            "reference": "CmRbAAAA7aw4tb783MgbQlg3sOqLROWle3qEiqyXeLFP_mDvcQ1xfxr_QFT7Vsb2rdVfCgxcGccge9yKRcyouF2pWXMj3jwLQis-ATKONE5V6SDEa8oXGdEVSA-srKKJb1KdGxTXEhCDOmDhJYVv3ZaK5f32sUlSGhTHBIjMahvO8jGWjbg0MsSKtydCBA",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.57572,
+                    "lng": 3.36956
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "324cbd2a17284c3d0fd475d23889e40972bacd9f",
+            "name": "Maryland",
+            "place_id": "ChIJS5fShHqSOxARwP-q7rcmJxw",
+            "reference": "CmRbAAAAvqh3UivQz5RxMs9ZZljqonqFhq9sClyg9bBhDCDhOcn34YjsXrme-9v3wsxbcm_Dl0N3q3MTXPrleyrPBTnMcnEiEENUDTvd8EiXsUFA9Et_GT77ECSj0NEQVnPGSsi0EhCIu2lW9XYP48wj62UmS3BXGhRgJc26167_tGKaoP-jNnXwsMfsWA",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447328,
+                    "lng": 3.393152
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f2cfbfe2b073d685230b877a9bf86cea1bd8fb8a",
+            "name": "CMS",
+            "place_id": "ChIJdYO9NRqLOxARYv2a7asSrsc",
+            "reference": "CmRXAAAAv2bsMD8Maf0ID9Zyky1NOd4wl8xRuX8RK4Z1-hHINcKDSYZRUUiebgZpS0bpEaAaj3WrnpdRpiQUDtAnMT7fvt6yqrUEhyaLgI5OZ3WwgOl07tlEDJoLW1Sea-nioysDEhAvy8CNByPiNXVvI-0JN4ePGhRnaqKaHBJl49xxTwL5xt6acvv1Hw",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448719,
+                    "lng": 3.391415
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f52851b97b88f8eca9c774ec1934e8359dc7f30f",
+            "name": "CMS",
+            "place_id": "ChIJJwQ-jBqLOxARTP2vKXVxJ1c",
+            "reference": "CmRWAAAA3ppUzb7gIkbk1SBRWqs23kHxJy5_3mOpanKu_OTrXaO4EP_tlvPRICry9jT-1UCDpe-J1zM4u4_fa8hAWkaLM1ucmVozBT312mjphi41xLYURScmD5fGGIvQ_freaaHoEhDhyMlE2XVHlHbt1jGJeBudGhT5-WyQ1FnGeldS_JLlQekbyguUow",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.607998,
+                    "lng": 3.310275
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f633a2b4ac8810756dc0f5077b8194211970c26a",
+            "name": "Dopemu",
+            "place_id": "ChIJEYvOsKeROxARRP282A8q8ZE",
+            "reference": "CmRaAAAAGclZFxfGoQ7q8jWJqhAbbuQqRMTUzNaC3TVgO7yKMX0BtihiqXpORz0xmd_295lWu8tvD-FIONle7VrDcmJTjyi9s-bSpl2YPifc4fNE2MKrLN25CPM-QwWEACTvJkAREhAYBGavp3GDuBp7Y3ppBotgGhR6YCniy2F40uI1fj0AhP1oGXTN_A",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Shasha Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.52911,
+                    "lng": 3.321792
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1be8bee4d56f4692e779d5243805f75b4dfb3a1b",
+            "name": "Isolo Bus Stop",
+            "place_id": "ChIJ63OTJGGOOxARFP2s7JjyXrA",
+            "reference": "CnRiAAAAruUQqJAi4H4YjXMgWAstdQnU65_746mNF3yJUOR5_LfGbLWpT4yx_9AHrvqQo11Ag2J3E7ogzvZO10O0KhWtYtAWrsX_lo5fT3J3g_Lj7xipglACmmUr0bG2oT50pksPjOOJYaVRe4AqacZVdahW3RIQAgFpwdQOwFXQD5mNcn_f2BoUCuojAsIaTbFvO4HLoOCcrSAKIcA",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Agbabiaka Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441579,
+                    "lng": 3.356495
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3a34db4274ceb09127745996312c70db0f600b2c",
+            "name": "Oduduwa Bus Stop",
+            "place_id": "ChIJ1V9wAsuLOxARovpaDNQbxVE",
+            "reference": "CnRjAAAA0ci1wjk7maX-YpFlsBhx2-BpycT57o6m1HAjGRX1Q13JDLscHXhSLOC-xO1yeo2YR9wtpyao1aIeUyK_GEAFqvIf4RSDGAcqO_XJoD6Q4jLiK9xXKQnqRkMn9W-8losXJQ4T4SB86U0CQMK36WGglhIQjffbJ87mr0zWGFeLzsfr6xoUchVkrjCIOiVyvig84qhPqdz4dt8",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Oduduwa Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.628678,
+                    "lng": 3.364096
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b72dc482671be2688dc1ced0385d6f4aedcfab18",
+            "name": "Kara Bus Station",
+            "place_id": "ChIJheX01b2TOxARdPq8w5lszEQ",
+            "reference": "CnRjAAAA9iIs5dlD-Rco-thwwB_GIBi4lq5-dkMbxaX7FRWnqqxi6ihMj-daKTcP6zW96R2glVM6HWD3ynbVGeZdlyChuuHoOFHZq-6x_iyysBAPtL_i1wT3Wgva_z5fc7l97xb-M6whVG9IG2sKS-vc_sBVyRIQuhtUSj7vMdnP1IPz_CU1kBoU19QRxuY6kM2-ckcyXmNEjtM6KNA",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.680379,
+                    "lng": 3.321487
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6fa288cd35daa3143890ae629aec2f11dd776d56",
+            "name": "Enilolobo Bus Stop",
+            "place_id": "ChIJ5aAjnJOWOxARcPrG0MJKSaw",
+            "reference": "CnRmAAAAkfxaOeaBMXTJDtqLkN1OTYdKSAxwDemoSjx5CIfHcsmoPqXXUQCf9oOFTvm9BriolXvRob95JZx_jwfU_Quda6SsuiRTLjDZKLEEMGjkkf9oLWKqI5VKVDplzlv9g_3WxSHCUvWmwRKHMMIj4T7UIBIQgAS3T5kd217A1hf0_Wi7ZRoUOofm27u8O7lOg30fbLk_d98mAZY",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Agbado Oke Aro Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442797,
+                    "lng": 3.321841
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "31426e1245c908465c401c38abe05caa75f9be7e",
+            "name": "Sunrise Bus Stop",
+            "place_id": "ChIJkXU6UHSJOxARZvq07WORSNI",
+            "reference": "CnRkAAAAIeKf05VRbOa-Gc4nK43-kKbC695IGxlFDmE4BkXLkLCThCkiNq6OuKAK9cAIXJbJigMZ7hzLE1Bx2e2hykIeCUHIQhaF_x-UZTuISlBoMuk1Kdi2YIbxFfdhpZYjSUuK26hygivB7FE8O3RMxlX_TBIQqhJXKv5evzTGtYGz0daOkBoUCBFiZASRJwmwx-gE1i53NBV3LSc",
+            "scope": "GOOGLE",
+            "types": [
+                "bus_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": ""
+        }
+    ],
+    "status": "OK"
+}

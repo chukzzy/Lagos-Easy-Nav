@@ -1,0 +1,485 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCBQEAAGDY1HBbqJS6-djU6XzcfAKH4fMSd9s8pkDYp2GkajcQAx4nKjReEEbOd9fAdZZM8A7-PmyrTKMjL9l2zesR9ID4_E8IVfSnFFvdy1aslECYr6TNlur1kMxtnM5UCS0c2FdwtHEY1cOQU7ffByCO0wbGiTWghasRDQlAVIkWv_unps40sLuadHmTyJKuaELtXGJ-71pr4zhn67JuqlnsSLj2kIcG2qy_ffmKxF8tVdDVMih1OkCWgI5yRJcmPqPpxlWcMUNrIj8vsy41de9QRgr-Ps26gkzOtP_VxY4kO38iwmOWH0lSRz84bcBQauhcbp4xsuhCGyaYfgrrVbiyigpP7UbTaaN97m6KWlt4nsPIEhCKGeDyrjYbkRo-2s_AodkvGhSkgW1weooJCoK86EJ2g91BvPgdsA",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594582,
+                    "lng": 3.370765
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "b9b52be8fd6e74ab57e4f99d2c7aa25233d03f18",
+            "name": "Yard 158",
+            "place_id": "ChIJQ2O3DFuSOxARJrYC5GRPUkI",
+            "reference": "CmRbAAAAWiqOE8yhOzHFcdt1r5YByTxZGTxisxSuJNXGhKSMb1UckmFBayTBvusdlNeFL0hE2Lt-IToGZ-UuzCBF9qNdyXQS6Xzzydml04oSxZH-suJjGgp3YEiR9gmuI2BmM6y1EhAroyhISQpU0Uo4mkjWIhWiGhS8w7K8bQiOx3eyukP46NDv156iGQ",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Oregun, 34 Kudirat Abiola Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.607631,
+                    "lng": 3.307262
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e1106b6ce4aeedbf54b4c2c03d10a9de9b22ee08",
+            "name": "Ministry of Youth Sports and Social Development",
+            "place_id": "ChIJuRE9XqiROxARL4kPqin_394",
+            "reference": "CpQBhAAAALSOogZ_VbhDb97Y_dSe2gpHjewcSjudC2PT7WEmuBXuHhRJrk8f0XB5a9Wf-408QUznkahJieAcG4h-fQ6zAfzbFPu1bfFySdHhy8gc5t3bB0xbAtAzdMgzjeGfOSRBl1m6LXp-zoNpPy9hti5S7A_XGN-eKf0ouk3U44lyVAGGKBNIdtdw6R3O8gN5pPf3txIQxSThctWsrIQ7iR21vf1ZIBoUYSv0rGdhdmNL3ZhcucMxZ_phoUY",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "AWE Close"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458619,
+                    "lng": 3.387241
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "e16678f72187d262baf603c2e40bcbc054016989",
+            "name": "Lspdc House",
+            "place_id": "ChIJn9weGw2LOxARvbe-Fz_pebQ",
+            "reference": "CmRfAAAAvX4jYfCVreEsOkmc04IHetS2a9QsYeBssvPpi1j7flhQkAbBDNLyU4QhAt1jx2_3p-tS8rmtHOh5ppDysH_PAy2_8m42XuOXaUdIwPrv6RFKedTXo6E465tSG-5pekrlEhCaKebI_yZdk6KxxdJNxBYuGhRIUKvLMaJiH3vVU-UCBU2wWoKMKQ",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Ali Balogun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.612167,
+                    "lng": 3.273314
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "d7e9b37a965a34213707bf195526dddd06c3bb19",
+            "name": "Abidap Multipurpose Hall",
+            "place_id": "ChIJz6Y0iImQOxARTAfMIL5lt1I",
+            "reference": "CnRrAAAA-Jp6AmgDWAoXvnlCSwJHlG04UyA8Rm4gO9fmN8OHpeWLiTVMLyzR9KMF-UuxcRk3-gyg7cvHqexxRXF4bzh3Yb7TnHeWFOU_PyXEfuJUixzOYTxzOykDnL6GkqRbSI5ob-a1Ksku7LznqnVZYnZMThIQCLZ_KFo9BOwj845w5TzhDBoUFt_Gh0su0QXYPBEM5SZRUnYcAR8",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.571674,
+                    "lng": 3.345854
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b3a82427f1ef21fd6863299486768c7c18dbef99",
+            "name": "Federal Radio Corporation of Nigeria Training School",
+            "photos": [
+                {
+                    "height": 780,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAfOYKa2EwWsU7bww9HUJ4Ktty5LS6lX7aKf68LpzwxX6GDOV6p7BZoHQfEmtsbdppUgqU3sbbbT-nHKlFDKf9cAe3fBQ_UNMf-Zj9s84_MgA4wgmWpNxdptSQ5qX5o9QJFFnSA4NcONqji0uiYK-LwxIQs5AE2hNZwcyjiq9P9X8VCRoUvFK8rJeh6otrR_pN6Lt1dnfu4SU",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJR2qhhQaSOxARSMVI0hefkKM",
+            "reference": "CpQBiQAAABhO59EsFJAARRjG-De9HIfVOcmTlL0Kuno5B9ZK8dZkILLPB57Z7C6XXwzemmlaMNeC3AlpB8_h7Y_XwZja-ofXZn4XKILx4mZIzQHW69n0f3EHc8Mn23lM6IptUIPVLq-IQMIr9JZj-M3K85DVzGaAtUMSACfIo3XHOjh6aEzugESY7RJj3cAgr89xqWcJVBIQEDJVbidesC98-KrdCYN7MxoUe9lwY5ED5gQBClJwh5iohREFa1I",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Oladipo Bateye Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449491,
+                    "lng": 3.398125
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "76c44e1c502cb07f3e1eb988776503b35d154a26",
+            "name": "Contourglobal Solution Nigeria limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJdceDHxiLOxAR991xW3Cw9p4",
+            "reference": "CoQBegAAAMZyWRS-H9IIsdbL4Ee4xsszhCxLUPYWKms5pml7psizcFqZXAkT3pgzI0XmDPJz7xXvh28kD-de7VdW_73PZvuiIA_uZIzv7GfPoElWE6i8jSKdVbRLRWjsPhdUw6d6xwogTWN-SVvCffgovvS4DGIZvpUwZ6mGkdTVF0ezX43aEhAMHf3d7lIF8eHynlv91jpdGhT25smRjqpeqGW0ZeYJv264sdVQVw",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "First Floor, East Wing City Hall 23-25 Catholic Mission Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.525289,
+                    "lng": 3.322123
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "59c8c78258cf2916fc490925d16d9226890813dd",
+            "name": "CONEs SECURE SOLUTIONS",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 300,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA96a0br0VSTnIJ5EHRDEvpnd4l6uR8a4FS4wtoBajgZ1EZEU7Ufn9xAZ0-uyDyg_61QdBD3eDKNzgQHuhxqZX3QXXXtXKhWU-VylujqtA-BdsG0v--Bpv0n5groj9IJMb-hqfPFQ1b9-WOLYTd9tvPhIQkXfS-JTdQX0HMTVRa9Kq8xoU221Q3Ot31pepm0YFIHG3zfsPlrw",
+                    "width": 897
+                }
+            ],
+            "place_id": "ChIJFU6N3GGOOxARGgVLh2MYbDU",
+            "reference": "CnRpAAAAMefIT62Ev4ciaFJ7nw2AKMHMciLHHljMrskn0tZr2OM-F9Dt9C_6Y69NcqD_1G-AL2wFPo9Nwq2s6VqJBkgGR9laRhWzOUSMr3U5jWKIPMs7GEqf_og_YZHq3rSzgX2RooopeUurUEnChuGUNW18tBIQKryVcHU69eFmazdfYstL2hoU_hOJE4-AN37xwCb20UKd3T7rCaY",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "66/68, Ikorodu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.516548,
+                    "lng": 3.375925
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "4b52b91da9883f47e8d5c0561d762f95acb186ed",
+            "name": "The Knot Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAWrBe3OuWAeGMrDAxn-QbsxKLoTBemY6lTKU0cA_T_OUzU2btp9UKu-T2aguo12KJDDHY7sf4IlRsOMDrLQJVka_eTPUkdaCCjA5h5t57eLfNpeTo1jvD16c7DUdOuMBIicgDCRthPF3TBr46OoA2fRIQ3mQKQwNuIbL9ZOe-kSXlyBoUm1jpdtxjguyicD-DqD-TIlzViRI",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJk1L64laMOxARgtFhPyytfOs",
+            "reference": "CnRjAAAAq8ce0DeC16OyhzT7ju4ewyuQh_HLzfM9AHxPbZNNA6FIVE_KZyqlXZHL98yLpFPFMmWeCBBCPVniChM1Omvu2eHryaAaGxDBVCbtgl6rNAU5zc0bf7RT7MV_t3hs2vNw2jKVhzc5PHk3iZu1PvWWKxIQBC_7jKibpqyENGGWlJT1RhoU7r8_o8sRt3ECregnH2UcBW7D3KE",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.613048,
+                    "lng": 3.369754
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2166d3e032109b7f176f2910d69fa74ba2d71c58",
+            "name": "Centre for Management Development",
+            "place_id": "ChIJEYE1FryTOxARFDi846nTXCY",
+            "reference": "CoQBdAAAAFqBppSpRA__U0n_nZbQOcj8oiAApp2C8EXGP5yAX8vdf_X2clA2_8vymVxdTuVbct3DSwbmwVg3FUTh3my9szJ0JSkPPKdgtM9sIZCLriw5bK6L8C6HsiOzJoVWeEBOTF-R3xk3Q134ks6YgfSxZjG1EfGPJLwswolHgcQtGrUUEhCcLxHPQ_FNP2g1tuzZZrLqGhQE8jC__exFMAsOp9EQ5JtM-2Eclw",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "CMD Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.61592,
+                    "lng": 3.363927
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "edf8a9c327aa2e0989c2c956d213c4f30a2b10b7",
+            "name": "Ministry of Physical Planning and Urban Development",
+            "place_id": "ChIJBTSOtLaTOxARFsFSNnjLQqQ",
+            "reference": "CpQBiAAAAEiU1shVJJdKbBfKY6mICEbCufTaAF8x2KqhZya3x9xnxGcw7PVttrbbQp9YLmTDba7yD_1RTftUeGrtrJPYiPOt-FMxcUrdqyF9ALelIgZQKwm8vjdVE3SwGMxLVMEm-oHmsoPLolWRCZeB7ocxXF6IIryTZEOYcMYPHYKecw5hdC40I233HQSI2u1nd4KxexIQYly90ZF7_SNsmIcB2FzplxoUhm_SU2Q6GLe8NKI1KWnntEmkgKM",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Block 15, The Secretariat, Mobolaji Johnson Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594986,
+                    "lng": 3.346031
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "709daac888a93780701d843f1af3b3febda575b0",
+            "name": "Headlight Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJW8HuZiSSOxARP_ZwDs20jqE",
+            "reference": "CnRtAAAAnK7wBKDg-jfgklWjhwoSmFegS7H51XV9PRdVwzH-gJ9u9huILDrlI0lSPiUNsd1rJou7Z2EjU0kW3x_np4k4r6XzJE6gvORKR57kiNiH9k8V1kj_rRQa4LCLJAhaj3CbReJrmKcHgk5P_Z55kY0d2hIQ7iumw0uCtVDuchr7lubQIxoUvBXPevCK8y3YbAEm5Z4QxTG6jhs",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Off Toyin Street, 37 Unity Rd, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.445606,
+                    "lng": 3.41002
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ba83b149b108c2619bbadf3e922970bbbb2941ba",
+            "name": "Federal Ministry Of Lands - Housing And Urban Development",
+            "place_id": "ChIJ31e0bi-LOxAR0L46_a5sMMY",
+            "reference": "CpQBjgAAAA6KGKvUO_5087YndM2Wq_dahkHwFO1JJsbYvhAjQ1kVkwxGr61qs8EYX9LgtgH5Uitn5nuSUH9_tATfhFsxZ65tS2h_O_0HNqu21gGjmchCxT5QKCPxKcKiZ9cFW7oEjZObEHXrpbgZ3mnUBghCF1unuEFapafyOaG2gRLaT_AUKgP_d3HarE6T73mVrVmKfRIQzaFFygSM1jVtrIZNLyZ2shoUp21_NTnc0UdbN3u_lhwmQBnM6A8",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Onikan, St Gregory's Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.456075,
+                    "lng": 3.320752
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "727dbc579139b9ad625676dafb04948d35a9706d",
+            "name": "Agbong Fidelity Safety Solutions",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1194,
+                    "html_attributions": [],
+                    "photo_reference": "CnRjAAAAK--8dKtAuF38Vi2Ru8ZK20YIU9Rt5nRCvvSKkYRDEYw-4VmtjI5E-v5j7RpVtIR32qNFfsnS3UO3abs1yhuLu-55JA1vlaRYsMGkJQhRsDBqVcU5tz6Swi9gmlvBFm2FFGthSUEE-S8PEuVvxMv6fxIQ4CK_Cp1MGKVU_FTRtNgAEhoU2TBEKXSkcRCmwIjfebw3fpTxauk",
+                    "width": 1198
+                }
+            ],
+            "place_id": "ChIJS2Ji5euTOxARc73U84oWk1Q",
+            "reference": "CoQBcwAAAJIdBbc9WZg0HlrZOw7H2D-WC6XOOuJGRBSqOAkt8vqZRXy3MIuCjzxIw4Yz2sm8UlTRs2zLGrCI1I3__lzoLB0bm7shu8IZrgPuYo_n988_ehbFEcbdtOHQezcGDVZ2jSCqZJfgA0gsO2EMSNZWvPxbDhM0i8aujzndLGXY8hyNEhBtV_SlzbTQoZLicjD80NUKGhS65Wxmid5o2VPfudHawKGEWXRSEQ",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Signal barracks lane (OJ292D), Opposite Ibitoye (end) street Ojo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450559,
+                    "lng": 3.397589
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "0a500cc9cfb35deb4f54e38c6698e423f4a01f33",
+            "name": "Lagos City Hall",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBcgAAABwtz8uedrFZu4pm9rmY4uTYcHlfxHSAWt1Zn2lcFtTE7R75vwBHjd5W4Og-XFbQFPTi3beNH_WYRzFFqqLSBK_EOC8QLZu2BTKn9jktMsk0ZXhaWkrbM57i055lG_jtbl0Y-ky_i8cusdK-Lhq04mec8ucqxd9Z7XZbcz4GCJVVEhCVS1LWTNLvGSAuDS8FG40pGhQYJ2Aq6WEmglyf2Aq1CX3nlJGRWg",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJXRxZkBeLOxARlZbMCrRDaPg",
+            "reference": "CnRjAAAAE511Zq6wBWWgBk-VoryT-3P9ZrB1hytve4kKME2doYqjDt4I82L6PTJMwNcSYMs0xmNB4Yd3sEUASGxz0Kq17AGAaZa9dFdC66LM5I7U6jTZnE920sYOjGXT0rPioO3J83o1vBg3DGdwn8yOILgQkRIQ9-eF6zkt3nLW88-IsWeUCBoUlnrPO9Q7iOidX5Q5K2slH61xWf8",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Catholic Mission Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.605907,
+                    "lng": 3.351198
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "de9f74de60983fbf28d6c13655b1ef49185e4023",
+            "name": "Hammer Guards And Safety Solution Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJcW0ZSjKSOxAR71WX_OypM5I",
+            "reference": "CoQBfQAAAKi4UA5KvFZgcdZJBoFrHukBNCzHwEyQ0H3IAA4E6aEMlvcg5kYwuSm4PW4C7IfgCFS8YMrMVLdtZSCKDHjlqM-QVGQ_vvyiKsDuk0HlIO1ihWrQWhoqxMRzPLtQDcA5Mx9ol18qqmzGDoAJ74Y-jhrP6I3Oo7ADr_KEJxry7Ux8EhAjcHTtjIUCRa2Q8iDeFc36GhR9rL3yb34UZS0BaSobE56gD1juMg",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Allen, 6 Adegbeyeni St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.61443,
+                    "lng": 3.262427
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0e523a93c52449cc17bf173b26b0305348e4297d",
+            "name": "Upper John Digital",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJo_GpQIGQOxARvx4D-jADIew",
+            "reference": "CnRmAAAA4tzFfpEQjswAuhJCjSPLU2d5M1i37iNgvuwuUR9zTXhgNMis2qUfjyCLrDmQPak6sJD9n8rw2FAYkgCIDXt6eXI0Y7XPRMg9rgzMgcLIdNpQDKVN_6IvcgIpJkPeFDxY9jAJlfZe8-8q4Z5e5rfM5BIQ1c8WEx9qwNAwykuTHTU_ZRoUo4gcWSrxLEXpF4-djhev388zY6w",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "No. 6A, Abesan Estate, Ipaja, Opeki Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.56768,
+                    "lng": 3.36703
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8b053e5fb6248e59a93619aa665d949e83c9454a",
+            "name": "Ears Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA4TPIYHf_MV5Zj64DTuztGJ6G2rFKKFtfIK7DlYn7r_ehxDxXY3V3-LWbGVW6GFi5MLNRjtsklx1dl7PBk47vHAxBZzAFd43FTMmAhFnYN4Mgsod49y17gh4c_zB0e175UlXAC4QfTNF83mO3I0EpxhIQZFInnked9vQdsEcC_wadVxoUmQ1mKL1WzdvEeUUL2_mg7sJvXsg",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJO0PG0XeSOxARbgdNXj5mTEE",
+            "reference": "CnRnAAAAWS2l9L7hiLuixpDfcgNHFFVCHfBNKJ6LpW1-E1dYNWIqCJFlMhO3ELuYAL2ERkpeDtYU_tVvCWB1pAq46TSxevuSlEgrs8O1ARIDQdujsf2AE1PqOXs4rkhPGWLjPf4hapOSUEsDSGwhrWrMTIUp_BIQpkXheqL_gu1w4swb_rO-RhoU4ZjiB5vFuwOY_rR86RbFpn8RtQU",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "299 Ikorodu Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448774,
+                    "lng": 3.395498
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1c4d23bd3242c51b5b6be31a2664fa6c1187d2c7",
+            "name": "Firs Revnue",
+            "place_id": "ChIJNfKL6RmLOxARQgZvx2XgmMM",
+            "reference": "CmRfAAAApvL9ZhRHmrP35rXgF_FKclwsCMJjKNc7XhSGU00G80D1zEWF7yu4KkSmEUbdFA7qscjYAJYJrry_2WbrD-s_MMGThTe8sZP6q-FCXecmhxYS49rC8gwY_qTuAfVFttpcEhBL5XtZP4mxLFGkAdYpw_r8GhTI6gXs4MjEt55sWYJScNxHV2cX9w",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Broad Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432852,
+                    "lng": 3.343324
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "642ffce0acd1498f5c1279d3e57985f076a08418",
+            "name": "Nigerian Port Authority",
+            "place_id": "ChIJ0VwKSCmKOxARVuAo6p_3tlc",
+            "reference": "CnRqAAAA4eu9w_NDekshPFyoqoasCajtznWW1dTPEppGLGiCUkHevbwjxpkxXGY6PJZ7-d4gpgP-BjYszkXibiPieGHbrwufhDfcBVLAmJQJ510-bXVlZX4Kdw9JMRXv4rsyHaYn2_CZOM2Buroh5HJsTDAsjRIQxylO5ZGJRePv8xUpOYIk7xoU2-jaYRtu46wfZh0ilC8KemLCB3c",
+            "scope": "GOOGLE",
+            "types": [
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Tincan Island Round About"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450694,
+                    "lng": 3.397495
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "a1fde3d63fd24878b15d6385fd20902a8fa91a25",
+            "name": "Lagos City Hall",
+            "place_id": "ChIJK-UMbBeLOxAR0zspRYSCBpI",
+            "reference": "CnRjAAAAxa26MaYLk0SUz8m4urazcxPasE4ZQBIMyqEJF-ziMhuFNmVkdPBqSrkujEYFBCICAlAxvItrJNNJTj7-KUHrvaYPiEDAJ9LT39eDEx-TR7NiaZWfziVJ5Gz7n2ddk5YR8_dF-d1jVc2z6X6J025wExIQXY7bWVMR1AazVFcRAV5XDxoUPQ55aPWcPXAt-vAfuurTRa3KY1c",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Catholic Mission Street"
+        }
+    ],
+    "status": "OK"
+}

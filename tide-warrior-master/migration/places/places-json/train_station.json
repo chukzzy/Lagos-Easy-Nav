@@ -1,0 +1,288 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.557237,
+                    "lng": 3.331652
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6166fe9711df06f8f9bb091b2836a776c7d44b18",
+            "name": "National Integrated Power Project",
+            "place_id": "ChIJyf9SrwWOOxARyu7ABcjpQh4",
+            "reference": "CoQBdAAAAGWffBVsJv85o1rFydDczKI89cVAToLSlo_GOvq8Atm1FgCXDCEoGwWC6JO_OT6z1QHtcS5QA7wmQjwJXlFw1hN_xdE2OVEhkdSgxMefL4A1KL2n9WCOlsjIxPRcimE8Xm1sN7VoYRgQBAybU_vqnCHKoRdA9aFFXfNlav9ajcm5EhCFHi8KmnLKgA5LnzA_nKK-GhTRh9ta9DY13uLSr3Rg7Qp5T8syUw",
+            "scope": "GOOGLE",
+            "types": [
+                "subway_station",
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Agbelekale St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.661059,
+                    "lng": 3.32007
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a18e6492677c538682a802f448d5b9a93d1dabd9",
+            "name": "Iju Railway Station",
+            "place_id": "ChIJGaPhtbeWOxARFlrXQzyRj3U",
+            "reference": "CnRmAAAARkWOOlZ1amyaW0YV_lZUVJiA7FaMYb2SJEPxLVnyX1GX2BFdDdxom5YgzwJrwIBDLwUZ4ugHzEuh8BH3uGzbi6CrUh81uY2l6ehh0c4z-AOFoke2tHTtoFf4ZigDUM-PPkoIaFX4BPry89JH19XfGBIQG7y80ODlLLCKWkZoWfPqARoU_y4FMiy3zEwl7fVjjxUtCIkxXY8",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62406,
+                    "lng": 3.324609
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b64774739656f0b88e870242b39cd2fd050e1e3f",
+            "name": "Agege Train Station",
+            "place_id": "ChIJqanPkW6ROxARXucdJAqgW_4",
+            "reference": "CnRnAAAAQo2FkwA-5HjFmYFhtco7DtCC0FAWhy5EXxuUWqVOnChnIiZxv_zdqe8O9J-3jDye6YkQdmIlyseifYbqAyQvmKpSAPh4AJ99rY6I_ty5iifRgKmJXwLeEKMHTshB4hd0VwWbAUHBdZqd6l1bUpg1hhIQMVNVMz9BGpnxJJpJxyGbVBoUD8g6WiFxB8285fz42v5_IYMgKV0",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.526172,
+                    "lng": 3.363937
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9f027a33e639cd889808c8150b535ba88b100b0a",
+            "name": "Railway Line Juction",
+            "place_id": "ChIJz6DTnbSNOxARVuHHlFGqZYA",
+            "reference": "CnRoAAAA7H1lLOe7sg60C8JSPo1vc65_798NyeHKyo2dxW5EfRlsT8Vwek1KV7hsY1hdgAriAOSuHd3Wqr-bMuOZ-eggWfu6JsvOx09-cQNUnzf0aFtUr3Un5XNARX3NBYWBTdq4dIILbb2kS0o2YmxO4j_8gRIQoCqGEVlPWXKoGQlcVIQ9rBoU2DlwLw4EsgClxkfXKUE9HSl59pg",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.46073,
+                    "lng": 3.317723
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "45f753dc879dfa2fa40c5eef80fb91aa1b5dedc5",
+            "name": "Suru Alaba Railway station",
+            "place_id": "ChIJxXbgXhWJOxARstyVefhZ9Ao",
+            "reference": "CnRtAAAATIyDiMQ0nQiEi29SL3IjjrudFhnBRMrZj9kQ56QPd-JAR_OBwx_Zy8DbJqQIRFtOEBJBFuEpWF6C4gHxJdX8ARSEzeZhQ32WgZrVTiCTDmMpLyV0jWh_JoP3LYlwEdrDpcvHuIbdTbrLLjSksPMgWxIQ-Nnh3hmCBQ6sScI5gnTlqxoUoy8ix5WsIXY-g-_D3wc7friZJSQ",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.484333,
+                    "lng": 3.381092
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6ee5db705827ed7d72737c387a03270c28541833",
+            "name": "Lagos Railway Station",
+            "place_id": "ChIJ-8PMXoCMOxARqdNwRIctOsg",
+            "reference": "CnRpAAAAxJBz5zxzIMzTeWsKP1PzWnQ0o_a17iBPyDvigIUg49eoh0BEDbPUFVN6s7kdFAOE596ZqxqUQL0VJuFiyvz-5qrrfEJ99TqoDOhdwEpHcmyaOHPcxv1QpkccR1DVGiD4dW2X0QveAjg3-kpBFEj3ARIQBczOexV3F6oyVGibYqIjnRoUQ7RWVVKs5UoecQ7lXmjzAbM3Bo4",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Savage Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.48295,
+                    "lng": 3.380366
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f0be8daf54cc9ba4aedcb47902c2aa7e4d3848b0",
+            "name": "Railway Compound",
+            "place_id": "ChIJ5aKdFYCMOxAR57ZJ4SSm324",
+            "reference": "CnRjAAAAn-6h6MBTea9BRyAKgBnangZHXA_SLrCrPab_p8FVg5dltmI1SHOj57jKsdhxa4F8aZ_Xy8r0XM9_vJQeHvnmVpX7lqapCNfI2d7eqNIwIWW4eeVCSXOivjA7pWMf0lzVIHQa-RvmUfDF_szT1SBN1hIQKu6rESqJQg-r22Us5j-pLBoUFIGHHVBsLwftHbmdCkp3I0ZyMKs",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Savage Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.557237,
+                    "lng": 3.331652
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "467111d8e7b907d95f19eba79ab033c23fada131",
+            "name": "Transmission Company of Nigeria (TCN), Oke - Aro 330/132/34.5kV Substation",
+            "place_id": "ChIJ_cmKU5UaRBARy3IoOrJyK24",
+            "reference": "CqQBngAAALnaLquOukTKolWf2fKIvFjeG-d4cDO64ThjF6ySl3VUf52LAD-SktE8a_CeTG0Xug_GXuyPEsq-qSUudMQMhbnzP4wugBnsB6XbbLAxX-lb_aIwny0CbXT9iqx7J7WM1-ajv095v_ownQaWuL05j_VVkenYVpiRLGrBTpDdrOw4-AxGs7PhWl7ygKtbNRGrlC5pT6qJtmDf40KNuCS22ZsSEJQfPd4w2XawfXdPP4s0JmUaFEUOmsvJ6OJ9fasBLFwaoklqG8eu",
+            "scope": "GOOGLE",
+            "types": [
+                "subway_station",
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Agbelekale Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.507041,
+                    "lng": 3.371408
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "172e5e0024d161544f67470c2f329897a975726a",
+            "name": "Yaba Railway Station",
+            "place_id": "ChIJm5aC9FyMOxAR9nDsEHKpTUg",
+            "reference": "CnRnAAAAFReZRMVmz4n2rXq70b7PPy0Ikrlptm7_bZFYHLnC_nnnTXOZTpnuEmp8nOlwSulGSIZQjoGrb5pznbAhE1sAQjtZI7ReY_agnTNHlCcgfVb9NjZ_FY4tKIbCLENh5_S_1Ia9TYPFhGvjca-s2w3WqhIQGAT4c1pYTermMjgA-THgSBoUBFFO6NpkEUz41gHANupaLRrD_xw",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Tejuosho Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.465015,
+                    "lng": 3.325927
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "07c726d9a1f3aed5fa39e013a9a0e38fe686c943",
+            "name": "Railway Terminus Suru Alaba",
+            "place_id": "ChIJRS0nmUOJOxARCFnTGyKNQr0",
+            "reference": "CnRvAAAAcaXyov1MwZpWqCk6jKTbPcdDlWzYir0u7soiXOjlLra1GNIoi6v6YKi1_gYne4If-mldGTq0OlYLbLDLTiho_IPYSpahpNSKkIDnJV5Y8Yw5k6WXGbAYBBBuByuwSHRy47crEowYN8jIx0I1krg8thIQKoQKZ2esi5G-0uEGfl-71hoUiVc6651bpJj_WlXG7zKWM-6CytM",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Lagos - Badagry Expy"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.686975,
+                    "lng": 3.302904
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9c8ea725502e2bedc5b7cef48d3f69e346dcae3a",
+            "name": "Agbado Railway Station",
+            "place_id": "ChIJ5d3mj_yWOxAR0zxyN7-ipws",
+            "reference": "CnRpAAAA7PpBSAULLxPedMExJBU8pJTO_We1zCon44t7cUqdKbt26gb_Us4n8Y2R55UvbIhqqGgEf1NHixhu7lGQb4FfmwdiNVl_xOzs5g-QnmkN_INNyG8pQA6sBXqg3Ewkdx0I03fJLb3wz0ZJoWyhKhmkRxIQRfNRRLCQSSERQUqQzWtYyRoU0yfVkaYrsBtJ-lgZnOGjicxqs68",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Agbado Ijaiye Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.469874,
+                    "lng": 3.382435
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "39662bec3aaeb8885a789f6586012f5c243ca76c",
+            "name": "Lagos Terminus",
+            "place_id": "ChIJ_9pdbXeLOxARpTZ04OJQuQg",
+            "reference": "CnRhAAAAW488W_WFABxtn11BNjROi8QbNzLAZ6J5RLjklhRVLKX5f6kBXkVUHKX25z63jgktsc0Yu4LHJPKtXHXxyeLhkKEwcxV7ZCDAKHMSj8IedERChPTGyqCxbcCKjO9u63BFjzSbNUl-gq5C_uw1m4XCqBIQaVaidotQUVZyTdPdnOQechoU-NVh-DDywKGGNyd33G0QkwFMxH8",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.462563,
+                    "lng": 3.323501
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a55b3490cf4deb3a84601ad9301e3df8a48db083",
+            "name": "Suru Alaba Railway Line",
+            "place_id": "ChIJ-wCVlUGJOxARky6VeQxIZr8",
+            "reference": "CnRrAAAAKIyYWoCYVuHsWl8EfXsCkz2Tfr5nQsSWakVOUXJBadlk1XRiW6R40ePvuEkjhczStSm6-NR0Yjr4IMkKbX7vIy-GeHykmoIXxmgr2Iyj0adjkMOBlL2fZcIDn5LD-aDVVkhy08n8UBKcP_p1ilvnbhIQuJOiwdYXX1tTDd0vyMq4ThoUXK1DDhJoe9o2erw10pDOwQfO6Ug",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Ojo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.462382,
+                    "lng": 3.323542
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "71a244193013c7ded60e052da20a662cb7a5ea4d",
+            "name": "Suru Alaba Railway Station",
+            "place_id": "ChIJxSIziUGJOxARuxfj3Yln7Ug",
+            "reference": "CnRtAAAA1Yqmo8dT2Y5zKQgFRZz8fpvUzQwjg_m3HPGnqJ2yw0jbNFmY17YWzl9_RbipfzhHSJ8K6NEZer7EJiQCxPfoC8wUpJnwbkhknFRZIcjF9ii9BZWpVgrRX0Fp7eVbvk-uoP7s1JZmiv-B__REOXT7ixIQERp9exU1dVMI_EpOpE64xxoUACtEaiSnMXRkihdpxVPquH5sMno",
+            "scope": "GOOGLE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Suru Alaba Bus Stop, Ojo Rd"
+        }
+    ],
+    "status": "OK"
+}

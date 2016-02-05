@@ -1,0 +1,431 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAMlPa6q2T19yTYolPe6uVzWEjxE5MzID3EJPCWV0IAbfNQ2Q8ve_Vdi0N_zPM9dhmJSr2HHJG0REz3pQlYA73Xw4TjdzWFqCaTd8i-1vhN0fXZgd_0Hfi56Y8_4CjwaABhvn-DbhsH6CZ6r31Lni06K8WBjP-IIkov0AJf66L9D67XwgniOkWuuTV0k3lvee0IynjP0Db0YLzgK_wD1v2tnQaYqiIfkMpezoMrkapKA3t43cju0QCzh_sdWVjcxWDkUmCMAkMmorkaOmvie3JyVAuqSjqYLF-mm1w-X9Lg9gI8oKA3KNx8GLPC9_P292QIPijGDyTkVh3ytFxDhppqESECjh9qElsMuu5er9RpN66j0aFL-k1aJlu4WUGaEGrNVKRMzBF58o",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.51144,
+                    "lng": 3.371015
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "f65f73e9a875d3b43d4531617a1675632011768e",
+            "name": "Central Medical Library",
+            "place_id": "ChIJhS2r_FqMOxARNAR8tZtLnDI",
+            "reference": "CnRqAAAAb3_psmCvb29dy6FRfOqTytCJKmxHEJWtuRiMjtys6gE3SF8Jp7dQRCVTa8tgaEDyliT_dLKy3Twsarj5biMsgOqcvrS6AaEu6wx4QIOOblTIBPtH2UXLk_CKrwJy6eC-9YsrdqPzagVpzu--z0IcHxIQMp_2zWQ5BJ0rJHcskBtKVxoUcT1qh0I1yn8YWry0uhngljVy8GU",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Murtala Muhammed Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.517619,
+                    "lng": 3.375297
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "ae9e3ee6d483452276a79f615b747aaf8b9a8147",
+            "name": "Yaba Tech Library",
+            "place_id": "ChIJSWBQwFaMOxARVT4DtambY60",
+            "reference": "CnRlAAAA-ACyAJ3-ZowM9WCGjkQqKGrc2h_GgHhwsRJqYYgebHofm8yzgpx0_d-c82z2hM_slQ8nF2egJL3q7qgO2zZ0BgCsahTxkcoPdHeDrZjv7lrCBoBr-zAUQqaVsD0zAaRnASmgBtZg-BRcAfjyiPFJHBIQ_GJeSXLHPM2Z-I-txUAeXxoUywTxY6FNFM6MvBoQ6cWpXj20Oy8",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.516782,
+                    "lng": 3.385334
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "1e3b8d6940119cdf9e1c00a658094b3cf32eefc9",
+            "name": "Education Library",
+            "place_id": "ChIJl-wLyfuMOxARNUmNBEJrdVQ",
+            "reference": "CnRkAAAAo3WdVfzsrRM8OGKVTUob05Abm2fjN4HVhW39QjOKakwMEr56jaHXg1dBccblEvxJDO0VHh6g4l_WGai-y3YvlH7t3Ak8KwqwMbV8iuV0u1_qwH-320vkT-oXb_9W6D1zyO32ygVH_8A-pcg7UECZFBIQ_rhAKbR3UOUwr8xcipf-fRoUibUaZwLPW_MUlw_TXWxynWugzcw",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444352,
+                    "lng": 3.423806
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "fb9a74582c83debd176b365049cf28c10fed1803",
+            "name": "Zaccheus Onumba Dibiaezue Memorial Libraries (ZODML)",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 798,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAzsL-X8U1ISeg7bYZA9s1_xuBThJ-mq04TrTl5OstCHuCLd08ELrb6VONx7MzPiOWGWip-jbpC6XUbw-ODqJl-3IZPslF7yxZIC_Xk6Jpd-GNUw3xbCYka0cSNbbMNOfgqI-n63YvM5m95n9x0C64DRIQCqDWM-1Wg-NWDv8knTkyohoUyUMv36EjfWyqZzzeFOiG-jzkE9I",
+                    "width": 791
+                }
+            ],
+            "place_id": "ChIJcaNM9tP0OxARWwBYJD4JOz4",
+            "rating": 4.8,
+            "reference": "CpQBiAAAAOmPlX5n3F4__FePjMipa-Qwk81V4fmuHjQY0FjU3lNpuKL8QwLUwHQcb_knHXFN_AZ5um1ES38Mxb6dCMO_eVPdJpmfSp1nXr9_rkAh69C1BpzIM78VSsa7zS9G2nUj01D7MEkboMd9aj4-E_lUkyK4iZzuNhgIuqW2q7Mixn5WU5cFNFom4GA-61RTZGVpjRIQx33qJtj2OLJsTeQuNYr75xoUxPGo9hzzSmFn41DjuRRXe748E60",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "196B Awolowo Rd, Ikoyi"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.541149,
+                    "lng": 3.361098
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "ac838bd0c1abc68508bbfebc18f7651109e172a2",
+            "name": "Victory Way Educational Solutions Nigeria Ltd",
+            "place_id": "ChIJR2yAJb-NOxARbYD3mj574zM",
+            "reference": "CoQBgAAAAIUif5tXfLDqoLsVRo-vwZ4vKVOJeI0rrhBV9M_fTCXQgH7kyyPIPOU1l99OhsrMLjCw5YL1oEl5qhjpVCdH-zXFatsbshSZ184konlaOs7hCMbWpRo6zjjcHntzkl_hfLdEA_2MfmqAgDNKxGURL144Rs6_hebKYEPRlrIk0At2EhB7KlO_qlqgwcrUi2pf_Su7GhRCcdEb02WkDU9swsUdupCgFc28xg",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Onipanu, Suite No. 32, Abraham Adesanya Shopping Mall, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.665077,
+                    "lng": 3.280573
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "14109acf9225d6784e92bd0aee95b0728519fcd7",
+            "name": "Elis Associates",
+            "place_id": "ChIJ0xh7STiXOxARWxgwoPvsk10",
+            "reference": "CnRiAAAAKet6W7oJ9S-gcpGY8r6QTJ1bwOLlG5Wfb5FvsbCe5CBpKnIwyPtbM31rfJnqbjPlPg7xkwqBLOFp9bmouKU_uH_RfR-knqsRFLWqUJy06caDydUrwlpkJIdBtOw1g0DeNDLg5RMmdKggtsNR9cfU8hIQOeSc0gQZ_GUE-1nf_MOH1xoUTA3ddevPDrCCTIFTaScb6_EuE94",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "No. 7, Okunade Street, Off Bayo Onigbanjo Street, Off AIT Road, Alagbado, Abeokuta Expressway"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.495955,
+                    "lng": 3.342484
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "e4395c54e0b677088f82ae176fb7c244b3a28da9",
+            "name": "Phemtem Consult",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 797,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAMEAb_9vlOEeDtmrq77SNUTW4VpTtBcHkKx4nBhjRhcNmTNcDxuO9zczWNfkFcVkNNN2iiccit_zyM0oC514OagWlrZ0bGYnwH0bvsYowEP9Sb_Gghpj197CwxI3SSulOVEpNoT0vWaB5qldXouJkNRIQ4D9A3JXigC3CuLYK55moKxoU1yPku7BQ4D1FgjLFt_iTI_9wGog",
+                    "width": 798
+                }
+            ],
+            "place_id": "ChIJtWDaXByMOxARqYq4LblFPx8",
+            "reference": "CnRiAAAAcD2tV6cWRF9I2Z7PpbqqmhqHMBqyqZSY6dlpTZACklVLiD29UhJ5suSbDfv0zNi_0WsAo_RlG_mhXnpz4p35qfv4FKmP11ac9cW4s5vg-OsvlIs6oOxnSq1UUGpM1IoLmS5LwtDo2rc8UvbPXfxRRBIQJCE38yorCi53-wY1BgX5XxoU81_HYwst-bySHD0XilEbCr_tdG4",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.602823,
+                    "lng": 3.339982
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "4c15cafe2ec6602fd3827c8bf60a9215937e3af3",
+            "name": "Knowledge Cite",
+            "place_id": "ChIJh_DgximSOxARxHT-Bat270s",
+            "reference": "CnRhAAAAmJ-EWUWjTzL4gGMB63p7io-futB6Rlq-bJw1EL3QPbH62LajngVDM6qy6Ou9skIukwzxIgR2qysC7LrTNlz4cVf1uwpaLiNrEXRbre3r7OxP6w7RPfEKEaPJFjjpw0qPHGiVrni71QMzn0oqtK5axhIQYwFjM7mbKadEirkieUi9MhoUvvfLI4H8xrsbhREY47jtvtcm11g",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Opposite Jolly Friend Hotel, 10 Ajao Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.640773,
+                    "lng": 3.366829
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "e89fcb0c28a06c66f851314960f6ae15d17d060c",
+            "name": "Destiny Voice youth Foundation",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ66qD4uuTOxARmGfDSbfQpUc",
+            "reference": "CoQBcQAAAFS4APYC1PPu-ENBVJdJv3Dwe-yirQ5wKvKmVKkPyhj43ZMhhjs3bcVCldIokaMVNFjadbyxuiTFNf0QLBeeTxCxd_i3EqerH1Bn3tHu9DBi9suL4gXdzcp3nUlfjpq0LUBWPRM5xN5E2RMotzSrQ_K5-8xiT3G5jAlYtuzoqB1QEhAW4oy_BKFsDoAUPtEH40L9GhQcqurXQi5myexAxhu_ovXbEYYGEA",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "12 Isheri Rd, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.556328,
+                    "lng": 3.365518
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "97f35cbf03124541a9e9783709382ac19da68ba0",
+            "name": "Ilupeju Public Library",
+            "place_id": "ChIJk6sm35GNOxARzAdCEUy3QSw",
+            "reference": "CnRpAAAA1WmiQkybtuxoWWWQcx1-sk29HhIFMMqjfhcL7OXAhXSpGKPmZnn855rmOuOWIjmHe7RhpL49PU2c7CAx1_0o8GKCbPFhljDBrBk75t9BjSC54PLJEPJQ48AtuDLoCdW-54NeV5SUYq0-86Fk7fBFahIQ3Q1RqWn_-F4s-_6hmiP15BoUe9PldHO0Td-kaefHo2cXIXfRnCk",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Johnson Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.496592,
+                    "lng": 3.379366
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "c1c7c253a46af62e5c859c6dda35598b892caadd",
+            "name": "Library",
+            "place_id": "ChIJWVer4YmMOxARlgcKUJ9CXi8",
+            "reference": "CmRaAAAA8Xxo6epHE41zZ_2icxc9gK4L0wHsk2gisyzYZF9qhsamrfHBntmg_KgQURUg5f-MGDwU0aWxjjjwgAm_A2j0IZZT0gNp2ZA56VYaF78-GEuEZ6mSZzXKs-vjNEFoW9m3EhACCfHyqv_qMKaMkTfgsmcEGhQaDU8U73Ng4Ehcvb_nkjFteO6dCw",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Berkley Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.533946,
+                    "lng": 3.329526
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "f0b4d74f1de39691b91001c8d84230fcfcf8c23c",
+            "name": "Isolo Public Library",
+            "place_id": "ChIJbVH7t3qOOxARWzxXtQ1h-DM",
+            "reference": "CnRnAAAAOkzjnPgwX9_6kUE6flvrR-KH8SuypZ1e3vXoeyCwUJ3OH2ExnROtNvxTdPQ1-Cy84V5OknOVYiNFztlZUpTHSRzyNkR21xCNYFMBFxdyuUKPpqwWQzoJKq72ac8ufDjuZX-ve7_0yQcRcqkjMdYsGBIQOMakVAY4ecyjPJcL4Yi77BoUdowSGHKwYydNpFO-HYRF1hfl2IQ",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.523823,
+                    "lng": 3.384116
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "275e211668a5e79694cbb3912307f7d72aaf87da",
+            "name": "Federal College of Education's Library",
+            "place_id": "ChIJg8SuB_6MOxARbjrhrTOS_7E",
+            "reference": "CoQBegAAAOzwdYx101OZr5JSuJMA-_n2z5MKORpONAclz6ohV86nDPAwtKCvmx95Q4e6sldfNziXeYUx7BKwiqQV61mtK0iIc0jRZWHMkNwFDZq9V2R98bxjDitdE_3-JxgG_2CcFyriSfSCRHBpp0vL9EWvLv4Xu4jES5SY2I4xgGIbFc3xEhBLSZLJ5KYw5efnf3yTmmEyGhTU6G_HMMNZFMc0vl0ur-wsEE6tUA",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Oluwole Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450833,
+                    "lng": 3.393708
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "3a72210d6fd070e18300c348632795087a644784",
+            "name": "National Library",
+            "place_id": "ChIJDQ5ftxCLOxARl3rByue5IVw",
+            "reference": "CnRjAAAAo7-GxuREB0j7bXd4pEJhhdPKXJXuNr5jUXDSyCAneeuuDLrieXD_BT_ZkGLllUuQvCwBxev1A8R5BKY0rw0TgL9HvEIys5gnHNB5uhVIriXWMNNkRaFkizge0l5IfMvmTTnsbe2FoGkHJV7pQqmrDxIQO1GyKAYFVR5OshuHlc1ebxoUzcV8niYE-vWXK-HXy2zZoxdoiAE",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Campos Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.520164,
+                    "lng": 3.399769
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "de6cd1b656b6bd5e753a4b722449a806c3adf8a2",
+            "name": "University of Lagos Main Library",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJkyPHGN6MOxARzH1pGheBk88",
+            "reference": "CoQBdAAAAFiElsKDnRDXMljwZXy8AUuMJVopaSR4Tds3IgEsYdotPt2jnZva4oX5ZTYwJegom_5v8xI04iJNdyaMQAoQiU0VquOvuXueNoF6VHD08IAUrUarncQf4s1ZX4REJamr8Lk5msj1ylMpgsvxp765evbarObK0MjDOKzImWeDpCnGEhAjv9t_b5-0QZpK-9AHbCANGhT2GrhKNAMVPUtNdABduLTSQIxXtA",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450172,
+                    "lng": 3.394381
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "770cd00272918855115702d06c55fa1228675763",
+            "name": "National Library of Nigeria",
+            "place_id": "ChIJJa_kUheLOxARMRRkjMmo8xs",
+            "reference": "CnRuAAAAgOzAvHaKoobwO0z4cBvEEl8SeLKuWdFoqnF-9NXH2tyYkpmY2zu6nOQLIXh4lErCR9dPaykaavZ5Jzkv462s-0LbZTcKcRFeayUS9SPKYAUJJrE1HoqN21nXSjUNaJmV8UrDZg9fYAFc9NVUd-x-8xIQHyOpaE2-uPbPdCfwxtQoPBoURNrSr_aQ4MJJtQxWc79uR-tU-mc",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Wesley Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.544918,
+                    "lng": 3.375866
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "354ed4582c4ac90200e90b4cfc88c9adf6498a39",
+            "name": "Somolu Lg Library",
+            "place_id": "ChIJw4X5xKGNOxARKNbLXUywzXY",
+            "reference": "CnRkAAAAIXF2re61sqrB8dnUNB3j-7vRD1b3y2K1c7AwYddROq0mqEgp0U3c4FwlAffskB0Gozat4qxkR6WkDocEO2NOzFrqiIJxneY76SLurWwAO9X-IWx4faDwQdtMV2tPMTYF-9dgEr81vag8hTNXE5j3nxIQmPYPpe3OCFtB9KpRjUHWjBoU9JgRdSNtt1eI4bY7zaD0Au6h-q8",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Adija Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.519781,
+                    "lng": 3.399221
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "8955b86513f26a369ced3a1319adc6cac15d486c",
+            "name": "Akintunde Ojo Memorial Library",
+            "place_id": "ChIJn5P1puCMOxARBpXv-mK-n-Y",
+            "reference": "CoQBcgAAAPrTMskW9Ywq5Hw7tO00x5hiqB8KPOhbp03hl3wPtp2r5xeEr0xY4T13P5NkRrS3q2_t9zprixY0S_orG_bHVG8aUpYCtRqW84GNj17kJ6R9CsDrvCLxh_zACwuODnHg6yMScaKsCs1xk9wmeFnjclk4M58FCeP4LMst-SfOmnxUEhDuEMEZ8xKpLwSATBVnij-tGhS-jt0O-Aey-bXZtH-i8rSAEvFqvA",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Otunba Payne Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.609415,
+                    "lng": 3.318558
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "dfb2cae21b6dd1d2ce28287363c7c975121c4654",
+            "name": "Iloro Library",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJg2guA6CROxARMlU4XFB-SLM",
+            "reference": "CnRhAAAAWzypLnWV1fLD6j0mwF4SvjU_cxzM10BI14omCRp6_pvW3iPL0cAboAnk02_8cDxRqhK8tEJyKPvA5UJnd5I7gJ1ImZBjJZO33aBqGUscAs-2gFWwIHxTbw_TvmULAdkGJsID48cVvoJ0z48kDHKmTxIQSUqXbKE9hCVZy5Lf6R4fLBoU2ub7SCF8YB9RHDfdXMOzoSxX_XE",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Adebisi Awosaga Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62332,
+                    "lng": 3.357774
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "8bca46e4ac54c943be4cf7eeac15dd45a3a86ff3",
+            "name": "Nigerian Law Publication House",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJtWMsC8eTOxARPhiMoyjmQnE",
+            "reference": "CoQBcQAAAG2mHLez882t8uNgHpdknDAwYbdaw7mo6jUVk7hkG2NP3me7oKZSttfdcjMJSGUYhHwYptYmMPECAVCpzkpYFzABvRj187vE73tvxTE2q85LT-tPpa8l007oue53rr2SzF1-ULB6RujxhAptZDIV2tVD9lkhrTXX-sVqi5YALx5OEhBsdnTJPpg1mZ6gswTaRHqYGhTL80uCQ9qdbK7RWYEDTl9HgV64qQ",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "establishment"
+            ],
+            "vicinity": "JobiFele way, Central Business District, Alausa, Lagos"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,466 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAGlgMAjOxZgdSJBlkK6gGpFtHAB_w4TbEGv1qJKGyOQedsMOo5DyJsh_oDvLYGhkKYAgt5WCtSReRf0_oSdGdFK_ZD2xF50nE7eEmpmMAHdK7FxzIDD_3ETd1Ldiq60zQ_pyyoHtosAtIaiWWBDqTABLK_GmRY8TPUGaHND7sxON4RySkIIAkSone2r-LyzPkAW5i9Wa6xt2frjQen_MVElQTC7g922WPGXErIkB6VoMGat9Dv58BzaLRaO__fXlRRLVenmegR9rHSBSKHmlXA-6Nvra5IizkE-ibDgUJY6BF2nCKSmVmvBjObBUfIY9_qhh3nFqmZhIrHAcbUrAt3QSEBdWUnMK1Z9EoxKLGYwPlD0aFIszwVV55aymQTSXM2GWNZNozTvW",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441897,
+                    "lng": 3.370284
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "65ed0fa9a075a66c9f61017c304f1815ce16df48",
+            "name": "Shoes 'N' Me",
+            "photos": [
+                {
+                    "height": 1296,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAyK00SFVW2CnwTdLvi1DbhNCaeo2Jf92TCe-uSmASIanbjmDMk6HHLoeMJ4nJeqO7CP9_cj_ixZVq1cTfw1GjnRESTvPTOzIjDmsUZw-8f92XDhQXbg424Fp9C_vsvObNgrbpmt3k5FHJcQxff-Bo4BIQgfY-0S285GKKMYCVaVawchoUfnMLp49rPyfG7efgglh7xap-PNA",
+                    "width": 972
+                }
+            ],
+            "place_id": "ChIJc-Z6da2LOxARX_FQQYVe6VM",
+            "reference": "CmRfAAAAiJJnXjQjlKHx1mPsNMRLqviljbvnQaXkLBXal4XAAjaGvG7fQTO6fVBhxT7XryIJCMVnBpapABJYaSvinBIAdSiDFrjV_bwQk4-VKPcF1sG3jiDMyO35MDhm1Tp0YNHhEhAMYoh3eNAa6VF1TzXArPPbGhS2Fk82DPBbnqpkYzKLv5O2MZ90aw",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Payne Cr, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.507202,
+                    "lng": 3.378347
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d3969b35a9930c97baca48582eff8f75867276fb",
+            "name": "JM Shoes",
+            "place_id": "ChIJtdBHQl-MOxARUvI88fZ1_AQ",
+            "reference": "CmRbAAAACDPNVJsWb96zyGj_xMjOtZzGpMdkF_42xCDyeaS-K36ABJBiJxPtAgcLJxOnJGUG6NXSJBgRFxfNE8WwC3NQotQLdtxh9GV_BbR-EyIuuDbfVJfo8L1S4gmT5aCn4CBLEhCLL5gZDa3rwK-UyyRWpQdGGhR_Apb8ljYABqUJ2FOr6xV2Xbcd-A",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Yaba, No. 298, Herbert Macaulay Way, Sabo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606516,
+                    "lng": 3.386224
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7127eb2646624439fb313369d3e789d1e8019f15",
+            "name": "Abimbola",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJIZU9T_ySOxARZ24KRCdzWPA",
+            "reference": "CmRcAAAAFgS8z24FSfa96fxEguGqjNvMIWhNhhk_pHhKYTHXMRsG-zIE7qSQhSmxxRmm0r_O1XAAXWmvLVSDXImCnEe7xW3HgQcypdYHkabTYxl_3Uo2pl1w4NVpRb8JY-h3yGrrEhC1-W_2mANrUvBM8gcBsofYGhRzjvXmz16d8aVtNyYN8E1gRzWQtw",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Gbenga Shabi Street, Oworonshoki, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.496431,
+                    "lng": 3.357702
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "0d5fbc9d4d8ed672b76d5ef336a810ed7d95aa48",
+            "name": "Minny's Shoes",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJZc7XPxOMOxARnUm26CpqEmU",
+            "reference": "CmRgAAAAWi6_kSybeGxdNJ4CsdH4RrXsNwQ2zs05te5D7mcsqRbEiivqxq9CTiYUkyYd5CbO-1PX-TiJZMIfP6GZ5ffkFi-ANs05qN78_PIOuBDnU9Bos7fG0aapUshz1pXXiVo3EhCmuxtOJ6NVDCOB0JBCYW3xGhRGdxe0HcXbdDP-Bv3nGP9a1XqpHA",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "22 Adeniran Ogunsanya Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442067,
+                    "lng": 3.414654
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f341e23d1f48b36ce7a017c97cd143f1ecdb208e",
+            "name": "Pierre Cardin West Africa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRpAAAA8nqW37RiDdW4E6kA5uhjy_-Y2gY4yTEvC6H6_4IJqrihYDkKCmKNk1EjlEF192pjKXDHDmJ8_B4vTVbMkZa-XlH2dnYQfta90tEZvOq_3fXoOY6791K49QmSN_lPC2G3eeDRdrwROqK7BLiHHpzXRBIQblR_QMSIBZPfgwZ32lYoRBoUNYP6y1fudhJGUP_a01NXwG-zXDs",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJr5PQ1SuLOxARW2EnwmnIQmA",
+            "reference": "CnRsAAAAaqfj2Wz3Mf2mZqaSbxRPUQO6SblJLhh7u7zYPpcPyXc0ClXDCG4j_VlWoGzIWuACIpFbQH6ETgSHmXWZ8y2DqnP0iLFMDvH8-bPY1H1v1HfnY_cMusoQkU8vus8_vl32e_XdAQLunoVm4qOjuwWUKhIQzMWkIu4lYSV9BhP_U47nkBoUCa4_D0P74Kj0ZVfEIGQomlhLzAQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "62 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430163,
+                    "lng": 3.416629
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "771ff7dc8c856113f188545bdea7024f93d44636",
+            "name": "She Online",
+            "place_id": "ChIJpTAAW9KKOxARoN68VL9lg5s",
+            "reference": "CmReAAAAIGYxFUSUzxyzmiLxO8qdukQFQaMZenQMpslUgUqdXogMgsNXpB5fc8jPQZ1c_KNVzlrqcKXod7eYvNylEoQomsJMiEO-f6DspsQtf6rJsqgAyTT8pEizBaBAnrnIIYX8EhCZyKCfdL2pEjIDxdeVUb8IGhTsM8PLlhxw1zvt2VMLVO5rQNBkcA",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 29 B, Ologun Agbeje Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.459527,
+                    "lng": 3.336311
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "541b70e7d2d50e46be0f144e00eba3d62d8e9cfa",
+            "name": "ojamesfootwears",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ52S-imCJOxAR-G0PlG2lI24",
+            "reference": "CnRiAAAAQCXkglJkM6_h1N087QayphN_MhCwh079oqxi8AunvG8FVe1lnBoDPphGJo5R1HjiDtHeuOQGsc9kcfY0b3OV5sFP4HqRt_RSDRhSLc-XQ2lsj0NTiGGOzUD42Y4SHXdcMct1_GvRhOZVFq1B7I5YJxIQ-Rm-jOuwStgCF7XYJWupIxoUR2TPS8ZvJ8IOHLb6_ssgSDDGHjo",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "36, Adekeye"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.46451,
+                    "lng": 3.391943
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ec43e064b6c6922477f97bbb20d146ac09c220b6",
+            "name": "Donsoto",
+            "place_id": "ChIJnc7oS2yLOxAR6yIgwdlyrTE",
+            "reference": "CmRaAAAA1gGSrDiwf22Mfplr1RPQCRRaeQMmW42ol20BviRvAwrxHCnMAG5N9EZF-u1kvqROMfhlruthKUHGjMj8fOhcZvSC9-8mSYuHEWt-3WiPcGdb6Q6kwzKwdVQjBD5wVzu5EhDqfdX0HGBHRLztHB-7dI8dGhS305Z6ykofVNN2hXN_0ilzwk5iuw",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Block E, Shop No. 23/ 24, Pelewura Market, Adeniji Adele Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443413,
+                    "lng": 3.417005
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "6c722d71c26f6754973db890d70d9bfb335ff15a",
+            "name": "Roli - Esther Footwear",
+            "place_id": "ChIJ1z-PnSuLOxARQU6z3Z4O4Yk",
+            "reference": "CnRqAAAACCqpjmAII9Y4xWAnuzP58x5_ShmrMNs8X8mSsohvWdWZoEkms8dHVilRBK-G9ND4zef22-VYTuwPc9Iwi8mPZPHZ3zdiQXJjj2eSORMJs2Slbi912fexHd-shX4B38tUQofP2_oJ6Gs40GJlvUMOyRIQdM5jN6QIF0lUaeIJx0Sn9xoUmWFsbxYyL0YqdAA_fQpnE0tNKgk",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Alhaji Bashorun Street, Off Norman Williams, 14, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455808,
+                    "lng": 3.385782
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "686a51391a57eb4eba9a7507b83f87e08b6af87c",
+            "name": "Vico Investment Co",
+            "place_id": "ChIJ5VuxJAyLOxAR3b5qSbHnyJA",
+            "reference": "CnRmAAAAmCtEcTs1VYjEgBlemFRd7czK_8vSEoHJx4stuWgRn0lCpsn2fzCDvVaU99jQFIsjFt2xlLKxLF92zEITGKJyY0OT4Rf800EWIAY6P67QttVm993hw_t7nQoFqkgDn8BlKzDn6A4-tnUwqEhOg_hRNhIQ4MpD5JMB5MBLaJsiDFxxVBoUiM5Q6WIgsxqaaB1w9R5NJCXjKx0",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "3rd Floor, Great Nigeria House No. 45 / 47, Martin Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488118,
+                    "lng": 3.385997
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "2456e49f75272bd80d4010022251edd19b469866",
+            "name": "Captain Bosbain",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJfdUfaYSMOxARO96RWqJpAL0",
+            "reference": "CnRjAAAA2Ei_g6c6yLv-FzL6ygUWSr1S1YqjEcidk69yr9POxbDkpV9nTjbnT2Zl-fhef6KqNOJfEaserEL_Pu68qxoymjCq4oh7ySJdwipYiflqH553wNPkATVVI7cvDmfWqC2dB_KHzV2sAZr9awI2tdT0xxIQLXGoeeNZBy2PmsSZ4vPTWhoUGp3BplhSJTIulIPXvCDVQvxQRkA",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Mushin, Abeokuta Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.50923,
+                    "lng": 3.358112
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "e1e75ce6e201674c7042e5daa15c4621dc68f65d",
+            "name": "Imahnuelo Investment Hub",
+            "place_id": "ChIJo2IBujiMOxARybNi23PfosI",
+            "reference": "CnRsAAAAABT3SH52k9wjrUnzx3KATfHchWtpg2y_AyU36G9feNqHXeGFyoGUgxtxgFkFzlilxXZIqd4vHqS82VE4YnkVgmuJbTG5PoU0WRCZm0MAMwHnd4_NRo51LCeJO577VNBagj-OP16V5oBhHfXAZmyI0xIQy0Q1krp4lpDqIU8dCyq1HhoUR0Q67S4ZwMTTbcDwb1RG586zzr0",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ondo Close, Ijeshatedo, 12"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.602802,
+                    "lng": 3.492773
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a2ed9c0e20c287219be6c17c34288b16ea70e723",
+            "name": "Dunasy Criacoes",
+            "place_id": "ChIJobrhd9HtOxARWeBVACbFkqI",
+            "reference": "CnRjAAAASU_tbye87CsT6oaRVSuHdqf1WzGaR1gS0znVWv4ptleyAsByifByMtJnKmmhbaXfUDTxccO5LIRiap5wrhJZXOyNnpwHBGHRU3wdbJZlH4etLn8Dh0H6NgAzlJw4dv4T-GMzGfm0ihTNJE58WMmgEBIQyYJlKaKNW4TF29gQS_wwwBoUG5r_QdQVU9RE7etM3yeoodGKubE",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Igbogbo, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.459505,
+                    "lng": 3.413598
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3c5aa15f00a83880c933ee8b670cc1543a81921a",
+            "name": "Savvie Boutique",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAKhL11is9jkMAWXbiVUnPJTeCRTPunFvtOa1auOvcZ6rxwpINgfB9pEtTpH9012ppWkkazhUmtdZBIH3-TOXppBRVDc1ZL4uFv3C-OhKOvLY1O_Rl7DnmrWbq9e0cgv5b2cKRPbNf4ny3XgLQLywrCF7Xo9BbU7CdFNRFlPVxiIxEhBEsX_K18hy8-gt07L6KU4GGhR-D0DGAk02unrim0L_e12DnjnvnA",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJgbHIEDaLOxARRzO8RLljpoQ",
+            "reference": "CnRjAAAAfpTg6zoyj3fEEcmKAcsvxtVx-LGL41fX1TE5YLsS8MsFr_3naHtWFLW4cTwvYpFe9CgzMqkCIUZ-QjcEvr6ZE_SXMd5QZdNp-ItQMOVLC3g7XlTyu3Ov39crJTqDSIMOJiRE0PlInq9PfSNRqLlt4RIQvqzc2Xqc4Z1S7A0JOvJq8BoU7E424Ko5XJmy6Ju3ki_swgjOTNY",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "clothing_store",
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Dolphin Estate"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.553047,
+                    "lng": 3.342242
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "983b90d1417eebbe0883ee9777400f6d6f314461",
+            "name": "Chiogu Global Collections",
+            "place_id": "ChIJhbi6u-ONOxARFl5esjEyUU0",
+            "reference": "CnRsAAAAG3UIk2bIsCk57dPt-a6y4aHTFFtRIwasMI2RCpXuL5D9VQ9_5jUXSp6_iFpdjKZ8ijac3LgPDVSyqHw_vuhDZJcQrZeZvQRI0RpZsFJ8whIqh2ZcqgFS8r1IVqRIHXBNx28gNUM7WprhUybwzaeR7RIQq3SXFFbMOEpsRIZjoOnGtRoUGECTGCCorvgK3UGtD0DqWAg5Q4g",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "9, Ago Palace Way, Okota, Isolo Lagos, Nigeria Seinde Calisto Crescent, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455172,
+                    "lng": 3.388182
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "df33891c6e53e479998d64b404086889a46a8bb5",
+            "name": "Martins Maruche Associates Limited",
+            "place_id": "ChIJU2VP2Q2LOxARSevzmca_uU0",
+            "reference": "CoQBdQAAALEUuXI7hmhbC24FNtLZ4FpocGaKCjP1bYPCuYy88zHPz5EUMge5jQyC21viuPyUAxVkIoYHlJPWH26d0uBm3NGLWaeTnoF-uKBp7lBNbR8FvqqYQetu8131fquNlEsbxIpJWsV5n5OCAtj1WkGcfGVf6KwZnw4aRyqxO6fykSoXEhByQ89D3wGiyeNqYIp4TzhrGhTSAJXIYith73yquElK_m4uUP25Ow",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.445614,
+                    "lng": 3.372234
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1f5698e75ee0c1e8a291dc6084d857a59f8df4f1",
+            "name": "Idowu - Ola Business Consultant (Nigeria) Ltd",
+            "place_id": "ChIJldPkja6LOxARQ0mtJQ7c2rM",
+            "reference": "CpQBgQAAAEAAowqr4fYW7I8ZxDxxjrI8DTs3utUjBjayTHaGKlXNwVCsWvtMt8jJLo2L4jbFUqHFIU_2ytWEILLodxYDPYDvgktMyjNNCnQxj3E-wO1_zwvFUXtbpOWsC4cQhljdwShqZvzeyjndQ9jdcgNyYN7n6x0ggbd8wbhyvI0xvJlW7X2az9pobreA9CT0bkEv6xIQZYu-7FFJp1CeDTDU84XYHxoUhH9pWHvUfRG6-sRL9YHSWP7KSbI",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 21, Wharf Road, 6th Floor, Development House, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.511501,
+                    "lng": 3.361653
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1f71c124e1cd0ca833d017d18d0c834c6d6d645d",
+            "name": "Lescouch Footwear",
+            "place_id": "ChIJC_aFVEaMOxARWxxuKJG_0l8",
+            "reference": "CnRkAAAABJ5ItgThadcCCQeFJ97G1XdYaWFKPAE9YNWt803ozZmQcu9kdtTrqESCBuZz22SvJTvIsWbwCsWtOY9QLKKqKpF2WyL-ERbYe4WbHRPCVi3EC_bKMxO7_pc7g2AIf4R-QiWRza53cJ0Fa-Tw9np1ZBIQqrOD-XthSeECg7QeXmnHNBoUq9V4fRZ8zN_UZSLduZRs2sMi9W4",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 20, Off Ojuelegba Road, Ayilara Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.508832,
+                    "lng": 3.36745
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "abceb91f1cafcd0d568c8316c6640d9a70cece50",
+            "name": "Shoes As You Like",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJLUXCm0SMOxARUcilXQ3zsPE",
+            "reference": "CnRlAAAAbD3_0B7S_5-xjZU9p-26gcgPPml5i4Zk24AnaXeGd_psRqWNyZebDIDW0h1n4BRE5TcX5sf8lB2DOMrIAmnI2ibJP1GGcWVbHt1jYPp-fKzr-JRwv2MdwYt8XOAZ7cCyIjHqCEiygu-j-yfiW91fqhIQYGwaruL8uCnsUJXh90OxhhoUovKJJH4MliP5ulHjpM1mRBkoiHM",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Skindles Showroom, No. 34/ 36, P.M.B 3073, Ojuelegba Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454135,
+                    "lng": 3.386179
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ee95946881fc725fe767841a5df800afda22b095",
+            "name": "Slippers And Sandals",
+            "place_id": "ChIJK8OZkg6LOxARA4MU7XaioZk",
+            "reference": "CnRoAAAApY7wK4i9fbyTcRUoE9tJuzacHDfh7FX0jyxq9x__KYal1Lc9lRTkL9HLS69IZCBbLe2o4cQeJKYGF8A7A4S0GYECMkY3I8QP38S2y5FeocgXJHUW1O7mySXaZfRQBO75wYjPPpoIMCWZ-2WXEpod8xIQDdWOnu7K5FPv3quHc8-J5xoUwdet9mmd_YmvWmTEqCIqJ9EIfy4",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 15/ 17, Diamond Plaza, Abibu - Oki Street, Off Marina, Lagos"
+        }
+    ],
+    "status": "OK"
+}

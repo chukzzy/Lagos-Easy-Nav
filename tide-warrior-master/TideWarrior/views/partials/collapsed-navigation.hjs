@@ -1,0 +1,11 @@
+<div class="dropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    <span class="glyphicon glyphicon-menu-hamburger"></span>
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+    	<li data-toggle="collapse" data-target=".in"><a href="/">Home</a></li>
+        <li data-toggle="collapse" data-target=".in"><a href="/map"><span class="glyphicon glyphicon-map-marker"> Map</a></li>
+        <li data-toggle="collapse" data-target=".in"><a href="/#/places"><span class="glyphicon glyphicon-calendar"> Places</a></li>
+        <li data-toggle="collapse" data-target=".in"><a href="/#/events"><span class="glyphicon glyphicon-bullhorn"> Events</a></li>
+    </ul>
+</div>

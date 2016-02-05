@@ -1,0 +1,8 @@
+{
+  "name": "events-migration",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "mariasql": "^0.1.23"
+  }
+}

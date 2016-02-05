@@ -1,0 +1,425 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAEFWexmYgVZrAr3CVUriZ1jyNEjXj2oYEBUH4bloGzJSacag4fSDnHth7E19ulkPWtlJzZOIqGfhxjnZXxAP_7yFyG1XZEKomGTIn9NcFvtE_vBjcNUpViDZbJbNdGSFZbboVUJwcuYhU7pXQ87CP6XKJ22q2PQx1bnl_L99qP1EoqO8hmPS4BuJVXMZOkt8yFfV_PKTMN0tcAbYzEFL6JHTLsF_JkBtTSSioCZBiSSDvuB4rAnZlEuyEPv8I7xQr9yzLaXmKKVRfJkg2j5DIKAIjTPYMUmsGddQcdSnFqgd7Uwn3S3aOTzWWyNdFvDqBTA5NyF6oMDxPSFsrKExV0USENAe5bTAMomDyZ4u9Nrqq3AaFAhoqWuqFRVh7rN630k2BTp1fxWe",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.588032,
+                    "lng": 3.378713
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8b896733cfd9e070790ec867b9603c5f7f4c2d38",
+            "name": "OJOTA BRT BUS STOP",
+            "place_id": "ChIJwTcoBmCSOxARgXqAiI8J6Ro",
+            "reference": "CnRlAAAA7RxrRJh5E7Tl3G6GfCsfyA0f5oSPUN2MzWtdN_Ma4MiT_kBU34rf3sWpA4PMbQT8v6lvClbN61hGsbhParpV800v7gzjGOwGN9Itrjj6ItmpUFwY47kJCyJhL_gvJqKWwBIM7SqOfJus5dMKTOVMkRIQw3NZCcnJ6cgxxdROpMA96RoU3cXzkphkO6pq8u6qiV1HzasiDqw",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.591137,
+                    "lng": 3.380624
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e5a5c9049c57daebf35f01de06d1ab8fb5488854",
+            "name": "Ojota Bus Garage",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAZgH1MpxNZe6CzD6GOdYHttse1PKjBNIrt1U9k2eTGFrukyGTco0HWLCfGw4EMllMJemfac-upxRP8RN8ctvKujurmM4xXSkLSySP0LEfTqq4SZlfKP-ez8RZXRguBock6Az7kh8-_sg6cqdWwDToaBIQY7dCC9ZrxdxMTusHOY0GqhoUIgQ2-JVjMhgLvcjEyhAifbD4fsw",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJe4j_oPWSOxARiXPxRLQ2KmA",
+            "reference": "CnRjAAAA6Mw1XsjkXK61t4yPYnqJOEIBX7Mdy89LMoeL1H0s5x_JgpTnzyUgrylVX17rwncg6quIkEwz4ZS2D0KVtIZ-PIyGyB3-JAkyz0IzY6H1AansPCoDib3Ll5ulYTJnIBCT1Fe2ibYcE2ep62Mg35IC0RIQ8lMl5Bw2nQ4rz5ChoQXyqRoUIG9d54HDNY6q4fdK-_ZbB4SaexQ",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.573475,
+                    "lng": 3.322563
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4e59220620c282b77831fbb38a43105a6c1106fb",
+            "name": "International Airport Central Mosque",
+            "place_id": "ChIJEYDSXuaROxARmP8AOzl7-oU",
+            "reference": "CoQBeAAAABySmMaQZk45JcjB47NCiVEzaEBxIydYygb45gPtIZUXQ8FzM73oSq5Y2sAVAxpZmd7HQ4833L0PxIL7E7MT7BNYZS2jKQkUNoLhZ2eo-Un4BvE8AlZ41Eba8lxnOmpwMcw1NLz3Uytkgpn8ajkcNty4i-mPHKePIpkHUKLEdIT_EhARBP2QVHZ55fmZahnSNZlGGhQWx4OP2wDKEL-kQh8tkIhWizgaqg",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Murtala Muhammed Airport Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.482064,
+                    "lng": 3.362352
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "76f4f82e0a7d92732a5b68b02cb116b3a6df8577",
+            "name": "NBPLC Accommodation Center",
+            "photos": [
+                {
+                    "height": 528,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBfAAAAKyZt17SZX-_SzglbP9fFO25wqbMWKQ-5QhZKFZnNMq1gpw2Rc4izMgJQEJQQkg25HNJRDRjHqbg8Put7ZTj79DeRldq8BxSCeSbwa9L_Gyd27366QhZCrUm33RPsRAU5Esy7lcaf2j7cWZgyon-EYPIeuosV5RBBrrXS6bMy_AMEhANwFR0XyLb7QaRqS1MVV0TGhQlusCKEpDyx8srA3vD9tZfZnmT4g",
+                    "width": 704
+                }
+            ],
+            "place_id": "ChIJMbvIf3WMOxARXOClMKErZT0",
+            "reference": "CnRtAAAAlgb-FYbs-jOczgWPoSb3CqOz7eLaq3THeO5GtNMszdXjQls9s2q66DY2eg7yfqfPy0jP6-lq1iWtRRjg52cTWNxj0rk9smPUqgxuQIWedKs0Ec4nK8v3QFwRB9Pk1sPh9-P3Mru6C12wrcrnURzqcBIQKLh_AontWloeNBwCqhVxqRoU9CyeN4CPz1JunPkar60mS0hS_Eo",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Abebe Village Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595433,
+                    "lng": 3.400076
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "65b49ba7a8c7a3b4b307efa7dce9be9676561391",
+            "name": "St Micheals Catholic Church Parking Lot",
+            "place_id": "ChIJY-f1fMKSOxAR-a2khltZKcw",
+            "reference": "CoQBewAAACGlFHJqEfi-cr2TCfCA2t3mvPFKJTmG3UhB-9xiCbwy3d_g4Ck9SqUy56VDpv5Vn07qb4RKvhp_XG1FZKhL5IYD133U2WNF70KwqGcJSyfB3iko6P_2y3T9MwobgUnLY9d8Z1zje3wHKbguK8oG4htLfCtDNa9ukQ0eEPQ52oKqEhBOWc-TR45hjCHIaynqHQf1GhQs_AeyDd8A9kHYwhjheSlZUXuPVg",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Saint Michael Catholic Church, Ketu Biola Bus Stop, Ketu Lagos., Akanimodo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.614334,
+                    "lng": 3.357318
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f87a70e164387b2975ccdddd4de008ac91d36fc9",
+            "name": "Ikeja City Mall Paid Parking",
+            "place_id": "ChIJu6H3KMqTOxARIFXNfbFWp-M",
+            "reference": "CnRwAAAAQ5WUrQzlXHo-RNdugPpWGK4JY2Tx5s0_p30hyK8_-dBYyWgIwcw9FjjAVTRKWH13fdb6Baz_EIKHxmHHQ1NSFHEWNpy4-hXVKt6oltvLTNuaoGP54-cGMZpP-Gb5v-arGA2UyT6YaKp0y7xs1hIxqxIQycUVKU154ZyrZVh0dChdFRoUOvJ3xrQK7vfYPK3NlATjRlhdBsQ",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.51764,
+                    "lng": 3.387166
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2cfa9ea1e3236c2541949b0a0cf8924b4387851a",
+            "name": "FES Car Park",
+            "place_id": "ChIJb8CNDPuMOxARct710BfV0Go",
+            "reference": "CmRfAAAAM-G9_4mdt8gbgXkyea9Vvkdz009858T6DjPIOQyKu_NULBbHG7gcGN4EwBYxaTC0UHb16M67J5xZ5qVP8IFNOdsuZeQ_VFvHxNo8w9qWmDRX4reDR3Kf9_wLBJHbtwBHEhAXso08IgQygU_BvRSxD6FFGhSJbFXebUEWyJl9jLvwVJM4SBQLsQ",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Dan Fodio Boulevard, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.631269,
+                    "lng": 3.324805
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "45fbc11374798b4fbdcf2e71301f09b3d1e578f1",
+            "name": "Iju Ishaga Garage",
+            "place_id": "ChIJGZew4WmROxARvj31ut75H-0",
+            "reference": "CnRlAAAA74onApIyJPVhz74COZKf3WWla3YE0bAzhTgke53jeTrDg4eB05rrXxq9lRrdYda7-9oZo1FJCmwHjtRvNdv3jWhD9zujy7xHMaRxGRkeXebSjGZqMYQm-0lF7d_4HLtgpTJ47_OJ0BJvcNE0mSAFuxIQnDFXzA1b6Dzxul1ggghnaBoUY_aK6aSj5HTdCrY87jpR_25RteM",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Ode Jobi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518828,
+                    "lng": 3.397313
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1b753540147991c3662584a7e8f5b78fab352076",
+            "name": "Unilag Bookshop Parking Lot",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "place_id": "ChIJX2j9LOeMOxARFXbRWBjLS3I",
+            "reference": "CnRuAAAAT7y9A-DsskFh_BcS4l_e2-7RCcAzoLSWmpoo6B3Lyqg2nX2xz8Mdou7XBsd1Ky8swPxnB_RSCwPfSxTOZol-HO-8F-sAyK79kZ5yfLUy0UZPg6J-XVTmShDq1XRy_SkmQQlp0bRuLyafM49ScPjgmxIQhbAIXkWIVrW1rlE3vIG02xoUAsUQsjVMDZgmPA40BTOU8nEgMZ8",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Dan Fodio Boulevard"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.515566,
+                    "lng": 3.398966
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "32d1dc0a85c3667fa83c6a98cc65ad69527accad",
+            "name": "Dept. Of Marine Science",
+            "place_id": "ChIJrW3gYd2MOxARPU6a19lFjbM",
+            "reference": "CnRrAAAAjkmjfB1kvUPEGAfJi3Y-yLyH7egnMHDn4r_bb24V53NttEq0H9lZZVLDTM5AghAC7tc_o-Emvw3JyfzNuLRg_HLc9ZKsc98RjpIFnN3vVYJ8Bqy0n5K0MyUR8zbqIwJVotGZGUARmHgcbvo56RGCXxIQoJS-9PQ1rUu-FKW2lYDngRoUMKwV-y-iGniCWiWT19yIfT_ag_o",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598848,
+                    "lng": 3.367841
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "204962eb6d209da3daa686f2159fdaf7f08cbd55",
+            "name": "Daystar Car Park A",
+            "place_id": "ChIJJWqbYEWSOxAR4TzNToGkyIM",
+            "reference": "CnRmAAAAFUJwM7qg53J_9asyC0I_2HpZWY1gNK3qB4uw_GxGsvOdPDGXUNuM0ZvrLAsha1gDTVYbSpkbIAjVATPLmXfz8xalfNJJGr4oaa983ska1_FlWAF4CQ0rjQ7EpYuNhmRqYZJFMQgKRmlz0j8eNtsdvRIQiHwVkgJsageWll9ZE_HBZhoU91dxoQSqsgzLkq8YpuCBvXDbbEs",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Kudirat Abiola Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.61826,
+                    "lng": 3.299185
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3f935974315b0428e42f259365ec23f5ec806e6a",
+            "name": "Iyana Ipaja Roundabout",
+            "place_id": "ChIJPW7phwKROxAR7QDWWDhLWTw",
+            "reference": "CnRpAAAAtHiufcu_7xnaBXplU6LggAPBiDbwYaVJt0Aw8MdX0Amoha1LHBWbW23s5ljyVyfvwwIZNcSRXn20k6YAX_I3o0H0Bwqne2_RR_FNdNGyeq01W1DOKWX31UgVok9Y9SybxYUh3pDcRkZZv8UY_Oq05BIQ37w0ipqxDgqdIomOv2JlwxoU2zLtGBqiskVvBe4DXghl-BniDr8",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Iyana Ipaja New Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.542993,
+                    "lng": 3.335874
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0ddc184351b001f7d09707b2f291e01991599433",
+            "name": "MRS Truck Garage",
+            "place_id": "ChIJ90csV3SOOxARJFFRe1JIZAo",
+            "reference": "CnRjAAAACBknONXWuwkAkwoN-1ddIthZyX6NUaKq2h-QDzFDziUu9ir6YKckU0T1lrQhnOLwqa9zTgyN5GvjsC3BTus8mGKl-O-xIXO_htM091r-Tk6KgFHMhvurFfmaU6cRJVk2uTDG2przwhuq3iKsbAvquxIQgNza06_aqHWtMWXlkOixuhoUf9pm1QDKHq6dbv2-vi5XtOGMQ4Y",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Siemens Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454842,
+                    "lng": 3.351633
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "470e378da60d4d50a9d609eeee49d2d489feecb2",
+            "name": "Irewole Ajeromi Taxi Park",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ4Ux4g8SLOxARXdCzjAmCMpc",
+            "reference": "CnRtAAAAMb0NTwK4wzRhMJlD_116tjqS-fP2gHtqcXJ71y2LkP6YrIoZqOxfuflrgTTOTcnhI3lXcGd073D-VGY_7XO6_iWCQpWiJzCMaYCjnlAbb6xG0nGmwQuRhNpJQPq1uu2ncMU2ehkcN_n-lXBUJLMjJhIQID9JPhfxOBaCcXkOlLd34BoUc45De7k-pjipi-mLVOT__plBOCY",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Ajegunle Boundary, Ajegunle, Malu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.520114,
+                    "lng": 3.352989
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a3fd87e07127b7fad97cac70bca139b430617b8e",
+            "name": "College parking garage",
+            "place_id": "ChIJxbp76TOMOxARIb2KCCsQWkg",
+            "reference": "CnRpAAAASaOBK93xuXKzvH8m3yaHsQYr8gADrND7m2cOfkcHcJhK4CQw2VvKVWTR_AqDq1WPaP_6fbTHiVuQ3gDV1h02N3BkAO8Oipw9zFd8dD0_ux7SFvHGRH18KoEnEysLNuQpl_1LAEpMgtjEb1KMs4PiORIQ8uaE4sLVrtMRYoqgR-L2jRoU2QfG83t8h3oFM8l-CY-PyPWNoxI",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.511183,
+                    "lng": 3.386911
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2a5656f6afeca3108fd5bb08e88ace538bcdcc7f",
+            "name": "MFM Bus Garage",
+            "place_id": "ChIJBc_bVPCMOxARfYmoOBlDjas",
+            "reference": "CnRiAAAAQ60XTObsZ3Zt79wbvS3ZCRXxFNnDdjtVFWKj8kmbquybQEE-rHHJX-JM80SWHtbwV99W0izOE1rsc-iITmGf4BVaRPID_7DvLh3PG2oK_yhIkc6JqckUg3j9UbT-qm_CIyGEJ1TWzHwyTOYLZrHpyhIQF8ED4BHrjaz7mPpY8RGHthoUmaVYdGDi6KVWiHkoD_dFtZ_VrYc",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Majaro Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.616584,
+                    "lng": 3.327059
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "55e0a88b5528246efed048618c4f77b8fbec1bb2",
+            "name": "Agege Local Government Central Motor Park",
+            "place_id": "ChIJYRHtwnCROxARpXbMR1YS07I",
+            "reference": "CoQBfQAAAN2-ConBcWc1GiAX0hdrbEJxJe45_zLueCWXCesX7ojYwEkArEzlVa2OO_a08NSV_pdJnk4jJ7P7nMa7poSNTfwhe1aWH--4qNIpa3oPbP4BZqUHE7fjTUxiKHNS0TyWHVdq6PB7qz1uS2xA_C5tG3j5Ps7-q-fiUraCN87dPvoSEhBeh-5x-hGXGMGxg-EgtzmRGhTVxV1OyqbY_QGvLEny7MGQCt2Qvw",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Agege Motor Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.586003,
+                    "lng": 3.389683
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "51b063646f1e5cdf353c055dbe7bfd7cc7e3701a",
+            "name": "MRS Office & Fuel Tanker Garage",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ1YZNgZKSOxAR_ix58NQfZsE",
+            "reference": "CoQBcwAAALCbS5NWCxDdlPmysS6bke6vANzozNCHO9DgcISKFQXgyNcvkZoaOenXrYvv_xxmlek9_lyeDx3C19JNr4JvwhyH0igWEro4tAYcmcYnG7ckjC4n2SVQwB6vNpBzhk8bT51ZKg7qKCUkpyEYS3-ya_CSyNZXG3f6uezi0kCnvR-nEhD_WPnph5OJKaSV8ssrm4HkGhTNezkC2d-5-C8yoAsIJ3tf_jW6Kg",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Alapere, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.519415,
+                    "lng": 3.397801
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "426266dd25d580e16a4e618c505ee318e84402ec",
+            "name": "Faculty of Arts Parking Lot",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "place_id": "ChIJUzsox-CMOxARJIsMiSxyJjs",
+            "reference": "CnRuAAAA0XAbA2B_XSLibefDQvjVH-s9eUgz3PayTvBKfJwu-1ipil_-g0TsHsp4pMkuqvnPOsxRTvOPj-dqvIcyqfIg8ipK5nrKtDaL2DzBrmXM0QE4iJMKTvRbmF7JisSCiGqEhFH4sWpgQGDcaUphW7C-AxIQO8vK4wlrVFyXZ2jaH0czzRoUAM0T5fM7TFzBrUkxAETv5y_HJ9o",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Faculty of Arts, Oduduwa Drive, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.512398,
+                    "lng": 3.391574
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "94906d35a22e4bbb3a675bcc145ec5f7a82a55e4",
+            "name": "DLI Taxi Car Park",
+            "place_id": "ChIJKTsJn--MOxAR3WXtB6GSaxY",
+            "reference": "CnRkAAAAkriff5H9crv2rpaP8WUX6e1FDw94w9iAZjWY6f8Q_4bzg_OBASHZep7foscHZ7hBZ8yKy00tPmjExGUTOTxXJ8VjmlyY3ngnA6JZUkCTOYr6pemds9xE3fuEex3uu8qN7A6-KJ_r45O9b5epFA4UdhIQPbg6JDgMqKyx4D__ArLyLhoU-QcHoSAa2SlDx7kVaR5VjbN28Wg",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        }
+    ],
+    "status": "OK"
+}

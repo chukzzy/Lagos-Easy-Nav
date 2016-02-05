@@ -1,0 +1,604 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC8gAAAE8PU19a5acp2hgwgFy46AkfKHI4s-mGL3i7AnYFotBgcS7LORKLBzbVTnWgYpqxQrVdn-AOAp6tz0qe52D2oo81Nsgjz6ayjM2c0_eql3xQEj7-rcSpcA3gbZN6t6y_UWjs59hyrnY6q3EutpDesYSHZC7oNtE6TRe9zS2pb5KbYwnN7-R6oNhQM5ua45mNkhaQwhHdVmVuOvGVEg_u2b_c-DaBBFAMtgVIB-uoLpKHbMKUJ4QlXURFFba4bqPuOZl4gUa0XJfl_L2U2C8v8BaJW5__47A8rJTVumBBk98FkJFksQo6U5XkXjOMslY5NI6dfjz_1MqlTuE6TxmazvsSEDETvW4Nka3Iza69gCgtcU4aFG4sa3oBdEtkD4UdBR3up0z_figM",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431561,
+                    "lng": 3.406783
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a285cb46e66e919148a2359307455631957080d9",
+            "name": "The Federal Palace Hotel",
+            "photos": [
+                {
+                    "height": 160,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAhUYm2UnUBpMrCq-TQSKlLzQetqr2BdE0i18YKKSI4PmeBdNJoVrEx23-GS0PDr78Lg53jazF5NQbTv5F031ZZq9oE0zNxkiNYO-2V6_2x8YebZ07ygj576nLpr-g5PYG1a4ZXJG4VwwA6IDFXaCLghIQDZ3P8Xk2Xw1gYiLZkRvkMxoUg82lahgoDnJOFM8gyJwNHPool14",
+                    "width": 310
+                }
+            ],
+            "place_id": "ChIJeaoJrduKOxARsP__JpZt5Z8",
+            "rating": 4.1,
+            "reference": "CnRsAAAAZmVixJzC4pBQqiwlJ6qqyzepXOdTz3fLwEF4v9EBEeTnZ56toUv-9_TwruiOyLgvODL-52I79Qwgg735y9Db0GTMRtmBkl4CycaESYfHEidW7bYzbuLUlk-IWhSOpRrRJxmJ65aKSGmnnqi4mlgIRRIQJNGSNkgN_9UUXRoAMA3G3BoUfXBpmaWOX98HsPOlj_aAQ2uXlGw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "lodging",
+                "food",
+                "casino",
+                "establishment"
+            ],
+            "vicinity": "6-8 Ahmadu Bello Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583453,
+                    "lng": 3.359989
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "7f8d1d5ae57375e72648305c9b57c67202a31331",
+            "name": "Sheraton Lagos Hotel",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBdgAAAPz5C5kCAhSk4jMN6D8M2HqRC5qwrKMCjr5rlErGVFooHpo4lAX1pYrZM0EL5kHIYtgZhUcM2l5Sz4b4H0dt6j0p5x2lq-Qgu6Ac2LLhsMvMK-I7zgjCyexN1TsDYuT5H69oq4iLB7xZb28Zq-nu3vqsbqeyDhSrll12imGou9CiEhDgN5mbW-0r93rK8lUTJEEaGhRrnP1YGpBAd_6uvv7Ke0p8E5UvOQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJWytsXmuSOxARwIQmdg20UDU",
+            "rating": 4.2,
+            "reference": "CnRnAAAAm0UOXMCCP3CWohfXtI9sm1PL5trgh3qdB-wcrQwfIdcleaW96wYCmyRzkNHRi1M3gLr5yyaOvC89knoGiqu6RsVy-y0jy_z7dG9LLCcj1cnEpdn-2e4P61oVYij-cPZPilTAT_6_6wW10bqwK6cj6xIQ1MmzFgMGY1nIb1Ewv9RRJRoU796amCmS4NITbOlzsZBbarfebRo",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "30 Mobolaji Bank Anthony Way, Airport Road, Ikeja, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597224,
+                    "lng": 3.354391
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "9c7410d4640303071d570685b93d78945f2a545d",
+            "name": "Best Western Plus Lagos Ikeja Hotel",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 539,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAGBJ-tIlCT41ye5h8xkX2wwbQ8cWx3rYLITRXhI_06DAn55VPtIOXhISyZJ3ajBssbLY3CO1OVdZZxz9Hw5qpNZnwza_X5yyQLs27hRcMIZWRKc99z1y5Zj-9GTxUgVlASg19VW0-by9MBui5kVLwXwQwsMEn4Gi_fWF8AAF1loPEhA-BosNwNvZo1pjzW2FMLTrGhRbsxOYr104hIcuGD8ynTYGfvr1_w",
+                    "width": 537
+                }
+            ],
+            "place_id": "ChIJYYOKjzmSOxARGOmHH39gjXg",
+            "rating": 4.1,
+            "reference": "CoQBdgAAAAQBYRiOFM_HOZWRNY2yd5DsCTWAP0xk97Ncf3mZIMkzBC8JxSP9l0TBcFfsUCDBNv7dlA3sQwa_6M1zEyLrE1jF4Kk5bSwFzlFOLGSVQno72XwVkpmCl0LWpy-_fSLn04tOjx2iqzsrvGYUZtCSlmoK3EaK5sbr0rZRd7DEARaQEhCAqTz_1PjiYmV0xD5AFOSVGhRA18o_UJEcLw8seAxxCmBKSv-Dxg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "12 Allen Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.426946,
+                    "lng": 3.426656
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "98d64bea44c8f415aa54c95be5a1ee74e37f6da5",
+            "name": "Bottles Restaurant",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAABBXqVAzGfMSEadIWWQ4aAVZREi7RfLzAX62iS4TRyDrvL4L6Bw-OXB66liOrwDMT2Qlhs8ckS6MnSmMOlxxnnEmRpQgusOzn8lYM6JIAVNo6U_jfMXpdtwopLdMZKMbBL337X8Ifj0dGyPaboM_oqRQ_D8HIFfTSXqbA22pajDZEhCUjXrZ5AdNJ6NWt9J6LReVGhTxyhzaWxblu5HOJWU-io7nLTjecA",
+                    "width": 950
+                }
+            ],
+            "place_id": "ChIJjXHVyTH1OxAR7rwX3hLTvks",
+            "rating": 4.3,
+            "reference": "CnRlAAAAlL6KdG6-vo-wDSTguESO3S9-YWcuJ7JAi2zm3RaRe5Luoq8epsxyJNfuOERWdCUk0J3kr6ZOjplMp0tm8m4reZ4D15XhBQ3f7RY-ixW9pxx4DElL_udJux5lSGqB5igN24q1jblLrACIFiIWfxA7PBIQheygr8TkuzKvq5z8a8SQEhoUKsi2gNB31II2iDJnsNYwITyMiMg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "8 Imam Agusto Close, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.614002,
+                    "lng": 3.355957
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "97978662c17d8b79b08d5eef20ac757d1bee3b28",
+            "name": "De Renaissance Hotel",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA8oUY7zP9_x_5k0_DeM5Zq6mOJUeFbfPWAyWHWSAkf9hrBfPdWlHF0zcA0iXK4wCGg2WRjBSHdrizEJN9WgNm-2HnWG85OsyRoKdHggFsI6A2Vxanr_YNvnQnDdYAIC8O4KYwjp4r-gqWv__mQ6AvfBIQAUC-pG8ntLnjj5GnrO8QDBoUam7qZWD0nb_87KoRRMLzUibu8-A",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJh7kA7TKSOxARHx2j4JAN6m0",
+            "reference": "CnRnAAAAiJAVRn_gV9ll2XyXHym0Wpc5TU6wsrDHM9-mF6A-ZRFJkNyB7Fy6TWin-cfVvsQ3KT2_a_U_mhSXuBys7BdR8-u1PnWV5LhwRVOLmFBu20WORD9RdzBAGiMQTP0aE6JODXnVmFpdO8CaTq3uCGpG3RIQ0TVlJmG8sol0sS1uul2umRoUMFivgeFzoBANUjyxHTSkrCUUQ2E",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "172 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429057,
+                    "lng": 3.424591
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b48fd630ea060707894c1baafc56d3576953746e",
+            "name": "Bungalow's",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2576,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRrAAAAxTWjzxMpXyR3a7PzHmj3wQAAOpYoy9e_4LU96W1ZdZH7l6mkAyvIEPwsGhxmizfWe1DwDMFMVeUTv2vNWJxcwqDQaKrwHX2At78T5ZJIXCE0i67zZCqrw8Xk81xceax6KulZkZRMkb2R8S2xl5Ev_BIQINC7VPjfCM0gywVmtTmR0BoUm6hFNbpdKfx8fpf-InmBoHe9NlQ",
+                    "width": 4592
+                }
+            ],
+            "place_id": "ChIJz7af5S31OxARfwhYMusEB6k",
+            "rating": 4.1,
+            "reference": "CmReAAAAX2umQVPU9JwrYCXwtWel_9FkuuG-FDfL3DtgfntGBLXI9aAo9GyY4UpGGMDpH9N6fRgSDqrNJE3byPlhLtPsu3bCyaOhFh6_Wu8Mtcyzksja1dQDVwYjxhkhRa4Z7KlHEhBUPIBaAcNBsnGv8e_adq3oGhS7dwFr4nF2tCZm5oVP1UeD4dJQCg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "1296 Akin Adesola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45,
+                    "lng": 3.4333
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4df37360913b905bb9a4cf2e52f54b6e0d7f8681",
+            "name": "Jazzholelagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 940,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAHa2CARDdGfDYAKh9lsG6RQmIIh3IH_kwzD_5dsd5UvFL-SZHz1As6WsNarpgJg3C5Of9z0-xo8xBfxwaE2MgOI2tGK_cvArDtSe5ZbYcXG-wHnkTHrQ5saf_RROX7bDClnYB1B137nR8YeyBQHbgoFIQGub_UJAKO9F0awmzE6RqWuw6wblKUzT_0s8ikdEWhIQ9CpjD9SSyeectwDXZuZZFhoUZMEQNqaYdzVjT4buw0q9K9mOIOc",
+                    "width": 940
+                }
+            ],
+            "place_id": "ChIJtSxTyMT0OxARtVxevkRHR_U",
+            "reference": "CnRhAAAAErLRl9thQy-55v-ZJPHA4g33b44LHtZZojbhUbMzuA0e9rbGQ_D4Dv2vmOK2W5ZjJFDo64p-sKQpP37tx6C_9_9bR18v-xPOkZ2Vg0No_1Sr4FAnCp1Y7jn_6dzb8ILFyr5Bw4P_AqqHHvCDDXEB8BIQwuxTIhFqm6BQM52zGkP5LhoUt1pw2Ayo6mJ94EOXhqrt9mfIU9Y",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "168 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454571,
+                    "lng": 3.423988
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "0f13609597b796ccaa8c6f6af12c155376bc1580",
+            "name": "Hotel The Moorhouse Ikoyi Lagos - MGallery Collection",
+            "photos": [
+                {
+                    "height": 90,
+                    "html_attributions": [],
+                    "photo_reference": "CnRlAAAA3FVrRubrKofBfQsGzDcH2PjW7nzId3UK6Muyxvojk89SXhonTym0cPpSK9DDcBJkDdp5G3uE6n2LgSJBoVFg9THGuBZ8IZrEshKFr1t1OOTzr4DvmNZLsRW5KrHlToNhbxMjVMdH6iNxM8tkmdVNyxIQI4npqkkXuE-4-46drDRw6BoUYFXF4ypjeNvdMXdniFzLNgtb32s",
+                    "width": 120
+                }
+            ],
+            "place_id": "ChIJa6SUAMz0OxARGf61CHkHt3w",
+            "rating": 4.1,
+            "reference": "CpQBiQAAADCuW-OqKOZltcrYgPVXMyow0Td2nbmkI0tnFitrEA4tE6C99LQoIkobx-w33EQiIGBGrKC0wLwvD9OlKxBHsDJA3hxWzpUlC33ujP8GfXgU_ZVZJwSxvliWPwqXStoEuy-vOhRqg0J7tVgkNQHLhvX9aWRaq_NjAoBAy96PTaYnKdv4WnyVufxR5Re2ggU-ARIQNC3hogfH6qzCFpy9nk2sbxoUXzjmVwQkWi4bhkoBV7mMqpayPCQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "1 Bankole oki road, Ikoyi, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444364,
+                    "lng": 3.424464
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "478341d14cf12d8c242e230e40ee46cc5ca6695e",
+            "name": "Chicken Republic",
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRwAAAAYZPRYhl7blbJKAat4pV4orfbWSg9-IKHZfZHppmxA_l8k3FVoEHho4lrEVKrOwIck1tSPNAzdOFv8B7JyQjBHW3e6YBwj03iyPGRDj238Ldj3-_Mg243O4K24nT-cmGx1hq2a9wQr9kibX_BKFbnQxIQ6dBdEbkdSypTNjt3w-lRShoUmph-QkjA_xSjhlUTeke_0FysNdQ",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ4Tsa-NP0OxARgmC2XkBcMco",
+            "reference": "CnRkAAAAp12pLIyE9Gpvvo04Nv8sg7jd5udmVaO5b5ioiPWl1Xm18lZB28Eqcw4v3XcIIjx0n6Gzmr8ul8Qztk-EDtC-wi9gvS6zq594s6fMjjtzxK6b7ZxSLFtj3GidFEIt8-P-MDOf0_1oAdh3Nh-_JBYlZxIQBBXaAy-zV4UudVQK1cQ5ARoUYOZ5BN_fLVA4j6xX8An1xymdQHw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "190, Awolowo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606578,
+                    "lng": 3.349218
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "50d3b31a78005ec3919554740541d661ee3327a7",
+            "name": "Tantalizers - Allen",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJaYrIITKSOxAR2tAJ67jOv0w",
+            "reference": "CnRmAAAAHZX15fBTGswTmv2eV3RNzacDdG9Com88SAqDkjtUcZLlMvq2PKSDAZr6E7CsOBSqfwHMTxin1QVS6fZCyyfcGNBe2PEuHr91ISKrl9luP95AR2AGPLT7h3e2V3n6T2qQfuPHoCW2oq72IIJh0qaqohIQK3q2aKNM0XLEN9tv-FQqahoUplIeBUthenh_oz7Nf4KjbX9TyeM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "117 Allen Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.581429,
+                    "lng": 3.358178
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e9a54a0970d600e0abf0c9af999483cf1883bd3f",
+            "name": "Rodizzio",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAqenpzIwO2ITirx1ExzdajUWEAPGCNXxbqdB7kqCfCDcwXYznLWuXYb1FO4Uupn9em5euWpUsOaX9dO3kF8RhQJtYszmrrBqf0gRJwWko_4RnsJRUUxC5cEHKucDCUHT_95KQGZCr6JbgfOoZtRj_-BIQ3N6m4CPkgiH_afC5o7qVWhoU_R7GIE1iprThiLY6kTfvrJu3oxk",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJgbXDOhOSOxARcpoqPqinY5Y",
+            "rating": 3.9,
+            "reference": "CmRcAAAANZqH6SouZiov2JeFyGH7UQuaO5FceOcVhiXFbdqi3R2bkku27ho3_9QVBXcoXCEInleAYCMdgwy3STzOE-pHJ6vgT5rfrMjwJ1yCQtro93g6DaAYKjDKx3No_8X5eO-CEhAVkn_QkDTXGzBUnFupcjJpGhQHbhyLDBOk7svWMWgCs_Sj_BKbNQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "cafe",
+                "bar",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "29 Isaac John Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442015,
+                    "lng": 3.418722
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "6473b02540f6e4fe6cc39e95c3f6fb28679fc114",
+            "name": "Reeds Thai Restaurant",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1296,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBdwAAAB4rTV-X4awi2JXDDUqOTwc816t7uxN6KTWLRKoIF6KrFHsrcU7a7qAkUCPRs_3CR38cc6q3kyMwHra1-GQgYts7wsxwD699PAGrVqexbRq8M7y6tntB8wRHJWZUpo9NTBz2r1---ATj0lxQfQ_bMC6nnsR0kwdTlePcFpHXfRlvEhDir2R1_W1QToACGXhmt-INGhRsouS4pJlaBhuOA_t6n9XVo6plZg",
+                    "width": 864
+                }
+            ],
+            "place_id": "ChIJw_maziuLOxARj49rAjgoK5E",
+            "reference": "CnRpAAAAyXWk1ZeyeuttjLV-La1cYAJxG-WEWwPjLapgQANoRzeMYEAQBrWVbJ5xI9-hQvl9_yVUe97QLusLqs-OkVC3E6OJSG8lbEY7Fjwf-JL1IFoIxk_2Ip5dUx13Xj79HVp0FQ3cUni9ifXYsiO-cTiSGBIQAFdWJKE0zGqjLAyYf2FfCxoUnytuDcH0ojCN_Skbw0JAXDo22_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Plot No. 190, Awolowo Road, Ikoyi, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43342,
+                    "lng": 3.463443
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "48fbea49a5ac5d2594e3f61931d389643bae716d",
+            "name": "Trifarms Supermarket",
+            "place_id": "ChIJgXRI36v1OxARZrLPsaZUT9U",
+            "reference": "CnRoAAAAw6-Of3U5CYaLyffpotklpfCzc2LDSEgiYfmTI5bhZSKBmWu5Fvq4saaELqDZrsp1ezB818XpEJDQtyCqVelatD2haDDJg7G-B-VPvTPgcQ5TjBQ9Jcw4EsdSyby42X6Zpj0qYj1HdNzeUYc92OJLjRIQNVISm07qZ4SF35xI_0CHHRoUzLXhfGArz81zSiEbftpkd3Y3Psg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Furo Ezimora Street, Off Adewunmi Adebimpe Drive, Off Marwa Roundabout Lekki Phase - 1, 12, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43078,
+                    "lng": 3.421705
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "15055ad17340429d4077a2d35416f75d24f49f1b",
+            "name": "Browns Cafe & Restaurant",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdgAAAJecvkiSFmuRFdOuyWva0teId6z_f7Z7TELghRf7gtEQ5-QPk90W_DccPEcvOaSwHOJgHZU9gFM-tzN8g-UmJkNPtX-mLwizCKiY2JLodvpl5Okbe12dgn7-WMxKLWPKhS86jc-4FHvz56Q6uRXvlUlsUWTE9W9FSqfHAQJk5mu7EhBnnTrJokj6fCZqlYEu8OQjGhQpJPPxnHX5b_ibr0JFVqNyztGODA",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJuVHrAy31OxARsFfX371GhFg",
+            "reference": "CnRrAAAApjoTEsInkwe2Z3b-4F74v5epJpm4xq5EF9R4c9uySUPtRfvjJ1U17Zq9CifJLv3CwwGI_mR5PgQNwGeprRpe9w-JeVDNsODB1ZR4RD8BOy2PrElLGwpOEOmj4I3GJnqBCKbEkVdkXeCE-BK6yjH4BhIQPPpI7ZvvSgY7OC8dSclvwBoU8J-IjQXwhTnecVltC3EB9B4d4Xk",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Akin Olugbade Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.426464,
+                    "lng": 3.414402
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f2c801fd6910e736f6fdb74d371d31d8e91baa8b",
+            "name": "PiccoloMondo Restaurant",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRpAAAAZTjihrvohjQRP5YYQbhWu_HDWgbyA6HB4d17vhvP0MyO6DLCvaVPUrsEJq5hjaZxMSR8Q30vLWqntvKRhnrXo7p8mks0qui6G1EoJQ1F6UFzutUMEm91Vnqaa7GWoHEK4_MO29yrK1-82tkFhHSoLxIQprn7MLZRkGAxsicE34sLvxoUdlIc2hJAOmbT12gKCqoHFuQ5Z7s",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJNRmWd86KOxARxFDK-6EltPI",
+            "reference": "CnRrAAAA1Ryj8Q2HdH4aISxSoHz4-YcnH-eVStWgrcmGs6uqcc4ksLc7wTnCYuprmJyOlxFGO-4lINV0GsRoXWTqvBiBk_xFRqt6rQdwY14buVJRxEMhdB83v7JYPCfKkgw0vszvnBeYipeUgwOA6_K1xPUpCxIQ8o78-Jb4MQ9FiZonqMIvBxoUnQmKlEcc_VYtPYZhqXf-bbVOsdo",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "night_club",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Idejo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.623009,
+                    "lng": 3.37813
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ad19a233e809088fcffff195d78b44cd3b840111",
+            "name": "Bonje Amazing Grace Supermarket",
+            "place_id": "ChIJOZKGdaeTOxART8PHVRZgo0Y",
+            "reference": "CoQBcgAAAGa9T59EebY99g-34mnlaqg1lu71hv_5-0ZlXrqP-heKnUdwC0kCwjQSg4Gn-wRriPmg5ZshLDMA4tQnTeIVjO1UeZeUBowVmZKXooitZEu7avZVu0BDDn0pmIZbR47SjOUNi49a9b6ilKTAmfCtKr8sRb5QyhGWRnZFdPL4xRdYEhDGrEp1hFDg0NVp_aTGPe1BGhTNHO_JqlF_y_3hmlha2rnBR6NaTg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "1st floor Encounter House, 1 PSSDC Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.52983,
+                    "lng": 3.31202
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "833c5cdc9c8e004410c1b382785aba798e83ed97",
+            "name": "Chicken Republic - Oke Afa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ1SWGY1mOOxARV_Acr_Af9VI",
+            "reference": "CnRtAAAAUGBCPuFGAZpisJ0S8ZVfhFORJhK5dlaz7VyKFCFcYgw8T_gAyMSZ7SywRAhuXtWhgPnkTK6RZOAL-XqIdXlsL2cgugP_bUGwMlwj-zQN4TNNWrgTIZJI7xYkCK86qv3xHDHCL9YkLLmGoIzkV7PI7hIQ3BboepRvxt23UWzoatCD1xoUN8TpDrT0fSf0MR_GKLw6nlVaEFE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Plot No. 7, Oke Afa Road, Isolo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447015,
+                    "lng": 3.46214
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1badc7f982ce558230a7f438c4de1e230b79cc49",
+            "name": "Prest Lunch and Dinner Cruise",
+            "place_id": "ChIJGTrUrlf0OxAR21QoikLvHcY",
+            "reference": "CoQBcQAAAKoa8-gfbPaJ1V_rZ2irm3Vr2PbwPdKWbawM5IRkYtqwB8faAOSi39drJDrV7_YvCIcHvgkAnoJP7n0O6AaJqWst_7YKCKRY58w1l4RSh15DVOth_gKEOzgoHpQaeHOtSb98adaa7_5zTluyJDgbHF-c05g_rA85OtU-G5TlUrDOEhCEXjgb8KUcGfRpHZ5MAMxnGhTXpA7MBGfo3LaRg3Ji4IAc06EG6A",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "12 E Admiralty Way, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.561315,
+                    "lng": 3.370616
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "d600e4cc661edc0cce4d564c50284abfe4030c6c",
+            "name": "Prince of Anthony",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAEUNKXLbIvVODL0JNoyiUExX7aF9zf6IDwu07cGuD0sbOSiwpCkdk0vUFWsZ-mp_K3YxgA8fY7ADNWnM9B5TyTRGQ79KcwtRokiENcfBzgeined27GlxDJtIbYOpudtPKSWWu2WsBUd96VXuVt96w1r0_2PlpVxKioYnCk5CUDgwEhDDFndr9dZUIO2Dra8U5tRtGhQQCf-wZWfkhZzOWDeUADiO_T8zCQ",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ7fI_3IWNOxAR4cEEU1y6Bf8",
+            "reference": "CnRlAAAAbvc2eDXX3r3w7PpUJ-inF-h7uhoGs8CNnNuvIJeH39rq9ZWI9q8RbnvkXDNivfiG11Y6ijToAzZ-WnsOguA694Q07UDGgRWMukXA0Yn7vx_QEcwGjE0eXdlBOtbPUW5c9GGl7tlhmc33zYIoOFMKwRIQHi_kXdVawsH9m8dJqzzMwhoUtTKY_E0s3mAk-itYNyecniQE21c",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "27 Oyedele Ogunniyi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433935,
+                    "lng": 3.471857
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "42c41b6ec84ab191dd09eb7065ef79e30f3a906c",
+            "name": "Comidas Calientes",
+            "place_id": "ChIJNTRKJbL1OxAROFbT6ROYolM",
+            "reference": "CnRkAAAAUoNGUDP-2Q3rYoggESep8fqsryOcj1nPBsxmeeYKbmwdbeTpDvFDQxM_ODs0tPdvXeNpeVfmOuRYmkilyw9m_JUaLW6L-_ufJdObnJGrZ4VbNOo5ML1kLPA2s0WzMH3kCYapShTzrQW4l92i0F3iERIQCDzekT-Zsq2vDP7kyB3g1BoUUKkaxhdNf8pn7v8bJ2HDqW0JBz0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Suite No. 2 B, Maya Maya Plaza, Lekki Expressway, Lekki, Nigeria, Lagos"
+        }
+    ],
+    "status": "OK"
+}

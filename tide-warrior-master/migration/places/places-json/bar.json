@@ -1,0 +1,577 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC8QAAAGVC52Q6bCrsIIIvpiNsMKK7RnwaWWEN1vLA-zKhfMY4osLnNnx6FFNvgvW2CoYomJrtHLp5h22dPhN8NNM0q5HuTIzhw30ScFvbk2tP1qmcCLLxKRU3Yf_Db7EwVGToHNMvN2R6i08QEJraCJYs_qCfx7CBq5N7_4YodNtgL3bZHjs1gZe4Eo1ewEMgfSItobBG4PCjdgQqlfwEAKcJFAFW7fnl8axRKHaDJuUUWk9cFARqMwEiNgfnAolMvyT7xtBnXHgEYCqAA7pualXo7fsMe8mV22boArPZjDg-9lSowBCPBt53gQBb6svaj3zp05k19-eQ3XiLsB4gTUDtoQsSELC4je_KR0QJihlALlg0SCQaFPOoOLbOE76GeVDqJudyocg_6jXW",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.614002,
+                    "lng": 3.355957
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "97978662c17d8b79b08d5eef20ac757d1bee3b28",
+            "name": "De Renaissance Hotel",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAS5kK1_jI1KL3l2uCNHG_Q5K46g2thZ_BFvt6-H-EE5rioVcxLPAPbh10LCaN_N3jo2YajCT8O4Q18uqgTI7cK5Ldrg2FYnvp9wBObtjkwGccfORAjyYuTmsMC5yiAw0hzH4fSGZnkn_saChbzgzXuBIQTE6CZ6nFfAmp9BFLYESh6BoUZA0pP5KeuHrbIGg3esKZOBwCRWs",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJh7kA7TKSOxARHx2j4JAN6m0",
+            "reference": "CnRnAAAAm1r8DNiVPhPnvRDV7iTw_EXYUOL6luQnmSvC3yCvmt7Qz-YNyyZHuF1ZvPoigXvLbKUJIlcQ3gnYHukUJn9xyeCjh8vqbXHpextz559NLeHxWPR4F33lQNqrArzM6XolZ0FqExX2rjeeQ_A16HSp1xIQVtUXQuM2fhHWL-ejd_wHCRoUz6SqIaI2kbxdnAhqo2sRBJvpQcU",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "172 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429057,
+                    "lng": 3.424591
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b48fd630ea060707894c1baafc56d3576953746e",
+            "name": "Bungalow's",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2576,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRrAAAADyN6j5m22cz7RgE7uvGQbYNGP9LZ_t0NNEzupWFGl8DjrGIQj0Pmm525Tuiy6bO-2uxXNqSS260nMcjEDeVYpLgm6Der-W5dqC7NC6wIsFnOvsf9Q_furevhFr6GvG7ywALtSHhHO7GonRu_UkL2NRIQt94vniw-UG4He44J27-cdBoU9E_7sfpqsOxw5dbSL4V1iG6pq1Y",
+                    "width": 4592
+                }
+            ],
+            "place_id": "ChIJz7af5S31OxARfwhYMusEB6k",
+            "rating": 4.1,
+            "reference": "CmReAAAAqP-N3ET5hRtB4iu6jY_ho56BoQ76SmDjYJCwHLHLXy8MtqUeMeLFLQg1VWhQMC0nnDY8iDyOzfWYb10kgCc3MXBYKOjDNG190N9xurdtGaI59u1aO4wV2iLHr7a-I2prEhBGSQvCxmI1o0jve3yAdFDnGhTQKtIkrz7g9lS6WsHw8aG7yHWJeA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "1296 Akin Adesola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.581429,
+                    "lng": 3.358178
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e9a54a0970d600e0abf0c9af999483cf1883bd3f",
+            "name": "Rodizzio",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAgK8aYzAgbO_zfRWh2jZ79ST7gblF4HJTZVJFnZRMHGgn0N_jnd2TT5mcVvt8vGE0DytfsRNaBDGZRdabRor3k4DorhrxWMEqtqLaNW42EeMXGWh9pQ0xwKm3bVW_qX4YspzduMukUdZuY84Qb7ArXxIQtsBJVGB3m-uUBPZrWMFO_hoUT8qKSD-4BAzSDnvoHfwNzBe4b_Y",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJgbXDOhOSOxARcpoqPqinY5Y",
+            "rating": 3.9,
+            "reference": "CmRcAAAAKViGT80x_QtOccoHmilshAoflb0nKy8JHjodTVmaTp6XIumE452jqaZ7DIJhBMWzXFVRz8HJxLY0TPgONqT9O2LnUIGXFTQC2wYKRi13o2x04BzVEpru2RjLGS6_dX0dEhAlL0UQDk1ssUFFuQN5GBijGhRtLGRHuzxTxpepbA44a51a0qikyA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "cafe",
+                "bar",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "29 Isaac John Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.561315,
+                    "lng": 3.370616
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "d600e4cc661edc0cce4d564c50284abfe4030c6c",
+            "name": "Prince of Anthony",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAH_dGV-zAwn44k-yvxKI70fvpZDq7tobTVgD41Ua_e1NfJz__dKc3lPZDn8G5lC4BcQ5U2uXdA2UoOPlY7iFS_Sb8U3YLQbEROwxKx2ARMl8bKUonK2AwM8Quwjy2UpgZq2VADNU5HPnv3pHTVYZ1oWXEInaznLnf4ZAhFj69TEIEhDiJwwXUbGOdepvIk6J8ERvGhTsdaeQGdkOnL3pBNZ3ywzTIOWlyg",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ7fI_3IWNOxAR4cEEU1y6Bf8",
+            "reference": "CnRlAAAALqQIXgkxkqq73hl6IlQdavxNxZqYls8BVOgwuW19ICo-s26FOIAygOBpv7wR6p72eMnTv8gigcZ1xWSpdiL_95e9izRp1gpCY3AYJsyMk8p9cFplwbLF-UuZ0g6o2h95cJenl13LN7x-Uz6jfRheRRIQb7PkF09P5NasK8_pH9QG3xoUItXJKG0jWcC3aH9xN_f2hMzgwe4",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "27 Oyedele Ogunniyi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430438,
+                    "lng": 3.439745
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "f699a7f4386d8fba65457227d9d974c1bab77bab",
+            "name": "Pat's Bar",
+            "photos": [
+                {
+                    "height": 816,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRtAAAAfSkIHJqbsTZGHUKVLvip-seELau2GAb7ItVJjkLxN90pTsvQnPHn4DiGRKsdA0bRv3IMneH_oluih2xg16bWGTdjy5yelZtjdD-KgMKDKWTcbZBfHr6j83a8dFcxX96kQwR4W9d_A4QZhDdY9QLcfBIQZ0DjFxt8V0xhMqAN5-RUABoUTLkVpZnb73Wk1uHrwv9IZ6RNA6s",
+                    "width": 612
+                }
+            ],
+            "place_id": "ChIJP0FVfxj1OxAR66wt8yXiF60",
+            "rating": 4,
+            "reference": "CmRdAAAAgqcRFLI73YI_t_qsLRAN8k90v_Ybsy_nhKFbUdM6urSGMVrXavsWTDjUGbyWibVT3T7HdINFpTYZUdAyFbvou7BBHdBhJLaLaXUh85owwW2fyFp8Ujycyp3PVQwJvcqYEhDCTs1u2OxpbhGlV60fOfozGhSz_n4dV_JxgdkpQUcvQxWURMPAPA",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "establishment"
+            ],
+            "vicinity": "Ajose Adeogun Street, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.452611,
+                    "lng": 3.256123
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "04e17291436e1b9c484b62b06fdfc9a6fd6b830f",
+            "name": "Shipper's Bar",
+            "place_id": "ChIJZ1gEsieGOxAR8bdYFAYxi4Y",
+            "reference": "CnRhAAAAdPI9zPHEqqBEqWgCSwB7k1u74c3iBI9d5scPnmwIH_giGbsOPKLCAjX7uoPdwmRzDw5jgqw7gJBEjEUM4lPYnOssbdzC18hOslbafasGLEGFSAYXRay58hhwFAYQaUCWAv84egYLkIT_PtUC5yvOLRIQneY1G7sXVJm5SF2qZixaBhoUDmv4iqXo_aTIJeDDfzs42tO0Jho",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "establishment"
+            ],
+            "vicinity": "Mission Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433159,
+                    "lng": 3.42331
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "6f49ccd5ee5cfbc7368cb2f3c14548957ef0bc5d",
+            "name": "Bistro 7",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 333,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAB0gOGjVMfUT0WotO1cPDeMx07hNuYnQSVwRIlsZQOzz6T0L8daJjB0J3_rtXavgBsfV6gh_LqyTjQmBxTmKe3UW1EsirWekv9U22KFZV0yaKBL6L29rPjs5BeGSQnwKNY5fCsZu3-A85yYFKoSFYaBIQKfCZ2Z5wnJdIf7cH4qusRBoUE7Ybyp9CzPm3OTxReMi4RkM55FQ",
+                    "width": 333
+                }
+            ],
+            "place_id": "ChIJcVm5kdaKOxAR-szcSfsNKqc",
+            "reference": "CmRcAAAAyMrVB-Qml5myfYffRx4bP0cr7RUGHL8bICMJqUOMlH4zHZHaKbGdPx-VQp0ct1Az4eyXj-KeAPnQiyvhZuf2jtNGWJmHd8WjqKvgy_JXHQh-12Zdng9KGqEoGZv5Js1XEhDPS5BKB3t1pJLgwcm9W-6yGhTIj0Ev2h4FPjqCQaa3rKj72y5QOg",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "bar",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "273 Kofo Abayomi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.422945,
+                    "lng": 3.427682
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "337c527b8d4d13763080ecbf711e1020b304bd45",
+            "name": "Michael Restaurant Nigeria Limited",
+            "photos": [
+                {
+                    "height": 1296,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAyrGcPCtqP1RbRLRAqqjNJ0VMFSk9ERS6LQRuVVsOYMwToMHZWYPXfGHEy8BypwfotZaEvhVRNztNBgqb0rc6ywr7SnFnCTwHYq5ooEvJrZ8TSbzqWq9Ho4P5fsp2SDA1E6R44VtCZKT4q2c8dXnvlxIQHoigwJChmdV3SOiDM3-4jBoUhGKOiTyc2MCx54fIB5rZ-SZ7yg0",
+                    "width": 972
+                }
+            ],
+            "place_id": "ChIJ0YwW1jD1OxARnhAGJXlRdgU",
+            "reference": "CoQBdQAAAItS06hvsxcuA0pbKfaBO-UN3X0ODLRR7xGvKU1SvdRILsHmi1tO3dkZV9W73r0-21MPkK2YGL44JKklM9b6_6S_IFkSualnBTD7-PZHND0dtn5D6v_Lh6nCcDVJ6_hLs3ozJpfupaZEG7oRnz-Wuzyh9DXfA6z3XUQSqctgbI26EhBUARreEY5-AWcAzF-WGEauGhSaqBnWgJ9PZuYtszjXxnvKRDNE-w",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "bar",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Plot 1411, Victoria Island, Adetokunbo Ademola St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.421456,
+                    "lng": 3.441017
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "8ee2d568a675a693cbd2935af748eeb57467fc54",
+            "name": "Bar Baric",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJRdngvxX1OxARNjvKPfmzi_g",
+            "reference": "CmRdAAAA_rFonIbKYPVyRtPK_lzONRkfNgS8lcELfk4BkZNjU3-4HZaSggbyFeVMHHR5kS-emebeU6gQHko_9IdEdhqhUjPNS7qJ_dTeH95ljbPrDfIlw6iTO3pT_xN1osrPUBlREhCvKG_sPiJjMrI5_5AKPCSwGhQY41nywtySTBdDT7HBZn2T4vkpmA",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.550827,
+                    "lng": 3.37052
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "87a8db7395462868486cc42fdb4a7e4201205d1d",
+            "name": "Hybrid Sports Management Limited",
+            "place_id": "ChIJV6IMi5mNOxARtt6W38pxC8I",
+            "reference": "CoQBdAAAAFIIo-E0C8jGy7-tEZwQ-gY4g8jyYkrA6VC1MLAYcEvRH47a-zRUUt-zg5m9ILhPmjroy9X3GMjSAnkoscAqaESqqR5FsobNtduPsMugqctGsiG0zXWOIST7SK2kdmURR36D62y2Ysk6nVrkNJ2f8eKMr0K000H_C2TKvt9UZwgiEhA52NHocTn55kBur2TNgj-1GhT_XNmtska5aL-tl54QkZmVHHgo8A",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "establishment"
+            ],
+            "vicinity": "Alhaji Shomade Alley, Obanikoro Estate, 4, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.440913,
+                    "lng": 3.453827
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "85ad07ae52e5ec98b00bd0e07a1cf95a66aa7767",
+            "name": "The Pavilion",
+            "place_id": "ChIJqQwbyf30OxARsYnZ91npbkw",
+            "reference": "CmRfAAAA1Hr0YfSLYh5WPMdb-YzoXI-8iMnmxLIG89eVQk1CX0hsif6wZ1fO1uaoR2EPzFEY5ATePIVHXE1_cTl-9DwCcj3PvsCQ4_VUCofTc7iSoSCGWWTu0Je89QVaclh-4tGSEhBCMpXcMzdhyAricUQ8X--OGhSNWFbp7CYF8tgX0PBBbEdleVpXzw",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "establishment"
+            ],
+            "vicinity": "Admiralty Way, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.58014,
+                    "lng": 3.358548
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "3c6b80eb195582150e830515f68b365e381e8873",
+            "name": "Metro Park",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ48pqK22SOxARCWA56mYGiBk",
+            "reference": "CmRdAAAAUjE4Y8trrmKOWjjB4mtT9izzDTMas4xv5Hf0JAe5WKHGHFSkE3O5xel-1rE6sr0Hc_oW4tu69PVJGosdjB-SSc71URMSnMr70UcWyZYAfNiCGYj2XoDwo9whRHmyVMMwEhAO2uLmbXUfdKY-RaO_gPVHGhTaCI6-mGNcb5wWnt_x_h4lh8B0Hw",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "GRA Ikeja, 31 Isaac John St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.60188,
+                    "lng": 3.33966
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "c046764c444c85f6ff8de18baf3c3092c03d0320",
+            "name": "Ikeja Central Hotel",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAq3Q1foEikMFYB8b2mE6t20IdhE4o1LQuRJPKqn2AurQXNedbXnNLhcJNVWCYNqpGM0TT8TMDrIp2MvIjkoYoqTYM52VGtG7gv6rc0naT-f4L4EMAZzsENkUK-zo3YttCbiYPSSRNQhnih5AuyH3lHxIQkr_Jd87-AahO-P1Lz9Nl8RoUVHwS5DO2mbSG8mlQ4orlq0b_xYs",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ6WxSQCiSOxAR0loU7uO6Crw",
+            "reference": "CnRnAAAAYpwyQtW63yBIEnnrusDa76OEiWh6hCvULuHMWB3Hanwvdc6IaGQUzS5gGhS30aeC9wdaQWtmP9NZCqgRohAuCs6sRw3u3oBESsmKMcC4HRz0c_2_tlHkjkhOBkENnAHs37TzHbQlCOfAsrpaQmfXQRIQYicEU2Eev-8um1AadjJ0UBoUwEUUYbsjQ20B-Y1Lr0Slz6Ro5bw",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "6 Obe Street, Off Adeniyi Jones, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435378,
+                    "lng": 3.429642
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b2468abc96eafee368aa0a0ca4d857fcc60fbf07",
+            "name": "Pattaya Oriental Restaurant",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRsAAAAvVDDHnQ3h0n367V0kCKBw6pYNYZjqk_gtsxP85qeYtvGzFldbv7N-oCJzbPCO51wz6SK-qvW8BE_GATyBTMTA9Qh11yFB2rhUP2L6UuzuTUPTU6UdVoxEt6cUSGYD2BD8-XIBflrSUuo6ez-7ZgjJRIQu7JrEio1Vz-MtE1XN8ME-hoUhYm9HBxk1VuKqU-nN7vVUJsC3QE",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJc7KAnSj1OxARiBIXqQB0wdc",
+            "reference": "CnRvAAAAH376o5pFdwnTlno2sHynbYJPGWhbP_FucokhlweOmctLlKEFA8qFVS2A4IA5cbHF-nso0vxybK5rhXvlY5eGQSelLcyt0BMy8AHS7wukWGdv7-eZBjyJZjC1g0FfqM0JFDTkmm9jTIBx3LT_XMDC2RIQ539qzPJffNY2ihTT6GOFfhoUL4bcodgHOw9rwuawXqm4-cRcNA4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "30 Adeola Hopewell Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.552496,
+                    "lng": 3.336754
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "77cecfed61d422dc35710a34814b717e9d997a77",
+            "name": "Ugo Wine and Drinks Shop",
+            "place_id": "ChIJVfDcmAmOOxARJZlf_UJSq-g",
+            "reference": "CnRsAAAAZQj68BkyI21zcx3u080wlksUmXTN1JtfXPySofpNaGw_ZjJJEBElv6UmTngbdt674pmqTe2HKVsWPn2YSDvRNl-IxWXOV_4cWs7BGTMB1luVeDAAsOyuRD0niZTdlZGTZH8MEozemCypjYG-4ouTihIQ0EYcWpDvcl0G2O_tJQJOuxoUFqOe_b7Wp9dXr6y2TNjJVkQJECs",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "bar",
+                "establishment"
+            ],
+            "vicinity": "14, Mammy Cantonment Army Barrack Lagos, Nigeria Sadiku Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.61398,
+                    "lng": 3.355959
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "de892cf6a4f336e6dc60215530df87e868ddc3eb",
+            "name": "De Renaissance Hotel",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 740,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBhgAAAGUX3ZJI6Om2xv0HS4UC9XaOYCvAU-dYdwZzyX6iwv6SkWjiPCwWKW-Zxfrc9AcMEw2sVHn4tTDQzjxI7vAzUWnsosRTrwfa0y3x3uiVd10km3-cTmVZLxQ1Z4343FOpuwbekPjvEKNAs7v_KueTN5iDjisZvZ-hqtBqkK1N-xVof3UOwCaVCTnfSTokV7a41BIQAoe7vGejEtuJnV3jqlAwKhoUx9SusvDjIUOFNws-uJ9giPhWalU",
+                    "width": 742
+                }
+            ],
+            "place_id": "ChIJU5cA8jKSOxARUU54s1jthpg",
+            "reference": "CnRoAAAAUSLBrNVAeuu0Ua-tRyZmeClfp24xA-UsZPGoEs8Ig7eX1Y9E8OpShhT9Rr92t0-OPE3LMgAJCHFOVkgwYuW-E-LVbw6dPkxFG-LTUTKPUVgcgcnewTAOWrZPK6XB-7mOwNSeWvfFJ78PVv5KC58kshIQMCQ742Iq5dFoEmzPg8BgehoUytrNO0a-PYFv2EK-M_gi6a4gS30",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "172 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438471,
+                    "lng": 3.423443
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "889beed9e81863806895d5b0067b8e5912b2c8ba",
+            "name": "Fiki Marine",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ-1aaECr1OxAR23o4-cEo2xY",
+            "reference": "CmReAAAADZZtSwkJQXqAIeBwVsdYIOvTcWJojOy56mjPE40lZiwniWndxyyNw3Fj4zVFSD98YM4v3VYskp5F1_ouP--KjdylQw3Zb0JnZJVEYvXeCXTA7CzqRUVCoEt-40MnEPV8EhC4tlQLAdoA4vgWxGLvWwkYGhSiM5Bt3jSS3cO2jR3ZY6TkcD8iqg",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "3/4 Ozumba Mbadiwe Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.474067,
+                    "lng": 3.274727
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "dd3bb2e8af40db97dc768a4f208fd66f8b2803ba",
+            "name": "Sweet Pea Caterers And Crafted Cakes",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 706,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAACDrRDwyd1G-pXdlKLjQx2oOPImm5CMJ4iJ2Gg_kkv4Xdw3fSZGG6UUSpKGfsHsB6Zp7GgxM3bl2rI0_wFtKhD4TkyHngLQcyzFdxAHibchuOpjZH2ZZSssICXaZc1BQz97dRSwNJbQPyBtF1d8HCvfdejyOHxv5F5Yz6cGIMfS00DSWMvUjg_apeIhmBVZPtBIQR-Renny2os35Ksw7_yjq-BoUwAy3YBSvgRQ7QVemcBD7IMEzK_M",
+                    "width": 705
+                }
+            ],
+            "place_id": "ChIJxeEFHLeIOxARjUAyeKP5zkc",
+            "reference": "CoQBdwAAAEg8dQi8oauoSuvb2tDOgQIGEqake8Hcb8DOUGNVxcn-aFsJlbjx060usIes5FWo9iqYFxRmQh6vlPvk6Jjk5xkYD86NjKxxrGugb73hAGjjfjHNSpFaWvCcfUzMb6EZc1391v50S3epTO9kElRbQMjUWw2jarulu1g74b2Lm5CdEhDhGOk6KMG8O6EzZxvtSppAGhQv9WxE4NFCxlLtwfivcQYqcNR7rg",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "bar",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 23 Road, U Close, House No. 4, Festac Town, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447453,
+                    "lng": 3.469888
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "878c12b79f5ccf408b6fb7d29fa70d4eddde98f0",
+            "name": "Base Bar and Grill",
+            "place_id": "ChIJ_bgDJ1D0OxARL5AoUVtUtlI",
+            "reference": "CnRlAAAA0D3vxuorpDaniU3cuBDeXmhGxS7qoazgq5jNOa6bzvBW_YxBNFiDN49Drna2Ub4ef50gYz80M3-LuCRohXJ0zKRbyC1ENfAICXaiLGfq7vazldc-GpZAs2c9HWSJvYuruD3_iHDtViW9RqxKVz5TWRIQyR36KtP4TR2n8UpRZjvGVhoU_me_-mFB8MCUD_Oe4Nc-vgVlsq8",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "establishment"
+            ],
+            "vicinity": "Admiralty Way, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435693,
+                    "lng": 3.493203
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "7765e94aaa1ce3ab9be1c6e1bba3a03e4f972949",
+            "name": "Xovar Lounge",
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRmAAAAf7_xCLK43j2B1Sa6V-aOXBczH3aATZZX7rBI6x70juKPVQ2s2luoox00wr9vof2koXCDGLbgzO0x_tW9GAnmJwJhF7URL326jAhin1lEtEmeBjOj-NikKs__qd8UP8YyhqhMXteiPGZbGDLuCNqMSBIQX_8GM4J7qclxcoPGfUGnAhoU1stXbavb-aai_hf1pUjl9qGzdlw",
+                    "width": 400
+                }
+            ],
+            "place_id": "ChIJY_CyqdP1OxARXcfVvBVVFs8",
+            "reference": "CmRgAAAAvYeGSkA8KTnq4v2ojt3nE2SeA_DJG0p-ln1_axZikeIXUwUaQVfTjXG6BlWRopwjcrNkBlc5E6CuN7-3Vq2AmYr8meiQrC6H6it1s9uiUwGSQLHqtqAoRgZLOoVBmwNWEhDNbEZ6LOtQg1iCfJmU4UN0GhRAO9k-_UmC_ChV1ZNhqr07wC584g",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "establishment"
+            ],
+            "vicinity": "Lekki"
+        }
+    ],
+    "status": "OK"
+}

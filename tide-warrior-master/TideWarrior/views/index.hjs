@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html ng-app="mainApp">
+
+  	<head>
+    		{{> head }}
+    		<script src="/modules/main-app/app.js"></script>
+    		<script src="/modules/main-app/controllers/homepage-controller.js"></script>
+        <script src="/modules/main-app/controllers/places-controller.js"></script>
+        <script src="/modules/main-app/controllers/events-controller.js"></script>
+        <script src="/modules/main-app/services/places-service.js"></script>
+        <script src="/modules/main-app/services/events-service.js"></script>
+  	</head>
+
+    <body>
+
+        <div id="wrapper" class="toggled" >
+
+            {{> navigation }}
+
+              <!-- Page Content -->
+              <div id="page-content-wrapper">
+                  <div class="container-fluid">
+                      <div class="row">
+                          <div class="col-lg-12" ng-view ng-style="{ 'margin-top': '60px' }">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+             <!-- /#page-content-wrapper -->
+        </div>
+
+        {{> scripts }}
+
+        <!-- Menu Toggle Script -->
+        <script>
+            $("#menu-toggle").click(function(e) {
+                e.preventDefault();
+                $("#wrapper").toggleClass("toggled");
+              });
+        </script>
+
+    </body>
+
+</html>

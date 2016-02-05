@@ -1,0 +1,87 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.528236,
+                    "lng": 3.32447
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "905e72a2785b1cf570c4a176e8147d89e3f92c21",
+            "name": "Ceragem Physiotherapy Center",
+            "place_id": "ChIJCVUnxWOOOxARuIKYkux7GNo",
+            "reference": "CnRwAAAAaOw9eDC_p384SkUuSP6awDxpmo7eQP9KPDMj0Qb3MntdaxA0DnQlBIgxNezK0_1l5KSNCA7XVNgix7mU0Zm8htBgmYqldlckb3Up6vH3E7Gc81oU0qCHBaSFJGyVSO4i4ZCYHr5xrJ-Dre73lc4WOBIQp2r2iqWhWtIxTmHAFMz08BoUrYTEjmjNiyM9uuwTkTiN9jN0bys",
+            "scope": "GOOGLE",
+            "types": [
+                "physiotherapist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Ile Ibadan Bus Stop, Isolo, 79 Mushin Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.605025,
+                    "lng": 3.350262
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "b2a02cf2832fb770403e62f81897b91febea24d1",
+            "name": "Ageless Physiotherapy Clinic- Physical Rehabilitation Center for Children and Adults",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 822,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAACrzxTHwxW7A98GF84eK9Wh_BTwOVxK_7l6Ps4jZHTkfcdKBxmDz7-Dn1lNdolTwP4nk_qHC8K3NmHz-CT15hYo-ccXU6_hQeS4q8BUJ46NHXPjVXcH2FC0-S3K-X-gt2jBr-StFnn-44boVgh6fqOxkbsHge6yWtYr7l4g94t6X8aHZ3ov1PCipXcIuYhZFPhIQvPC0-0IJBqftoVi5_dg59xoUmqiBMDVR5DnzBKd5ijb0X3kd6Io",
+                    "width": 822
+                }
+            ],
+            "place_id": "ChIJFzeGIjKSOxARYvZxFJaf2yM",
+            "reference": "CrQBqAAAAM-txxffFYpqZw3G85pLO6bt-8hv4g09cwhvEfR_tU6vByngKevBFZadfUN1qW3ksIHJb_KD9aCu_iXhZtyZ9DlRhl2e5jS0aD8l69yGCI3eXGGMrirgWrUSkoB5M_2jcqPgHvx3hok92Y2FQra6elw3ueMTdN8I_PihB4cUO-TEKrZlL5Rlq2qwDKpChIrY8BrhXRGZGgaC6PZCdP9LX-o2ftt97IIQqE9PExryE0YUEhAK768oqqGPAFYN_zO3_oIVGhQRmgIKWfRHb0a8r3X08qY0-UZF1g",
+            "scope": "GOOGLE",
+            "types": [
+                "physiotherapist",
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "19B, Ogundana Street,, Hilton Bus Stop, Allen Avenue,, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596305,
+                    "lng": 3.348092
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cbd6ba477934459ab80d4e2f7ced14ec0bce8971",
+            "name": "Elicent Physiotherapy and Healthcare Services",
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAA41cO3OXbbizLvEl_s1vX6Dqq6Z752jRyLHMivDWu4BK_DZIjYJCx2TwpdmmOiOJtPbwaO_yhX15eG4ACB-yUUkQwhEjalKYyuxjJlWT2Iiur1cClVGwP_k4s1AbQ0tYoSvtOkNwWKNxa04KKeXEj5hIQ7kNCSShWg2ho9b6YEVevnxoUZgFb8BlLZZF03k7-OA32yNHbbOg",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJNfEY4ySSOxARTHkMK6W0UXE",
+            "reference": "CoQBgAAAAJpoRfoxinylL1HnIdmV86_iQ3pnc7HBx69Rj93bOU5-2PJobhvtH0ioiBrPB4JsUHO2bSj_lXS03Mq3yf7YQaiX40SVyY1Cutjxn8KDvU9Wiwf2sUzzKCwQvVWFC8I9YqbHoOLohGzfFl_4EMxV-5r13lWdx_jQFyT7ZNDck0qHEhB09E4t7apREwvlAhtQ0TBeGhSFTyi-OLMOvATcdNJJIy8UsENLHg",
+            "scope": "GOOGLE",
+            "types": [
+                "physiotherapist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "3 morenike close, off Toyin Street, Ikeja, Abia"
+        }
+    ],
+    "status": "OK"
+}

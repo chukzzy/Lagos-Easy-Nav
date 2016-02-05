@@ -1,0 +1,420 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAJ3kQWhJSnDHxVqQTobnioegBNxcvwZQxzQe2IF_93mfNcy1RbTzKO6_RgzLgzlyYPvQDeS9wnMlTjNQZtrbSbvVbt3IWbXX0A2xI8pLu1d743WMgjuK06eXk7Eaq7wFZPceVTvzUMwvTjuMsLjwlPG2FhCZQaFwyZFSnc4HED_4jjjNqk4Tc3lor6nh47ZksH2pYCY2ZqJoxumgZjuSchtLfxrL_3RNY_sysHCKLPnnadPMRVquHVGpCuiC0pdvGRRbXBqV98fTj97EtwZRGs1NwUGr93FOc8in6PL5BYPeNe1FcUrZo-pvWMc7L3vf4TmBNGubuIRZZvVocZktN3wSEO6CoTx_KPDnM5FaCYIXbDUaFL0cHExMZFQdJ2sAz0p1yeDtoZeD",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429899,
+                    "lng": 3.411695
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "1a1ca180894a2547bbbb4bd82e4b342742e4ab52",
+            "name": "Embassy of the People's Republic of China",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1268,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAVvebkOEt3-0FiRMDpKd18K_Fqa9Iyd2Wox4rui48KATDRafVETlvqc5qB7-DNWPpLadFCfJy5oEm0qwq9hPBj4pL9hFuk9juhN5SHAJmC8tvjhQ0N6-aprrlhoSvkgqdnJ2ga2HUa6LMXk2b-Fb1MxIQ70gUoTTtnL4wns3Z0LjBrhoUO1RMfjSUL3BIuLWcKDHR25i0WKg",
+                    "width": 947
+                }
+            ],
+            "place_id": "ChIJSefQS9CKOxARvX825YKgRgg",
+            "reference": "CoQBfAAAAAGV16V-EehbkF_S3I6pG0N_0xVTgC2cRfj-Az41FQyk0T-qXtxtAHv0UYLvhA9U1ePHiVX3XNBpiI9SfBG65nuTnHO64gmWF5ItGdSk5yndCQCSf_vJGj3Fux-GVWTyHX9eof7grVzjCp7FxO_8_iE3JWMkLGGkPXkfQEy3Z2IXEhC0dhGU3cU7Rf8eY0y-ZCq0GhTNuX2DxdOFOI6z_FDgjndTKieNSw",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Plot 161A Idejo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428063,
+                    "lng": 3.432203
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "c1ab148eb06bda1baf3dabf7cc3e3c86ae841018",
+            "name": "South African Embassy",
+            "place_id": "ChIJUT59Kjv1OxARQGZ8_u00KdM",
+            "reference": "CnRpAAAAB35_crOfq-SDgj1bNb9gUZBJzHgTfH0Iuru0AJUd7dFWtINwCIQoHeHl53z1VgyspjNrlLRO4Q6kDB8MntH1yBWR2vMinTSIt4s2VeklpCJTK7JOAsAaeZLvaskvp9NsCq-ab5W2zzAgv42ZPfFRHRIQP7AtycHVE9bhiRGg_ZgPFRoUM4vQ07Ut50JS-S4fiJl4mvGO1BU",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Sinari Daranijo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438453,
+                    "lng": 3.40765
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "d431be6ca07ee0724f1e990deb8c89b1f35a2885",
+            "name": "German Embassy",
+            "place_id": "ChIJCRWBcNiKOxAROWGZvKIuvrk",
+            "reference": "CnRiAAAA1SYPycvRNVbcEc9yEGCNV7Q1oc2V9HZLSCVjGMH8YGqLI1hvhW2bdQUrJnHpBsKZ0OsMvpN9j0d7U9Go3UshBQxcACOvzh3j9TyRftdlkdG_0g_oz4V8RYYHC6DaFPM9QQwNubdyKPi6p6RmzY5KuRIQvTEq1vqTwqWA2NcNHp5KdBoUvDe46dGzEyepBHnaSZnVUH2ua4g",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446607,
+                    "lng": 3.405711
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "74cd9584fe4cea64f70dfbbff79fd4750682cb1c",
+            "name": "Ghana High Commission",
+            "place_id": "ChIJX6FJUCSLOxAR7MJuG3rvwDg",
+            "reference": "CnRoAAAAuXBiAE_-9KzJcFCeZCzVHPPITJ6rrMdIdMbGmNkucy46gENHU2E5kE2koCwxcxYeV2WpVe70sQo5fDXRnW6c87Z2iGrfyBs-9RwfLBw0xwsB9x2_InLwvY0iraZf8BzEYbECvSPzlvCnliFqCwHgBxIQcZcfzl6DF4e7XJfmwm1gmxoUlATM66u-jBxUF2_C-KtNiKfi9Mg",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Macarth Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428076,
+                    "lng": 3.411759
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "95244c033f5d5571d447c32ad9ab60b82ca817e5",
+            "name": "Embassy of Spain",
+            "place_id": "ChIJM2Jy1M-KOxARXUuk9UVq_QQ",
+            "reference": "CnRjAAAAiCqUcDYsBwU-2CM1TQ8EBa9GK_t3HFudOL9rSIES8HuYKTes2H76nihH_hC351nl-9-vgf9Kp1hv4mZEH1qnVMx01KT3RV3-ir9uEGBX-0ZzQ2f9CyHKPXXWwjtC57CR7QCy5P7EBExb_eFB53d42RIQZLT0DeVMS6rXsmYWG4MqmhoU-UOEpQmYX9VTbRHH1f0Hy66ZApI",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Idejo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439213,
+                    "lng": 3.407373
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "20819e6cacd93b7ac69245c7eede7c3545df7f28",
+            "name": "Swedish Embassy",
+            "place_id": "ChIJGe9hhieLOxARjFJNTyQUk9s",
+            "reference": "CnRjAAAAtaqMj_6uZJZLNG1ycYZ6b7J0BfVX0ww_HPmyOTM4OS8x0O1WbIb_GDboJqiGeB3bjSyhkrRfAxRpV5O4vBJFLMY0D9jcTgPEn98gpfPwoHzPUcMZw5N2NBb4V3BCnZhB4BmBhUkbl1f-_BxnYLgE-xIQF_CUZyCn4AQZcIv8VAK6rxoUatBLUe8dGNX1xOEW_ApD7i4UW0s",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Eleke Crescent"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432836,
+                    "lng": 3.412832
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "9e458c43c620a2e1aabd22091a9570df28c7b58c",
+            "name": "Cameroon Embassy",
+            "place_id": "ChIJN4qzO9GKOxARkfCbyh8zETA",
+            "reference": "CnRjAAAAH3Qi5SHjfPewCaVoh4vHLmsAfL4Bgth-_LaryFVDGoOIXYbyTxc3B-0u6R7VEYmaGbz1aQUARUNK_EkGRHgN9XN0WMHdzY9kyJd-3FEflwoys-S7Q3b7To_3ZjLNGdVYZTveh5YGSocs8DjSWJpCEhIQzKaRnEGaGIgghDL6yzt_ORoUUetPxzFpMwdsv7KtkIaLcLII744",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428046,
+                    "lng": 3.412214
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "a98efc1b22100bec3733d4ca73891cf87ed0bbd3",
+            "name": "Poland Embassy",
+            "place_id": "ChIJc-P0K86KOxARZih2Hu8S8jU",
+            "reference": "CnRhAAAAcKONsfKRvLMy1pMcTWgvfiSBiTDuBXQlsJkACZIu8GFDhcp2DZl9Fj22ziqvpycOA8KNtVN1DcslHKT5DPbP5tJY0WvW6ulzkF_OpeXvS3KTWSstJLq17upCrdW1t9BQ5rCf3NZlpAFN_z08GRtySxIQYEFc6uCKkjUqv97JXyQONBoUg6amyPdsLkY-wWSGeKyTiR9qX2k",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Idejo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446448,
+                    "lng": 3.406442
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "e4172631930f21192786da6b0a81dab16a57e20c",
+            "name": "Ghanaian High Commission",
+            "place_id": "ChIJX6FJUCSLOxARFNs8NlwTwlU",
+            "reference": "CnRrAAAAKd-K4cyRek6Dv8r1iIyYFfoy-Xd4AyTsW2QaWrc9ofTyGaiFYxn4cGA5ndqLVuIA7hnEbfcbh9pLeY_qq3aVj0BFSzjUnTSgwX2Wql0O_DIvhdYxbK9rJvGCzjIy8_0qQU-E9dFyCOLh2U0KZPWcoRIQ94-sS1sZw9ui6ERWOUAZdBoUFmPpqXdwjq-hp7FHGKwLIIVhWtM",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.440536,
+                    "lng": 3.406783
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "0b820200e5dc8dfe69a24c70577603d5021d8750",
+            "name": "American Embassy",
+            "place_id": "ChIJNY4dCyeLOxARTspHIrxFOUY",
+            "rating": 4.4,
+            "reference": "CnRjAAAATgEthcoSw84pyLMYIKMme0y5X_RMUl8yK1J44E_ZwacukHxSCdnwjUz7NSlqbiGh8zMwyn_6q_KrrPOwm_nuWcKCvjPPEARmJvnd5jFg-3eygwUpxT9x_FGfkrKUbrLPoJLqm2k_iFNXysT0IVe09BIQnf02-P0GUovoQTwZPsIE_hoU1h9WwY6AjppJa7-qo_1N021WzPA",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.427916,
+                    "lng": 3.411748
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "2450d22b4758da14a0f59dd6118b8e37d453a62e",
+            "name": "Lagos Office of Korean Embassy",
+            "place_id": "ChIJo1IL0s-KOxARbK62keQDLO8",
+            "reference": "CoQBcgAAAGmxUafRQFC9Yl9vowk1wsk6HLMn22l_YzmD-p2_spAgLPrJiCDGppLIlaboBtibQPhUIXU8pyd6QEufxucagFAKUN00VH7lRJeN_EVup_sC1J8MYLckZpILqGAvwRsrEBn_UvqDd81vKK3oQh-GA-1ugQTnugK4FAFfz0CgX2jnEhBX1KFc7MS5yx3SjOdOuKS7GhQ_x8yAih7B9qm6DA1Ugfn0eX3rrA",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Idejo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434276,
+                    "lng": 3.41096
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "d4f37cba033f344325ea7650116587576a8d34f8",
+            "name": "Cameroonian Embassy",
+            "place_id": "ChIJJ6vgNteKOxAReuw23TYhFiQ",
+            "reference": "CnRmAAAAVSLsPSGNUR6x5sKZGcnUV-VC1rKh3uixBQX8EeibpRIP4OYkqBwDdwrGod4wF7jRvmMJTzSI249FKU5bJKy7noWS6KQnr0ZAqkDM_sH3QuBo1ZbLAoeI3AgbkRt1m7zkzNkvwreWBK5dIswm9KyYZBIQ9itsWuSWlF3P_c1Xk-nOzxoU-1NoroGwiAOSVISvwmvR2vP54Nc",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430926,
+                    "lng": 3.414902
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "efcaa2f34e6e0988f376cb3b584c323a761d3b04",
+            "name": "Niger Embassy",
+            "place_id": "ChIJNVOhLNKKOxARiuNvbTrxG7c",
+            "reference": "CnRhAAAAra23SmYuTazMkdrYYYgO72l-A457W43HhUjVPg2kvwvBj2I3IwSBVVab-r9lOyO_UnXN5xQH3qzToPhDfF5VTnq9BiYBuGd3FgjbVsKfXwVgBF3sdselfKo8EXtOjIOR7uO2v1Jgbj_rgqUEPy6pthIQJgN_bLrZPm6rgtp3nlD01xoUtc1eqHbzqFb-ZPyDO9_35Lwfb14",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "15 Adeola Odeku Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438661,
+                    "lng": 3.408284
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "e82f0f8f701d2a527162557c2574e2d58e63444e",
+            "name": "British Deputy High Commission",
+            "place_id": "ChIJA7AbDdiKOxARXHBbNFADZws",
+            "reference": "CoQBcQAAAMyv7jbjWJnHikFPiPeGOeQZGn__zAM9OAVsF2uCHab77yTC9NiwGPkEaE__dW-72or8A_W_yVAz0rJ38Edp4tto274FEFgAymevRwq8vDHCFzKGz_ADR4pesk8MV2fqeIqKB4t6cWKmZnWcarkgcmg7eqE8h2cjvcQdV_-w6Vf4EhANKMjb8uaBUzeAlI7hi_UCGhRQfwRVu0cD2cqMxSvUdLcPFvJ6KA",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Eleke Crescent, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435474,
+                    "lng": 3.416952
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "fbc5cdffe337a1a869657d69516072c28fc7854d",
+            "name": "Spanish Embassy",
+            "place_id": "ChIJV8yKWNSKOxARHOvk43Q77hc",
+            "reference": "CnRiAAAA8b5pBeRAOBHc7LuFq8CLCW6gBbFfzV-_9U4wzUjtrV1_c-BdFBL4aTrIyzQhTeCOM00oAT9W3Ng06jhQ39deEVIOF-Xd-5iWymz3KnFN7XFKoiAo_7teFQ4yoehx4bFj56q661c9skSK_BTXinkuoxIQ4NCJEjSBohxBV-DMdYshehoUDIHvoZPlv2iZqUwbXIiFxZLk2mg",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Kofo Abayomi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435507,
+                    "lng": 3.413036
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "3f144cef545a5abd45b8df9ab6886ca80f243b8b",
+            "name": "Consulado General de Brasil en Lagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJE8xM7NaKOxAR_xRvMTOQRq4",
+            "reference": "CoQBeAAAADxn4D4g8cKXC1909qo3HawqWf4iKmwuKN0Y5oJvoSyFNFhqH_-o8cT6KQNYeKqaVUUKTm_vMkhbVx4OsGbr_aEiRBS1dTUzX6oLaVBWvHFmDY79s3G3DCCOZidmjcTePd2djuA53zUyZKa-VqLub3nIcn16AK30YKhwEU0Q8F2bEhBYqmFtRQUBXpk3v0OUrXdiGhQ_gta478mcFMO7NFYEfh7zWbkmYw",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "257 Kofo Abayomi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439046,
+                    "lng": 3.410355
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "bacf3cfdffad123d01ddcc6017ab0fcda9fa557a",
+            "name": "Indian Embassy",
+            "place_id": "ChIJ3ztvBSiLOxARft9WkqTJiHc",
+            "reference": "CnRhAAAAny8FTA0bdfKH68RAQW8-_y1Apc1Fxp1WotLWODI_ME_p9cou3IQ5YRLPaY86KBIt0wQSumcu6oItxvoIxd9vE4zcLNjAZzrxBHZXvMo2nm3tZnzMtM1NHVRLrYBzK4DZ9r_XyuL06nRuxJBppnpcpxIQXChBrVNgtE5iH7n66UcZehoU_ZcD2-KRHeomZNYyH3GCChsp2bo",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Walter Carrington Crescent"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439804,
+                    "lng": 3.429864
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "15226ebcdd867def4da8b2e33ca7c7d7bca30c4d",
+            "name": "Singapore Embassy",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJeUU_HNj0OxARKKRWBUcPC2Q",
+            "reference": "CnRkAAAAbpKc2hTe10TfaCLbWqZi4Z330saJJin7dw3FdRk0QJkTxQQT83IfkJ_L5TjjkEfD6ZzfQwu8XRZVwlAKcwSrj-UZylaJJEiFq4LrtI_OYo8Xz3Iya0y6AiejwtraJyPVnEy18smJtzDqvooVDvSV1hIQ2cwfbbS24Ujzyz1K0p6S_xoUNCMRiB2PVBv1YbFx7t7pXFEnt-c",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "3rd Floor, Lagoon View Plaza, Plot A4, Ozumba Mbadiwe Street, Victoria Island Lagos, Maroko Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443366,
+                    "lng": 3.431064
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "7cd5fc73667e720bd1ef9e3f518e7c9c479f573c",
+            "name": "French Embassy",
+            "photos": [
+                {
+                    "height": 442,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA6eBQ4tVBsWFhRnlRXMDEdXmhjheaoBwwA2pC-PAsIiF2UDYqvu0_7KcHyKwUpyAXdFqcG8f1FWqt_eXgFmy8fuimXsp6tbz-1wajalZjVhNyGgufG2LrAVf3MXYP539RQGBssfHfeAWpAaAqBJiDjhIQbcsaCfybxy3SsWjO7d4T4hoU2rnGvfCKeQ0E65E9UO9tBc2gBf8",
+                    "width": 442
+                }
+            ],
+            "place_id": "ChIJLzWDjdn0OxAR3XAiJFRXI8k",
+            "reference": "CnRiAAAAJkRkzWSGgD0qFfSusl187tlpojdyllAFx70YaYhWQ8DJ4t2vYHaobnfpB9QZZvKhKchsGTcb-JYrbMOsfXCVVXKUqsqScVSFC26iMHuTTkOhbfruhsJMI5H_4G2d7HHSzjQQLILOwbogmR9DqdSh7hIQanVBWvkASydwb2aOyz7avxoURnZr2tnDUV1tP7Um6tZeDWeO92M",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Bourdillon Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.578518,
+                    "lng": 3.349704
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+            "id": "71a7259f6e03fdeb109caae8b8dffb595f7c1298",
+            "name": "Ghana Consulate General - Ghana Mission",
+            "place_id": "ChIJwaOdGhCSOxARf_Hc9ocks7g",
+            "reference": "CoQBewAAAMWxBWpwSQ-5kKES1ORbpJzxC3Va0Eqk1k3sWoReNYh2SsAYf8wwiCxanB2aBHW4Sl1i4QkE4D0pQ-jw5OlavprRLVLaDxSCsCwbNlvGrMCyqAREi7q5dk_gf6czyf-O6NbyhZsloVU5E6ABPse1CdTj6iZDLK_MKmHC7S5LoL7xEhA39lGQdHDNGHs6CaQMxMyKGhROIMxO3p4VYTKqdShDzK8b1hQmhQ",
+            "scope": "GOOGLE",
+            "types": [
+                "embassy",
+                "establishment"
+            ],
+            "vicinity": "Oba Delemo Street, Lagos"
+        }
+    ],
+    "status": "OK"
+}

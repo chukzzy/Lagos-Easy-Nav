@@ -1,0 +1,464 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-gAAAGuXqdOAgHo3dSO6nDEV5Xb6dgDOefnNRWVQwEqUCIOvMxYGOW4JGVXlyHIeY6tM33mxno6M3Li-Zhn5jqPEUlHAI8Tq_h22Qpcjwf5N9mH91TMjs3A4Z83u7EcbM6_AB-ZZ5ucfcrFz61MML9dJardKwOQ2FkC1tY7RMgZHTlsVwnpdOuap0APwB4iJciycYZiTiNbxeKVEv_iIeVcwIrcn29JsmJRzQ74YtPxZ9iNxM4ReE5TgD7XUtF9XidLsOW8OMwWufyW1dvMfa7YXXonJsd_1ljBiCBl3UcCtNygAgjMlI-yRjQa0zO5AqhW0HVV_PpwipISpIV5QupuSFZoSEL15nPSD0ViMx1Ie91G8LxkaFM-qlhiWueTlovCMtvot4c4JIy3c",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.445147,
+                    "lng": 3.458125
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7bd54a1f5e610bfaf55126b124512c712aad89f2",
+            "name": "Hedges & Smith Clothing & Accessories",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJUb1mT_n0OxAR4VfbNM-UCaI",
+            "reference": "CoQBeQAAAC4zpX2m-762KGPXGUFWLV0cR_rkc0iGFkzWGxp1IIjhL5s7QwBFud9rcW52fQxWZhYf0taeSCTQrDruyRfrwvU6wtWQINPWa7Cui14HGdGYN7G_Mf0EhOljQo74hV_4Svs7EU-1G-KDk4pMRapWKkauITt7kCMSZ9FcmskWMeZuEhCi0Q_6CauJM2PKiAWseplOGhQoWrWlxZ5TIaUa2W7gZeD0VqiQ4A",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "beauty_salon",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lekki Phase 1, Edges & Smith Plaza, Admiralty Way (E), Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49574,
+                    "lng": 3.338186
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "aaf5099ebc283a7b0082d0fa02cdaff089fa26b8",
+            "name": "Funmy Dee Exquisite Touch",
+            "place_id": "ChIJa4sAeqeOOxAR1W1cEzXps9Q",
+            "reference": "CnRtAAAA7iLEfloJUpDOb-Nn39MFkUACNAlCACjOtwF6Svlk_-VRy0TiIktlF9Nvt3kvsJ7gyt6pgiPWTpgs_UF5pxYzPv2B_fe_XWdelWDndHBKkhezBQtvQ0M-_VBvMxEofueYcx_Can68VRWi46lEQeYQIxIQ9htwatJUmfHy3QhvnNV_0RoUszpDoEGTfBScHtMVJnQ44n3bEAc",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Aguda, 3 Oladimeji Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43206,
+                    "lng": 3.437251
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "7f51f0db4608d6a234741a499378a871ac79a37f",
+            "name": "Fashion & Beauty Connector/ Monitor",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJYWwwSyL1OxARgsZlga57Kv4",
+            "reference": "CoQBdwAAABYN0AYFTivoH8Xp2PDSbj-cTxuBQ8GMsCMedB5GiHqpPfVDUIxuXb7wpS92zDvvxHq8sHyXhbAPPEmhOQ7KD96vk_YWWazMGyNfeYbYSZBsed6IO1HvAN2gDpyBeIuz0yEXOdCXjjsnw5OxhktFrqicqqv8bHgAd5ZNYcsHYPL7EhBDgTaiehMq7Q6AWHv2mwe-GhQFLC-wpxfugfjfbQzOR8i9-ZhOtw",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "7 Muri Okunola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.517315,
+                    "lng": 3.370861
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "9a8348eefaf7019601961fcfe953df18a0997296",
+            "name": "Switch Spa & Salon",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJNesHu1GMOxARkBZPtf402g4",
+            "reference": "CnRlAAAAX2S54rWiKB5GUKeZwFXD6hjWJjUd57L3fLOAf4oMFfOvxm1yWwBs5zeeBw2auOa-MM2CYO2Qk-aEtxWghn_6XnI_d54Lap8HrtAANh6yCCOFlQomJEdJkQ0c28CF8wh9c8D2_7VIFlZvyWEEZRiXQxIQvuTN3YrcgMlgUJoJ9bOdbxoUHT-IvmUwo7mzvddYOOOJd7YZqP8",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "\"No. 22, Makoko Road, Off Herbert Macaulay Road, Adekunle By Grace Court Estate, Yaba"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.513395,
+                    "lng": 3.316404
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "1c793346d784ee51f2e08b3f3b2487a243cceb83",
+            "name": "Kaz Beauty Salon",
+            "place_id": "ChIJ8bF0d-2OOxARyBMsljyIhVk",
+            "reference": "CnRjAAAAPGiKYhfTfcIapn0pbNwySVbOIX0AJwj6YOpGiywIJVKv_U_pHK5oJHlW7bGoaZ580MFXxcoZj_CnylT5oDWNkeHmOJDvxlxQZNbaOAjZXpG-NzVqptEm9H8-FSp7AkZZn2mUCNdrWmoso6MnS0UBQxIQLO_6eR4G0Sf2UcXqSLY5BBoUwkBM8cZfaTjJV5Q5ULW4XFgIeO0",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "No. 189/190, Ago Palace Way, Okota, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596731,
+                    "lng": 3.344656
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "c08a2e3bb0d12ead87cf0b34714753d3c8f24143",
+            "name": "Maiworld Makeup & Beauty School",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRvAAAAgvT-YEy8fwUVVJ9dQk2n0HrIfvqjZPSkrlgfdEQx12H_qZxu3Qyz60UDuQpXP9TzFP-v-iaEqYPmrhciJ6p3Uf8FbcIwGbHvPqexX5dhGu-OsjkkWDdVIMGjCKQiok4mxGuGn_C1Fbx693sYOYVLzxIQhDMm8vJ4EhHsOY3EfZZPEhoUrBAafEyoz6-HNGrV5Jkw2LUcMQ8",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ_zGhzSWSOxARSmeaXHWpv2M",
+            "reference": "CoQBcgAAAAUDLD6BVYqKwQvGLqJi6UtpvgAqhwvKCPc3OzbBjZvApIzAx_evV-HpViATtm97RuAR91Lpyh_QCoYvKCVEsysgF23rh8-4MSETnbDUc0EvB8ARSxNT4ZlsTV1idcpjwhOOsUNWDqc9wPi-rsdnTasGk8b8casNzBg3HOavwHI1EhDs1OwDE-dUvscj0pBjU-uCGhQ9rJmmdT5sp3L3QAoj_4T3_ykRMg",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Seidu Ajibowu street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43122,
+                    "lng": 3.427099
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "e7144c1d4874438466cb337315064cf538b1d0eb",
+            "name": "Charlotte's Hair & Beauty Salon",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJfbCI_S71OxAR9v0MY9L-bRA",
+            "reference": "CoQBcgAAAOa8RxRbPPSbmoD-4Y9PXOuH7rF7sNqQmd1f0xuBUmcL87YLWi9KDlLyYWQUA4gMp8oOe1WYgivt4olWqiETM66U2UpIJgri8NZMJBV0oCwlQlVVZs-hM57LCKjup0ZP7EQFOj2BPHl9vCJMF7TzADUuAIx2XvFp7Xw7BvrEx-CIEhCkBROZkjG-4AAE9bYGsA3QGhT4GYmGLf1F5ocafXAWXO70p6taPA",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Murphy's Plaza, 27 Sanusi Fafunwa Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.59559,
+                    "lng": 3.27712
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "bcb474cb99282d32e09a6a574bd655b9cba57fd8",
+            "name": "Eliza's Beauty Service",
+            "place_id": "ChIJWfFslWmQOxARI4C68BNczjE",
+            "reference": "CnRpAAAAwzvYmCNPraMT3K3vnzEgfeyVe9YjvICb8hOYCdjfC4TF6isvQgLI8BVn_NUGt8_fE0J6B5o1bMWT3DARCrkdXXOjXn7QW2Ohcm37g3nCzddtl8YoxBsvZXTr4RmMaQQXNeHi52sssEwbps2DqNymgBIQe-8HPASKe_9T5MXNEDAlSxoURwhWy-QkQeUEaVPqzHb-YAGN8s8",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Plot No. 35, Off Sewage Road, Gemade Estate, Ipaja, Jehovah Elohim Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594638,
+                    "lng": 3.356567
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "67459e76b627f44821e867a0b824b889cde46011",
+            "name": "Tai-Lo Beauty Studio & Spa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRuAAAAQYOqbwRbIYX42YJM4FGXRxPUB3RM-1y4xhj2vSHQqhTiwsOxXHTg1a9wlBiggm4WZ2OW6ujyzMabx9VkmreMx6j0FK18Ih1cl8mVD0OypNrkgDcWmfRCqEHtFZBoml80YwAqjkBu2uv1T0SOiLA5DRIQm3_SWS5csA6IKTPpgAA5-BoUR014jCN35z28RDAIQBbfAxVZDgQ",
+                    "width": 251
+                }
+            ],
+            "place_id": "ChIJx1RP2DiSOxARC-FGshWMRCo",
+            "reference": "CnRtAAAAzMXM16LQq_mFfwo8bS8hL12-tjn6DOyiGd-sQB9lXJYD4B25hrx1lDie97KZmJjBWwA5F9zKNRwe5QpZfV7RuKE2HJH8GAM4_sPLWueCksedIDvaOeZDSlNK3keLuC5OAj9HF2eICmzHyaz89YVdQxIQlwjJTV54tZ3nnfmTt5rKGBoUPVzrhvYL-LsYu8QRn91cJZGfbIY",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "13 Opebi Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518117,
+                    "lng": 3.319236
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "e0bcde5aecfbf22d287b6210bbfa805fd120eb6a",
+            "name": "BIDI BEAUTICIAN",
+            "place_id": "ChIJIQYqyIyOOxARFtvGMvElPgk",
+            "reference": "CnRiAAAAexLKtfDvJLnCVZqYa9lh2Qk8lHmph7kGvwVkmbnnERWZlkA3FIrQL1TMeREZ3Gr_lwoXBFgs4KBQsO2M7LoU_ArV7GWtyRCTS4HFZLaW8YbBJVdxNqohNPEQKQUtjgGmDlQWBVmw-wJePC7UtEpAcRIQ-LVYFmZU3jadEb7OM65fBhoUX_-E9z08mJFXYAVsMIY7FaT9y64",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "No 35 Okota Road Okota Isolo Ogunfowokan Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594837,
+                    "lng": 3.345792
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "acb6980355022667ed386121c8f52409bd0635d8",
+            "name": "Bliss The Spa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAJmiKlrYTPqDtkpIcS_pSWmj0WsLlQXUfvMIfVg5ye6LQ-0Pv5k7WNThk3s1QXMo1Anlq36v4m8F_3PEkVp854uGfX5q_YSSCFAKAqPttHVjOqw-W51Tx1J8QJzXQ7O_Jk59ZmjPH1LzZB3uEYI9s8cFT2VLkPm2XqujfuZG355pEhCanLQuTO3nju2w5g2jw_rXGhTtSObAqmNvrxQMf6Ri5krZqM8LXA",
+                    "width": 1208
+                }
+            ],
+            "place_id": "ChIJHfpXbySSOxAR4VxWTNJl4qA",
+            "reference": "CnRhAAAARpUsGA-pRavvWZhUA8sypAp8eDLPrsId6inmtzj1cm5aUaHQq9Hw_nj6yNtg6lBgPITzMqWlwfnFNRW972_Aj_shNdkIbssjJRYAeY7TuhxkDyxRLxAJWS1cMj5hdTYn0j1F0J8njWk8cZCn2qiKthIQyJh_-vEZOFPMQRfmIVBThhoU5CvYkehC7fiWkSGbT3WMTycVldc",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "46 Unity Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597692,
+                    "lng": 3.502117
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "9d5650505982e086eab98e8cb0727b56a80aeabf",
+            "name": "Ritzy World",
+            "place_id": "ChIJXY0aj3fuOxARwp2VwKC7gAE",
+            "reference": "CmReAAAAdxr_p4ugrDVZjjaEFy-zlOXifccQmxU99U8TLFkdFIy1gHbBrYStSpJV3cF2rqlQn99OEJl2aPe0nCz3fmIc8mgPavP9QBQ4C4Lf0ybI55GOMibbb_jsZ3x8xNZc4i51EhA6S1dGPmkCFra0XtrSGGkwGhSuSl2kB1a1B8loFXtggMMcICiHbA",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "No. 8, Prince Adetola Salau Close, Odogunyan, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432191,
+                    "lng": 3.434592
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "ca84b395d6fda7aa7be8544e281231d99315b6a7",
+            "name": "Sikalyn's Hair & Beauty Salon",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJc2HuCiT1OxARHP4juD3ARK4",
+            "reference": "CoQBcQAAAGS8FfRVIFXo4E4WBgAiVO250L-nL5LDKY5lw__9_3p-rmrXCAnAru4PaGECr-uGdGzVAoibm4Qcm4jlPAlwAnsypXgmUK9sI97zAmXXMpWxVi7_yHu-UBy5YUJk3uFUv4_G6wUz0chApKUQ1BWzQkq7yT7A_bDT4DuJaMfhddrFEhBnUbqOjfPMag1Zut_6vG0gGhQ_K_LdXRB6yzoaNUwp6MJU_AW-og",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "No. 15 E, Muri Okunola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.662902,
+                    "lng": 3.299793
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "2426649c4abf6a4dc0148e9f03a905149cae2414",
+            "name": "Prestige Makeup",
+            "place_id": "ChIJk4ii8teWOxAR6YGdZOCoVtI",
+            "reference": "CnRjAAAAvy2LY9f3dBIYvWbtzsaNM_LPegbNZDGUxO51Y2Zc6PN9AAqRI-jJ0tkHJNyAZVBAJvq-QIPQ8UdejSCnCsCm9oFOO4eyMzHZHf5WZCNb3D8pibfcA625okz1qlfIPW-U394DD4zBwEIJF0Tp8c74BhIQCyWJvnLXTGccj-XjjaG_yRoUrPgRfykXZQArej4TF5OUH21m0mY",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "16 Rotras Crescent, Abule Ebga, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.67966,
+                    "lng": 3.363329
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "5db8e8a3efbb224816c033bada099ea5744694c5",
+            "name": "Mareha Beauty Care",
+            "place_id": "ChIJg09QsEaUOxARGugAv_BPT5M",
+            "reference": "CnRmAAAAStnsLu8Oj2S8RpxoMKRTLLRW3gMmGrOMBRFkQ7OeAZ8aOhAmPgoxpScU0_fTp2b8CsS8tuHUW2QaWYlJSjYwAGM_JemjCuBSbhXDMPj-lqd8UpluDl45etVeU15u0UFmL2mXsvpXC9S1rjDIggRlpxIQjtPtcAeJ5F8_JirRmAf3sRoUKoZDtZhrc1_hkBQ34XvIRpU61Tw",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "No. 37, Idowu Ogunlowo Street, Alagbole Ojodu Berger, Akute, Ogun, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431669,
+                    "lng": 3.420836
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "fb470d3c5369b2833765bf012d81bc3f4cde2914",
+            "name": "3swit Makova",
+            "place_id": "ChIJgZkE6Cz1OxAR6yRYazJBPv0",
+            "reference": "CmRgAAAAjugu0ADGCsBgXnXLgbjFpWw7iFvtF5FsvghRFTFxhTGD9rpxddjjwj3jS3QZZjjTVZkVMqYNhSkljSi9qllNl5C4pbBqqH1Imqq08WeWhwDmQFETLTLf-xn3USECtruJEhCthyUtxJ5_molVQQbxsf9WGhQllDjrqjSYHtIrL6z1TACzMuFNww",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Oniru Estate, 81, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43144,
+                    "lng": 3.427187
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "d21ec7689c57bf32d547591410264c74c6d60d2a",
+            "name": "Divalicious Hair And Beauty",
+            "place_id": "ChIJcbyLAi_1OxARJ9OxUxVa10o",
+            "reference": "CnRuAAAAJgvsE_dN0ilEUeOIWIA6jnKSP2OzUY5fs5aLmLsP9rV6BfUzo3CXl-rp6paoA77qjqIw6RMQzVS-gEH5VZnFKK5PzvuztfT46ZFc--9L1OfILFcI2VIQUzfRRsE_Z7IcBzLWTegnQKVRljLtz-vTNBIQENRvM0EHzQTFF6vnv3g27hoUsYbPAJ3j_Oeo6ueBEXVzt8tvmoI",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, Shop No. 20, Murphy's Plaza, 27th Sanusi Fafunwa"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.56406,
+                    "lng": 3.341265
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "ffffdbef02f3d1db53f003b3fa209dd409a2e790",
+            "name": "Image Point",
+            "place_id": "ChIJLxupV_6NOxARmH5TRp6lmyc",
+            "reference": "CmReAAAAARsIF9Twac1AbxvlgU6qgFOejnAPgNDeYScIypquowKBeZ73t7dcjGr3HM5hAjTXSJBfSkxiqbhIzYW16sqR15MCpi8z82ACdSbrYE_3rpbRSsGe1bDFEDcInVldg7gLEhCXAfjz1bPLQEyB7YMhctnxGhRjD0JYwFlEkTKIf0MuV96ZtZY0sw",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Osolo way, Isolo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.462416,
+                    "lng": 3.433405
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "dd6728bb9360328ce65ed9c9839c0b4144395d0f",
+            "name": "Perfect Fill Beauty Clinic",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA0BhWY80iZAVekKH1Fy9mRWX_qXhBzqYMQ3VllXmQ_w2a1MP7plodF6mDKnNUnlXQoONlki12hBBED-XdLvaKJ8_RaS0zngAkRsY_nEfhppPMRLmiYUoYlZ0Q9-KEMRSgePPm34ZlbDXK7h55J54OUBIQl-MXuJ72zfWLyjLPjWGKKBoUVnqBSZTSl2X0vg31uPZDx-aQQMQ",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJObVb57j0OxARavVTF5hJIq4",
+            "reference": "CnRuAAAAxj3lfqN4hgOkQwPLGJcLlxd4AJgcbZXrEoYelAZ2jAz9VRaCGJKa3ujSMX8fGAQO_HvD-497FXW5e9d3bmdox66VN6zAn8BfRGI6zscbW5oe2y1D21wjN_AwdRmSkX7rlEmSkNeX7Qg7JRvo7MATwhIQe2Isk3VVNmmxP5ysLLp_3hoU8_HGAapI4PiIsdYNpNamsfMMcDw",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Ikoyi Crescent, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.52297,
+                    "lng": 3.38087
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "cf30b1d3c259668b8dac93cc649ee3a4d5eed3f2",
+            "name": "Hadassah' s Beauty House",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJS4Yiv_-MOxAR1Xrteu-qWkA",
+            "reference": "CnRrAAAAsTpQ_F5eLzJcchQTwB0LpxHneWerwKxOI3kRE_SlVZ1ZQajS0SSPAytggxW-f-GGaezU8QYPtPBZs2xtWex4Uyp8T4ggvLz87kXbIdV5O-iwWHbWlqTuU7ff09UYUpbFnz5XoT-wc4xAAijg3NevfRIQfk7ZelCSY8B-qpeTSyYbFBoUmS2FUsH2y6Bpe8bUv7_eqrUmrG0",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Abule Oja, 14 Alaka Street, Lagos"
+        }
+    ],
+    "status": "OK"
+}

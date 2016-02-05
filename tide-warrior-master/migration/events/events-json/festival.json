@@ -1,0 +1,94 @@
+{
+	"randomEvents": [
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.467559,
+                    "lng": 3.278266
+                }
+            },
+			"date": "Thursday, July 16, 2015",
+			"name": "subprofessorate"
+		},
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.49903,
+                    "lng": 3.321109
+                }
+            },
+			"date": "Sunday, July 19, 2015",
+			"name": "tridentate"
+		},
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.555995,
+                    "lng": 3.306003
+                }
+            },
+			"date": "Monday, July 20, 2015",
+			"name": "marking"
+		},
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.451624,
+                    "lng": 3.389132
+                }
+            },
+			"date": "Tuesday, July 21, 2015",
+			"name": "schiaparelli"
+		},
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.674025,
+                    "lng": 3.346645
+                }
+            },
+			"date": "Wednesday, August 5, 2015",
+			"name": "turnery"
+		},
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.519482,
+                    "lng": 3.392383
+                }
+            },
+			"date": "Saturday, August 22, 2015",
+			"name": "emend"
+		},
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.623902,
+                    "lng": 3.316539
+                }
+            },
+			"date": "Friday, October 16, 2015",
+			"name": "soubresaut"
+		},
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.612325,
+                    "lng": 3.266845
+                }
+            },
+			"date": "Friday, November 6, 2015",
+			"name": "nephelite"
+		},
+		{
+            "geometry": {
+                "location": {
+                    "lat": 6.455004,
+                    "lng": 3.388596
+                }
+            },
+			"date": "Saturday, November 14, 2015",
+			"name": "amen"
+		 }
+	]
+}

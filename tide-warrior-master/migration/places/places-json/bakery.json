@@ -1,0 +1,489 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9AAAAGWPgrdph04dWT8GvORsdrGiwSsor3pShk_NhK0iupHX1LsyI3niuMFP9N4EgJU_Fp7QoYIbu8zfMi1jqKvYYSm3LdNXw01UuYiunIcfltRZtQtgPhV5ZO8yTI2jTRQTQCwCSiYkT8ESAH9lsRgbcrLGGKmHbjk-tT0owoCp7PRP8obSz0DRIVvxg5l-RO-VpUcu1iQa6bBTi233lpU8vmot5dAM37Yi5RIfQy-lR80iLETNntHpq-ICcxd6u7g6dQPOkb0s647l28K1h8q0YuB1DECcx_ySFdFOLsvuvmvrQTbvy2d3qaMoBjqSSp8U8AF7k1qEFRDSbvsO3p90dXASEAIGzEc08AlfJ-PLRdb-_FAaFIVK4I30RMte7E3o28d21Rgim3uq",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438479,
+                    "lng": 3.43021
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1a83a306c978a997d707a95a4c3a42c6de5342e4",
+            "name": "Grand Square Bakery",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAI-2wWbeab9gKKRcMDAhortJi-SuiV1A5cnQhrrCvF5XY6sN_F_iHQhdnkWTAllqRjMLFxlVnQQzZusAeyD5BO7n334E0ASQt_Hvxmf27fHf-4UBeF5LYbJLudkZxmbO1oOHP6oHrT_CmiO95-lnef0jG-pR4ZOJwIRqET2uCjTdEhDAviQslGRHllNFOyLKfXOPGhSY8MplRnkkQDaQvF9NXcX2vjZC_g",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJK7wFCdj0OxARj5IQ_Mz_xkc",
+            "reference": "CnRmAAAAEDSNJ1YoDFC2Dq2s5mwKi5NaB_4hEWkts5Y1kEUsbGwpM65S6lzai2d9fFb7WJCNx3XB5iY_FQEIaY52OUdQNPlm0VGNtWu1efjm12NbZvrLyd-WApca1HMPqSIGo-FI2g6wjYe4mw_tsyesf9L3xBIQKyNFbzaolr7gdWYQs5Jj0RoUMO0bxcYH3uxZmRFtrRqM_-b0paA",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "8 Adetokunbo Ademola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442699,
+                    "lng": 3.469394
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8db3e6a97ef5aa09f295eb9da772fc977b173318",
+            "name": "Nuts About Cakes",
+            "photos": [
+                {
+                    "height": 976,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAN0xGY2Bzfc01SyC-8Sk2TdHUuHQ2EjIYj3vLHWjw0JEcMtlRTD3KU3vmLrpVttmCEhHn7YMlHHy9fbPSbBRMvRMipAa0VhisOePZdybK9h6WpzPpKFFulfIHLpk2JoJiwnCQ_ROAzmvLcc2Q1IXNuxIQcFOFh_o98T4D5BcTG8iKFBoUewppkfTsz0EtXcBGHOg3pfmMXx4",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJfeuhE1L0OxARUb90YGIM6Eo",
+            "reference": "CnRjAAAAJW8rPk7VaKCYqoMx0KSn8LHtAPYKNTxEFeCC5khtRv_DjkRIku_pzU5I52oChsNRaGNSYjmzv7YVLtMeEuhxuy7fcsY1LDS5Z-2X5HyAqhLC6YIqAbfjzXqGcdvaXZPMy-Y6QPizmOpd3dnO73FDcBIQnmqNBW8OayNnciCHrB2J3BoU9cuEqkyQoEr6USDl7t9QCDjob5w",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Fola Osibo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.585595,
+                    "lng": 3.356594
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4d5d916a0f700d6342caca0cdf818e5b23df5572",
+            "name": "Barcelos Eatery",
+            "place_id": "ChIJx8pX_hSSOxARv1njpYa8l84",
+            "reference": "CnRjAAAAPzYxUu_qj7lE7GL__D3qrKpzS8oq_Us1MKnO_Bb_08DrJI8lu0VrbaVkqWwJbmdUtQrHJnM32othHtEo1M6-bzeZb0EyN7OlgTuHABguWPb7VV2xMRf-D8ukNz9tefMeQ80mxOHLRjJBjdndB5i60hIQ3dT4cjeYtEeYe06lC3_v8RoUzLjQxzXYsR5hx9aMoUhbGO-A9VA",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Isaac John Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.511352,
+                    "lng": 3.352461
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "51de08115381dba9d4b37f76b3edce553d8a3e81",
+            "name": "Cakes and Creams",
+            "place_id": "ChIJPyplSzqMOxARsLNStkXCJeo",
+            "reference": "CnRkAAAAxtDki_ERpzRbM4O7dkIDBdUKtSDACc3-hHdVMbWDQZu2SQ9CTLrHI_AKaDd2FBAfDO6Fqex3r_rEjCL1VA7uiDkx7Is5xmFUW4bnb-6UwUYJyD5Pai6V_2Go8hwYVexJ4p0RSo77ui7YcYRaPC9jZxIQqmiee5MakmUr7WSOAs-0ihoUn1pPjWR0HxW9UhSuLkeYtBBYnFo",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Babatunde Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.601638,
+                    "lng": 3.352072
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "3e0fcb8c544336a52c86da687001d15022c3563a",
+            "name": "Bakers World",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ3UFZ5DCSOxARb1YEiKE437I",
+            "reference": "CmRgAAAAgijFT3xJ2JRpTvduzMMIuYL5-2zL1c8QpzL4AC4A8NUuzPWvUg4jwMMLUyHhoXgGRFjfvDnSv4RJdvVQaR3yTxeSHabvbkO-AJcOqEgokWqz8TTmhfeY_ob4S9rmPQm5EhAHqsyM7LS-Ni3l7WLr49hgGhRqU0TegQXrVL9Xo13IMWGhJuQGZA",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Ogundana Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488802,
+                    "lng": 3.349662
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b37853710cc2283ba5852d1f1cc6b8910628c779",
+            "name": "SayCheese Cakes",
+            "place_id": "ChIJb3XFQXOMOxARBfYuJ_IKSSk",
+            "reference": "CnRiAAAA5xMdm1lnTs5nI8cojLSqiQvt5QlipTD2_KF4j4ca_ZxQya_pTGl6igzxPsNMZWFOf7YDPDXaGykAbyb0KqQva9ggHgvk7MttPBhyAWzJcezKoeZuK6K-BffAztSyDvYQQe7IRhd5MFuIIExe7zE8GhIQwhUkdEJ1B_zUYw0PXWkEvxoU23KSKBVld1_u_Koi8dTO5_cWkWA",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 13, Bode Thomas Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583058,
+                    "lng": 3.300764
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "78632d4bd0d8371e7d20f7d57c7ee18420894e0b",
+            "name": "Acabado Cakes",
+            "photos": [
+                {
+                    "height": 1815,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBcQAAAOwBZtXFflrS4xZQlMJZUT6PSF_iwCgK0ZSandDPrjklmOOnwx3qdK4PmRSVPU0krcGVJVzZciTYSgAfV7eSZPm5UHBRlLBx4Q63rmVsXmIWS_1_3khTIeAkBmklZdyo2njy9VfFSSZiyQTRC735IUTRhb6Sbq7A3TEyQiRts67cEhCk2wwGVR8dyHw4UdFU6LqHGhRmZ2t1BIE0S9x6j3HO2WxSJF0mQA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJbT8lhMyROxARSudpu098ddU",
+            "reference": "CnRhAAAAK0rAiHzN2y7ReGHcX5BWCOCr7oTPPHFM-wU8-iFqPjo028mhrR6umUvrfLxW7zHXLStMdEeObFbPkKSViuK_mOkxzkRHTvUDthawXoTiDQk57_no1G7Xy5wi2GSnhSxeuGDq1TMzApYk_q8RZpWLJxIQO13YGkS09Z91206VXR8gYhoUK_FXBiXBLIbbAQEc1R6TIUa8v4s",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Off Obafemi Awolowo Way, Behind Holy Trinity Hospital, 20 Adesina Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44143,
+                    "lng": 3.414996
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1b942ae8071497afbe481589db716a15ed9efdfb",
+            "name": "Debbie's Cakes",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJHf4PLSqLOxAR7QDGstnZ2j0",
+            "reference": "CnRhAAAA-zAiWD74Rl_TOPdCFNEjgffbW63rMRb518zcr6m-k3Vy4t1Xao2IRrWgAI3-Bbmgf8h1iXUEwcwwl3giBfEEEXFMHhlu1KNeZKI_g2B0X8KEHs3fbuD-UVHAlOoHMVB2_fU7QO_a9x_FVzapHlr0ohIQfETFrjzwTBYXTBXXetlsNhoU9OyokrA-3ZcRCVrk6VqZALl14SM",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 99, Transit Village Off, Adetokunbo, Victoria Island, Ademola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488041,
+                    "lng": 3.374811
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "7497940efa0068270571a58e93075db261a87e7e",
+            "name": "Tina Catering School",
+            "place_id": "ChIJgQnmEXyMOxARnx_WTAmGiZU",
+            "reference": "CnRoAAAA9I4-BiVTH3h27aDtPFw5-hg6nSrvYxou1_1z1XBuDyWHXMROYf6bsrLsWVViGSfLoNqQNE-VdkZ01QpAa2ezUDrYAG9Cz937Q_oSTb6xubkQcM45a50TXlXs9_9d9b_Wu_FsNQZyXWHEGoZzC-D2exIQHoies696yN7UPQ00z2avzBoU9YagjJcWsXUGld9As-pC7y4p6sQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 9, Ebute Metta (West), Makurdi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.551803,
+                    "lng": 3.376373
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c93f69afd24bf4829f81442d6d8f5de3957d0e12",
+            "name": "Anuoluwa Bakery",
+            "place_id": "ChIJQ7zIMpyNOxARP8LaIwL0pWs",
+            "reference": "CnRiAAAAd_LSfnvwWCyvIwZ6V_mdP_KOgcFe12V3neCD89VO3HxtES_woHqwU_n0BiXc6BdBT3I1MME56uSmqpyJJeTlcDrT1hZy90aWTAYuEuRJ12Kgp1JWyqurEqSi_VfrZIGr_nb_FdniSyC34veuMZfsORIQW-zpdZe08WlUfQ_hH-st1RoU7n1BeVnG660Aj1bvNM0vqMYDvQk",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Anuoluwa Mathew 61 Ogungbaye street, Mushin Apapa Oworonshoki Expressway, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.533538,
+                    "lng": 3.28037
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4f4676d5f468579d6aa5bbc71d12a83b6e28d390",
+            "name": "Kuche Service Nigeria Enterprise",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJYyyE8KKPOxARUZ45u5-14J8",
+            "reference": "CoQBdAAAAJquEjIkR4USbAulz93kUQMqHYGWr4rg-JCr5CQgur2osaBZp8GxkPBfwz_Dr_IoWNgUe2kNZoYGdOgRmZO0SrSFO1zikmU_M21_45T-EkD8xm_TFkcFicGtZvFt0Tywe954gpZ7ltqTqSAxZ_QL2q9VgJVthZbQenn7DfAJUZAyEhC8GtBRWhnp0jORbIcc6h4eGhTYeoUmiBUKan45bRav3bhRefAWYA",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 5, Jebutu Street, Agodo Egbe, Ikotun Egbe, By Cele Egbe Bus Stop, Agodo, Jebutu Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599882,
+                    "lng": 3.369685
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1929c02bcaf1b98ba486a10092a87dc4042c9690",
+            "name": "Butterfield Bakery - Oregun",
+            "place_id": "ChIJyarXmlqSOxARMV5dstEZsjI",
+            "reference": "CnRuAAAAcW7fIfu1GDMyAA3hNWnK6LorT_L9v_kPpzuhxM8VzBsgrtCy0XTQ8XSyZk6t6uWwM42TZ0od3OpgimMETheBxTXK4TRWNfxvG-2we8UnU8VeGyQSy-2y_5Db6bceiV1hbuGqM0NKr0-_X0NYSQQMPhIQl6fkyq4FV043OhKbVG3hMRoUlIlY_KHSnr8cgLOSPWCgIGKEdWw",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "2, Jagal Close, Off Ikosi Road, Oregun, Ikeja, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555229,
+                    "lng": 3.336775
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1221c4e8bf40cc98a66be34346b0e821c729315e",
+            "name": "GENE VEE VENTURES",
+            "place_id": "ChIJX4GUXQiOOxARsYkutz2-lE4",
+            "reference": "CnRkAAAAtok340eOpc_MhWo9_ndAOOOceOg5ZCn9Ktgy-6agwIuFPmDxYhUY_j5rvBY-XPRjUBu87PUYVWfbnn49Sw602QKz0NRlRTEJbmt_jA3QFRc3vCalTtlitzD4jgyI8Dry5YylDYY296tWP2kvbiDoEBIQ0VatutM0C380WykpgITzdRoUHVJ5oYS00ODpDd2CSvSW-w8VK7I",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No 30 Church Street, Ilaje Volks Behind Lots Filling Station, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.559146,
+                    "lng": 3.369284
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "7c42acb107680aebab731beecb0eeefa43369d34",
+            "name": "Fifi's Oven",
+            "place_id": "ChIJ29fKgYWNOxARiRgTNnwbJIY",
+            "reference": "CmRfAAAA_IeERaDuvr8-1Lp_FOMsT-lX6qv_7Zv997jARoZ4RA2tCZM4-Kzb2mk-1cbKv9BI6CgB6nrtM8P6CAgHkPtjD_vr6Lfm50bUElp4Z2axwNR3m-hma3E_TTJOOfGwASF1EhBjeOkYnUD41PxxKXEQCRtgGhR8DtlCU233IdVjKJtC9fcBdq6IJg",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Ope Ifa Crescent, Anthony Village, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.6388,
+                    "lng": 3.315474
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b1609c51efca0b73456ed7f070ccc07192aef4eb",
+            "name": "Simchah Cakes & Confectionaries",
+            "place_id": "ChIJsRsEDjmROxARjnetfYazJtQ",
+            "reference": "CoQBcwAAAHYfY19Rr65Sb2YHFo-hT2Pws_D8OGd__iHnTaCbtAcYdECYhtcAysG-KvLv1Wuk750xVKDvwB1RouJK2_RsEp9tz6BvKpc3FYWCnXpH2kPvNjK7LmTGfDvsgjEOXmsGFgTheXqOYd-naLwS8Mp4imp70_Dj8HizmUVFR8FEomMzEhBlrU5CPgh6VlUrbFAVO89_GhRjqtBhoDVJARWoJQLBm0pDTIA8Ng",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 21, Isiaka - NDA Street, Ilasa, Isiaka Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.509033,
+                    "lng": 3.346506
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b6d1c1e3853b67e4a2c7c116acbc97511d382120",
+            "name": "Solomon Miamies Food",
+            "place_id": "ChIJSxxChySMOxAR9o3qS5CYnYc",
+            "reference": "CnRoAAAAtxoUdtLuJypu6FRIGRoCr-aguA8iMonfC_BD747EyPvk7xiavT3EgFGV93IR1T3WxtqRq8bjmsqpLr5XrworXdWr7QzCx_wcppWxKS76wx4VHbESbLQUc4W4jW3NlwiA-1iSRnsDUKqqleOE81FwOhIQss7LNv8pofwQBBvz2OR8dRoUyraKD6doNr7Ns2lS0ynqY5cKGSY",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 25, Anjorin Street, Ikate"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.615393,
+                    "lng": 3.357185
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "95f77bd334d6e2b565e73a7adf89d74dc768c36c",
+            "name": "Nifty Fingers",
+            "place_id": "ChIJn090ly6SOxAR-Uhic16dk8Y",
+            "reference": "CnRhAAAA_26oaJCu8LHUCWHDMMLAniYLEvWOQHX-5TItdAFD3ZFZkIUiZ2Qm9aEsZ_GahcGlX0qhzgqp2fZH8IxWM5gjvqEaXo-QzR8Uua5OSXtQi5q4hyaxY-b8HcjG0ZUj6KIFpOXrpUW3lvkPWudeWwcjghIQHOb9aOH0Ubfm2yBtKNn6cRoUKw9uvxipqhLUjdet2WwiidKNSIY",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "93 Obafemi Awolowo Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.445209,
+                    "lng": 3.438874
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "59a10fe48cbbc0abaf02b8d5b15a8c902cf9e6b5",
+            "name": "The Cake Shop Enterprises",
+            "place_id": "ChIJeRc-7N30OxAREHISgb7m1VA",
+            "reference": "CnRsAAAA9yU2fZCT5OMQr3BOQR1xnEg_mK_PRL8NLUUlHaQEBMxxUTlzOjU0V11SVlA_SWsO6UOlt8zniLUZipcAxAR3mIo9q07iC_HAptkJF_y-wzADodCZDj_Os1C-1Cx9E0GyBa_zD30rqkA0fiVS279JRBIQObG3Kgqj4-XxvfyGLalxJRoUmiN5phkD9bZHPple0iJWRzaBRrU",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 25, Ilabere Avenue, Off Oyikan Abayomi Drive, (Former Queens Drive), Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.474067,
+                    "lng": 3.274727
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "dd3bb2e8af40db97dc768a4f208fd66f8b2803ba",
+            "name": "Sweet Pea Caterers And Crafted Cakes",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 706,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAFFcPCSYRtyakhhz76YNN8TBQW9KeIpLjpVaCyF3KPWQ4VQt-d-UfU0kV8RQbY23jg7qbG6hcEhD-qOjHOqLSs4FAnaAxvu1J784PmtVC3hOjvEjnXoyW9P_6Qq3yO6UE3eA0UgzTZPHax1NttbsrtBNBuJpwZ2C0tJBBZMze5Ubn8OyZzkJzkurfkITKeAilhIQPjmITBKpNb1tLgPmsrbibBoUXNEllMpt2OIVqfgPOS_Nop22D18",
+                    "width": 705
+                }
+            ],
+            "place_id": "ChIJxeEFHLeIOxARjUAyeKP5zkc",
+            "reference": "CoQBdwAAAJTv3wY_-z8aKTKOZCiP-3yMAA6D9O-HYo74IYq-m5b_skan5Oh46BcqbrHPjjJ79iginOUkmqSsYdCqkMzi81u4IQ5q3e0p05f_z-NujXv4kRuwHclYz3eR-9CCN-kqdTMG19UWLfrkHWh_3X979mEoqbYbahjAl3rGUBbKQ8etEhAAb1eaILnGOHL82SAvLPfpGhSAwOoSP9JlePEvDU4kh2uHXwgiJA",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "bar",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 23 Road, U Close, House No. 4, Festac Town, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.574029,
+                    "lng": 3.361451
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ab81bdae7c1ca91cac88106aedba0c3049f4d391",
+            "name": "Odus Marciello Bakery & Patisserie Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJGbI_CnOSOxARMsY1RBIyUd4",
+            "reference": "CoQBegAAANqERW5zcPBCYAjI8g-n89M5TvFKPwrfyGFxb2dRcydhu2DvUU_lsWYEO0yCUkKMeER_HQrHuwlpZqPbRnYKm4pjoFZKWXumatFIX7lXbITqqlfi8tlL9jh_s-OUa8Dy-3TYprfiQ7ysJ4wzElymSGpclPdR79ChMh4X5mSRu1cKEhDBS7182sADkYZkf0Sk97Z-GhThX3H4evg2qeWQmoRq9eE_iFv5eg",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "No. 30, Isaac John Street, Lagos"
+        }
+    ],
+    "status": "OK"
+}

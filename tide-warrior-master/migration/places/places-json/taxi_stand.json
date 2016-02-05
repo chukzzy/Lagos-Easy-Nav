@@ -1,0 +1,448 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAKo5jAi57cKpPVIxTuE0XbHFyVJYJRVEB4D84X90G27Qzzo6A4DhWtAM3IvVj7Cj7Y_A-SJ00SUBN_SVC2u_dyoumVI5j4KdOYIFiSahB_suX7z3dzhjOo3fbH7E_s0qlQwNZoZKIgSZVx51nkq2KdcJtWgwfp8GDEpEls00BhAfnrcd6Rvu-ebJUf7aO266My8Lp9cWrW-vX2L7qK-ZlcjMfOenCI6_RVdV7WeKsXWBL7TXwdP-DebewAs1RsoH_lZBOJ14_mCjsBSN9NtaGRuW7ORHn5rfows37BAqlA3yxJCAgdsDvKcWR0jqUTzvjCDhPWQ9uzl8FXCtx1DpgQwSEIxkjxeZU56yd7vAw1pLEUUaFDVW77mVHn2d-Y9TYSKAIn4GApKK",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454842,
+                    "lng": 3.351633
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "470e378da60d4d50a9d609eeee49d2d489feecb2",
+            "name": "Irewole Ajeromi Taxi Park",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ4Ux4g8SLOxARXdCzjAmCMpc",
+            "reference": "CnRtAAAApN8CMPh9JuKRECl53xHq4Po6HoF3Bbv5C5jR18f2sfRW4QHdl87Kq70sVisauc4W3SqAq0z2Blp6TACCEJVPUIll9hY8-iC9RzqbEVGshldT4irZR7EhTQ4RPO1VfEVIjMlDVkR8uYMr0PgVzi1_hRIQgHfDxpvyLCBWP9UvKD6vFRoUArGbI7Bh6YCm0SS_roxF1WZ16Ww",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Ajegunle Boundary, Ajegunle, Malu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.539648,
+                    "lng": 3.344953
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "a1cd8b6d15a027f19ef89b636a099cf3c6bbf90c",
+            "name": "Matori Taxi Park",
+            "place_id": "ChIJqZ887NuNOxARteHDPLq8dkw",
+            "reference": "CnRjAAAANqKDb_ctJnwDxqM6one6TA6cbH6UTqTtunVtU_J0QuKsVYD0UrrnAj3NWL_3FmHbMfRLuHHmJPBOlrUeFKToj6ZjRvdyNKm87qjf9mYcQsNuR_CU6ZQUNBbeRYYZJOhk64eVXDcH_yu3M2QDKXNA2RIQvS8svSAmsGdk_N0ZmGarpBoUeEPN0y-XXaH6SdD_BX4AxmosJVs",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Fatai Atere Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.501416,
+                    "lng": 3.351034
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "7dc60738d3e04ca62af4da4778004a6a463718cb",
+            "name": "Masha Busstop Taxi Stand",
+            "place_id": "ChIJC1apsReMOxARhZesTq6xrBU",
+            "reference": "CnRrAAAAJpHvr0aE3-3uMtQrQDihVF_s8fbOIhH3YAJH-tYOLJL8l46yEfXgTvb8rdFFbvgg5F2lf5bgIyQDK1z9ikixr_fxVAON-etWpI1Eko-7mPaqxg6tzlUEK7beghLzPWtfiW9U2N5u04ZHeMluPoSXzRIQktpNPyOdKiaNJhOI0dDUKBoUoRmWoGc68UMRXAlBcFDTUO9Kzfk",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.543658,
+                    "lng": 3.376089
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "f562c21aa49073dcde527f0caa6f87c4513289f0",
+            "name": "Pedro Taxi Park",
+            "place_id": "ChIJ73vxr6GNOxAR6ZKsl-jQYhg",
+            "reference": "CnRiAAAAC68c1xPqm5HqXE19fgKnIx7Yyiag3JfmVBIdizrziP9vJpDaMo9IN4LtSn0dM75TaUlsApxarlsJawRAPSVO4I06HnezCmdNvqNdLqoqdh4qpamLyxUR0HHoM_OoTA5vBJ35vMuaw9BlSGtLfPnMZRIQ0pSHniail99ANsiSwLqB3BoUR6_KFomvGs56SXhjamDAY5b1x5o",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Igi Olugbin Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.491833,
+                    "lng": 3.362284
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "da10457e48069ba27adb955a390a7ef833996aa5",
+            "name": "Alaka Taxi Stand",
+            "photos": [
+                {
+                    "height": 483,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAUCwE7MLCoP7TK__iOxoenBcncrMA9GmU9LCI-fRGw3qTYRPbYXOPQDhQGd3-RMayqujbQRxvXsBO7HLLGMa92s8LGRf8VbMVQf5-XB_NuI7jCd4ewrFSBD2lkKTVb8_DioJ4ZBPikz8M7uxoh8K-9hIQRvJ3_dg08befOdh4qjY6MhoUzxailUdBHwsNQn-Bb3NeCHfGqG8",
+                    "width": 749
+                }
+            ],
+            "place_id": "ChIJo_JfZXKMOxAREhViD3egCKY",
+            "reference": "CnRkAAAA1922miCfK2GyLy-8jvTQJ8ci8EBy5J4CiQ57Wx4Ja0GpEVXpUF8eNAkgLgdtxXGZa88YqDK14UMFh0Ch0jt7CJomUfeGmkh0z_-9-zY3_p0zuzBsiKlRjy3je8ZAc8GRjvPEpJ5WGRrvIFQv7d9UIhIQEPPTk-QxVr7qTMOWx96L0RoUejxTIXcoD7h5cwObVKcbhh3AlXU",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Western Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49905,
+                    "lng": 3.358061
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "d416dec554045050f106fa1b37bf2d5f96ba7e37",
+            "name": "Shitta Taxi Stand",
+            "photos": [
+                {
+                    "height": 1296,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBcwAAABOSIv8N-it6eITv-MJ38V8LNWlKpcyFAJcX4sadWf9RIZfLkcxwhzxS5lR7m1uSwqYh8ez7BgbwpUJ1hut_cR8sN8diyV4WFXq3xrmmdC2DP4sBWZ5QUq0E5dTFmvRXChiDKseludfxJoACd3sJp6wclplPPVMexgI1ORhNBfJNEhDpgiPH0zz38tS3afaN96ScGhQVEfKJ6uw5FTC8_dCd1pxNhkhing",
+                    "width": 972
+                }
+            ],
+            "place_id": "ChIJ54HXvhSMOxARwZyYVM5ErEs",
+            "reference": "CnRkAAAAh_EKTgT0sf8BAubcU67ci392e2rruTxLkILCHaxAe9_AcNEWViYwEUJXQX-P8Rvka6qyscSjGAfNW7_C8azCmmO2zr6KC6jWZckWa7Jkf6kCV9YfUHbR8kyuP3XVp9ncnTqL_k-apnH-7O5V-fDFgBIQPAeAtvK9aCC17TeaKuBSURoUQKyX6fbjSfVMnzZWYraNistDpBw",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.581514,
+                    "lng": 3.341702
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "7a349d349797fe6ca697e4164f550be5b14e64ba",
+            "name": "PWD Taxi Park",
+            "place_id": "ChIJtX0ZTBySOxAR9JNfQC1HC54",
+            "reference": "CnRhAAAArQhg5avZI-zBN1PaXgDfAHzkAUiW2Sj2EqgFzrsoIPowDzTbaJ6H6mF_aL6o64Cs2WQuDjFPo0wJjFbJg6LEy_6A03_FFm13lUCW1Q0AKOgEb9GrEsl98P3V7BGVb8Wi_pMY4fxhvum9rvCTj3_xqRIQcwRHrWgb-cCHRqXJGpjb2hoUqMQc0hfPPwCvIexLeQhss1Sr2IA",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Old Secretariat Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.667734,
+                    "lng": 3.324658
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "6ec6a8faf7cdd1bec8f770417b4413805c5b04d8",
+            "name": "Lagos State Taxi & Cab Operators Association",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJZYE-6ruWOxARiv77xKUT_pc",
+            "reference": "CoQBgAAAABa8C_NdFeu5CXsCdz6G0ok1zmBZsFS1OkDlE6bfKy_VEvCaSBVh8yE1h1m5iesM6mBVbaxfZK7SVFtjy18nl2WojOSpMUMjpPUElgPL3CbWDK9DV63M_ZLAakGWK62H4NDrw8b1w_DB1bV9N0IacZYn7Y2cTe_NtWqOVcrUYi0QEhDv0iOM6HYhdaa42HFejGewGhSeSM9XhY5fcob6eb2YGr0W_sUNJw",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Iju, Ishaga, Iju Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.46223,
+                    "lng": 3.287021
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "969826c96f865a88209cf1a113fa223dfc999158",
+            "name": "Lagos State Taxi Drivers & Cab Operators Association Amuwo Odofin",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJSwJEjMKIOxARYfuRPqGRlb4",
+            "reference": "CqQBlgAAAKVlxnRGfZoUGW2zhwnUDIoqtxRJ01pOHfu8pxkOXTl70yys9H3aBh4_avL1TELujPAfUKBbKU3qksgAV7EXS2z0lIkrSRZ3p1dm4Wp2hvKhJ32GgPuKVyv_VqwTELdP2mKNyWJxu8y9KqMioMyUC_0o0S3sMMH-7zMJ_8OyD3qlbJYVBXC0bvLKKemMKOyR1uZNb2h5VLihUbY-RA_oG98SEEh7i9MWmQqSr9A4uUvb_rIaFHlh8TbQWv3HopBWMECfTSrvfGM9",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Festac Town, 208 2nd Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454075,
+                    "lng": 3.355295
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "dde9028ffc2346df93e626da5da9a3acee94906a",
+            "name": "Irewole Taxi Park Ajegunle",
+            "place_id": "ChIJST74scaLOxARi_Yh97e9Af8",
+            "reference": "CnRuAAAA2_xgNKCdZOe-HH7LLaNNIdB0n8CWt3QqxXMs_8fnalk_KZ2p-gr9yYZh5tDbFviLuQCXyX5csWpG1tJNjOTOQHEF_QntBJqLa8_WHbd4YdkCMN-lA7eqahjJXBbWlam6V_QZVePUIa8uQk17FlmEmhIQ7FgbASqO1rqOZOCKrFWzHhoUOYJaMj8miXaI9KCtLyzsVEWJcyQ",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Mobil Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455121,
+                    "lng": 3.351059
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "04bda5f7a69ebdb83e4b206fd5fa52ba07143d22",
+            "name": "Ajeromi Tax Park",
+            "place_id": "ChIJ-Wq9g8SLOxAR8fHjGEKUOJM",
+            "reference": "CnRkAAAAML2B8a0Wl_KHEhx5mpRmVt94ybLSSTrRDGUh3v-phZnf7kh5tcyFMQXRoUsfncKd-OTkqCtQeoD4oShBrvQeVXL5BuMXiju19-T2WYoSx1olZYJ6DOL4qorVflKX324oJk2KLB6CD6F45cloYHNv9BIQvEmMFeP6WeDziKvcgyX9nRoUCbemEcRLefeFY8VduFo-_iLh22g",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Malu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454641,
+                    "lng": 3.350932
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "2538562218e0ffc9539a8ae12e9e32580b4fcdf1",
+            "name": "Irewole Ajegunle Taxi Park",
+            "place_id": "ChIJA7X3g8SLOxAR1u5O3g4_AMA",
+            "reference": "CnRuAAAAlGpyO_oviaoOCevhBB3qylTafWykeFag4T2crJsyEWunTjd174BrwNs0XXJFceAcIfkrdwwhKqGvDw68E1laYjkEgaGgFUYBgdvdgc9tdz_pOsMz3w115FoGiMJPZSIt_2k0bBy-6dPnxeonl8Ft-hIQv6jcSZGVslc2Rxjq0dQGMRoU1zWxncGYW8lCriXr_IDDD0qZcrE",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "park",
+                "parking",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Boundary Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44427,
+                    "lng": 3.427516
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "815995a72279ecde74b69bde01b32c0001616c85",
+            "name": "Lagos State Taxi Driver Park",
+            "place_id": "ChIJDXc409D0OxARZ9SUMNf3Heg",
+            "reference": "CnRwAAAAm0Az-ACf1qJpTaovLFX2NWnoXOrufffFVoC1eo9I--gQlqAADk30UtgPMX024bSnxN2-nEgtHvPkMq1oIDXaGYJH95b6HTKcqWrjUY_nVstkhtUywLwyrC1h2fHNPQP-o8bZY2syroEujsu-BR-tWBIQEuQakudGxp_Zo6nukeiN6xoUHVmjYANRwaeHnDIXUMSOLWlFu1w",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Falomo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.526598,
+                    "lng": 3.35712
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "ee646730ea031fcc26b56839c07693a696b7dec8",
+            "name": "Baba Olosha Taxi Park",
+            "place_id": "ChIJgf0Z-sqNOxARMNFRzOVdksQ",
+            "reference": "CnRpAAAAwo0jmgZvHIhNKoD-P9l_yGAVXcKtme-fWFGpxsDdW8xbG8KesYUQ7P-7Epk1iZ6GCCT6Kha3R7EkMrB9vwXOp_pfrzPh2ryx5_0fHiYFpiJ1afZoW4jGaOOaqBgNAhwH-3B9cz4HhzFi2zjVA7kcYBIQOWoJANXpG8m_ltK4GpVboxoU13GSjpBe357RwxzFMbVMEQUW8Go",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Ogunmokun St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454861,
+                    "lng": 3.348185
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "9706dadb797b556619e2684770796bc9484807a3",
+            "name": "Irewole Taxi Park - Ajengule",
+            "place_id": "ChIJHcL9WtuLOxARPay1xq7WXfE",
+            "reference": "CnRwAAAAtsE1ekxLi7Ilmfgo4ARquJjfakSDBiEOMnjXDV6IcZe8NvY-vop8AFg6xHNW68E9YduehNV0S8AKaWif5dii2nLuJZ719K-lAbDn0s2RQ1BxLJxftqdHNxQGrspHNeUH1MatbuK6AAERqGgdEQuzmRIQ5JN6XjeYGh8plErpSQhSnhoU6YekT9DydwP7qJUwxdGsADGselk",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596897,
+                    "lng": 3.385826
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "9d92e2dc466c0f4be23f7c3e711cd91aa673f561",
+            "name": "TIPPER BUS STOP",
+            "place_id": "ChIJcR3j5fCSOxAR2qO5aFNb2wg",
+            "reference": "CnRiAAAA5YfYs2a4CmrCNqwTstHqY9tFNSdHCqSWc0fXhb3IvPKwl10rn1JaZMpEwxc5qTHU584biwwTPqwF53xTlvQ8Be66B6l5g5ZnVjUEKgS2eEuN1VaJiMqRT2_1xFcEPlXRJ2C5tF3Y4lsfKjKePtVM5RIQ0EZnAc7FpJOxSOp2fECsVhoUu8p_EAxx9HZY0LJY2tnd-QAD7YQ",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.66925,
+                    "lng": 3.326537
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "3a9b0ad24ef1a8de66c07a97c524403c02315911",
+            "name": "Iju Ishaga Central Mosque Taxi Park",
+            "place_id": "ChIJy3FFhbyWOxAR3IPylIqf7xQ",
+            "reference": "CoQBdgAAAMfcJ5F7-R_o8WLfUMJ7pFkJ3YzyEYfzxo-IM6Ps98ILsED-yeAR3S4wjdNFEsRyzmAmp1TTkpNeATf4sG_Xc0elGKiVAXi0Vm8kUe56dDk-AwhGmWyWGXQLsbdmyszkKVoZVpAVTAyernNntGg3ueA452zNY3abuiM1jTfukDbkEhD5GnpjVvP0E70uKq-64jdRGhQvoshjxpjsUt1qwyD4O7_DPw9MfA",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Ishiga, Iju, 277 Iju Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454968,
+                    "lng": 3.351001
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "07e32b5ed707122bb62e0cf3f3afb677182facc0",
+            "name": "Irewole Ajegunle Taxi Park",
+            "place_id": "ChIJD2DIhMSLOxARZ39o4RxlTmM",
+            "reference": "CnRtAAAAK4EBVVs5U6oIzxt1v49FdJG23zEPSDKGzYo-_mfyaXZ0yam7I5hnytJBHevYhWvu_r4nngQaTlZLGq0zP2rLCDVJK7ACVn3CcguyLWJLkgYRBqzrPL5AIvtPc4o6U_6PSZJp_qKlWghIydMqXuvccBIQoiDBTMyeNr35vManCkLsTBoUDoTkOJeovT-LB1Y47Cnc870bdBc",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Malu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.576096,
+                    "lng": 3.281249
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "3f549138adf35264fc3d65a6c3ba6621b2ef2990",
+            "name": "Lagos State Taxi Drivers & Cap Operators Association",
+            "place_id": "ChIJpz-XAyOQOxARvHn6Tg5p9SU",
+            "reference": "CpQBiAAAAMweR1O3oqDGejPGhT7RjQmLJaUk6l0dReISLJSNBktlbzAFKO9ddfgZoDHwnHt341UuYVEPrl7MSu9vsP3R7wKkno-PucVT6AB3zLEFuVooZc1eCve8-sVhbPWBy9yhbW4P_PogY70tZc0fheAB4lM08aSbZqbWcSsfwxuy-0jBrLl_v-kiwpPwBroKwOVNGBIQwQc--1qunw4eqs8rzGp_NBoU4YoesBeKIXdI70j1oKaDjlkgSzs",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Idimu, Ikotun - Idimu Rd, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599466,
+                    "lng": 3.387132
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+            "id": "938d27d222a2c7854e3ecc73bf4e2f2ee1c6b37c",
+            "name": "Lagos State Taxi Drivers And Cab Operators Association",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ1afPhfqSOxARhWfaDDYss3U",
+            "reference": "CpQBigAAAMqwaicBG82A__2tA2yIzig2aX09vMdEHlzeoYNiRg96gZniaMoIqlmQS9FJNbA0FGbPGyUkFZvSjMx6CLr5irT-00Ydqbw6W1P7ta0YBXzjD8Uxj5RxnMhPLemuQDZr0jn9EylGFt2tYZMMX3S5qpoVpbpTluplBQHJN2MycPAnLPZca6J7heTeYzRLlax2UBIQILk3-CLE9NePGRkC90sS2hoUbvlbvC6830uI5OaVPsf_TERO9oI",
+            "scope": "GOOGLE",
+            "types": [
+                "taxi_stand",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "471 Ikorodu Road"
+        }
+    ],
+    "status": "OK"
+}

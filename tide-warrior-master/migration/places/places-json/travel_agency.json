@@ -1,0 +1,495 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAAE2YP-ig0T03gaQf3YqD5AY_kEpzl5BFVnIRu5HEKeDP-ZTFxZLrWqtjdniE8fNuRwzs82kv8mA3JyTq2S6UnNme4ptGWShxOiC4XzXRbFNs9VVK59LsbUhIEm3va5kWbdjYjVjbFhCFs-HJT74goD8ohzCmXSpant48hLT5pnuBQqBKLeWp4JGJMcDdKZAY8Gq-DQdAehk8lSJvFL1z35sknF8BmUQBoU4Y59x-d9wc2PZJWrVhZYD34CxAqTxXnkSgmnnc0ZeeHug2pQLl8gp7SfDedxy25iNqi4Pc-yEGmre0390n_3455eyhukg5t7cNItqfxmDE_m93PUVIoZwSEMCgVQ-6j9T4Ei49B5394a8aFBbaeCNTKwhKDKMEGIyosQhie8SZ",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442581,
+                    "lng": 3.418429
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "53f801d5fe8dfd5ecd3ea603439407eeb84e86cb",
+            "name": "Tig Travels & Tours",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJk9gCPiuLOxAR6t1BQiH4aF4",
+            "reference": "CnRmAAAAbGPyMFLPKjRfpKUHn9Nse8LP_ALd6cGZa2Aungvo73FqVXkW2k6gYYNtoQwKy3nyB2MeJn15RTRYYXaABuaYz2yQ_tarlL4AtSVVBqu8voE6pZbIxgtku1Dou6N1LoFY4tNTnO2j-fWY8kG2trnxsxIQm5CtE7Rob8JxZpLcCNzVjxoUX2ToJkRLSiLhkti0rXC3ogflRM4",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "Ikoyo, 3A Ribadu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593014,
+                    "lng": 3.34265
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "cbf25de7b97edcd6c3c581520d569ccf8584413f",
+            "name": "PAT-ELO TRAVELS LTD",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 349,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBcgAAAF2dkpfkiL9iydOPw-vgcnNUk_4iTjog6xCQym1Hgvk_2kOPqs570qJ6Z9818g0Y-M21uj4W25kOAWME9gFe-HBPp2TTNAQA6lIolZM0vR2--nSmPD9qR00tchmef3C9MeKuG78NJzXa6K2VmHMoljP9m7Gilf0Os52IQ8JIGAZaEhDxmRC2X6Mm2WcQ4MxRqR4eGhS0QOBpoKPxwCZSVfUBS1v9pQSkLw",
+                    "width": 350
+                }
+            ],
+            "place_id": "ChIJ13-bOCGSOxARV8eGtIdWhTM",
+            "reference": "CnRmAAAAVrnUcGS7q3850adn5Qyt7CtKGZ0P6QcWHoy9a4TG09NDUZTmlx3JAKv3BGHAxK7GyepkQgFOHY5oVrk3SFlGa0vVQMLwlU2JnTKPSKt1w3BEJL_RMzb8YyC25fBs0J-F2bP-OsIVdM9IQC0ntzsTeBIQ4WjQX3fce93LgpL_AF4zcxoUhHdQ5vkv8PQHXlp5C3Jd-K1qLuw",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "81 Mobolaji Bank Anthony Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.505888,
+                    "lng": 3.352286
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "86a0d2b35d96b05eb181a3e79a97d22bff8d9226",
+            "name": "Stargate Travel & Tour Agency Limited",
+            "place_id": "ChIJV-Iosz2MOxARh0ukV-eq3Lc",
+            "reference": "CoQBeQAAALGmAvlXgh6iSjHhRRaPcXTdfs-lk_k-B7XjeEM4xbnarObyLVSZggiRhYVa40cPgFD5HvPsX0N7Z266YUi5knw_3all6FsqP95il5q4WrexO24osmRZxO1gURoEx3uc7DLZRZ-4GWJ1LD9zRAMx7t-6ZXPg9Iq8oEOm33qm1KYvEhC3sKE7BPz9AlISjUInbtZrGhSabH-XAmqOufjB7VisVvSVIJjJGg",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 44, Ogunlana Drive"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446403,
+                    "lng": 3.405425
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "7ac4fba570c0af564eb2602851a9e33d91914484",
+            "name": "Salvation Travel Agency",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 311,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAA9dJlZPfBQb5H9OdFv-ataU-PXW8tdCDPn61YGTlpK0CCBUv6ofjMzjXo1CVy5it3Y3bwz9lDc4Us1sTRCCcSIZ8yOguuGdyXsZr0s8aB6brPTfUykCS4LxEjKPI4JD6SBlpM1sgZFXsqukB_4NegLhIQa5l_ijBh7y649SDYkzLE3hoUOkKKGSttwTg6tQ0CS2nSF9L0Nws",
+                    "width": 311
+                }
+            ],
+            "place_id": "ChIJwYCC5iqLOxARC6xojtGnF8s",
+            "reference": "CnRrAAAA2N0TF3D0bw5Eh6DPgf6Au-6AH3kuCWZGwRUzhtsHi48k-50tmsRngZsNvq_nAu6PMpdadPqc30fdwVe7ROt5ZRggvsnVXe5Q6aOmOTwB8JLAlQeNOkA8NIv1pAWZEsQiV2Fe11ORNVB5Yzv6aT7c1xIQS61p4tX_WAjYCvl8iGELDBoUM5K6aBhNl1JULEtQ_YPHvZUR_Yc",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "Macarth Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.61935,
+                    "lng": 3.343984
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "253a5ed9d5cba3285cecd8a637ae74c99de06389",
+            "name": "Effrakata Travels & Tours",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 804,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CpQBgQAAAOYpVDA32vm3-bMFc8kJ5eqbDKFDFrfj_XMh2cLo3AG0WDWEFwF2XOkf5Qip7IILW_GMOo-GkVTgA54DTK1NMGwkUGR5NNttAusPCOvwQhulAn2yqvBr1HsXPLHGAe8DmM1pkA-1TguI3pP4SNypMx4x9Y1MSgkQunoCrSVi-WMKqEXEJIyUYfWfCgBUGBfGaRIQo3LcXNmwgq_K0rEB5rZVpxoUJrcVxluHM8R-50LkgzG01uIm2WE",
+                    "width": 1072
+                }
+            ],
+            "place_id": "ChIJ5129tNCTOxARCfq4dY2RK6c",
+            "reference": "CnRtAAAAD_CTtcNLxSp6tYLLokR2wBMDzXE_xHqC-qx4mIVJZ75GgvmpszC1Ocjx0_DXIvxOXY_LJ4DIsKOkSfwbG-Mbc3TAL1An7LI3e77jA_x87wheLtk2HyP102HosAlVIdHCy6AixyZhMH9PAoe1yUoSvhIQJ0VUKcQOwaJa6b18BOAYIRoUph7JwRubjJyTn0XY5qZPCpt9e20",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "3A Olutoye Crescent, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.619747,
+                    "lng": 3.301805
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "f255ac0814fba3eb62498b1c9cb0225c21ccd11d",
+            "name": "Oscarleee Travel Agency",
+            "place_id": "ChIJp5_HPAOROxAR_v4wjcPX7c0",
+            "reference": "CnRrAAAAk4JR4m3J-fftbA1cY4Kt711dW1KdDAouoyQ5YvGYpgTYhCtiGMGl9iktZa6PoPNX2Qtzus2dA3tB9jY4jcLuEAkbLO25jdh7T61pRefTAffeN5vvqn0923f4gmdLxKM2jBHHMANJqEVMHKqG-HqrXBIQx9R7W6jX7WVdsSb5pc9JtRoUHLmE_PFd2RNv-tEg_USrXbv6M5c",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "Iyana-Ipaja, No. 44, Balogun Akinogun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.601422,
+                    "lng": 3.363391
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "c0988c81fb4050fe73baa77654099a074e4409e0",
+            "name": "Queens Royal Travels And Tours Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJcRce2kiSOxARX890GC-MIgE",
+            "reference": "CoQBdQAAAJ8fKiPwyTED-lYYgZflAF0j8eIYEf9J_qkv2FZajM-eTMUSeklFUdGI48fcy__dyRYozUEQuGK2q_UTIixMt7dTHVghBB-hytwsGagxFQkw9ZXS7p0v0i0ZsSE9h6J-gQSwlWhCjBxHtbp0vdUeGFoRRAcn8bUWRbGyhY5jREh-EhAF1jwo0K7_Oz2CQ75IiF1SGhSJvSojsENmHTzyNXnE5EjGuWU9qw",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 64, Kudirat Abiola Way, Oregun, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604208,
+                    "lng": 3.301187
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "8e993eead89cecd4c51b7ad0b79b8cabb4178e30",
+            "name": "Joseph Travels Agency",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJlUJMfayROxARZRX7bxrBXuw",
+            "reference": "CnRpAAAAT4hnCwRcJqsv7fZwJ7tKyFjT-j2PE7X4R5BieqJtfzGUPKulEjEpUW5-2zEIosZByRvYT_lyQB05UOHw62XDZTDLcb0g6x4l3OTo8x12YSCHhU7BQvvpOzBrLQDUty_wosJfpGsE_7TMVn6LeEAyhRIQ_FJJBR70DJD89VNlPW5lJBoUzvQVDGTjZaOSstD-DIE7u9-m6HI",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "Off Jimoh Bus - Stop, 3 Oni Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.562434,
+                    "lng": 3.371958
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "a3849812100840b9fc53fbf55f3f4f7810d8deac",
+            "name": "Macjosh And Debby Global Venture",
+            "place_id": "ChIJG3268IaNOxARIZ5_kufLVjY",
+            "reference": "CoQBcwAAANh-yta2QAM1G_kTkxkk_dTFWMOWWfooNbf1HkaRrAeNhBFWFFWSHoFS6NhNavsuHTNEvtnMrlXAuVa4ufWYkzmKySndpkYYIkpxbAjMAnZCStMAzA_jBfTxJkfXZ2vcARZBBil297PcC2srO2jLrnpRnR2bjt02kQTu4fax0yhrEhAHH7ivMwoKkaNFZrN7QuHWGhTm0Pud4WMzCjhps3IhRp51k3YQbw",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "Plot No. 79, Kehinde Odusote Close, Anthony Village, Lagos, Nigeria, Kehinde Odusote Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.586315,
+                    "lng": 3.373331
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "ae6a1ff23689ce4f945571f9cf406e9659bd3278",
+            "name": "Selasie Air Travel",
+            "place_id": "ChIJxRPFJGeSOxAR5sWfyJGhFEs",
+            "reference": "CnRlAAAAaTX6Kfqzo6iXpzvtkjGSYEyHePYQ-rZsRMxuJpVU4VhSZ4oMUfkvlWzjL7eziyxTg1ngYSKRWpf5xJJKmrATHfWi6F_svyEwZrM28qMI6L4a9vQoKP4BLQragLIeGbT338sEFsfsxsLE2eTAM8BLKRIQjJ8nN458xtkM409L6pSLXRoUb-ybMCv609_D85zqp2ej45fsvKU",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "Suite No. 3, Howson Wright Estate, Off Oregun Road, Olorunfunmi Street, Ojota, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.489423,
+                    "lng": 3.357789
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "92a3a86c987205e640874cf894b03ca8d339d42c",
+            "name": "Zakreal Travels and Tours",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBfQAAABb2Ma5arFSP-MaQLuuhuN-PLt3tRYv2F2Eg5L2jCJsurfV_hMdxTIc7xHTW7Z0Or8iZG02lIUqvNjn3V3799ylINsyYY1AA5mzoYSdfjUBPasnkZnrgfJQ5wXokgi69TLdWEQwyKsperZX2nELRajyA4GBRit19DOi1LWQojUMUEhDZvmEGHBiHm44sGD8wQCudGhT1Y6nyHHWxG7Oy9FJ1_BUVO_OAtA",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJF0jz3QyMOxARLM5aK0CfdmY",
+            "reference": "CnRsAAAA0iDj0VsHbdycE0v8JRW8V5wlvsetc_v-nhTeHsLxAxB72rSR68ESNdyoy_t6YWzMvvpHqOtgvvM1OLTMI1nObmyHkJjOcI1fX151dKY52aJa884T1kCTB9ESCKC1ZV0tnvv1vAfNiFqtXoRY6yWiPRIQrJbgAghniuitCEo0RZSJBxoUa5-IrLO3kQq_aCt6bFHET5Pm5YM",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "23,bode thomas surulere lagos,Nigeria Bode Thomas Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429494,
+                    "lng": 3.441168
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "29d1d792fee5e854ff37bb40cb97f99d2a9ea788",
+            "name": "Reality Vacation Innovations",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRsAAAAuPXlKnpSV2gg3nZ2N4lp_7DvDcx2P-2K5i_b_0AqLiA0jX4nb9Iq78JKyBPXNBjX4ApnDktGWwfI7iD4gtDAIGFXH7qfqwbtMEIjTe6NTe1s2KUrUqXLMhk9KQVB6ZWyd42bc1O4G8i4aVml4gMjBhIQlGmdIEkdugUpZa-ogYfjKBoU6ngvEGi5EkB19fAexpZ1R5xuiXw",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJQRxwRxj1OxARTNKjCGOoH-8",
+            "reference": "CnRwAAAAzPNf4D9Owgj0-f5vd2o-GukdX3fx7-_eHisDbvV9vLb1LcYSv8FqWXM8D5AqC52KDcqsXhKj-iuyaGa4qPAl7a-dqPBxexhdJ6lzpap5nXw2ATJ4HJ8K_2KgOhDcfPruUl_pKgZwQ7py1PZo8dCgfhIQptgeJAVdxUBJ-SRg7sXeaRoUjGP1IUBE1ulq_i0pVgdM90K4bnc",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "7 Ligali Ayorinde Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.532622,
+                    "lng": 3.352236
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "3c9d24baaabc96c37dddb2a5ba0658733620c83c",
+            "name": "aje africa travel and tourism",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJu4ZyHc-NOxARKCd_4w08mnk",
+            "reference": "CnRwAAAAjYcrS9wbDUBbxh-SlPkHfly43AF0gy_4AOcDFwqZ-O1iYS8fs5gzxaKvwvoET4PhZexm6BqPO2t2Wy0lI7D3HyVcOID0argWxXyZzWBifVx2bntevv2Rxc4rHM-1PZOI4X7WjSeGTJt3XzpyIFcoTBIQ8oDU-eoK5eeeezJ2wX0yYBoU85FaHTXDxUscT5dCURKBK15kkU4",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 49, Agege Motor Road, Bishop Junction, Idi - Oro Bus Stop, Mushin, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.459404,
+                    "lng": 3.342673
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "640614db8ec4683e9d39432b8c12f82b301c5a94",
+            "name": "Real Transport",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAhpwWX8aFRBtrW57gTDjhoKvtHFcA-J75Hyvusho1Ynh54asuV5QUDjB9ReTOYQ3uMM3TK1e1AF9HUDn3BilCbWXaYmSF4pn4FA2MFE1QLFYonyM-z9fSe4qaS0Vp8MK34YDkPOQbAnHXakwzbiY2zRIQGpiljI7-XoJfccn328BQthoUSlaCJZ4sbxJd4d3VlXPr7JmruRc",
+                    "width": 360
+                }
+            ],
+            "place_id": "ChIJr7wbQN6LOxARn3aVNWRcY1A",
+            "reference": "CnRhAAAABQqGclrY1yegfWnaB7bJwQVkhwcZ-SXtEi2kgQLI6Ps5cKg9RCuPxpwbvUGuNNduMDw86U2YaWRuKHfBPLySAdg4DOYIuahb3guh3J2q_Coel3voBt4ilEoMhT8Us77f0wOvDZ-iYPFbPbc3IOidMhIQqVsnWe4lKvaevyBdcvP1xBoUdJSgGQD4iLmgOfiaJWObI7G3-2M",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 1, Okoya Street, Ajegunle, Olodi Apapa, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604673,
+                    "lng": 3.366194
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "87005b5c61c6d42e79f30fddcf0b314d487482fa",
+            "name": "VFS Global",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1265,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAb_A40sWW6VKPeIXVFYu6W9Yi1Zsc1i0BV1lmlcfQ-2dgQ3ezoDUWHw-1lltTIRqBirknJSYx_QRa04bmGlEPlTLi1WSrIX4RJJxXg2_qpeBPonj1kqLyHulHOsYWYDDhkAZZ2i0hCcn88IazPtN-jxIQVtxPP5ZiCzz8FJ3s5-B3shoU2M6E1iGQd8kawDg6nBZj-4-0JWU",
+                    "width": 949
+                }
+            ],
+            "place_id": "ChIJAylGtlGSOxARV-Jrzxoln7s",
+            "reference": "CmReAAAAs39DKUV9lUKko98HlwYF76_MGMEkhKpMMA5PhnRWP9tFtJrvnPJD2wzjXVfEYRFBrZx3KRi6I5ijVX-uphAho4orz-xeL75vriaq2IANRLM4ToG-eK9X6ieECwBFvBz9EhDtrFKOAdtkfg9vx7A3pWQKGhTcGAjjWPbgdPh4AaX2x1XgUky2pg",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "16 Billings Way Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.497914,
+                    "lng": 3.359654
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "61059960d1e58f2200537686b5dba15ceb62443d",
+            "name": "Elite Holidays Limited",
+            "place_id": "ChIJP9b7V2uMOxARNOpQCOHIv4E",
+            "reference": "CnRqAAAAJzq_IYNwxih2QSolh8UdTwjpzw_GI_hLCCBUNCB7bg2xFlmFa8ERuBp33NDYtl-ITebclQzBSLYOnswMOdQVZ4_jx-fakshxM8C4JTnzNcnzipIAZpkl8fidPJFfAn_deS5cGIkezmqwa0TS7bvKqRIQK5ZYH8GHHfHvKK7UU_4HixoUUKKul8eLEr-vlkqvtv6DKMyA4Ow",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 44, Alhaji Masha Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.573237,
+                    "lng": 3.334168
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "25c51f64c75ef897d907a9ffe5a043b6c739afb9",
+            "name": "United ACNO Air",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJBzmJUPmROxARIX2ZYkKvgsk",
+            "reference": "CnRjAAAATrVj3_0DP0NtdlfQZR1Qa_5RBddC59gxQTVD3FTQbSiJ_oMqMFQEsD4rhqewdzvnd_Vjkh2qVyekCUQVH3BU9EOFt0C9fDOgcw8oJs1NY7oqE4R2jf4cMModccAR4DBBNmPFRUJfotQqY4umDlgoRBIQqp8KPP10JPUhYQviH4mWZBoUj_kfTPwuBbZJOhpSfwGPqsY20CI",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "123 Airport Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.610583,
+                    "lng": 3.504234
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "f97445d7ea5719ae0db4d8ece898913afe831bb3",
+            "name": "Dr Who's Consulting",
+            "place_id": "ChIJMUFpwoDuOxAR9KbXh5Jrhc0",
+            "reference": "CnRnAAAA2tqPYLGOlZ_SOjdMC9uvQjNtgQYsTUZSB28vWCTAv6vbLs5YQe0Iw2wVH6n2MfrFFa-HNJet-xLvoKefoJ_3pHg7Zbgi7xr8f7Vrx03Ipuqa4r6xVNR4uxVnCZ1Q4AzpSz4RAiMDtGU73l4wpOZSbxIQmkME0IJFNbqqbbgIz7JK1BoUjUk3dK0QHUT_3VgmyUKC0DpDUf0",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "Aga, 21 Pashoku Road, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503112,
+                    "lng": 3.351297
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "34cf7e3936fa7b33042fedd242b290bba3731b15",
+            "name": "Ideal Travel Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ7x1E1BeMOxAR1VrZ7Wey2IA",
+            "reference": "CnRkAAAAeK2TAelzXX_hefnc9nxxLwZ_ThlC5lPQZx3GkvUkrXzSP6YarZYm4kdqjFJ034gCnwwH1VgjNF2aK59MuYnfXpLs0x9RN3XygBef10aIq72UIUKA2cXsRaPT3WklCiGG-d1S_JeTL4KqyMavIf3imBIQ_dijb6C3LKxUUSoTnv7zLxoUnuK2go_vv0802SvEa4xR8cxLUHA",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 10, Ogunlana Lane"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598382,
+                    "lng": 3.290699
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "f82c8ac638cab421bca5637b3ca4dea8f3903390",
+            "name": "Obakomiyo Philip Hyundai Motors Company",
+            "place_id": "ChIJoTbnyE-QOxARnlLmUg2vDE8",
+            "reference": "CoQBegAAAIs7RpYwTzZ9XQu_EBlUo0iiTF6BGFa0kB9z7C4UcRF3szZnGjXksKYF_ZgNMUHo2BpIEZozSUDPucTwc3hNgM5LR_c7Mnk-EsSQ_Ds7xvGll18XV6tE_PAI9NS1mzMu-PTtC6WNpKaG_40n3Qt8QEsJKVVKY3wrE3NprxrqKcVzEhDkAvzw0bhNTSROcqJrfBlgGhSvrpapt9397-8-mMS_BN2v3XakVA",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "establishment"
+            ],
+            "vicinity": "Egbeda/ Akowonjno Road, 109 Idimu Road, Lagos"
+        }
+    ],
+    "status": "OK"
+}

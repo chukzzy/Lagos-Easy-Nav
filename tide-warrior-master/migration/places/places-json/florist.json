@@ -1,0 +1,529 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449473,
+                    "lng": 3.428689
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ff1dbeba59e7256f65126c1dfe87c1fbc39d135e",
+            "name": "The Flower Shop",
+            "place_id": "ChIJNZwJHtD0OxARZF7m3EIxV8I",
+            "reference": "CnRjAAAACgT9KtQFjgHJ380jCUENngq8areucBcU3oR5EM6Wn6paq5mhr5eQ5kXZPZWy9FOQ34f0RxE8GG-uUGcGrYv0P6_wB89B1nDJi3LtdJWCoRo8j-qZxuWMYCU_h0Xbke1T7LbBEGngoOCR8cS8aLJwkhIQbs5ZJL0DpJZulFqauIa-cxoULsBsC8-S-zASnMROI2ayj8RIezk",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 39, Kingsway Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.470801,
+                    "lng": 3.274555
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5b8c8e8ca0127466ab0b474beefe395b6d8739c1",
+            "name": "Deliberately Yours",
+            "place_id": "ChIJHbos6rmIOxAR6K78r70j5hs",
+            "reference": "CnRlAAAAKE5jrWKebJWqFBMNK2Zp-g3pOJ2mh5Fr9VJNpNqjfZ-kQi_UVIZfAjCNOgC7-qLguTj_EyJKdskLNdmiqlDOp013eWsEH9qXkIFCyDENztsv76wW2GTMczjekI53wEa2VBmvkBxe7YhhfrtVOsX66BIQds_sPhxI26KyfKS0mWuxERoUpEMlguljgIfXfdguYA_gfkoeA-M",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Festac Town, 2nd Avenue, No. 23 Road, U - Close, House No. 10, P. O Box No. 1624, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583714,
+                    "lng": 3.35915
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "123403755c5f25d5c69b25eea0f6d4a9d62bccf7",
+            "name": "Laura Gardens",
+            "place_id": "ChIJ_ReTUmuSOxAR1bYY11Obe4g",
+            "reference": "CnRhAAAAAb1LPozPQaCkiu9RWBE17-NSllDlG1pczixUR9v_I_neTMyd2gIM0U5PYPcKYqDSm71FBos_f0t8DoUOs4kYKvVQ3Qz_sXLXZrxdWcmUy2lLmRmg1g8MBMZskw9D3PMFTRoiIm5ld4EP0DGKCVjC8hIQwEx1030aARxhsvZLabV2XxoUGBmq9_fUnhyZIgmCxat8dtveTow",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 9, Ebun Shopping Complex, Opposite GT Bank, No. 13, Opebi Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598515,
+                    "lng": 3.353061
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "748fd7a908dc02fe8ba9f635aff4bc3a08c45cca",
+            "name": "Violette and Olives",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 460,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAHy7aqYJ0To6BNw_PgN6RVM93cXgo1cXtE-rzgVVQ54uB0Mhk-4JfC2h-b2zBzxuu1HtLsBjkXcIIIaU97BoWyGa324f692WojtwZHQSLCOiN1_mIyxJLgYNoVVchGy0Js6tlkXCrG9PXcDbRPNn6vJSJUU1CP6wzX_6PYrAzJaOEhBy7tLUF4HsOGm1RgrWsYwFGhRpO83Lht07OLUx5c3RkKx2ywn4OQ",
+                    "width": 459
+                }
+            ],
+            "place_id": "ChIJj6oADjqSOxARatlGMA-h5Lc",
+            "reference": "CnRnAAAA_cW8zRuK6aNH7l0ZLc_WzkRC41NhqEeD-X8JRSawRmcNQyzA9JoG1TXOAD-NhpZxHtsYvYx2AygliXFsJATN-5byCLL2A2gtuNBwC4enjJisSgMqF-Og2edfqBp2Wp-UTHgpdXMSyRhecv8HHexuchIQPx3PMxuPnXIfqNY3jVus7xoUFBA0F0VRDOwSIaB4bguCkvymHv8",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "17/19 Allen Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555976,
+                    "lng": 3.363279
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "6a535470c76599a27fa9e5f2e987ba7b53548536",
+            "name": "Christine's Creatives",
+            "place_id": "ChIJFa0oDpKNOxARbUcIMgLfzGE",
+            "reference": "CnRoAAAAm87w3Z4rPT57FIHMiy09IhvDBJMS-ouoIbMIb7SerWc0TNz2KBgNX3NJ-RHxpOOg-tfTn-3N1bAvvNbxIRv1iD438pL5ci63KqtzrohNacG0g8j8kmYo2p0c-3dYhIRWWbuwqwWpYvwFn_FTWF5F6xIQONKs6bSCREsFO0ZovlJ_YhoU95_0qvQLuaTsRQm4-5xAGYVD-wU",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No.2 A, Ilupeju, Ilaka Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488815,
+                    "lng": 3.364295
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "23cd28e7b31d90698dc7703efe889b410e39294a",
+            "name": "LeeZ World Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBfAAAACmcEjcVQklfWt0LhqGVfA_3FG50Ot0XiyqsFN-bl7mRELE2VH3G3Gkm7bllJ_0ddo5h_dA83RePepmErfKWY4Q98S1KAMYo5QSPb51ejzjPT0HavPAzjY_worS8Rflb2kPThwfe8jr7gkiyMrh_9CEB1T7xEmMeY9Zm1cfFhdvjEhBLLsFi2iQWWfMg41r3Wa2UGhTzaGQkqNAw0M5R-eTqdm30xJofQw",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ0etuYXGMOxAR8XQAl6GwCHM",
+            "reference": "CnRpAAAA25-pFOsK2EUFNey8xYG-Xi3_ajXQ7JAwsU4GtpUHju19P63tIObEE6rbx7J3FeZVYOCye_VaoI4yPDs1KIvVlwYWwicHnMJMrufcGqodtTPLTZzvN2UM3lDhR7grjSE6PwBuM79vUADU4-OB71y9rRIQUwAmYu31zh8nCUVV9gAx4hoUye9luzK25GHk8mYPWmvhzKiXtOc",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "furniture_store",
+                "general_contractor",
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "109 Funsho Williams Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442019,
+                    "lng": 3.418328
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a8b6696b27e5f9a09f633990cf2469ba81dc110e",
+            "name": "Flower Stalk",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1048,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAHfeu-T6HdSzfJkNQw4Hh72xnigl4YDVwaFQdaVm088chmq9-tmG1DrjJZ0eMY07WE7YY_Nmkgtlinr5gXaYca6YcE6K1AtZE_yveXqTWVnNZvQoEfG6e0IMbgdp9aUi1hnNYtH1d344QpKTlJh06_52B5jl9BzBu-3b7suyrbD7EhDF6lmgveYDmzdMmxhdxsEJGhTc59nM0LTj2wamjwhcta921YUURQ",
+                    "width": 1048
+                }
+            ],
+            "place_id": "ChIJC1zBISuLOxAR7greU0VCoAw",
+            "reference": "CmRfAAAAK3swgcG9ZE8-IU_4gdJUx153EPKDCkpf9n6lVPc1BSjxOPI4BTlvE3GDc1QZjiE1u0V911Auuxot59uFK2pEE_IhMD49WyeDum00OgXR52XhsC3hMGPOMqO3OMQoQO8pEhA3LoLuMqhqgZZZFgRtXMP0GhSiAzYVfK2P5i8MqAfXWx6u6mLRsA",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "114 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435754,
+                    "lng": 3.421469
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ed31eb5d075d606e2be48343f087eb96cfbc2da3",
+            "name": "www.0700flowers.com.ng",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAA8I75FpFL9Tv1ld2JOOgJbDzeGxGFsKxUl0s1CSWRAI1uBvDqiuHXJSTdM-3Z3oZUImt_3mMqF9COP6iFwrN7NatJJMcjv5S0O8i4uNsUpUV8WUoBmE9OwS-EVpktGrBkFMBYjKJIszWlOVOnth_qQxIQHP8K0lRCO3l5ubp4btxF9hoUQIAwZF2zRn2E-uIXGWYf0atcr9o",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ74ouBSv1OxARPftvgPgoaqg",
+            "reference": "CnRqAAAAJu8qcOQguvaMtSVn39ggxvlfXSRXciOvhcdY43T3Ad-ws9Nu7VV3YoQiYvlzb_bvbjHrpxNz-5XeIOcAmJ4aVy1AZ82XeMYR7tEFSvQCeqK5e7X47VbQdh3CgYek0rElVujuxrSTZFrX_zJ0gQe3QhIQkK2GKMZys4V0AtEfQwhZHRoUasM-RGX6UKQAZiXp6KRRvrG_EUI",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "240 Kofo Abayomi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431298,
+                    "lng": 3.428089
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "069e10c03ee2b49744ea0a8d795322702c00ca78",
+            "name": "Flora Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1186,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAALA8KQSPwLs4PhDkbZ3yHK4kYCOBKW2AtdwNZP1PeJ4_1Nnh3r6WRCDqajF6LzNWqW5gVM4ozR_ZRhjsLlA-p93kdOzTzdOYLbvL_g2Ub4NrRaK2skPkAoZrQ17SwqJC7Q0U3CZf_Uw1ixzA9yYiPGDM2K0mZkl7KKkettQxRTlTEhCC2eayfFFrJ0YIIviyR-_3GhSA0snQMMi10H_7db493OKQdYkj1w",
+                    "width": 1185
+                }
+            ],
+            "place_id": "ChIJQ1obDC_1OxARAPujkBOCBTs",
+            "reference": "CnRkAAAAbxdU9d2ieCwni1q8sZl6dmJlGuBIg7cQmMITaAzTCz1MHRAWWCiElNvQRh7ZYSRVi5whvIKVFBzOUlQPQ9-T_wBXCgVCZ8oytCPIeVvup7EABP9_mYkgY6KaQVOM6S502W7HupQyoOMAmPV9eZA65xIQHzUjndhygTsu29uNx1Is0hoUoyuxwe1Pfma1mAGVVyFSTrWgD7k",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lafayette"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.484939,
+                    "lng": 3.366105
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "aa466f0a5d33ad2f1464f31d47c93727629d7e8e",
+            "name": "Rosety Gardens",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 283,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAAcI1FAzrUvUzTU5cH5OSjaJvz8Cz21lOXEqkcuq597dIZJ665xS3tZcOjJ7Fu6PgQ47nqwnlpAKoXpd_hTxuYhARmfsEZTJDAy8RqBVoUYZtmsTxW--lf1PBD23z7Zw8pnCXNBPA21vgxPbyDPRF0xotN-IAQNyHnmFcO7PO7MKmhMCkvMGRlFvKjYBngo1hhIQ2-OZBgsoAFrnc6CrVtlVKhoUZbp3WI9NXd-UnP3I_UEYCyWjV1E",
+                    "width": 283
+                }
+            ],
+            "place_id": "ChIJSet5-HaMOxARBt-7MWcjSQE",
+            "reference": "CnRhAAAAqqIJgB06H0IkROibT-r5aAajFkGdab9uCUbX6_jLX3NWVfwv1GiIA29p9Su1B3VHdqFFGVlhOwpRHBzQOZKhWWKtOC92ngu4khYRh4LfZ586PvSBOpWZo5OjBbkBzGv_LbCpQlycI2esPPsFhumWYxIQMoqXCm7hKlzpNUZ2oux8JxoU2Ix5QGVsI5sZCnv3oR8HEDgB-kA",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "104 Funsho Williams Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.559466,
+                    "lng": 3.367627
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1935a702cfc49cc5b407439e8c534026c4a63e5f",
+            "name": "Christines Creatives",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAALyZjS9_rYVHbTKXiZj_WXYVZR7I5_ejMKz_Q4AJK0Cmpfz_UCJsWkKJk6lXok_0mzRrn_URZZTBkKKNaNzzvOT3FlHnXRHPI-s5Ri1t8XR86oHQGhQGCTQj7YLh1Sz6tcFd1qIXCwlb3IjiDbxbucDewD7E-m-DJMM5-sh0puluEhAKmrXvGO8KJa3iJyfJJKKeGhQ8ai1ukYKGg-FWeFzF1FNoXevsTg",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ5cwSDI-NOxARb9udobQc_2U",
+            "reference": "CnRnAAAAz4D_4AjdTStbGly0S8zXaSXJvGON3pW-LStdokmHyyRCYSZdtKBqbaq_Twq3D287zS5aIeRHablahKMN53MCSBMz3YWvBKAQhk6DEsaj3rT8WsA_sgWIJBVyJNb3AUw7Ah3o9Y8Ceqe2ozQrQNiyDxIQiGPI3_242VffR4-8vZdalhoUsYCp5CP5sJP_bAWQDg9To6ngd1k",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "2A Anthony Village Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435999,
+                    "lng": 3.421499
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "351c102d2b0ddbc30085177cf9114e37d4406e94",
+            "name": "Gethsemane Flowers",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 315,
+                    "html_attributions": [],
+                    "photo_reference": "CnRtAAAAIR1igZii5bKBlJ2QwdzMvLDM-rbLBvSEdISzzcM3rmV12c1J5JKROSnanavWrGWhFjDZpU9rq63jWTHLb3H0_D9SQ0pOhMqFET1HKCt2l8_AcEvimPcMTc0rHHMw1xz6RH2Mw9kJwjVbLFSKMqlC1xIQiv0GkKNLAqu2Q2iyGq58DRoUMh1dc0Cs4X2MNX8AsTgpJlrXqzg",
+                    "width": 320
+                }
+            ],
+            "place_id": "ChIJB4uUBCv1OxARoNDSvQA6Xow",
+            "reference": "CnRmAAAAwKMYIdlHdUvswyCcY_OJVDubMGIZGSZCxp6PwgTUtZSfwPT6qx4-sdnJYanIOl3SibZD7DSgPXjkMFW9CTo1pbOUi9XXREiqsIBx1y5zynAD6VEqnDB0hcQUFWgImMA6ApZFGjBZM5Oo8GcPmmOhxhIQxZ7Ui1Z_qfnl5RonNS5yhxoUAjJIcB9Rd9jUd0upAZGkRRp4iKQ",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "240 Kofo Abayomi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430788,
+                    "lng": 3.425506
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "39ab982f23af56cfd489fc1b85dec0e8e8ced306",
+            "name": "Pretty Fabulous Flowers",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 300,
+                    "html_attributions": [],
+                    "photo_reference": "CnRtAAAAZ0tDItXKF6NY0m40zQvwUyfHx1peiMIo7BLCucAtKY6CHkMP2ow0fTKfxvjQyO9U2OXK4XVEhn_ZdAaaQbwCixLpijgTuuGOwUrT7I2whQetVBbLupsyjvsCq8Uq4Dni9AQ8TQiFP-tgzsSQ9FWznhIQvnfcnONL9nLVhWUT1CBZ0xoUUEt_1R3ypGUhAvbufH2-nChx6bw",
+                    "width": 300
+                }
+            ],
+            "place_id": "ChIJx_QtYi71OxARS76Xatpsvkk",
+            "reference": "CnRqAAAA_I0HSxlX0Ln80tb55kQofeaIVaRQp4EbmB0uL5A9H54T4CCF97fp5dvle4n-55xzV-RClkFSu09YLk6t3EgS65J4f8uvaBQDiOUpihFXoazhajzbWV00_ACsjuvnyT2XYC9HQyvmq9QwNIp2RaWM5hIQd7mI_N3B0UeNKBBy58HZ9xoUOQS9WOrJz1WHpD94TrJAGQtIP7w",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "4, Karimu Kotun street, off Akin Adesola,, Victoria Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.445147,
+                    "lng": 3.458125
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "94dc4485e99a7d7610918aac75ede471952222db",
+            "name": "Fresh Flowers",
+            "place_id": "ChIJWVcYw_j0OxAR2rHCqwVv3tg",
+            "reference": "CnRhAAAAbv5BU9LF3P-OTAq8SxBtycd94CVyaL42BTLAohxlZGTUSAicVxrGp-DT-cjMidd0rFmaAzk4AAG55rOaFsH9w6QgO16TG1VbyU57a8hp8HsuWWpz7kL9pS8f3HEowEcv6QweC4kPU_rs6lD5vHv02xIQJomTWiW_1rat_8Hx2BnWChoUzX0ZW8STU_18Wg0trpFMmUrJooM",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lekki Phase 1, Hedges & Smith Plaza, Admiralty Way (E), Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.460526,
+                    "lng": 3.38794
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "321e0934620c0876551a33af9ae3bb00a62a8b5a",
+            "name": "Swalek Bridals and Trimmings",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdAAAAEu5KrmF0f17tvjNbVmOHT7mlaM5fcLG7F74GeaqvyjBMr9V-p7Txce4RW3PYVeG7xIaoCOtM7xkED3Gp2KPcOuw9ElZDJj0dTFzSu7aobEV0KSuphVUTdWKT-GZvsc3sXRzbktoz9j70qcv-aERr2vRCwP949rGmr-ei8n7Y62bEhBYWX4xB-vrRKPLcNRi1twbGhRK0681js8miY9wisYTMEH1S8Xmdg",
+                    "width": 1205
+                }
+            ],
+            "place_id": "ChIJRdXBynKLOxARp59YwNWzEQU",
+            "reference": "CnRvAAAAR4qor0B7ALXe4ffldAw8WFnmiy4YlTGHWJ55rIVzHGJfckC9yp-4MiQ9NSy8tj0itfgZTABCJ5yf45AedBsWSYvgxK8kEYp1EZhNCmr_zCzAaNfqd1K2ZqbxLJSU_lZ-uVGCyl8rxFnIzgCe5rlyPhIQnwuvMUhHt7gPp3zBgtTmEhoUtmZLE9aqrzy3MCEJ5VAaexh8ohM",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Upper King Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.536447,
+                    "lng": 3.330191
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "773abefdb8005b379325302040667bfff34ed40e",
+            "name": "M Jay Ventures",
+            "place_id": "ChIJH40Sa3COOxARtGDMobNvRb4",
+            "reference": "CnRiAAAAa6v5tBA-lnO-ildcTOtK0QmTcKqwXoJTBG7hgJucpE4BlP3uEL8pg4S9HjLZMFSoOq5C9dbPJZHS-9wvV2jbWflpgD4tM3FVmHgjjJEgJrEZcpO0is3r2Jc_ou3WT6cJkk7E6KRVzWTZnUerCM9_IRIQi4nV_wfLaTmBbGAjR5VukhoUy9gP7Bkfo46u0dJ_shKGoc_q_KE",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Near First Bank, Oshodi, Oshodi Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.519632,
+                    "lng": 3.340935
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "881cf21c1e7d5c86587a0493c2a81809b1a84edb",
+            "name": "Liberty Reserve Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ1XHVKCqMOxARPmDNYlB0FEo",
+            "reference": "CnRoAAAAVGgcfGg3OmU2mBhvQ2rIjSAba0XnjL9jZNMXfGpkcmeMrjXCUl3u16QgOD0mM78G4puf7hv9tYsTLnPXglVVw5OOg3j9PhI3z7zdnlc1E8FaHbaaOKqBnxocG3UyO-BkgqPurNW8krjkk3Pj7i_s6RIQhxrh6rGugfDGwZbgxwOJHhoURlxK5DG2SZZReMmUrMKTgojyOSY",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ilasamaja, Alhaji Alaka St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.565544,
+                    "lng": 3.347528
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5978df586962e281b884ade26e4a0ed5b0d7e507",
+            "name": "Bolade Flowers Point",
+            "place_id": "ChIJK0XTRviNOxARaTYDPKQH8QQ",
+            "reference": "CnRnAAAAMzyvUwJlA-fWlsgC7BfsvcL_pfkQLilZl58OkWgKovxQPvCXHfn2MGpPfUDe5h_VhkAyqfcT8ZO7IaBh919At3OYAT0AGO_3ufH5-RK6QDefITHmMpOB_8T0XEq03n3vQxV6CtLBDfOTnad1NPKP-RIQO2TN73XXeskrk_aeSkAynxoUXc3Mv9mHqcKoTYT9tg-8a4tnNxw",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.460112,
+                    "lng": 3.387712
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a837afd8b65ec8873f46370f038319930a5e74d8",
+            "name": "Fanto Bridals Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdAAAAA_19O4BzRNhAcGHXaS35wKpX_VFMpNoxFiImcYae7gjLAcH9FRvigBconiAyPRgabaCvatz8GWx1uVRdhqdxEiaYBMrGaCmNwD8htZwX6YF_2JE8PXxFd8lYz-8DF5TNfUBPpFjwtoSxksyuM-2HxHuqlAWxMeyN8nMWOAKnWgAEhCGtj9XWoHPo2FdKBdfGHI5GhSe43PSwpZ1-oJ07esA1c23bpzqfA",
+                    "width": 1205
+                }
+            ],
+            "place_id": "ChIJJ1ZVMQ2LOxAR8zXugWON4jo",
+            "reference": "CnRlAAAA7SS2-zXV9RLe7EU2kDFVz10JfOxmU6SE7JE0DExj6AddoEyj1gtkr0IgS86yaEbtw_E7ynvub30ZrJzWszOpCygUOghK4OdBlGdItENiO0PdiT2jaqPVN8hyU2f1BgVRcJ_nsOjM9FnyMSlL1ESzxRIQ-ACsG_LtPbpSJ8k4C1NDbxoUVGyv2iLv_NKz22IHfrtrctLQZjk",
+            "scope": "GOOGLE",
+            "types": [
+                "florist",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "110 Nnamdi Azikiwe Street"
+        }
+    ],
+    "status": "OK"
+}

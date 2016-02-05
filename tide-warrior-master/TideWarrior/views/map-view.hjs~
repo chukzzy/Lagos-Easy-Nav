@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html ng-app="mapApp">
+
+	<head>
+		{{> head }}
+		<link href='//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.css' rel='stylesheet'>
+		<link href='//mapbox.com/base/latest/base.css' rel='stylesheet'>
+		<link href='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.mapbox.css' rel='stylesheet' />
+		<link href='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/css/font-awesome.min.css' rel='stylesheet' />
+	  	<link href='/css/map-style.css' rel='stylesheet'> 
+	  	<link rel="stylesheet" type="text/css" href="/dist/sweetalert.css">
+	</head>
+
+  	<body>
+
+		<div id="main">
+
+			<div id='map'></div>
+
+			<div class='top-bar'>
+			    {{> navigation }}
+			    <div class="input-pill">
+			    	<input class="col8" type="text" placeholder="Enter address">
+			    	<input class="button col4" type="submit" value="Show">
+			    </div>
+			</div>
+
+		</div>
+
+		{{> footer }}
+
+	  	{{> scripts }}
+	  	<script src='//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.js'></script>
+	  	<script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.min.js'></script>
+	  	<script src="/modules/map-app/app.js"></script>
+	  	<script src="/js/map-script.js"></script>
+	  	<script src="/dist/sweetalert.min.js"></script>
+
+		<script>
+			var destination_location = null;
+
+			var map_center = {};
+			map_center.latitude = 6.4531;
+			map_center.longitude = 3.3958;
+			map_center.zoom = 13;
+
+			{{# destination }}
+			destination_location = {};
+			destination_location.latitude = {{ destination.latitude }};
+			destination_location.longitude = {{ destination.longitude }};
+			map_center.zoom = 12;
+			{{/ destination }}
+
+			$(function() {
+				drawMap(
+					'{{ accessToken }}',
+					map_center,
+					destination_location
+				);
+			});
+
+		</script>
+
+	</body>
+
+</html>

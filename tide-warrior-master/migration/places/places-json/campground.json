@@ -1,0 +1,59 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.625234,
+                    "lng": 3.304666
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "05f718b54196bb05bb9ce5f2ac01799c7818b706",
+            "name": "NYSC Camp",
+            "photos": [
+                {
+                    "height": 551,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAPg8YnMYcRE8Au6dUOc-U_fa3Abh9yN070xvhpOMBmukD89u5QGE35U8obfr0V92w5f1FONgIwNxc7-fY_XpBp3bs6rq4QmHzOj_UCZLgTNouXUz3rhJVs6WzjJDcEPRMgLJ6CKvRbRREOiIuTHItnxIQCVCCVY8Gl2dzLwLrLlNZtBoUdmgRaWRhUgQc8HEH_Ov2rg0uOdI",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJqdoN6huROxAR3RMEWy0pYt0",
+            "rating": 4.2,
+            "reference": "CmRdAAAAquXDSpkC4RotjNz8LREhSOA_iMPK7g5nHkr6yZ3kF69O7PfBpQ5PA9Z0K4cXVSocLYZf-A_mmO1qDYLyuuKmlbPD2fxv_86_-_gHTEqBrRhNPfHhXf5hiN494H5G3uCiEhA15jlWJhSzBjYhy3UxQIyrGhTLbZSiJ50-QFB5JYCAiY0iGw1zFg",
+            "scope": "GOOGLE",
+            "types": [
+                "campground",
+                "park",
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Ipaja Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.571202,
+                    "lng": 3.298296
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "d705a42fcae20c75be6c75bd0db60002a62ba671",
+            "name": "Four Square Camp",
+            "place_id": "ChIJIYBTNyuQOxARP9XQz9Wo9P0",
+            "reference": "CnRkAAAAImlIUHoAp-LuEK8T40Yh0cae7VK6V7fyTVW0cnD3M26-8czVDNM8fcpD_gT_Egw95FVFfT3-SIovesesbfyVlZgyEVWGC8OTrb30XHO9vJtMc5ppdENQhf5Uwn47MQV2dXVetdnrCEl2jpka1uGH_hIQLx2OXt3Fc4uzlqN7KmOGohoUMnKYbK1AvwNDD7I0-RhCQRC7Neo",
+            "scope": "GOOGLE",
+            "types": [
+                "campground",
+                "park",
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Ogunrombi Street, Lagos"
+        }
+    ],
+    "status": "OK"
+}

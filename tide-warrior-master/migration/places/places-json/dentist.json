@@ -1,0 +1,481 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAP-ynYR5DeIxUnuTCAZ4yA1ED3v6jpZ0D3Waz7D5dmFtxPyCR7QG3lTdCWAhsmwgxcPy0bg6LodBLxxc4oF0-LukCEJkZzBaa12dq7RN3pFxN8E3NnUi_XOksobqbtmqJllPmIdLkDiMjLurn75cc7PxUJicxv1RIvxUsbhZuQdXb7cl-FaR2yWyPH5KKZnDlIZcPh84nOgoqdy0Wqdvmi6SKW4wFYAjGc5FviesZRgpFF_PWKPcCi81YPEkTbQ3BU-zJcgw4lCFVVON6VBPGWbQTIiE8bbuQSQt3p7ZWd0VyM2D4k2DGxW1o24y3uHIcRteEmggOlExKwKqN_4DKpgSEPd1K-hu01uO2aDTp1_0-a4aFNSZsZFZkf9SJgOWyNlfyrGkq_jj",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442471,
+                    "lng": 3.422236
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "10f693238c0e670c6504f67476abddda061184dc",
+            "name": "Smile 360 Dental Specialists",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA5TS7N6x3Uy7kot2UZq9vqZQSgs4nJalbGO1N44qV65BgqVCKZey7H7AAhBbmHP2gyO6HTm7Z6vwZzi9KD9hXjKkBVJfQ6Prya2zaVkZJqW8gMW2tyelEA-_Jdd19fJw0VHht7HmLX2jBs2V0mxMpsBIQtEPY9samb4TwTRVYlNIhCRoUTKZBWjlarpmrdAQqOUWCQXcZhpQ",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJi5PAyyqLOxARHCLNUVaV6Xg",
+            "reference": "CnRvAAAAvLaqqqE-mKotWheNbgVkZfISiJqTTPfzb8qfflbe8KrCIZn1w87obA8Zo-WrW431Ns05MxeeuYsmBZmPsHP2LBV9j7dGvas9bLGtZY9T9NnZIZwkGECHOqTvK_R_cf-p_Xicxq5hdzj0zHTOK2Lr6xIQCUmHKga8rhhmqndRyB_PaRoUxC3rNQXqWBslsx9JzMLjDjqKkZo",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Off Raymond Njoku Street, South West, Ikoyi, 16 B Maduike Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446744,
+                    "lng": 3.45001
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "08f1985e10da25e578eab52fb9e561238773d234",
+            "name": "Schubbs Dental Clinic",
+            "place_id": "ChIJGTeB1fr0OxARdINffohOfq8",
+            "reference": "CnRpAAAA6bcsnuw3TwBTjGrBeYFaYpzLa5QNTAd2d5gJlNzVM8V1Lb7onhWhlG6dLVL-tpCf4OMo1U3pQVN_KoWds8LV9vZmCV8aCptGAGz7FptpeP43aaVkRXWQj_MHspVU-pm2G7PucVSLEah1IKentFg25hIQtd_4WbfvCAbdakvQCj4aBRoUfxrq6eGdZ52B0Hv5QOmYBrJwaxg",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Alexander Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441142,
+                    "lng": 3.369028
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "77f04067189b19a8231dbf6c32991c1930c9837b",
+            "name": "Schubbs Dental Clinic",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJSw2bnbKLOxARwXzpnO1FLSA",
+            "reference": "CnRoAAAA4lLwVIsS45u2cNtMae1UqLCrXhNw4zSxh-U16MDE-dRtao2mQZ2z7Q0ZhkPN5W5b0NPYDWGTErjqR3OZF-s9bsO_1XHNTENefTjvi5qZnQN0ocTBnWSp9rAPY0d_Iw6GTOQTsXr5mqHwOWJ0bPf40hIQ1b2S4m7rXq7truqA5-dH1hoU2vfwpRhYweRaK6GWTSBAVFNjo48",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "5 Odoula Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.489671,
+                    "lng": 3.356912
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "ec27b85ef260274fcd44295051aab5be1c43bb14",
+            "name": "Contemporary Dental Clinic",
+            "place_id": "ChIJUb4__AyMOxAR83OBjAFXhzM",
+            "reference": "CnRtAAAA9sUJLp4_dL0q-vsqjKvWs_tAaovN3ol0ietPZeek193BBOt1v-Q_2Ye8L9gv2_VUOMcnuSj05Jx-IXWxxaGc2onbpy3oorZYprvL8GjblyuuT9oXE_C7S_vmJ_6EDmEY8gArOJjd3owyiWNfP-mU5BIQUFyW3OKg7QUBMfJe66ERYhoU0QWswHK-BQdqr0pa8vDZpOvtqLk",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "53 Bode Thomas Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450425,
+                    "lng": 3.3671
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "70f3e71426cb9e10db6932801a64331463712a08",
+            "name": "Easman Dental Clinic",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJLzn8hLqLOxARZy7LD7taNZc",
+            "reference": "CnRoAAAAWc1wBbLNwr7F-952onRO8NzKNoAet7Qhss9I2dXd3Cdme__PV1tDWA6lwDyEJZCskQufDy6AWGRCFq1lrsNGLyRYhcIfBaqU3hU9bExLZkKHkMTZCrBqaPa47XCsrexLtRx1svLTBxP6ip3l_-G5CxIQYtK-EKkUMUqazjLdoS0f_hoUgucMLC8NYwOdC4vuIyyHUE91yGU",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 300, Wharf Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.55703,
+                    "lng": 3.364155
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "f1c52e2652ecd27eff12cbf08242f4c9a43d00d7",
+            "name": "ODONTOVILLE DENTAL CLINICS",
+            "place_id": "ChIJY9vqB46NOxARlunwvqdWpE8",
+            "reference": "CnRtAAAAGHIOjMRPsC0qXcleA1FVN8Sq-tL4DilZjoE4ctliyRtuVK6WIjh-e1OqvP8ea6ywDc15oJYogbzohTmwB-JsSA4Nno09_ZPVsPbNetxDhHk3PewVu6faSB4dEFQ5s37j9RTV4otq6YhuoBF2hNLPHxIQMlgUZXCFEEosiXrWSlqqChoU4yswsOLfHfvc3NSNIa6Q1m-_VKQ",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Ilupeju, 14 Town Planning Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598751,
+                    "lng": 3.353459
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "fbd15179dd42105c5a28497f02c7a658f5e1227a",
+            "name": "Nene Dental Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ31XeBTqSOxAR0iGE8_PxufQ",
+            "reference": "CnRmAAAAj9dcjGUgkSAMcuqlHWSy2qNTK05FUOA3kht5Y39FCA2gnV_61lKUQPd2Gm9Clgvx8D-ZekDa40FNzPw8Onp_EiSjV7sFvTIUeOwYBrHcYRDUGwbCTnH887hYhM9LotG6Gn2Wxzzc5XP9r0PsqTyrsRIQJ_0X1W3JhiraaJ0VwKeVYBoUXrj0kPs-3EjpkgqQR7k2kqiHzWM",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Off Awolowo Way, Opebi Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503816,
+                    "lng": 3.351602
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "5af7b8f7163b4e4e5da9759eb085db9316f5d69f",
+            "name": "Roberts Dental",
+            "place_id": "ChIJ68WUgj2MOxARxHpYI9JcI5c",
+            "reference": "CnRiAAAAcKKJzB-yiaT1st8CXnBpnOEcxXSW5mxpxhdyPaeCrYqqGIG49311oWqXgmAe826BT9jt3LCyYHVe_NqN_ecJ-A3NiASJYm3_XccHLWafysSXsPNkc9sYoeYYCoQLRGv_cPYOqSWJ0_Pi-XZe0KASahIQmodZa3-v15d9A2iRHo4WRRoUR9kL40oalGLXcNCIb5nxfb4Ffqw",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "19, 1st Floor, Ogunlana Drive"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.626531,
+                    "lng": 3.324579
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "1d90fb0e8cb1f2264239e16c0dd9041f543e847c",
+            "name": "Peve Dental Clinic",
+            "place_id": "ChIJaQIBT2mROxARQDAYsA1MomA",
+            "reference": "CnRlAAAAK9e0Z2THW6vc0A5NY5x5ruH-yPnTPJQaX2uZyzoqo5-ftMTvYHD6-0vqHgxOVRiiux7kjzMaTHRP9-ocsH8urOzmhsMgFfZu_U50T9U3ytFM5zx0PpFObpKELam5hHCuPaAoSnOWh_VaZMsL4CZiUBIQo3wfAir1qDC3NbVzpljllxoUbrdxLNKfW_oaldyEDppDvkvkZs8",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Block B, Suite No. 36, Primm Tek Plaza, Opposite Iju - Garage, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.452922,
+                    "lng": 3.260112
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "aac9ba7a4abefa50ff5ae6f3cfb9c04741137eae",
+            "name": "Gaskin Mobile Dental Care",
+            "place_id": "ChIJb0kvD52IOxARGTJuciXtrl0",
+            "reference": "CnRsAAAAhU8xLgln2Li6VoxAPagc7orRyaNjeiQNdeYgwJXzrcWdzFESKvuoJ99M_U-J3oIfbri2ZnKjyM1Pkq8nmHva1n2NB_XfXGplXKb0KLV4LhlTyOFklLvtbMeKhGM9jg0u4DM4BCtF40QC15GTPtiHlhIQmymESZ5ZChAs_HPeBDxbNxoU7O6FSl-g336WgCvKyKboI2oGc7o",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Satellite Town, No. D 4, Police Quarters, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.644303,
+                    "lng": 3.325828
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "a42adc3e6714afc26407a261cdf408366dda71bc",
+            "name": "M & P Dental Clinic",
+            "place_id": "ChIJC6ZqsDCSOxAR-349QPIe24c",
+            "reference": "CnRnAAAA-hr4Mf6oR_tL-PZOclx1_58aN2r0rJ_acGurzWENXB5AzdHeVeJ7CEXj0un2j60vDswhca5e2V3TuVvlsiCVVppkN-o8-BSuFh4SyaWHfq0OfM-uQyjUQLGy4TDWWJX7G06NMej3PC4Qgw0puPx6DhIQgfw5AdjofyZW-Rsx4DmJBRoUW-RqH3CbAgUlfWT8buG74Ripkic",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 17, Awoni Murphy Street, Collage Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44177,
+                    "lng": 3.40988
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "281b3cb4133b8791f8a98fce44d419c28dc7bd79",
+            "name": "Dentex Managed Care Ltd",
+            "place_id": "ChIJw3EThyiLOxARwqGBltGqn4o",
+            "reference": "CnRrAAAA5V7oA1QSdVqUkhfgYkDdqmMnONGxjIOFL5kLCx0OYJvXFPeT4MGd2aTjkWBMwP4cZ5eP_lKemvHFnP79G8CwaFaUqeNA_YmfUnwc51xudoE6uPxNdS5FfM2uxNXpizhET30dy8pV1afW7uJS7y6yyBIQUmC5UQaKNNEXkdet8X9_SBoUw2UZIsTJ_Nl3MSHKOWT8dS7jSxE",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "2A, Raymond Njoku Street, S/W, Ikoyi, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.496941,
+                    "lng": 3.37775
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "be437ca786a4291fee5dc43ede3f64ad9dc56dc9",
+            "name": "Blissfield Dental Clinic",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAMKJiZpu-oBkX3Y18JpGdr0pebA5HxL_ZuPGgA1BYCR8ow9jh1cBj9iAzjLQdNtcUf09KS0WkTUoZmP7WcteDbBCiaFGejcQ7470r88AKedRW8PXVVnHE_L0ltO9KCGYxtt-NrxJ1ZzPPnZBjjw6C_WiLu9xujaHYXXcQfKzlfr1vQBDGyTT6ytxVLx4mz7ytxIQnkZFUTvxLsOK62_Axt33sxoUsFVySpUUi1pz3Pg5fngvFM5U-kk",
+                    "width": 450
+                }
+            ],
+            "place_id": "ChIJu1A8oGGMOxARHXx2MtLgb8Y",
+            "reference": "CnRsAAAAe4YGJNRSMj4iN5nPLkP4EtknrkFVtUeYjenmcFjBQL6b6OjYG8Gd4SuivSi9XiMszIDAw-DsmzID5CIyaCHA-IqG8KFDoYyqbjtt28A6mcqKdURAkhErufBF24k6OUBiNGv6vLhJmITfVb-UmSGSuRIQhWCc4KW3uh5nxMKpw_Bx6xoU-3ilzMZoWMKyOKB0fkKAiMRkrSM",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "319 Borno Way, Alagomeji, Yaba, Lagos, Yaba"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443926,
+                    "lng": 3.422425
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "774e5fbe03e9b8841bf1d7aeb16116912aedc05d",
+            "name": "Family Dental Cares Lagos",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 241,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA2FDzCMQPxMHK15W1Y__Eux0QtLi09qz6RqhvZxTlelPZFH7YeDmJ_6JuqJVKtZAb2X-WRxLh01YBOIdX1oxil0DmeCRG78de6fdDyMjPRfe8GogUd_MIn9WJLVxE6C0IccLBaFORYkN1RoxtXu5TeBIQQHp5x2N3VMXRshkZQJS9gRoU_96TcJSmF7-uuTafNIxc-dnjqMI",
+                    "width": 370
+                }
+            ],
+            "place_id": "ChIJP_7Pe9T0OxARb1n7T0XdVYk",
+            "reference": "CnRtAAAAn29QKjb2bdZsNkZqB9fXD_VnWrRTdH7j4fzxMUYkJZPc3oH5_fAkml9XwIHDUmqjCrdg-22ugDH1W3CEYjal_wDMCVkjedjgmbPTwvyov4JmQ25X61vFhoVanGmkbwzNlKJd-Q5nXT_2ClTydSsKLBIQ6FvxuQqvO5ySDINTP5IocRoUKMP6RKYLZbp2ciqbCv64Aqfgaho",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "doctor",
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "92, Awolowo Road, Ikoyi, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434055,
+                    "lng": 3.438941
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "e8de1081d920cb30dd4667883ffb106e6df9de39",
+            "name": "Divine Dental Home",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJWfay8SH1OxAR9h6S9c5XaZM",
+            "reference": "CnRmAAAAlXeqqz8BDQrqUzechdO4Pptvy5kImy5X7anZV7L2fcr0M_S9C3EzAHMt9HxeNmdEfsVWe-nd_EGLsNRtaeGQYMytk83iMUW6pCEtz4XQV5l9z5D6MNxs-K8-mdOyGMYNMPk4TWgUA6Asb8UJ9soB6xIQInqBwAneKgGV7Z9-ptsDYhoUVY29UDNxMzu-6t1cc_ICsL5Qbbw",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Off Ligali Ayorinde Street, Victoria Island, 8B Fabac Close"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.545437,
+                    "lng": 3.38795
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "8c5f8800781052b2a8e7f03d9080b2d95c2badf0",
+            "name": "Brite Smiles Dental Studio",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdQAAAA_lJjw6H4ZSFIg5kIfInYM0v4DsgvbIi17GDwlMawX_4M3JZKqE3DlyRqr_z6oQBhGaowmgGagJLwgOtAZNjj93XOG38wY6HjIq7uiDdrJwjUle92LDRi31xbkjb6M9n2IMLwTsnAH4oiRSu459P9cqVZREIf7HFL0NaODV2O_dEhCmZbcXqhiolshxG7-0dQ3bGhTqNj201i3PDKgYK0_yyRow2Yqd1g",
+                    "width": 721
+                }
+            ],
+            "place_id": "ChIJc9MEN3ONOxAR6gibfuffOFc",
+            "reference": "CnRtAAAApOBRfcOBZvOMf-_9jmsTu510g6FojBsPxauQZmTpCsyKrLm4fvKHkvAjbsnWr9bhNmWlwhC0rmXeqXERNAIcLE6kC2RwVw8QEd-k_o2HuG4gTYjcBlKUfp0miTRBvfwNG4tqg9i6lEav6_FRKja0AxIQw7nOLEHCb29RXeqRqsM9whoUfF5PjZETL1XofXZRKpy3u-Xs3tI",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Alake Onile-Ere Crescent"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.666971,
+                    "lng": 3.324257
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "cdb84ab60ab3e38d03062dced3d3e0803dbc22cc",
+            "name": "Osuntuyi Medical Center",
+            "place_id": "ChIJMejW3ruWOxAREhVygWlFAtI",
+            "reference": "CnRrAAAAGUOMI3KL_2NzUh3UqboJtqwgXr4IDyaARF-rVTx6b4Ju78fEuoEHBGdaN9zAAUpFJq6YpxzBRx1lzErrgsNeZJHYkPeU9_QYWmRMi_ICZnCrEjuwnFs552xgu1EFobQ8pOtbxayzd1UjOhDKfb4uRhIQtHfJ6Gc8g_95ZOxP66f6gBoU7gwgbKVrrE4JFFehdRTbt7vhPIM",
+            "scope": "GOOGLE",
+            "types": [
+                "hospital",
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "225 Iju Water Works Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.636602,
+                    "lng": 3.347524
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "62d23cf326fa6ff76eeff4e5dfcfa14b22d1d14f",
+            "name": "Royal Dental Clinic",
+            "place_id": "ChIJlYzcdeaTOxARKn9vmp0fyzU",
+            "reference": "CnRmAAAA2pJBeZP5kEPjkrduqfq46qBYvVsDhr_0bDE1_aE6eqpXkNlWwuDlsOMeWNz1UvGnFlnkLS32biSjH6p1POSMyf_FOc5vMkmnMaHfRIFwMS3eOraFNghhx2KCh_t9JICkIvUNC2lMM0g7zzN7m7qvgxIQ4IB0LbGimYJvcOcNTWSgMRoUxlYbzArDz3UYYYe5K3mZIdT7yFk",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Isheri Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.510752,
+                    "lng": 3.383589
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "c9b531d034b2baf679e0a585c46806665073e3e5",
+            "name": "Asmans Dental Clinic",
+            "place_id": "ChIJjUBC1_aMOxARN98s24mkoR0",
+            "reference": "CnRnAAAAk5XPXtqhIQlcA92ZCsoVNrFKdgVPdxCJ54usdUmQIyvW7OT7RNuzLMVyA4i_h1-cPIMrpT9gWl1o32hoe7a61pjk_rZi9VEAI9BcJ-u0Locw5T1VNDGU0BJiT8yFpEl8_F-4GfI9uYBdHEJJO04MlRIQHP6C9nmoMzht-Edpy2JXHxoU0lo-2wSG1ygIZdVwRILEW4GJwRc",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Barikisu Iyede Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.436422,
+                    "lng": 3.424602
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "78aa7db284fa1cd4c207ecbae8d49e468fad726f",
+            "name": "Bona Dental Clinic",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJBZF_gCn1OxARdBTqsU9TdIE",
+            "reference": "CnRmAAAAukoHmfAkr3V-H36kmwZcuQBIP9H3T_KnjzlOF3l_KmOsJhAkXG1IP7If2lJfETZCLqSqWpCXcYIvV2sInG-BoFymgiac_gxRearxQRlrPGGf5sveS0iPRRmGjtSJV6uPC6M9jKIbtACNzldudsdVjRIQpVqj0CRmqRhADJmrRkyKuhoUSd-JFQUwVmqur-v0coF4309Xz5Q",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "4th Floor, Eleganza Biro Plaza, Plot 634 Adeyemo Alakija/Akin Adesola Street, Victoria Island, Lagos, Nigeria., Adeyemo Alakija, Lagos"
+        }
+    ],
+    "status": "OK"
+}

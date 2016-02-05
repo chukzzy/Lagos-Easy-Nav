@@ -1,0 +1,512 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-gAAALrJ1uzkZHRkK28LmGp9ICA_agR74vbJzwV5CxE7OPhsvP36Q_3_k9HzmGdSs6cZOwfI-oqjbm9Oxl-nR-pHmU2o2SddXBuGsPEXoH7mShewc2-aXh1MS7FPczDw_aE7JxQFklzFVw1b2Aa4HUX7n9555npDuGQ4YvC1pbCkPSiO4veRgxDc1bue4oWMeX5JN0bmjtJIVlOqjXfN4ArPRbQdKIOAFddwVDhLeDzToNCYS37RIYq8X9MMGSfMt2F8e1s7VxHgfJvtR4o8jhmw3IPS_A3X3zlNza0aTP5ssm3Xo9IPbSfLwSP1N4pwItHS3GWH4STHjJnt321wuAZ5g_USEJ-Zmqiak1iZjMdIx9fhilEaFAtydIp3bP6NFr5izUW9sfoTZj_e",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458786,
+                    "lng": 3.385507
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "784bf3a67c0699314c6c471cd38bd2515f32bba0",
+            "name": "Emerald Trading and Commodity Limited",
+            "place_id": "ChIJ5YhTkwyLOxAR-UEwL6q1vps",
+            "reference": "CoQBeQAAAP4i3dEn_br93bke0QUp2HdH_qLbWsAUS4DNb0DlWF-MAnyTtQF0A6JCyicmgQCADiCTvoWL2Pyb7tiur4SLivn0m-vVGW5gukQAbSZ8oy77A30X0jqp9R2l-GGxaGzrOfmYhLjiCLTlFI6tr-aV7MI8Yk1sIZZs7hRkgn5pZKOqEhDEQP2UEgHy8k7dL_8nHG_GGhR9exgzFApsqMNsZnMZ1DDh5KD1mQ",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Shop 59 / 61, Offin Street, Oke - Arin Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.501613,
+                    "lng": 3.304428
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "49d21851bf554e3dd0113d4a817df7ca2ba8c441",
+            "name": "Happiness Store",
+            "place_id": "ChIJtxp4xd2OOxARj8PPt5X-akg",
+            "reference": "CnRiAAAAuyA_MZgqjdVcoojYRsdj_IP1TGTqoIR8s6c7bsBQHHB2sRvdvaTy8AuEFCBBcGWrl1hQ4krxGFqGsofT0vKibNmJUh0wGYB88bV4sCfX3HWPPoC7LSTVTVYddx9KyHoo1u_XMtTmw9BAZAAXudMDJRIQUuD9W8QFjoNUxuZ13hXN5hoUMdO1gnuXTp8JGINPg09qCYYL3wM",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "NO 5 LATEEF AREGBE STREET OFF AGO PALACE WAY OKOTA,Lagos,Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.467767,
+                    "lng": 3.276879
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "5e16e5f6934b7606952e13976acb03b54b3bc7f5",
+            "name": "governors bar",
+            "place_id": "ChIJKfoawriIOxARq5d6X8rvEKM",
+            "reference": "CnRhAAAAoJx7F2otg_9RvD6o6ZFOw_Evoxq-VH8V2irCHFeYDQNWlg0HdRtKXsWxyDHekfpwc0JZTPFljXK7pJKJnJHssZXVnz0-5WgrAIrsMj49zvMg67o1huHniKyRRI60lufAGcVz8txOF9EXRqtp_iDzUxIQcil4_9TldXkwJ0CPF6reORoUtlmv3DTO79f-otIPd8_GN6qUcPc",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Festac Town, No. 5 th Avenue, H. Close, House No. 2, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.501155,
+                    "lng": 3.307105
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "5e626fa58f9a40309ef75649f6a5429aad752453",
+            "name": "Midans Place",
+            "place_id": "ChIJAZ6gHt2OOxARBY27Y8B_bgQ",
+            "reference": "CmRfAAAAV4yt2PFZSApSC-fkGYb_nohNKnjK9rtiUwqh8cUfOaC4pz2t9--Py4jrgLOM7zONFuMDlSBB4edIMKxjLbIueVQKwM6iDorwekbvLsV7D5glFSxMCzhqAEaq317H1jL9EhAQg581wjVhHc2217TxFwexGhTSBm4FdIFRHo3fihpUU0Nqh8n2VQ",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Chichi No 2, Esuola st,off Ago-Palace, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.559384,
+                    "lng": 3.341279
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "d9229af7f762845f8a6c89ba2b9b7b2ee64ea2a7",
+            "name": "Yetunde Stores",
+            "place_id": "ChIJoZ7wqv2NOxARmcbLTgiz1IY",
+            "reference": "CnRiAAAAmbV1bEPUgubLN0BlAY2u9PM_9DLA8UWk04QzS6wHeboOTm4Z_5AgIPN_RlluJ9z888MkF9sjMuss1v8f5PD8MFBzBH_57qC5qSOBQmZQEO2MNusB6LajxgVUN_9-Uk5DczpmweUL8fnITSS7lUCqRhIQ6fLQ_lBowcFmLtaVMhUXYBoUb69if--h0It3wekmLJR2a15sU3s",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "24 Shobaire street, off osolo way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49045,
+                    "lng": 3.351018
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "118bf4b7e3d01c623b2865abdf671399aef49a64",
+            "name": "Sweet Fry's Services",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBcgAAAPtUKsPX_VkqWZwNgqE6Yfky87162f0wGayKzGkPDZRk4CXOSJKLpdwh5zXwJISQW0OEpMplB0YI_1D6JZMLOSAWAzyICHLyCM5pb4CvkfmEZ12y3Ledje7N2VvKU8rTW8QYs2VYh20D0fQdxbKS7dwQPLWhK1emzqM4M4P_oLNVEhA4ZVOvKS3yvGOOuMs9nlG6GhQp1AAcYTBWE_g4Y5sN0GOv85og_w",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJd8H_rg-MOxAR9dRarauDy-k",
+            "reference": "CnRoAAAAtjsa2J2LWLcPdQUE2DFxG1RAlMeUbfmHl_tyXsrQsD8wzoIvB2awVzrLTpS9Au0zkK3Kl_1RnVDgLrtARV9SKYcDedgny3gHMkLxo4rd7Cf3nHT2f0tZ5R6UL7Ynbnk2J4HEsXyuD7rj_bZzDROZohIQDRa0LMsFkjDYeWq1ZmTdiBoUoX5JX2IzVRJ9727EjOgU6SFaTPE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "liquor_store",
+                "store",
+                "bar",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 24, Aisha Animashaun Shopping Complex, Off Census Bus Stop"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.468692,
+                    "lng": 3.276344
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "9b001ac290d98df7385c891ecffc7b440b6f3673",
+            "name": "Chop Villa",
+            "place_id": "ChIJ6-WZ-7iIOxARVslYbUI9QMY",
+            "reference": "CmReAAAAFv6akcFYq_B_pq7Cf0yeFe-hSzNPL7ZDs_jYE2EmKGGcT0PAJzLet5ybN4wKeIfC6IjYi8WQaJYQV1ouse_slMe2geh60LNNBhMllwn6vB91NEvqWolUKekPPeo5Xee4EhCD0DFC52CR0FVpzXs9xw4pGhR99aXnLFIQkslwjO3ipBMO1gWX-w",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "52 Road, Junction House, 5th Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.460268,
+                    "lng": 3.387734
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "27d28b741407175b22863fa1f93d0f724130fc3e",
+            "name": "Oben Ventures Nigeria",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJQ6v6uwyLOxARW_Fn8OhNwNg",
+            "reference": "CnRpAAAAw5ES27zeld4XL_ly86CRMU9FPt8Avwb9zqMo7sWEU6S7qmocrMc_YXI2KqSkINEIU08n7UEHxlUIzEVLk6lp8sEbBt38o1k_wBHHREBrUITMbLK0fOIUIzjVQWvui_73vHpRdvftTcms27GQp8JK9RIQMXcbdM2Pwwz9KqY3oZmZFRoUnTAX1wL3V5xhgLAH__rAVpgWs8s",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Balogun, Okie - Arim Market, 27 Daddy Alaja Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431493,
+                    "lng": 3.430553
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "4fdccc4d94e3093882f896b2945bae6a99c6f0e1",
+            "name": "Grand Cantina",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAEeAXA7Q0RVLqUL7enCPI4uyt41ua56LVvr59nziWTNat-_Gism9meMSJGBfXHREovwTKkdnITVeU9VsK49671dRu0MiPho7UzyHyqxKMXnab9hn2TS6VJ8y4TgO_Q4LqcOLonNrF1tWD8APjhocjc2qqczruQnQYcwqNngg1S1CEhC3Wolc5SNsPw5CzGfrDoVPGhSEcQ0DnBskoaVQZG8TbXXU7KmzGw",
+                    "width": 1203
+                }
+            ],
+            "place_id": "ChIJHyK-miX1OxARPeI1ryqZBFk",
+            "reference": "CmRgAAAAX9qeugSLSjxDsVDdXuD-qXWy736Do0L6EUxUG5Dd3Yv_ZvODcf0cqHsMQ6EC-2WLt3yxM7y4vG0umQtPmSADRfID935ILTh2_dfBtTGaVsi1WcWnmuiPUzj2jnGxxv8pEhBdihmf-XhgqBRkPdHEh3hzGhTxsNTyICpD_0SzL-Npb2eJ9B-r_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "56 Adetokunbo Ademola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442707,
+                    "lng": 3.411714
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "239ce68d751064068b80c8e47e8d291cf0e6d9e0",
+            "name": "Topwine Limited Restroom",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJxX3R4CiLOxARMrNVSxpTMVs",
+            "reference": "CnRrAAAAXeMavC5DAfE5EiWV7jRLDhFvqC6BZWL7LRbCFrE3o4De2QAbDsQDtxbGGiM3s0DhYh510nTIxgh86jk29UxtCvkAR_S65dlrPMDq4zVCViyhTZ-tqvYGJ7lFnZEbRZuyJOw3fnyk9PcK-CEsHAOqXxIQv3qZa5o0PR32ZdmaTpjGLxoUEySp3wISa9SN9PhxH_Uf8G1uDF4",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "34 Awolowo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.536737,
+                    "lng": 3.346035
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "96f4397abfa383dfcfbb9410ab83b6914ee33629",
+            "name": "macwines",
+            "place_id": "ChIJ0SowXNqNOxARCK-iCh69N-k",
+            "reference": "CmRcAAAAwfCgMVJ_bA37lx412qFs3zKhpd16p0NDzSi2e2kjaVSXOnPivu39FshSSTZ615T6zdhgysTIu4HldyK7qA7WHtvCxqMJ3lSUKB2s4nx77cLlJDkz8aoOlUiV-VLRgq1DEhD3xWde7G15VVuTePd49vBAGhSHp289lde7kawXJwKaDbgYR-nL8A",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 16, Shotinoye Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.632137,
+                    "lng": 3.339661
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "b15075697ed2525c6c801534286e90911105ab91",
+            "name": "Jennies",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBdwAAAMU3IDL8X6KVMowTLS8VdnmJdlen_4dvHc2FBbGQLhustlbMSG58ZFYMK_6S0RL2WyZYJ7Tnw2XDemT2HF0Ihhe3zh-s2898dNlHdOAUvoZG13M4BQqFwHpdjNp8dGoZ90J-OEpbbvpMDl6c6bYg5ZkGq-6p6XDnlK-hqCDOXFiWEhD3lMZkwbbKZ5EEVqGokJo3GhTmKYoYjfe6a7FWuVCz-o3veAixiQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJiXrjEOCTOxAR8YBvEugPhCI",
+            "reference": "CmRaAAAA7KYB5ialPItnBom0wbJDd5DrMxkP3owAcsoxjlmfFhiW_v7BsHtq7HFkl3WFmR_oKGOUHS5GlAbB9CuFZLlOssMrgxJeBhUUwyJuzeFDiw-sqYSI8cTXvYaGlCzG68RuEhC4p9QiAtbzahPdfTdfAR3hGhQuAYbA9G9jWO4xDIh4IXP3fMwF6A",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Kayode Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.511666,
+                    "lng": 3.350158
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5209b9bf44efdca71baf91d89011d50b049c8725",
+            "name": "Desire-me Collectives World",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 284,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAiznrgWos5QElUeMoo3f2Y1aHuFNHnwAi1HZBxUdFWfNFz9GVl4ML21mzf9DrxwWVS4jgCI2qgcrBok46XrqyYtMjb-nHjEM9y2YedSj2_H6EBZF4sZF_jf99WUG2x8igCgOL9w1okyGgxGZS_0lZuBIQKU5RFjmSm7CJSwxlmNtDgRoUVi6OsZzSB0vZ-QRFDcKKBRgf4uo",
+                    "width": 284
+                }
+            ],
+            "place_id": "ChIJiQLr3TqMOxARxQEZU5h4pwM",
+            "reference": "CnRuAAAAxHq5XQa8ufniNF1ljBJnD9YUNamTmn3IEiL4ydlWE9dZioG8N2L9T_x99XgNTIMM7FvtsF9-GnLDxrrflG4iU_6jwNApQ0UfC3IDWkw4C4rv1aAreQM5p3EBnVPp1KD1oDuAC5KDy_4PgKS3OgDoHBIQDwOVCPCUiM4b2furnTojUxoUr4sbhKfyz_h7kitHwADTutH57Ig",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "liquor_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ayilara Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.512289,
+                    "lng": 3.263354
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "39e6585772cb2dad1739931ec97215c5be9a7144",
+            "name": "Mama Ola Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJES6FfWOPOxARa8q2qaJ9bJk",
+            "reference": "CnRiAAAApHirWOCsTi51yZY_XqRMweEHAdWEtHgv2K9SI4JNLc7OE2BgjJmPZ18kd6gm1DFHDb00rop_yEZtsWbwV41nngt4m_pUoHHZUSQq-yOOhILe9Ed6pP8KuXm87pr-kDV2_62FIcMM_pBU2ZcEptvjYBIQBFhb4JtAwWZEu_hctykSKBoU8-nkbs5P27A1R5UJ8sFSqE1vs-o",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442013,
+                    "lng": 3.414919
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "c7bf5c33e45996019e2a043326af97ab8b950f01",
+            "name": "Pablo's Liquor Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAH3fAxm2LGDXwtQvsmGng-XmBMtXVihH7irZ6lo2mwV7PBxjRhEmun9egrOybCuztpwNrne4CP8bV-oX8Wps45M8kz7HCDD7VbVU1eh0LdPo1tWfltUFwMR1l4FJ7DHZT-zis247cAo8lwTjtVEwY6o-jSooIkACUp17gPVB3qXzEhCdFTzj9bwlcBwBBAXDpdksGhQK8kKTaF54AaNvBc0G8hQy1jxE0w",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJk_fp0yuLOxAR9QMyKre8GaU",
+            "reference": "CnRnAAAAx_BmbAziWpzQwhj8LyFYMEzmALa7rneZSFjC0Rn7AIgrNezVRn40GRJROwNPQpnUp7PxvwctjcugMnjANwZn5mO1lZbcDS02caAIZL7Ff3tODDreJQNeQe822g1aA3DNsG3_6UDiPKFwuOTmC_K1ihIQF-sChNIFUD_2X90cNKl-cBoUG5YFHWz-T-uYgTcmEKfo45_N6EE",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "66 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597004,
+                    "lng": 3.354126
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "c0f00f6ba6cf02f51ea74a0abc5f0d5bbb18fd5b",
+            "name": "Wine Store and Supermarket",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ6byohzmSOxARvuJ7VG1G6ec",
+            "reference": "CnRuAAAAZUXap4AuANj9zDEmcQEtkpTRK9LIR4a0HDVzInIF43wMQ5rEzl58opITUn4kFAkgThy10g_jW_N8bAdWB9yO3yGo35d-eixhZRic3l5NPivX40GUO4f2-p3s2LOfPDYAgBtmDBSOoPMzfPBowqAKEBIQl36RL7HTxKIguNBNv-MvkRoU_W2_-q7OrN1_Pk1bUu72TcwkNNo",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.527709,
+                    "lng": 3.306768
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "4eda743ef4848b82d52f924c7da40c39585c1b87",
+            "name": "B2B Wine Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJL68uBleOOxARw_8t2vr9oIY",
+            "reference": "CnRiAAAAra5OICUtcS1HfQjyfZaBrKS60HeWzcHx1HtfA4SGlMMD5O8RcrdMsrrMhhqhICx6lrGMpoip9BrDYvT0ppDZCLfMO8vNgIG8t5o819GTKJd5KPXXd3LyJhKa3zIDvxM0I0BRDyoZMoWGfNWEUrJKSxIQ6UgBf5A131uB1s-CbVzZWhoU1lEUUuQnS9A-0Qt64rV-EeMlPDE",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Oke Afa, Church St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.511902,
+                    "lng": 3.360969
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "a12066dbaf8a5a35c887be15a49229408c6761d0",
+            "name": "IVCA Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJS8YPsEeMOxARc_-OXJEWCg4",
+            "reference": "CnRnAAAAp_woTe14f6EkmLmJfDTKJJuMn3-FNukbv9FrnEOynv0B2CBGCRkBMbg68OIjfnHd8AhvJKU6go9Ak3en92FqXqjlPJp5GrIZyiTuu7e-jKbSdjZx2dMX6ySXGQG4yolOjke3gd2e-kkcyKvvwHaHcBIQC7jG83p08JhZAFcyqg1YcRoUB8eTS2c349Zr__rxeyCsrtpO8Ak",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ojuelegba, 57 Ibidun St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.521473,
+                    "lng": 3.33165
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "2e01f8b1dd047a2cbe39b7dfda4dd082e0a2e53e",
+            "name": "Mama K Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ8eSJ-YaOOxARHv8BZBWBdII",
+            "reference": "CmRgAAAAgrdxH-kOmwu6pFzsHF_BLnM3l4BDLoNS6gaONu58jtdUSH_0uLtC5IKMlQD3cWx00SoXRwV1gyrRcI7e7Kwxon1UuLZWddxDLMwucR2IkhrbL4DCQprd6JGOz0rwvOEJEhD3uAh_dy8ZdI0eJ7vtlh5lGhQj6fMB0rzq5jNwgVErlN9omrtwKg",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Isolo, Ilasamaja, 8 Fabiyi St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432565,
+                    "lng": 3.40873
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+            "id": "4a940a474102367aad3e5c31332179861e113410",
+            "name": "Betty's Investment",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJaVlZEtqKOxARBv-gTjQ8s1c",
+            "reference": "CnRlAAAAo0sOx9RTBJBSxpO2HX5jwQt-Sq25z2w3Azh7mjtxnpBy8t1FIpwHBGmn6hC2KiBrVAwNZZBvCtBSwI1lFBRbHHpaXV4fscpmbRnmtHfvDSeiitWZC17wMxmkX-pY3yg2qDR89NHXGN-ldHApUfYsbhIQNr7IkeHXS8Mkyllv0nMSGhoUutm_T1-olt2iFq9G4b1AM2xCyYM",
+            "scope": "GOOGLE",
+            "types": [
+                "liquor_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, 13 Abudu Smith St"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,63 @@
+// This is the actual declaration of the mainApp module
+var mainApp = angular.module('mainApp', [
+	'ngRoute'
+]);
+
+/* This takes care of the routing on the homepage
+ * by loading the appropriate controller and view
+ * on each subpage
+ */
+mainApp.config(['$routeProvider',
+	function($routeProvider) {
+    	$routeProvider.
+      		when('/', {
+        		templateUrl: 'partials/home.html',
+        		controller: 'HomepageController'
+      		}).
+      		when('/events', {
+        		templateUrl: 'partials/events.html',
+        		controller: 'EventsController'
+      		}).
+      		when('/places', {
+        		templateUrl: 'partials/places.html',
+        		controller: 'PlacesController'
+      		}).
+      		otherwise({
+        		redirectTo: '/'
+      		});
+    }
+]);
+
+mainApp.controller('autoCompleteController',['$scope', function($scope){
+	$scope.locationUrl = '/api/places/json';
+
+}])
+
+mainApp.directive('autoCompleteDirective', function($http){
+	return{
+	restrict : 'A',
+	scope : {},
+	url : '#',
+	ngModel : '=',
+	require : 'ngModel',
+	link: function(scope, elm, attrs){
+		elm.autocomplete({
+		source : function(request, response){
+		$http({method:'jsonp', url:scope.url, params:{q:request.term}}).success(function(data){
+		response(data); 		
+		})
+		},
+		minLength : 3,
+		select : function(event, ui){
+		scope.$apply(function(){
+			scope.ngModel = ui.item.value;
+		
+			});
+		}
+	     })
+	}
+       }
+       
+})
+
+

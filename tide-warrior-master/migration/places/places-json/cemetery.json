@@ -1,0 +1,201 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454269,
+                    "lng": 3.416399
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6ed20089d85989b244b41189072b24c04c1e8a01",
+            "name": "Ikoyi Cemetery",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAhaJb_XV-yfGx9whWENmR0n1Yd68J09eYUn8fJwQgIuF3pBgWAfjcFjnq417Ts4XmS1royYMdtnlWdZlE9t2tjB5ilvyfDIQS2dLRQik6aSH7n3p2O_382TGvpYSisgDO5yf5xoJIGvecsYQg9A47CRIQETbVjVVVsZlsaP3ue3nqURoUfZ7uvtULQENY3lMlzi2FbcnB-og",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJSR17xzOLOxARZPYz17A1Y14",
+            "reference": "CnRhAAAAIbLZJlxEKfXsENfawWCjYiIESzOjX_wDqe7IvN-_lTo9WHQYAIp6Sh1g5T7baHfwu84WqAL4_E7pktaNKViuXA9WS9mlafoAXUGWE4A25xOGwcx8bs_8TmpjEgb1kMI_9DTsw_KvPS-rvJkW_P7J-BIQZt2PkDijXX8J3LR8SamC9hoUA_1YgyH0VOvP09FgXM6p56b4TBQ",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454006,
+                    "lng": 3.405995
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3000f0acf5f4bf684d854be918913f08c082f54c",
+            "name": "Okesuna Cemetery",
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAReJK2PhgrT0N9De9RAf-GVl8dLc2mVEe49pjT4hcQkwFElu01rxe3iwqASmFMzdWrTnv1Rebtnvvp2GuuKh209_IDdRS1dSTNnLsmrTR3f28lwYg3z9uYUA7DEWW_OCg6ioqyQkYwAk6-Frx7gHPVxIQedwjVv-iJy_0387lngYCbxoUrnStx5h4f1W86RDcxr84JtsZSCw",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJEYpkzzuLOxARjb78TJ4tf6o",
+            "reference": "CnRkAAAAk-29Cqd7q21R5_Z8LynfMHvLrtHPxbIAWt7hyeyHrDFrBllOM5n--x1a1QI0I6OVZIOVjDNpcql7X1tXaI4I_X8R8H2_T_29t0bUxolKKLpp2XyC-XxzofVcK-OI_uW89FbjrzBrUholZ2ffjMEHjBIQHXj4sJaMai8IcPfacgz27xoUC6GXBhmO3HPdp2hpw7qniPc3lco",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.51439,
+                    "lng": 3.379836
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "596e987d3a41f794460ab65ede1b3b5819814342",
+            "name": "Atan Cemetery",
+            "place_id": "ChIJUVxyBfiMOxARWzz9xw9Jd2Y",
+            "reference": "CmRgAAAAUEYow3spTUYigXluGSiEz6NqjEzmGhOok9nMFy7nnINLF_XTuWJOG0tsF-T27tp7h5NZgUkWYc8pcGT5ybGgzRxW0gd5L2o1P2PCBb7S2EiWdZSKPUUVKEVNgkwcCM8GEhC5IWIv_xcaXVWC3Np609D2GhTiwQ9gab-sazSy_Jy9rfa1VFFkYg",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": "Lancaster Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.489574,
+                    "lng": 3.383775
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ddc766379b5946d5f673337761ae95751d7595b0",
+            "name": "Apena Cemetery",
+            "place_id": "ChIJHThDhoaMOxARI12QwC9YDUA",
+            "reference": "CnRhAAAANSPqKqHWt8uvQxTwX9Czi1QFNam2nPtNBQbGFDM3onHJ4Bik-9JCySR53WJN7w4_b9xXL01OpEr1-jzro7DXCRtq3hjlNN17eiepNKg4ndIWCrpkIairzWXC3Kczt0LztB52BWFuy2ZRsSf6xN2rkRIQEyEimnMpixaHSFJCnKYbdhoUERQIj6Y4GnUoFhso6Zkfs_UYw84",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": "Glover Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.534724,
+                    "lng": 3.340651
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "df4590198795d8ff18819c7ea598be3190c371b9",
+            "name": "Crematorium",
+            "place_id": "ChIJEdG2j9eNOxARtTCJeYJRAzk",
+            "reference": "CmReAAAA6cflzW0yOgqVWgyDcrEBqtZ0D9sqz1T-FTsAAuRJrux0Qf5HlSWYqT2zQmJ2eP7DV_XA0z7sSvu7I6daMaATJ3ERgbCys0-fyZQfLg182qYDKhwfOF9hiEtkk-NJqv1QEhDRDRy7aXbqJA2T2I8OgyKfGhQbek2vxcP1CII40OEBOJrKq4sd_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": "Alh. Lamidi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.625984,
+                    "lng": 3.317252
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a4c96191ffc4f634ca8ea0fb8fd9733ccbf3113a",
+            "name": "Christian Cemetery",
+            "place_id": "ChIJA3f0YROROxAR77K3uB6gIC0",
+            "reference": "CnRlAAAAn3_zdPPVOI6K-20H2mCEVfyGWsmAdS7pZcUmURJi11PMyfdtxhx82M2MCNGRyZ0FR9WBMtHrLqRohqTQvIxxnypFpd45dvy9X02AjBSQcKd95trt9edqwZRnm6_XNxRHyVVW8d_H-0MA-m7M75U9fhIQQf6lqaNTxVxNfNOinr-BDxoUozdLoVbwXp3aooZ8dsGh1zg4cgk",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": "Salamotu Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.622252,
+                    "lng": 3.314499
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7eef93cbb0a724328922d884350a73b2c11ff658",
+            "name": "Jafojo Cemetery 2",
+            "place_id": "ChIJGc-6FhKROxARhIKI2CZiAw4",
+            "reference": "CnRkAAAAzS_jc27vXoVPMAt9aLeu6UDLtCKrwLBPRF-FVxBl5xRwZU1ZY2dapnG80k0cP81i2RPWNqNdma7BgBkCMe5OAQswpzY7M8fY5B2C31JsGrlcDLquFL6stm_V5YF1sFO4eeKFOWo46Tt7smVqW0UdZxIQISYdNz8_t4jMBFO-dPa2yxoUa4YKfEng6aeNfPW4qiHtXHjOMtc",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": "Aloba Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.465843,
+                    "lng": 3.345342
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e4b5a077f08e8768348e7fa613c08cd6b1ec3081",
+            "name": "AMUKOKO BURIAL GROUND",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJdwQAn-aLOxARQm4NY63_gW0",
+            "reference": "CnRoAAAAqTbKRMg3m2f1iiU9yUdFFiGUvGe63fvZIwGexQUOsInW4_uXHHnoiYWdII_lsQcQvFIlA8MlrF2gXq2HcuOgAqlYnmc-n8phGKpsbKYwcumklYBeT6T4z6MZx_tdTAHI86efmqMJD3U75RSTyA6vYBIQ0NE0kCaWAyzc88HlO1KDEBoUjxFQkEokYhFFoDnB0DevDJakAxY",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": "Cementary road, amukoko lagos, Cemetery Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.642437,
+                    "lng": 3.329131
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0890f59ecbb0e3dcb257cbee7663eb1a25912308",
+            "name": "African Church Cemetery",
+            "place_id": "ChIJTeaJA1CROxARfgyT3k_aRzw",
+            "reference": "CnRqAAAADK-KhGlzo86n8CQZpeq19LAzX9fIRTVCgdcdAUrqdpVRMFj13LxHPb6CGbAdykkcqEOjtQ3oX-KWW-YA8RiIwDfkEQvRqL2N-DkvOa8sI9BDZv4yQVlMic62PnexM-Rm6Chh8HBUcbo2pY7_7W1OoxIQNlzfl3AeSG783aYVdoYqoxoU70vCJ4LiaFYc-mAfF7wsQSrXoj4",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "establishment"
+            ],
+            "vicinity": "College Road"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,474 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAKGEetbWMQHQvq4AtjUt38bRTkY3voRnWgM2HnSk0fS-nabXp0zqy9_OnEeSS2YGicAuURkf2t5xdSYWmiytfLgEjDIr57hD1H63xGnLoA4FTIK7aCY1Tshhvb3YfzbjPW7x1EJxR8Y0-2pzqZ0Mz38IVzfUoXknZQrF_VTkT2J8TEpXxzbwcvrL57D77Bicb011bbjt6oSUOe-ojzSmd_dvxarJyV9lrH_3gbRaIBbhr9R_BMv6QHm5FmelQp_BXhv3CCpHoOO_vc7eUy_y_C9esjTfccolqFEzM9sMEgYr61l_ZxRdS5_FXvkNeZIU62dMvlVfiLoWI2fuw8yrj-kSEFTnZ5l2j7sC6wiWCzTDCqEaFA1L4fhYT6JRtkdnVthe4dvDFCB8",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596642,
+                    "lng": 3.369745
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f8f7441846055714e158d84661a33f3aadd0e2ad",
+            "name": "John Holt Engineering",
+            "place_id": "ChIJp61f11qSOxARdEBD_LgobQk",
+            "reference": "CnRoAAAAvcNWWIQ1D0_kXNLecOL1g5R8Dn77aWhsSIc6o80OFvZ7eMj33GxonhINtMeW8iFImTCVGiM_edldIg8_QygyVe0SVJJILDdhwlvFZd2uNOyWWdMj3w7bsZx5MEh8mRq_MVnNy5htak6esyWrHFSnrxIQ-FlX77Jg2d2191KJrp6gJRoUVBDCXUdD7cQ0JnmxidwikR32GGg",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Kudirat Abiola Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.612325,
+                    "lng": 3.335936
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "127707cc42f1570554d63e2d43e68e68ee88727e",
+            "name": "Forte Oil - Oba Akran",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJyRSJjX6ROxARDOqMi-xwAsE",
+            "reference": "CnRpAAAAFEjmWsnT_LMbFmXdxIQ_DCIzJinbujVLehGiQcBJ5AoVREDM1rbo-iTXww4euTNNawUPUQ2ZcpiCXtbDcNkCX1NW6CAmW4mCMiVfi7GB3BEgp-Dz9BNK2ppxhvwmt6CTvhE457VbRw_-kg5YVsfTzBIQHsCaIOEgMscGHQtdHL2cRxoUXvnpHdjMZNVA2b7gizR-Fnz7yWs",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Oba Akran Ave, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49903,
+                    "lng": 3.321109
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "9c6d727d68d6cd1bb700c13f2d525edf6f40699b",
+            "name": "Richbon Nigeria Limited",
+            "place_id": "ChIJLQF4J7-OOxARfe_uUFgSnUo",
+            "reference": "CnRqAAAAJwDiugGYnF3gOnLtrNyShBtnR4jJL1APvj7M4smN3jR5BmETfxDSJOZ_nuJDp1UbbkSj65eJjVHsudePeXn15XJdLIjbLKmRW4nH_YARPLWCoiZT9uyvxz2tZB2_018hGMi-yYDcehx-7JpH9jjKxhIQSFZn_PGWfSET39tiF9XBRRoUzbDXP_T6aSA-K28sER8iGZi_ch8",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Plot 242, Oshodi Apapa Expressway, Odo-Olowu Bus Stop, Lagos, Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.544785,
+                    "lng": 3.36216
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "220a8779170765e38296dff4b609abc2b9690f78",
+            "name": "TSL Logistics Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJb22Jm5ONOxAR0fc3d_Ry3eM",
+            "reference": "CnRlAAAAoSqEl5iYJSXOgWCJ26Ke60RvX96Dj2VHXSmt40X27Ivg5EjzEHHKO16mncK_6qgBafI31Afq5h-0E5pD3KIhbyxbcKuh6b-gNTA_jnhPu8WKDmTF9PqNX7E5M1XJgOAtY1samGHAiU5NIZUpjdNoXhIQheVmDscxXkhOKE7iSpMSPRoUPoeogImb3prFPrK6qctKGENMREk",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "1 Coker Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599021,
+                    "lng": 3.374632
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4f69fe24d6aa420bf7e51c730714cf7ca26236e2",
+            "name": "SteveTech Auto Works",
+            "place_id": "ChIJP5UqVleSOxARIPRgyECP0_4",
+            "reference": "CnRoAAAAt_mTPjpbjjwfzTFfeMJleOnBWXk3WBWFP_6jNIxlFt2e3oZy9QquS-RJafKa5RuO4dbDwu80Z30SegcYJDM4LZJP2xI5KcAtlDt56MAlH3nWrhp6bJfms31k1di_FVOzfw6Q6zM3xAE3ctyStscnCRIQkr5MDdeZU8uMUvIUnuzIwBoUUalNmdcX4hQ4JWf3DVc_zPtBqh0",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Beside Union Bank, Oregun, 17 Ikosi Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488328,
+                    "lng": 3.324614
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2d4bfdfc4f60514e93e2c38e878375ddd21f09ca",
+            "name": "Forte Oil - Amuwo Odofin",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJf6qGtrmOOxAREETMP6--2ek",
+            "reference": "CnRsAAAAfGjO3-6RJ7JZM5yDMelMfNkulQPjq2sg3H_ASlvyKbhkSmHZhoeuhmQ1d02o6jTBISLHfbnRxWNiuxNO7bEopNqpVhSHGbgrVhuPI9tLdpxjKVwYY9BpVgAmVFVTtGLtbojq6-8OmJorqZ7zKkJZExIQcfgc-6fp2_Xl_HjAJ5e7uBoUG4UrSNhqf35si5dDHoVOVs58Uas",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Apapa-Oshodi Expy, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.469767,
+                    "lng": 3.374855
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "c5ba6efda41e0eea82215f67455ef2de13b760ad",
+            "name": "Forte Oil - Ijora Badia",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAe271hvAbLSxDTeATE05hJ0h_SSRfHTIbucTaIz2XYIuG-I2neNjB_DTB5gehyX9xultbWgByxU0LQrjMIZR_hphsIkPYmikPiaDz0760Swp2cyqZkhEaLjK4BEQmNxHYVFATU_JN2HQwDFxCVoqeDhIQq_Co5XzTvTKI338kTJG9yRoUI0JUozY6fd6rPwOKzRYxvN8Me-M",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJr062aJuLOxARn3qtoqxCmAs",
+            "reference": "CnRqAAAAHX5qSgceJ9BPzB9v8c50671oRG18bEIysfjNj7XT0-7ZG3H1evTTf2ko-4DMyQJmC2RBxw2P9OKHS3ZoyWoDQhTUpkFhiEDMUv6oJYz9ksgkAhSU2u6858PzRBlifBNN-Mg-c4nCDWmzTlY_cLLcvxIQnoxB751D67IKgwniBJDawxoUqKdQ0rss7X3MHvKGTNo0PWkrjQM",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Ijora Cause Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488328,
+                    "lng": 3.324614
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "22109e489941494a11ff69449d7c62a8099e0f5a",
+            "name": "Forte Oil - Cele Bus Stop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJRT-WiYWWOxARE_OQ_RZzQ38",
+            "reference": "CnRsAAAAOChYAFc1gdzJH4Gp3SA8KQiDaqUGQiYy0SPJMpX7cNZVF3Enw63Vbsvdbxc1ZOLUzG2nRNwA62dfiAMKupSg0WeMzzqutgswuXu1OX5CQwsXcU2N8AYqZKGWPdYIqltxIy7F1Rt8vJvUA8gWchlQ-hIQ2h4eljByBu1gok-VJOegbhoUS9T1HG0yf0890K1gYSJy_d2YHtk",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Apapa-Oshodi Expy, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.613014,
+                    "lng": 3.35764
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "c8b5c83765d61ee08f76d7bdeb1c286a31de6ecc",
+            "name": "Forte Oil - Passport",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJrfccXcqTOxARlMnQ_0iH2F0",
+            "reference": "CnRnAAAAD6hrh61ZGrE1603BB9PY4RVgWDpIGuZJhLwp8-Kpc-61Vv3-NsVtbq7VPJ4gEfXDoKAS-k6s7AUyxXJ6HbebR8IyoXVEhqRfFCC6b8JMDVTNPm5VTzoX24OcmwPulaPecA8XNNlCFF40a9tY8vsaTRIQDJZW1P0F0kCCbVR9YaI0WBoUTAhFlngYFYEuHFOVhPdfE3m22ag",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Old Medical Rd, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.685075,
+                    "lng": 3.292508
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5a0c34c7af3eb3bd0186ea3fd0651a8d7a229712",
+            "name": "Drivers Point",
+            "place_id": "ChIJofv6tASXOxARM31DkuBh74U",
+            "reference": "CnRhAAAAO-RXuznktATAMdJth14jfCKxfW4jPMMwsOyujOBMKyb6fi0nKi4zilDTHqXD9CHg6W2rOYDh5_yWKLdpt7DQKsxi5HCmaVCfbpNEkWNy68QQmt_JhMOM3m4oNEfoyGErrLVtzaTcfRXUarGfhA9OORIQJduUaRX6w_24ya36OQeQFxoUHgwbj1EvuOnZ29sLZEBhFqzbl_c",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "No. 9, Lucas Abubakar Street, Off Old Akute Road, Obawole, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.537533,
+                    "lng": 3.346324
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "27ab5371dea58f23c07d5aec55bd52bec1a80651",
+            "name": "Forte Oil - Industrial Estate",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJHeQa99qNOxAR1qckSnOiNQw",
+            "reference": "CnRwAAAAxbCKOmeJehzuywDvNxi1I6Jg0dk6p38Me1gc1DkzUI13ylP8GB-jiow32qJmQGBQQST0jocNkcECrzIU7aaf71ZwiVSqYL5QXLqPmA4QYzPovfRC8CAoeOkWCJB7HJsBzQxuH9y-UTPzlp3jF9-rRRIQVoqsdcgj3AcX7js_xTVdpRoUwgg8mBPqIr9FE6XQX0r4IPUWps0",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Matori Rd, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.61637,
+                    "lng": 3.326953
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c3f60238778a3e61a30e6e2970a00563eeefb5ea",
+            "name": "Auto-Soluxion Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJPxxh23CROxARvaALVN_bPf8",
+            "reference": "CnRpAAAAkbjmSf0G7GjsrWkTr9zYtiCURouNF9J0rVzyc41DL5ZaRQcSitLQs0gGGnQsLgg9OQOGYVpFulgU5JIoKKfgNYkjGnHXQ4DCuGwWntOBxLUr8f04V2jVFSTCdXIBXs_SB9SJtVAknV4a-4AE-rhhSRIQEPASbbhx3O9_cjW22N04YhoU2qZ2pbTe0HlDZV0-rlieRXbXuUw",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "85 Agege Motor Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.451208,
+                    "lng": 3.422424
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c2a38f75bae1b738fead68156f10175bc00b452f",
+            "name": "Forte Oil - Bank Road",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJpUT6o830OxARw57I2Cgq0_Y",
+            "reference": "CnRpAAAA_gOYmF7AevtWYWrYZ2gmDmNEJNwwJ5anf3jaRHucOgSGroIGQKvBqqELXQtaVrphhNx70qbPvdhRXmABGqV63SE5WkcqpyUpsf4q-qBWwnY8mmwDjTq-PWXGJWOW6rssmLXjZV6_4Pkj3mSx72od7xIQboZmwrHkbj6WFgpgCTgvfhoUKaqE55BTYlaHTnRIptFuoVOO5W4",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Murtala Muhammed Dr, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.612325,
+                    "lng": 3.335936
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "60e8a446ee3f201b8d928b11941c2cfb1169e524",
+            "name": "Forte Oil - Moloney",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJyRSJjX6ROxARbEUzugSN8FQ",
+            "reference": "CnRmAAAAAsIHFzt2703AdZpOi_WOhNtii4rbZQPzhhlAacwRlsio9_WKVAXibt8rhG1BW2AemuZZ4o-QTNadSJx4KtAL02S1pLXnEeBPZZWonIt6iJC6Ej3_6Zr3n5s4N6JaoV__doWaeMmdfZYaVsItvVSvPBIQ92pr1PhoGU-jnR0Gu0-0GhoURpnIGsHSrpMSyDNTCi4RjDk2hqU",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Oba Akran Ave, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450014,
+                    "lng": 3.395802
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "146e6a1d54f3f72c79c5ccc6a5796a2039a772f2",
+            "name": "Forte Oil - Campbell",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJS_bST7CNOxAR_HrKSmbjDo4",
+            "reference": "CnRoAAAAZA8-XNyQpFeyV3z1ZB6A8neHSAptVMqwuSr_dg04mzhEDMcbpLjcIqOVtsttvLcjLl7s6hMoZuVmGEsZ0bG0bQgtvhRs_flu0lzxFDf_xwzLtwmDkjbiEY3KugE0JWnNQC2CsE9qSnqgm1bkbS74ORIQqsdGiWuIb-YEvbmsc3LlXRoUC9B-0_eMbt_GXpAPu9CbHrY74V8",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Campbell Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.620177,
+                    "lng": 3.359464
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5e6a71fd71ed3f493f5bef7dd9bf41ef5e6dc04c",
+            "name": "Auto Dejavu International",
+            "place_id": "ChIJzZZu-beTOxARlN7wAdbufOE",
+            "reference": "CnRtAAAAJti4_GeOhHtwbVgrBD6BX3VslGSwViARH4TK_kiTUyrdRh0MLbOk4jOxCQcjCkNPb2wYmH_YkcSuIvPrPv3pMDDqmF3MvXrr7XjiHlezS1V5lA0-DkabxTqwxFPJalzd7jlzCwmi54gMcW3zCta1KBIQdwmoC-QwLW2SQ6rQ3s1aFBoU5T_79mZa3qmLBuLoiV5Y_6PAcEg",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "No. 8, Assbiffi Way, Behind Elephant Cement Way, Alausa, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.539184,
+                    "lng": 3.287406
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "81fed3e45bf70b17cbcc54fa81614ad68186f5bc",
+            "name": "Forte Oil - Paradise Bus Stop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJcTpabrqPOxARFAG49jIz3V0",
+            "reference": "CnRwAAAAtoYnxpEk-b1PY9LUSSfV-bXewEyIRN2cwPEAFUEEIxCqtmXiHHN6QURb1YccC_cr7xbX_KwEElgB1ZgKNR4SBe24BlA54APQbAXJt2Kd_sEfJhdix8Tid80PRlvpkQMK-u9rpCKwiP8tzuulpT_XsBIQ203pZ9_x_jRFNNhAlujLRxoU3FTrCUCr8bPm-X_UBYU7gkq-xkA",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "Ikotun - Egbe Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442432,
+                    "lng": 3.416916
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e5d250bd0c32003e969cb7e9beaedcf3974d171e",
+            "name": "Lafam Facility Management Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 539,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdAAAAO2_T-NN8y1ne1ZldEKZASyfsF8_eYvprLzq3g3s6NWHa5vxB3VaZcZMFdqdFvNhmfvQ2vOIaKiLSKfcuJwT7K2T92GeXqDGmE9H2cKEdJi08phkB7TL4BupEO7e_dIUT-ThinWwEZlkceGUzQWOjDn8NLZGKK6GBkkrzQ6HeaN4EhDmpc6BvzQtj0zsT-dNDB1-GhQklZ-LLro_7cRD3kc_NeIYuf08Pg",
+                    "width": 538
+                }
+            ],
+            "place_id": "ChIJh3WlpyuLOxAR5UH3O8BMyGM",
+            "reference": "CoQBdAAAAJB5eKHrccxjd87mjU4nF8xrZwDua8WvzNru5GyqLfqpCyeKf4ufyI7phVwdfkKiP7xuFJBi2oUbZB8qqC-G80j_lTBdQN43KuUBRBgQo_UP60zN3r-WqbJa0cMbFBpV26rZJLxsy4_lQVt5c87iYJ4xFbl1L8Uhac5J7WX8IYwDEhBDJKlSnqYA-Gqt8-QDYEtZGhSuJQtvTStIBdjPbciCCLYhQYWvwQ",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "32 Norman Williams Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.601542,
+                    "lng": 3.388499
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "144a11a0068e868d6296d0d47814a3c5ca13e519",
+            "name": "Mogaji R. Nigeria Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJTT2I2PqSOxARUuyQtuMd03A",
+            "reference": "CnRwAAAApvp14GQjSl2tlfxfjMlgRdk5hJ4JetTifcwFrQqXJkMq0ZYk4Chj1prvAILujHsvkDKj1IOEYNigoe70nnJcgkODJVvp3cvAPyRFQO1oGBKkI5r1JjIAbw-Y6aeLwvfZ-8-Q7D6xCfKkGiVsy6zDrRIQP4NPYIHvKqPuDBnoTMqErBoUCzvQPbCSS19wPQQZ5IIKOOCKJRg",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 509, Shopping Complex, Ketu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.539184,
+                    "lng": 3.287406
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "605f8225987c75b628d885502954c22fae6637a6",
+            "name": "Forte Oil - Isolo - Ikotun",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJcTpabrqPOxARitqNfJ2fPoI",
+            "reference": "CnRuAAAAzlBbrzXmEFhy8qGn0wrJexVSfu1OKI4b006SVYNdTWDyFB_a2i4XtFjID7oYjpIMmR8nnglNLxnhOYV_zO_Mpu4bj453k8tmLg3KxusfrDAmCVankPO44Pl6bky1fCxttRPzzL8v1-FLcW1noxDyHBIQ_JrDCv_rEtvrB_ouniy8rRoUg14agzuUsbh_Ix1u_NvN8a5qF7w",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Ikotun - Egbe Road, Lagos"
+        }
+    ],
+    "status": "OK"
+}

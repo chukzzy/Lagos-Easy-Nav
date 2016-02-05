@@ -1,0 +1,48 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.557237,
+                    "lng": 3.331652
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6166fe9711df06f8f9bb091b2836a776c7d44b18",
+            "name": "National Integrated Power Project",
+            "place_id": "ChIJyf9SrwWOOxARyu7ABcjpQh4",
+            "reference": "CoQBdAAAAMHUI5yrvljd0ShISWs1w-IW5nrocJokftUj_ZC-fXSNTL-MGcBX8zvK7vamT_nxZmcFDQjBj3Q_2CKTo4zOX43m-bIAtkGz54WdjeG0IF-sscg4iSczMfhgSx7blQ8MN22TfE9TelmFXsvDCGzGFcs90TFJ9noEx6Xbd-vmlwPaEhB6_YyQKdb2--glJXea44rBGhQnLtUmjWVeVCey8s1Um6htYvXVwQ",
+            "scope": "GOOGLE",
+            "types": [
+                "subway_station",
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Agbelekale St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.557237,
+                    "lng": 3.331652
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "467111d8e7b907d95f19eba79ab033c23fada131",
+            "name": "Transmission Company of Nigeria (TCN), Oke - Aro 330/132/34.5kV Substation",
+            "place_id": "ChIJ_cmKU5UaRBARy3IoOrJyK24",
+            "reference": "CqQBngAAAAYw9SFhqyEta0f_Tuwcn0TnbAPO1urpLnD-Hps1rDHqBq-9WmSpbMaDHFbHhu5zlrEjrVgUfIwoKRjI93w1t-EqA6Brup79n2ZfK0oErwl5wxeTcswawFewDieZb7-Mi-A7LGnW9M1d6O6N-GAjrCm1N1YQZymH4ih5xsa_M96MIvPz9Y0AD9OFa5FNZpFobasdSaPn6MdbqfIVl_UEvtQSEAM8sAKjTeB8BuonIXBs3qIaFJrBtU8ag5EVLTwLXJwqYP-Yb53j",
+            "scope": "GOOGLE",
+            "types": [
+                "subway_station",
+                "train_station",
+                "transit_station",
+                "establishment"
+            ],
+            "vicinity": "Agbelekale Street"
+        }
+    ],
+    "status": "OK"
+}

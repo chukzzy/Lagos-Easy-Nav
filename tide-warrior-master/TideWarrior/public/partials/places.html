@@ -1,0 +1,58 @@
+<!-- FIXME: Heavily refactor places.html -->
+<div class="container">
+
+    
+    
+    <body data-ng-controller="PlacesController">
+    <form>
+      <div>
+        <label>SEARCH</label>
+        <input type="text" data-ng-model="query" list="places-result">
+      </div>
+    </form>
+  </div>
+  <datalist id="places-result">
+    <option  data-ng-repeat="place in filteredPlaces = (places | filter:query)" value="{{place.name}}">
+  </datalist>
+  </body>
+    
+    
+    
+    
+
+    <!-- Only show this if theres an error -->
+	<div class="error" ng-show="error">
+		<p class="text-danger">Server says: {{ errorMessage }}</p>
+	</div>
+
+	<div id="search-result">
+		<!-- The categories results -->
+		<div id="categories-result" ng-show="!places || !places.length">
+			<ul>
+				<li ng-repeat="category in filteredCategories = (categories | filter:query)">
+						<a href="" ng-click="getPlacesForCategory(category.categoryId)">
+							{{ category.categoryName }}
+						</a>
+				</li>
+			</ul>
+		</div>
+		<!-- The places results -->
+		<div id="places-result">
+			<ul>
+				<li ng-repeat="place in filteredPlaces = (places | filter:query)">
+						<a href="/map/direction-to/{{ getCoordinates(place.points).join('/') }}">
+							{{ place.name }}
+						</a>
+				</li>
+			</ul>
+		</div>
+		<!-- Only show this if the search result is empty -->
+		<div id="empty-category" ng-show="!error && !filteredCategories.length && (!places || !places.length)">
+			<p class="text-info">No category matches your search</p>
+		</div>
+		<div id="empty-place" ng-show="!error && !filteredPlaces.length && (!categories || !categories.length)">
+			<p class="text-info">No place matches your search</p>
+		</div>
+	</div>
+
+</div>

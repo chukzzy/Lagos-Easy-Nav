@@ -1,0 +1,445 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQCAAEAABU6bntbeb_rVPXxBM0Fs4FnN5Q06nD57UrXJuWqpTaZzs5qfrOFQY7eFH-z2D1yo8QjjE23MSsyZBrUwwAFQjYr6giuFgYoa0isVKxRLIpzNRMMyp29lkomHKG60bVvuBTh40-KDI6YqN2l3ggJnIJZwP22x5XGxYl4sqUEiIbbxBn1-D-niG5u-Iut9oBJAfPPJ7UfuIeywF8XQlWRpW_3ox_HsJwO7UzuxSZh8Wg6P1Xvt4CbFq1KfnLFAxoXgh6IMNirAzv5r97OEne3gE06GEKVRFIH0FvA1phSaQkR2W8PqcfL0xzpv0AlQWnw0BVFDVFxbsixw4pugANnssISELZwDPKK3uBZ80srFk06bsQaFB4YGlnAtoY7fufpdTS2GrkkyA6X",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431576,
+                    "lng": 3.468308
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d3eaf42c275a66a93dbd462f4b3f2fd400e03584",
+            "name": "Twinnet Business Solutions Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJnfWgLfn2OxARgXXoAyl-eDU",
+            "reference": "CoQBcQAAAGuHKSQuG9VP3Yz7bRMqKssBvGwN2g7BpFRmXFzSbAueRGhrhO4cgv1VvrAhnCJYNjthZaLToee-1LL9lSbzEomIVwT-fnWwQLSr7B2ab_3IuI9qLYAcKftiAOkJMc2otPaJMDOsyFYRX9siUj0QVnekqy0qHBzPxd6eJ_P9vaSaEhAxzu00HWOEB292hnsNquBGGhSpOOlK6R8MydiPXOgDR8XTl2VcTw",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "Lekki Phase 1, Lekki, Lekki-Epe Expy, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.612509,
+                    "lng": 3.376032
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "58f9f06444388f8e0d100193cec1382d890b6453",
+            "name": "Property Sales Agents",
+            "place_id": "ChIJW7ospquTOxAR-WIKv41IAxg",
+            "reference": "CnRoAAAAtztmoOvZ6G5P5bPsvS_FZgwyUC7fP2dYL2rEcDPmWr_2CtGP8UJf-93TkwoRWZ-s3k3BKsK1PXWMzbznRRtjHtPEONXBHTJUBfWGjk8s_2aU1SbqgRduJg_7kPhTBihXzlfXrGWPnCKGCLm20EKDZhIQv4KanxAoQ9Tz4CoqE7TBYhoUfZldu6qTW4a2ahkQGVDEBWkTu7o",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 1 A, Dipo Awolesi Street, Off Adekunle Banjo, Magodo, G. R. A, Phase - 2, Shangisha, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.451667,
+                    "lng": 3.428943
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "23b12f7f21062931f5e53021c69166ce1e6f66c6",
+            "name": "Regus Lagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJqSiSms_0OxAR2zyAZl-nZus",
+            "reference": "CmRfAAAAgqq6lP7by7o0j0jyb_-kwwQR8E8UwrdT8Ywz4HqceP0KuT1ZeNd1-3ze7ii_MTWciuiHZEn3ylSAiMZbHrbRcKc3zgWB1SoAnTOZerI44y7MYxPZWOPJhwazlDJeUFyXEhC7H9XQQOaVBnyheR9JiNRvGhRLo8-u0c47G8xme140JL7fiI75ow",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "39 Alfred Rewane (Kingsway) Rd, Mulliner Towers, Ground, 2nd, 3rd & 7th Floors, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443167,
+                    "lng": 3.41674
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9efb7230b3c6696e1fe4f2ba75bc7acb80a4552e",
+            "name": "Real Estate",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJZ4fRniuLOxARsRQPjeAyJYM",
+            "reference": "CmRfAAAADVQkF5fm7T6sJgCYq0-_Q7oTRcyyN-3WRHEO4lEaWLJfb_odoj-IBoFepOcc1LCyMdrmGmyST2u2WDCKw6Gu14J_hjj0_pPosT3fOzjWeIwywAmKX7PlOpidrkyQNul6EhDHKGkWlhInPRS3l-mwIj4mGhQ2-bZtXWxxu7SyYSS3Ttnz-UA9Lg",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "Obalende, No. 13, Alhaji Basorun Sreet, Off Norman Williams, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.590442,
+                    "lng": 3.521993
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "adad11b4a2c0c57b86b1611c76161fecdf91aacb",
+            "name": "Kolocom Global Nigeria Ltd",
+            "place_id": "ChIJu9v1tkHuOxARiI4zawv8Zsg",
+            "reference": "CnRuAAAAiRxbsYEXCGCEkT-dTqDi_QCFf3gViCY3v2a2r10IhUzKv5ACue_7HE4kSUWxNb7s-ixJJj249qgtNsluX-m2g-yNotVwimKKFkb5HJJ6QXOfri7shFtnENGvPnRjXaWWFetrMhcKVb0jWwxsKR0uyRIQjH8T95-oLmGUscZ26FlhXhoUsK7KgCLC4tcGQfkF86dlbFw0a_4",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 10, Beach Road, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434604,
+                    "lng": 3.452965
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "04b8a713740eb7c74dcb879efde619c2d899b79b",
+            "name": "INJ Real Estate Company",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 372,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAEQKSTHaNkpbFHfokC-r0X3uG_Gkl8OGaxVsPAvGXRENLeQVI6_TOvLYk6pK4buIvIiZXtEEkWGl4ozB8B7GQCmneATDJYzb6pKKV2k47LHEBdibbttE50xj4FYDooP9-7hd3X4v1yt_1wfQcyLRi9RLgr741i1KJvbtSdCFBXULBGe23PK4vSWO1BeHrjGcoBIQFBGMxQbD3Vi-ew2WyANmWxoUO_UvSHWs2Cz1eVmXfikgA1GWNQk",
+                    "width": 372
+                }
+            ],
+            "place_id": "ChIJRUsf5haLOxARpgv8B2O5vy0",
+            "reference": "CnRqAAAA0PMHcdKIYzQhCrPV3Sb0zOsoR8f6CaUtB8pU8DAdcXtOaPs7j1uQPXHCoW-DoLj52dCwTtEPm0cliqZfkY6Xg-36sDkXr8gmtyvB704wMTZXGm8ItdwJTrYMZLsONUThE7F29p6fUjXO0QTKbSLXRRIQ_FjBguAF-S55hoVnq3FpbxoUIvDLsMwfaAbeB3WCQ3Orhx7dcYE",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. D 50, Land Bridge Avenue, Oniru Estate, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.612802,
+                    "lng": 3.376298
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6851fb3c0037d97f17be1198a502502631806adb",
+            "name": "Property Mart Real Estate Investment Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 539,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CqQBlQAAAJGc54_tqIL6oOTI4tFkD8CKWeNVmagyrN4CmxQQbCnb9VkUNec69xwCTCN4VFCNmyOhUi6gPX3RtE31S-fw1EpiHWqOT-UNYJbbqLrLhoIklkMw3MLm8AWw4dhh2X4aqO4WC_-FtsrfH8Q1dCD_BqXINCbrqGrdgvNg1qG0VupV5NeW2zcUMX2cUvU6eIRUkyYb3lNVoBS3VhZHgMkr3p8SEMflY0IBTXRPL8OxYNvbJ1waFJTBHe_uca6rFXUOhvIMA8LVRtaK",
+                    "width": 743
+                }
+            ],
+            "place_id": "ChIJ6RONrquTOxARbOAYGn_I_rw",
+            "reference": "CoQBgAAAACl5bbign9SlqedgnRJ-GTwT-OtIr-TrHWtpHakpsPghvug2_3ia17kX34Si9KmZF1JteUFxsdIDLyQGzcBEnc_TeRbwEPWEj3Ye49Im5e5znb-2nNnhd0sUoBadmZlEKU42RRbUnTd3_v3yQ3gj5SEjpLO-8UTq5FeNIG2SXHs_EhC1hktA1qRj63b1r19Q4D8-GhRdrRBkeQNr1hnurL3vIaDk4fzrQQ",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "Dipo Awolesi Street, Off Adekunle, Shangisha, 1 A, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.539556,
+                    "lng": 3.373264
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "53a0364e3fa472f933ee12b5894e0064889d6b6c",
+            "name": "Firstfruits Property Development Limited",
+            "place_id": "ChIJvwp3EaSNOxAR_AxKJg6RmLM",
+            "reference": "CoQBfAAAAOlTNQtwVFIGXtb_urzUgHqV6bN0HcaUh0Lwyu62p_mYtC7VP-HrMzET18VQW8rCh212aI9Sn37DI5NcmTAmzWSu5aA8pwTDmjlE_UyR_DR134AK-XgREFl7J4ChwqbGHH4F8ZILnGXXju7zKjlvOjYorRe6y9dOHJ82LmQObQHVEhBbX65Ej39bdcLsylS-cORYGhQLD-az69LkSSSiAustrvExCHpJQA",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 12, Ijagbemi Street, Popoola, Pedro, Palmgrove, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448044,
+                    "lng": 3.408683
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e8ed53aa1e2c4c5073082c0aeae72f01b1a2b9ec",
+            "name": "Amara Suites (Apartments Lagos)",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJjQfYbiWLOxARutnqf24fMJ8",
+            "reference": "CoQBcwAAACx39yN-zYn4Je9ggnsRJl4x-1E0MN7QDmsS9uCi7yWuvFZdnlHeS94svP6GZlsl4t-hB09krqc_iH2gw7AD9zhQUKskXRcb-hPXR5el4K-S6d6XxxPYxZRKrQmhTfP75IXoyg92K38v23JwCGj31iJwtt0CAZH5hELXXzlXeIJaEhB3Gz4NgOw49nVWInnP6p1JGhQY2HEEm2x8HsPwRCh7P5fB8dchgA",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "Alfred Rewane Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43073,
+                    "lng": 3.415788
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ac86c4712f0d923599ddcc51be41b97c7f22a42f",
+            "name": "Peridot Properties Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJfXcGStKKOxARr5yiqA3GgyM",
+            "reference": "CnRtAAAADnHxLk5GMdZZldhmQeAVUB7opMiN0LN0GTPSNud2kEGfb6G6S19iUWmo7lv4_1RYNUXQFtifcxyB6dkDbHrrfffKL7ZVb9xPiE6_IloaRuuovcUSrZnqDIhsfNSFcAgwq8PlddhXguIAVeiuVawfOhIQPvbnPSE3ZpjSOD6wMmA4bxoUfFrUiRo1m9yIchtEeLiEzNdBH9U",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 12, Adeola Odeku Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446112,
+                    "lng": 3.403455
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "fd1e8e28a2960ba76d3ca7f580ed4fc4ddb345cf",
+            "name": "Free Land Inter Continental Investments Limited",
+            "place_id": "ChIJRSS0liOLOxAR5S_8aK63uzo",
+            "reference": "CpQBgwAAANVY-L3RfHQe11Pe-4XlpNHHKQmycD9iUjqnogPcUqx-0_8AchorAdjrjgY48LIhUdPDkDHxmJoFn4NQp__JN0d3ILN7RShRk-Xt7PWm9OEkrI4CHMZREis4oGN5aj3FIIzTtUhJ0myHOSWSOwcpoYlezIONG5aaZuLyJKGT7KUuPSaFywESXcfYLpo6XATc1xIQK-kAFUDRj7RA5EKTkSGwehoUWWe49yP5psNlzqe3mK9Qnzehd6w",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 41, Tafawa Balewa Shopping Complex, Race Course, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.559898,
+                    "lng": 3.370099
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e2ff96363925c98844ee2bcb441914243fba3b09",
+            "name": "Richcrown Property Development Company Limited",
+            "place_id": "ChIJ_QICl4WNOxAR1YUxOW6sAj0",
+            "reference": "CpQBgQAAAAj_faJaQZI8K7Q8WUiFDyw6L06wNDmaluDRT7P9jTYGIU5i-KUkvduQFUwYWKhNgkF13UizjrnVGUCR7HFe68bU4kTIXs0PjKtV0V5Qgx_H6RHH5gJjm18pN92gMM63MbhHsFb1Lnatr3bElfarTDF_VsEKIl8YKmn1hJva7l4a5AY8V6dJT4KgW4VjGEtJnBIQXkIpxrqo9IOH5A8N_nWRmBoUGODTCqsjkw597XK7dHFyhjjjO28",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 11, Anthony Village, Nigeria, Olorunlogbon Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438014,
+                    "lng": 3.479494
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "960e70c7811fb29caed4029bc8272f39a2c3ec91",
+            "name": "Praise Daniels And Associates Ltd",
+            "place_id": "ChIJyYPXT7X1OxAREMTociGtH84",
+            "reference": "CoQBdQAAAMIRLBsDha4M4mP4UkZ2_ZxuqqyMgquWSGT2PXqQ1APrWi2mFX-AJuGCWLCTilPn0EP8x1jcDRbZlb8EAwVTcTRXrcgQg5bFuNqNcE8JVZGKc_f4O0uXTh-b2W82_lU2Aa1Lam0q6Mgmtm3AMDEkAxn1CnIGHOYV4gcP4chil1WEEhC9URiJpwH_5apvLAX2IiREGhQmxTTrq9p-FeXCmtSNpIegIJbJUg",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 11 B, Tokunbo Omisore Street, Lekki Phase 1, Victoria Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.60731,
+                    "lng": 3.318711
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a559ffccacf5e11adbe172052a2715529bf12060",
+            "name": "Jehovah Jireh Happy Homes Properties",
+            "place_id": "ChIJr0dd1aGROxAR74jqw7u-0sM",
+            "reference": "CoQBeAAAACMYwm8oCv7SycUcpTcOwPhzBDiQXDjCKvXm7ZWtxq_a39i5FJfbEcZFo0FH0hK29f5kx_MhMAn_5JO8QdqZcDDEPvPW_J6tB-itLcC6YMer9KE5Lu780JTUEprmdN3BvG23K3hqWnlzOTvY_wXijuSjmQSH8ZYyLtRbLX-v1lImEhBskJYq3XwXRpwGxZBIPS-xGhQ9Vb1jnEsNs1iS6qzoczZL1oR4QA",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "1, Cement Bus- Stop Ago Palace Way Okota Abeokuta Expressway, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.538809,
+                    "lng": 3.264855
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3db8dcef8866a1307c0be3662d7fe7471ffb92f6",
+            "name": "Divine Properties",
+            "place_id": "ChIJP1TO5o6POxARpBvrsrMibrQ",
+            "reference": "CnRlAAAAbg6f-osTtA-9bfewlj5ORYSCaRYycNCkjTWGCkDK1pjSBln0la0yMZVhP3Gco9KVIbRjkwPHl0f7cNvXMEeJj2isO2_Gh0LrQmaoa9-BX71AhdmSV1i9dg51GpCeYbA22Cmb1eZtdQNfZEV7DNxGQhIQj7j8EX0KTREQERlH7V16nhoULLeBUMvKa_MX12a4hE0upAzG_wM",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 19, Pipeline Baba, Legba, Ikotun, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583405,
+                    "lng": 3.389143
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "26aa3c5d17e4d3a3f66bed5057db3a468660ad08",
+            "name": "Royattee Property",
+            "place_id": "ChIJmYb--I2SOxARmv4YxWScm5o",
+            "reference": "CnRlAAAAzXUOAid3ZhNGs_oNOOpxhQXwghuCB2awRhj4x9dwPN65WvhihXh4nBfpcoQ4S8E63tJrhGZhEZt20IDim3ESd1zIbd5xK2Hh2_sPxXanctOZ8sFf8vNdw_AN4zG7T3HpoF42aMhR2f7Msdfac3EtPxIQeCKY55mBEghUWI0riNV05xoUqXDa0tiG04-458ZkCFmXDl5GCis",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "Left wing, last floor, last door 58 Ogudu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599278,
+                    "lng": 3.346042
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "20b2fc69adc901e52fdff2f2d7665e8b6dd0f3ba",
+            "name": "Wealth Chest Limited",
+            "place_id": "ChIJL1uUfS-SOxARn6-fsLf4hps",
+            "reference": "CnRoAAAAy5WLYHCs9sn0NxgsTSwI0FfgRXdDH0T9mEJSs5r3l-HQUWWpkVCA8Erb1X_UNdy-n5exo1sLpQTW0V3JEDOgCzjqQW_esgx2gpfojD0Leh2BsUWnw9e_Hu8D5bOLj2ZNDox8jbR8cIyDtBTnWqCsKRIQ0b3uOdH7PsLllLA-RBqNtxoUJTLBvVP4U5u5mnOq95YsSepZvkQ",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 18, John Olugbo Street , Off Unity Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.629449,
+                    "lng": 3.483307
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "703c94568782105353d5e9689c1b8deda308a94d",
+            "name": "Pigeon & Egret Properties Limited",
+            "place_id": "ChIJhSSBOj7sOxARpq6RrAVGmZg",
+            "reference": "CoQBdQAAAADlOZF1o5STxAk6T0oCi24YHfhhOIqjMIJcetjF0OIQF2gr4SBkunC7FvZ19H3O-IvGyyDJ3H-XV9xNsgcayRyUJ1WdA60IdrTGBnM92Zis55ExXLsBCUsO5qG-D9puR2ox49RfdtXeKzgnGInCZ97CpMmvrPRuXTOrUuYxHlpqEhC7jB-P06wWXXKV5ZOeF92VGhQz4qPYweia_pxlMMH6mZ7f9TifEA",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "Alani Salau, Ajilo Bus Stop, Isawo - Owutu, 6 Owutu-Ishawo Road, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446908,
+                    "lng": 3.406951
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "57a511b367c30296a08a082f9b19d05575395ceb",
+            "name": "Ibukun Efuntayo & Co",
+            "photos": [
+                {
+                    "height": 517,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAA9zHKDSWoK2ESAcvxEXuxCA7lLdlv9Ug7qAZMOQLMdEj8L7HblY2F0dvjtTX2tUcrHrq9TbGFdoiuU9AfI7L42I1rs6TTjjPEJ4yWhC2J8bb92FevdOxgpqJmWH0kCVGWnogNlsNpOI-7MldHCXMuFxIQFWJ56C74qu-9wrKV19l0HhoUzUWrzKOuKdE-YzPQGDXE-bAH-ts",
+                    "width": 516
+                }
+            ],
+            "place_id": "ChIJNTwp_ySLOxARCbtGwebR8WM",
+            "reference": "CnRnAAAA7-cOD8q28n76msCK6wQMWZU9XML5r2uGSIi0yCKIpE9Comh0pL6e4rXE7ksig0jNp4Bm_k8pE3O7zyjiKI6h_a6kdEcoLQQ2REITt6Xcrmm-lqjXw-4IIpGGJMRtPE4cF7dXw3nAp80dUZgh4Xg7fRIQB3bxwMaacJIYpx9Cpn-eLhoUeMLpZmmZjw0Eg4_xlTkzYwRUFyE",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "29 Araromi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454723,
+                    "lng": 3.434231
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5a9d6d0123739f2fcd38e0d7017368a5b3893ff0",
+            "name": "Konek Properties",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJKa0FA8T0OxARQCQSP1THzkA",
+            "reference": "CnRjAAAABqr0UeTXstvzmPRswTLVyZ-vdxxww5FZmy3ovdseaMjPrBAOFMhKTztMWcfzg6iBtf1paLrtjYbYSEuGaNtOFWcbskLTZMs2MRKiWHnjd3uy7pPJu-QIr27GZKwPIbumu41YFtf5oXSR6d5ZPDJTLhIQDHEyet4nSiptJ1vI_RYbzhoUnGfQsYqf0IuMO-aY1SIiDVEH9sU",
+            "scope": "GOOGLE",
+            "types": [
+                "real_estate_agency",
+                "establishment"
+            ],
+            "vicinity": "12 B Lugard Avenue, Lagos"
+        }
+    ],
+    "status": "OK"
+}

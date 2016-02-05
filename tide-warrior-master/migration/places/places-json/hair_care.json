@@ -1,0 +1,423 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9wAAAP7SLEY4Qf2A64T0ybdOZ7GXrJuGcGmawe9ULUO2tZFWtZxLtbCPyuEPXcBXmGVIx0-FNkHUJv27tdtn6uFPUqMhJlr3MRshPuF4a7ATkZ1EYgsOnksaTJOf-S4xxXh48xPzSM5Py79UQlAlBX7Zy0SDEdTH-sPASaimNTgODkbHvU5wvooXYXUeUhF5dqHoGm1zqutpqi_VuuC8QRIkcjCOchEG4Pgb4P13SDrP7qg7bUHw03Idk-c88VvG_zv7EKTdS--FnXZOG2BBf7OtgkI0FEvrOC2e5qoMWeZlvqUun5spScMtsYkwtDooTE2_W4DhfgguD34KYRm4xWKNtDYSENYDxhqXibmRxx5uI8QiR_AaFBSl_XzvNvm9yqwGGO3dl6GC3kMO",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.524651,
+                    "lng": 3.372111
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6415b375f282c5c27ade6aac42f46cbd49a16a8c",
+            "name": "Beauty Cook Studio",
+            "place_id": "ChIJmWuz06yNOxARk-UNHgUYCqg",
+            "reference": "CnRmAAAAuLWpV5sMUR8Xd1Jk9bzGz_HKKyOv_WYp_4Mgb16ReOoK6pqH2r82DtauO4pxJ_ZS0IFTArKOOeLUGEYpKBBj5wUwpClHl9Mbovvx4ABtQURinzjGwqAt_a_OsEpvHvwhPzPWJWxFvlXkKNzfDwRVbRIQ2CG2zDJF_N0bTqdPqVd2qhoU6ovc3zENsktaBbPDWlv3C918s2w",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Moq No. 12, No. 68, Nigerian Army Reference Hospital, Yaba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518478,
+                    "lng": 3.345836
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0fa83f7ea8858854d5cbc59ebddbaef67712a489",
+            "name": "Chommys Beauty",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJtzDXjy6MOxARdtKjmx0FASY",
+            "reference": "CnRhAAAAiretYe6haa2cRw9xM5Zy_emPJIZh_K7CylgY5jUGbYy4xVk3zD-a5TWOYXI0lN8Yt8EsiepwdGoTHaSAd1udFWk9p1W5NMveLk-CBAJg0dRzJ2Oiv0HLi9gKgf-xYxcc3SZYbuH06TWXlSijNCEp1hIQhB9NScECu4mR9tctfkzb0hoUg_enXTww3bHqK3pXRcr7eaLsPHg",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "No. 8, Oyewuwo Street, Itire, Mushin Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599527,
+                    "lng": 3.291324
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "98aa6925a72174b61b10a60556981831700f6f62",
+            "name": "Kinky Lady Beauty Home",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJAbuEw1GQOxARbVd8h-LzeDs",
+            "reference": "CnRpAAAA7rYJB_ZrrcaEVr4JnZcbrMCqD5mYOw-U4OxQWIQcAmk5kEewuapDGO_y4PBQf3CUDaFgm_uSe89GvUjedKUO0oSEWb8dYJbFUVp0lpzABpgIhyYnbZxy2u7U_NR6Y-cjlpHjrgMMgb3nKMz35eASDRIQVaBQKMmIjD3w6JkFWUaLGhoUucj74Yqj5cMmdYAIANr3DxcA6WY",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Egbeda, 6/8 Idimu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.507602,
+                    "lng": 3.310195
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8a44f74317c9813d0f6c751f70201a4d110f80a8",
+            "name": "YEMI SALOON",
+            "place_id": "ChIJm4_sweiOOxAR6EV5-yGIDi8",
+            "reference": "CmReAAAAdEHnYstvQpwWJrxWd3VtnUrWw52NdnGAKkXfBpWxf1Nwc0AkM6skxvR5ov1BKzQXo5qa4QUxRQLXeLHH-FxSXEF5_hJDImjx8fYSNAkrgyCe9742crhn9aUYbnWkdE_NEhB1OdTkVZTIL7QzDrVHGLLkGhRTFSJrfRQhnyeEjJoBsS66FZP8tA",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "110 AGO PALACE WAY, OKOTA ISOLO,LAGOS, Country , NIGERIA"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62696,
+                    "lng": 3.309358
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "686d4ab6f3784e617500762624283779a891c283",
+            "name": "FNC Final Touch",
+            "place_id": "ChIJ3_PYRBeROxARFLxkBhUDOGc",
+            "reference": "CnRiAAAA_5hQHNrO8MZlDk2ule8UYapKcaKXZYpL23_HeuNlIjw4NOP1-8dd-B_NC7RB5lJb90-HmBn0cOaCFHzqlkV1PEKAWuiSyaB5P5IvD8qk7T-hxTxvLDls3SRfArLbye3NgsSPHlP6XinjqMPlFoC_QRIQ8S2lQlKKV86kSFv-vOXqvxoUceQq1SX_wenTMxY5Vt-CBJMfxMw",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "No. 32, Coker Street, Orimolade, Off College Road, Ogba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506099,
+                    "lng": 3.366984
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b9a3361eacb3f661faeeeaa0320653d1d84bba64",
+            "name": "Hair R Us",
+            "place_id": "ChIJZ6a2A0OMOxARW0JtkcLElNE",
+            "reference": "CmRdAAAADkdIogA6PM4E3zwD4WBW3ILEdKfCbFgw1BOwrgfM0GtZyTuUqcWRGyTKxvaKHo6XrpZFTsWHG6gwIlL9Fi2IzqHzORqCRiohOI4hysqDRm6iK7CRujuRBHXnOEOxqFwdEhA83o2LCNYQ1iXa6PKIpmU8GhTzwBmgSrNksIXPeCxlbxm2HRk7Hg",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "No. 63, 2nd Floor, Tejuosho Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.57239,
+                    "lng": 3.335836
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "30e28a4db6d7eac27fa0b967b8fc4b36de006228",
+            "name": "Stobel Hair Care",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ22BB0v6ROxARjrvs_ru4DyU",
+            "reference": "CnRjAAAAlnmpb3S7rne_eRnZAIL1NBtsy1dth5U05pmCUMQSDI28F-739LwTitQLvsGv19MO_HKtnlAjlbKVgLSTVUcPl8JLdTHQW5lETry1YkGBfU-oBReKLZn4li8amk77Bx-m55QwA8Z8mxCPH0fxEvFapxIQcgL4ripA939YwC7OZH9xaBoUWSudwM7wKIii73RElMlVf557Adw",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Block T No. 7, Flat No. 30, Nigeria Air Force Base, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.605568,
+                    "lng": 3.349408
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f4ca404c48003581ac63bb10f6276fd9e2e06700",
+            "name": "Bollywood Fashion",
+            "place_id": "ChIJk1EwDDKSOxAR1mQwjcyFnvI",
+            "reference": "CnRlAAAAoQSPb-HQJ94oQjqiKMd7qlhwJZoCU-Lp7K06UbSwKuZZygUCjejCVqBK7qaJDLCQJbjjKkbAVKw7LEGDQoqH6bf2fI8uA65HzGERHav1cflR4Fvkur7Kd9tt2VcAUSPMlvuZIpq6SCPFMoGEvw6spRIQU2B86O33FvpgmH7L_E7XHBoUoHhnVBicFdTaJ6Fx7Pqr46ETzGc",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Old No. 107 B, New No.109, Opposite Alade Market, Allen Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.457237,
+                    "lng": 3.384953
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f29d24ff9f9881643899db0224b2fe02ed961879",
+            "name": "Atom Weave Hut",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ9RY-ZQyLOxARXLe2gyOhslo",
+            "reference": "CnRhAAAAdXbiKzPwPfWqzXZeUqvkYLwu8jKC0_7L8XVNmX_2xIjy34LW_PcTCEg3CVcqj5Pp2uZGLygSjWuje2J7k-aSNBKztS3GBEhjYsHX9DlDPKDDQVJnqtRGLIKTZj7bbsAQdANPg9fIAHMM2iVdyDnEJxIQVjSEcxGpR3j7DnuOrXHG0BoUTnXfxnt4-O3ERt9Z8VWWOhroNqo",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Balogun Market, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434873,
+                    "lng": 3.459488
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "26532a2060ea10ccab100346d261cae1dce28f82",
+            "name": "Blush Trends",
+            "place_id": "ChIJaR3XmwD1OxARPVTchgeRK5A",
+            "reference": "CmRgAAAAsMLqmBNNGNaqdZqYBTBYybuVIj_QTK3aXGLUpUaivdCid4c-PmucYXk5AmiheaqbijNblp2BTw23HwJSKPySF5bCQaZ5DmVyQPgj3HysiX_Ooxw5zZPVs1mQmMFZfxFZEhCu6-34efrV6QHQFAK3dfI4GhRdFemMfzaEuZvx-TTu43dzT9VbNw",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "10 Babatunde Kuboye Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.496302,
+                    "lng": 3.306936
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4b61756c157b360a441c45d2e37cc22e270df2ab",
+            "name": "God First T&K Salon",
+            "place_id": "ChIJTQxhENuOOxARSNGMrqfrKB4",
+            "reference": "CnRmAAAAGQ1KBcNIClfpyUWxW8UsCYHJ-lM3rY2C_aczoSFx--g8yc12FY7Bx8d839sT7aFDsw__MTGKJ49AHNTdi9C1Vtju_30uAoPyuTFC7rHv-4Q7fJP2YGTaidmA2QR70-mWZLg4YG2Srl6QlpYihDkBXRIQiIktLypmHOe6hts3hqHC6BoUXUClkDgIkLGGCOo8IcHO39xP_6w",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "116, Ago-Palace Way Okota, Lagos, Nigeria., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555997,
+                    "lng": 3.33905
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "12280b1a498afd96496346b375f19d3783b07d3a",
+            "name": "Amaka Hair Saloon",
+            "place_id": "ChIJT9SJqOKNOxARG6P59_jP6V8",
+            "reference": "CnRkAAAAd93tlU60IUCijOGAz8OefhLgIxXUnZmetTGAB5BCjI8U1B3rosSi0PdRm7vojpNpGinNFlu5PxwOm4BNRoRuCNdKOVn9GNmRlaoSZ2HKX9hBL27dR9TEUbs-g5qJa7p0viJuWWu63d2Y7dNIcPsZ4RIQVfJDG25lFFyAPSU7cmB5pxoUv2YyJtKlfTJkILvgR0Q4xxNZSaw",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "NO 14 Emmanuel street, Shomolu palm groove, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.619257,
+                    "lng": 3.298927
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "49e2fedc7f656f5ce32b99876172d818be4d3f6b",
+            "name": "Suggestic Unisex Salon",
+            "place_id": "ChIJ6TFLmQKROxARi-BP0y8ydnU",
+            "reference": "CnRpAAAAK2IOazuwp8BvSPCHhI7eCSw8ta_EeEJLaJuKfJ_1-yleTRyI2l-l6w48PaTxBYa_wKkJ54h2Dcy8v_GOcLTYlARszJXdT19CXTPDErxZ1bNJTkMO6BXVOvZVxwaIe8o6tDd1x9pj0hkN0q8hi4K4KhIQcGfRUUk4U5WnZyTF6jffgBoUK5ZcGQyvTGihGUoiWRIwqOV7Yi0",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Oriade Close, Off Water Bus Stop, Ikeja, 3, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.497381,
+                    "lng": 3.348
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6cb845b8af45e0a81968fe0b914e6fb6b14dcad3",
+            "name": "Abisco Telecomms Ltd and Barbing Sallon",
+            "place_id": "ChIJ16-MGRqMOxAR8TTcnhfDjKw",
+            "reference": "CoQBewAAAJizo9Bx3ocJ1dxVbrR-v271nODW1ZpvAl4kIdOXJ4Cc4qMGGrMuAQhtzJZ7-OK24SKteKVHc9T7mEkowap6oPmWxojSFt-FRMM8H-pWU9pWeh-K8nq-ZRWd9wLY2RIaraxl9v3SgnDAxlYXF2XmOaXkCyayi_24tQCOMwIlaeq5EhByz1tOyFmzYyHDVUrUaIfiGhTzkE3MRXFZ0B746zni-LXQ7ZzKJw",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "No 1, Bankolemo street, Akerele"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.50467,
+                    "lng": 3.30763
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e1a557fdb82a3d26a082dac0a6dbec04436febcf",
+            "name": "Don Julie",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAABhkArnAoOuAPRGdElB-fo9kQCWd0FmsflYhhjgwiJ35lPhRuiEsqFEAibBCAOLhTqLB7GNkfbiA8dMsXFF9qLC46dAUkmFdp4jPDReeIglZFpJw9vUoR78JOOZ9UEZosVHF_QlGfKvHQ3Hd0elKtFxIQw2LsG22gXPF4nbTmpkO_JxoUC64WGgyRuEamG8rKiE5HbtF4KTA",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJP2266-eOOxARt3hkc27Hqps",
+            "reference": "CmRdAAAAgL8T0lsw3Dc39lTV-uhnDHIiMWFcrTWxtS0G5DKHDeLJjMQUmVywep-3aa1Ik3icYWXzwwJbrO3rKvW1lahNssnZL7-zVIdOZkF6uYH-QX7MczpdKmj8uVm8pvu1DK6fEhBGPYuSo0SAH4BLzMJZpeaBGhSH29LVnOx5jq-Xhh7GPXQSp21xLQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "91, Ago Palace Way, Okota,LAGOS,Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.551685,
+                    "lng": 3.337655
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "24f52a5c7791daeb08987a040ea8f77f79a52109",
+            "name": "Chikodi Beauty Saloon",
+            "place_id": "ChIJTbJO8wmOOxARqlai0Qzbusg",
+            "reference": "CnRpAAAAffVYhQ7m15k6ltVnGzTy1-digjJdjwVkbWcd_BmwMit0Z6gAQr8oVNe0nYykkRbflDdC912xoYVolc4qqZggi2aJ4t9Pvf8__7CX80Hv7WDiOQItxoWELXy38xbTdLZ6eMIwR2ebtbjtvQUKloI_oxIQF_s7psqXMEYTZMSfCIfDSxoURAIfvlqiB8PnokdQtsRA4eUr-sA",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "No 12 Makinde Street, Ojuelegba yaba Okeleye Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45502,
+                    "lng": 3.354738
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a911249968647b25faec368ef06f1b1e25a3377a",
+            "name": "De=Waves Barbering Salon",
+            "place_id": "ChIJgdiNpcaLOxARNXW-7CMa594",
+            "reference": "CnRsAAAAqYT4nFapj-VAFAJ8v74ALKVHA-0UtTj7IGh3E8x7JZF5A08aH-l4bXxbJZe8jFGz02CTiv0Lnp9LLkj_U5YXVqUCEmLrww4njpYmNWyG1ju7x3g4nkYLNsygtIskrpm0Qusy2TjgD9i41UA-oQXpmxIQmxdTYCYvqjI05Gi4vC8cxhoUwNKNN1g8Vd-oodLeTwilATHLXaI",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "No. 34/ 35, Mobil Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.614251,
+                    "lng": 3.346217
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "58ae6150123f1a34e038f7910e041965a623be37",
+            "name": "Braidals",
+            "place_id": "ChIJc0JtzNOTOxARv2By-i0t1DA",
+            "reference": "CmRbAAAANtrlMl3r-yfWyqhp_5lPG_PakDCRL0koSdq2KRggHZvdZJL8dvp6N3tAjqnKNvxZDfYTspsi7lMWph0Hgqhw_WXhwSf5glH5JxWFW-GpUt27taL1h0uqlwlJ0zYUazgmEhAMBZI-N8s-XzR6iufS-QyhGhTsLQxx9LYMQgoWJp3YezJxUgcfQQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "No. 6, Itelorun Close, Adeniyi Jones Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.540573,
+                    "lng": 3.370935
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7b0915de5483cb74462ef97b866deb4bc1641736",
+            "name": "J-Square Barbing Saloon",
+            "place_id": "ChIJM5mCY6ONOxAR3l9MTmKN954",
+            "reference": "CnRrAAAAZmTEYiIu2vTvwC4r3N-Gqu2PhKhhaJp4qeL4_p5A8a6hpQk21A7zSwHHzrHgogkjfqgd-J8UENf-U41MDUpMgZsXkU0hwszYVtW5LPkMdY-T90fIv9ombRlAFAylHgM0QAffp4OEfWlMUKHeAa05pxIQkv1aWRjsgg2YIXlKMDHWcxoU_o-hN0y2P2lKhXONcSV681eMMOI",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Ige Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.639335,
+                    "lng": 3.339769
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dc95b323afa332a03b038c03b948ca6878b08ebb",
+            "name": "With God barbing Saloon",
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBewAAAKutDJFHXwqiniY0xneYQ3aF7wwGBg0-E8WZouevsH3iqgwSSmEE7PtnubW5U-ZkHZNOktHnsT92rQicr_AJHqW4SStMNK38i8NmraQ8RK9cYefi5SHboUK28J7Ew1_ivqhq8SmzcZhqK5cd2NJ0It2ZezNVQhTOWRj8E0ED3psdEhA3smuyrHClw-47sep6lg_9GhTw6qQCyFKXDsXNz4ZFMIBnGqEQVA",
+                    "width": 1296
+                }
+            ],
+            "place_id": "ChIJ0yXrieKTOxARYjb0wPAEDj8",
+            "reference": "CnRqAAAAvQdY1_rvEjHdB381hTt-HXe8n1g7BXTyUkAPvOrvaZ8zeX0fnXpYRGsLuLDabpcNl6Oit9gL9gJIjFXBCxlvo4srX-pz3zwZjZJhX040Czipnw4bOhnl19oos-1pxchgCh_O-MeL5ICxua2JRoADuhIQ9oKYa8EhKFK4yhcFaqqAHhoU20_YDOads6A4Nf5xf4PguXwIsn4",
+            "scope": "GOOGLE",
+            "types": [
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Adeyemi Alao, Community Bus Stop, Oke - Ira, Ogba, 1"
+        }
+    ],
+    "status": "OK"
+}

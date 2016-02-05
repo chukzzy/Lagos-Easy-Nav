@@ -1,0 +1,444 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAHNDAA38mygwr_3iyJRXi1ZyLJ_BAphbxPitUIbctiIUv8vSeJStsF7kZTh9i3fJA_lZQo_XKT3PMIgmeO07DR_WuKaRDRCGaJ-CBlM74uSBCvspqNCIv4eeLRZVuoFrcmK8gSEfUyroFCPozTfylE6CtHZcwcg5F2OSM6g2UQstZwxPJxokuE95tB_rDf3IlPw_WzYgoafPVN0J2bV_1N0jcQDl5zZQg52APeGsVtOVAGeuWpqmpqSdgm1rxBQZqqow6WMdXOj72IX2J0y9_9UCNj8qv07BDU9m3A04ju7QUv99vdqSFeUg-BmwI4cvVVBLf81OQzyQvc4-W8dLv-USEHJB-Fs4dWKQepUhaJ6XjNAaFIU1_7p0wj8gKUef6G6oYu2rqTaP",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62403,
+                    "lng": 3.378292
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "23e45c646a05c36e1576aa0d7d6336eec218783e",
+            "name": "Olumuyiwa Fanimokun & Co.",
+            "place_id": "ChIJBe-nbqeTOxARxneMfhY7W4A",
+            "reference": "CnRtAAAA1di0BFelw3v8a7vlJtTPthyM5I1_JXG4GIfCqK9jqpEtqBpe-8jGttXlzaaHDAWppNenk4KcxW6agb3AHvpMX_MfMASgBVDiWh3-rdCOsOWAkpurPqy1zQk6Ql1vBKHKxb3RBCCzDyuO9sGd_o56hxIQe_MuS03fEz37l8xKIQUGihoUq1z0ptHyzHxyau9bvwmWZfnYlxM",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "14C Idowu Akindele Crescent"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432081,
+                    "lng": 3.433406
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "05ca313d6f663c9cb2149f5e11a7c5b28774d6ed",
+            "name": "PWC",
+            "place_id": "ChIJAQxg8iP1OxARfyO_pS39Ym4",
+            "reference": "CmRWAAAAUXwUdyRDcgincl8lXlTg1HJHXlQlvZDRqfd_8StPqIalsQEHVRChxrsTtLnQA_ly4G_hz2CI57XFMTPBOU0lGJkSNwvkrG_59T_vUB67_h7k1xQtLsnagLk5AQR6TXw_EhBDL_1LhU0QoYemqEfXtI0XGhSI9_QL-Vs67LYHnaG62yqeySbt1A",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Muri Okunola Street, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503119,
+                    "lng": 3.378543
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "322072ef4b642007a1989b7dc3915fdaaa965c26",
+            "name": "Timeyin Ekoko & Co",
+            "place_id": "ChIJabmv4l-MOxARhKHbMvh3NQU",
+            "reference": "CnRlAAAA0JloJHlgSG2lBZtZcgtI0ro6oaDxtAzq_jNawwd5kmZyNdjJvXhuxby-c4-3dt3fdObROQMcVFbYm4IO2X4ZGge3I9TK7QzA5RVjY3KT7JLjrrEFQ12O_PZD7Bf-jmJoTF4SjmPUjdqiKrIu3tepehIQXUiryEYWstPG-tL5nmsqyxoUiF593ZpF3SbOenjNmd9tgcO_oL8",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 34, McNeil Road, Sabo, Yaba"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595598,
+                    "lng": 3.358164
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "44bba43e4384ee17858b0901b7512c175172bc83",
+            "name": "Metropolitan School of Business and Management",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 423,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAi7NI5GPRdPBh6NtCFX0IPxZGhaT_lYYieXZ-l57H-JcuYuxeQasUs7tFNNzRdkUgrw3Y_zQTlKl6tILc7hv_78HguMDhZauI1nLZlMCPMISArqbZBMfupY11wFRqgRjS3TSkI5E5xlLpj3vWjIbOthIQiFRHx8B0C6_GczcI1W3gnxoU2AW8H4lqPHsZIrqYGNPNNhfBa6k",
+                    "width": 1159
+                }
+            ],
+            "place_id": "ChIJq2frjziSOxARHNl5901lk0Q",
+            "reference": "CpQBgQAAAJdxepFEEeJ1s3q5WbMjj-sis73vZsfNFLdo7XD1oZfzCrge3hpUDC_-a4Q1OSQPvo38S3xzdqfMLjfjPRQJWHTva1UxGekAAySoV1UR8qNf8rqLHsyIOiEOLu2IdTDzkyijp6MvjPwMIRnzsj402aXlBltGAZXX6t-7eaDAWgNPpRwjkz9SfIVsIOSom6pMLhIQpRJKVqovv2ZB6AoPVOp9_RoUNw-3SMYDMHQ7YWaPxE2kKeD-B0s",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "7/9 Agbaoku Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.639971,
+                    "lng": 3.364386
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a7d7392b92fc08876d581512a6df7285f845fef2",
+            "name": "Fsk Professional Services",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJCcjGjpGTOxAR3Que18sVGeE",
+            "reference": "CnRtAAAAcPCcY9Bx9dngWnOjXoQHwJthA-g_8x78HTFH_sEM6VEBlcC1TP2zNfOAWs-wlKPtWo3YtUhEmLBdlKLgkEUi8FfqDvq-ZUqABCJ5kpxyQ9MYXyQYWPfMXwTKTPVcTOdkf0DvQCK2Qvtl1y-pbzUCtxIQYMnpGRhclNyc-J8luUbWSxoUxIioTDzH7gd75iunYxkgayNuB7w",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Blk B, 7 Sule Abore Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.647597,
+                    "lng": 3.365588
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0faeda48ffa130d68989804927699b62d17d3b68",
+            "name": "Oluokun Adeyemi & Co",
+            "place_id": "ChIJDbIhN4mTOxARyOIPULfIsTo",
+            "reference": "CnRnAAAAPKS-CT25_M3fyvwFR4MAfI5en1yr1xlKNyF904U7D57afzyGBjurg0z_JSuwepzXr9f4etGs-CWZyE4iV0QmaopzrYCQGd_ARPJxkJvBr9yqEBlyljTWexB_PuQ4FDz2J_OcoOqJlogiKiYjn8gmWBIQExI-iVqAmtphyxfAF8y_DRoUhSS3ZzGZnF-6XT8ieF0QLEnmhqk",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 43, Yakoyo Road, By Kajola Bus- Stop, Ojodu Berger, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.4478,
+                    "lng": 3.40199
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e6640cfc9b3e6b10ce80fe9ab727f51dd8ecfbc3",
+            "name": "Chukwumaoffor And Co.",
+            "place_id": "ChIJq_QVHSOLOxARmvg0uNEcHMU",
+            "reference": "CnRpAAAAVFgO0O8XOn5nnWg8-0bkIKdzRiJgBFNHF1xTPkbMIYyiMWRe7Y-qJA2aK1B7F-SJpfEhc7dMvU8WEJuypvRcHaossuiuXHm91vtKXC2eMfdSwlSbJrOPHp5V1uR79JUCEPm9Ye2HlR6Flw_o7uInVBIQsGUjUH-HUtQiWmlqmvGzahoU80KJGBweG6egkzrhcNRF2RMQYhw",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Onikan Environ, Suite No. 21 B, West Pavilion, Tafawa Balewa Square, Central Business District, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.544952,
+                    "lng": 3.35787
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "46175441d3614da582ea08b7f276c81eb73e8007",
+            "name": "Bukki Orekoya & Co Chartered Accountants",
+            "place_id": "ChIJMYyqBcCNOxARFxi7IWG1CVk",
+            "reference": "CoQBewAAACHWHEagdNp1gx_smxKSSpmx4ufcPnncTmBnwftyUMeb0qaVIG2YYcJ2RHtDSivIzX9P368_iDEk-DuxBPE40abJhkyt704YLaAE_m4WR4Zg-PHDE0sClGR2hm7NPDvPC_dpcQB51snAvi4K76WEriYrT-NcUu4H9D6_sgH_J1cTEhBqJZ5B7CN3vzZFZVFHcNriGhSlbE-RCQxIYi-koQJI7AG4jryR7w",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "2nd Floor, Olajire House, No. 3 Ilupeju Byepass, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.661856,
+                    "lng": 3.289456
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c93e6cda280210a9f9861cf121ae4b760676ed70",
+            "name": "Otoboleo Global Consults Limited",
+            "place_id": "ChIJrXYYxC-XOxAROiFk7b_XsZE",
+            "reference": "CoQBdAAAAG7zWnVSgugkAtnauyGGAybKGzRIWR2Z4AJDgLkYG1xyx1-Fg8Ahc-BOTbb53WoOnGQHdWVUaWRBMFRrg8BmfHwl6ap3cF_7GlfWOAOZZW2YG6ZvRS--LBVQ2SyT381Ii9bf3WoMFNUz9VcUMTy3QvxFxZ1XWpvZA-DQns803OdbEhA_b8rGDslzS-hAkzFhZd8RGhTVU1cLmYyvlLj5_-ebz4w8UeTxhQ",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Right Wing, Ojokoro Estate, Ijaiye, Block No. 87, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597705,
+                    "lng": 3.354505
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8ccb37a45e01fbfbdc09556bb690337cf0e28d08",
+            "name": "F&A Associates",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJn-z4ijmSOxAReHIeRCR2mPQ",
+            "reference": "CnRiAAAA94R6JxMxMuP3pcQXW5STMIUlEOc852N5zbfX-46UmJOpt3GfPpxm2SEPFZHCpE1SNV7HwVfpV2XrjSUIZ1CCRu-h2y6N5v9WwyDzIpOoG17NbZuAIVzNdUKglXF--UuCH0joFPJsWrh_fGqqriguvxIQFhQepRTaNuTFOuHxa62iHxoUGRFwY2htPQt9jwblPEo0EqyhYq0",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Centage Plaza, No. 5th Floor, No.14, Allen Avenue, Allen Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447283,
+                    "lng": 3.406711
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7fcb556c47c5c6026d0a4f319b822b54192ec0de",
+            "name": "Muhtari Dangana & Co.",
+            "place_id": "ChIJcVOM_iSLOxARGEx81J1_e9Q",
+            "reference": "CnRpAAAADn-13l2toGWKm9Ehg-A-NUS39ZzLBjC1knWoj1fOJB1D2otz20_TAtfwJ1OS_jzmYxxYZjGbYVhKaFc_Vk_BMOc2wuYRbeOIAM-022qU5JxzuYpqrbvNkzBwLoq2etNx7NraeAtJwIylR6ibAyWg-hIQ_0G0-SskAdcXtC0YLScsHxoUAuelk40vi23cTeWfhBLlAzQDE3U",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Araromi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593463,
+                    "lng": 3.338731
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3c17ee4d2878ff1fd1e5f1192221916b03bb6cbd",
+            "name": "Modupe Gideon & Co Chartered Accountants",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ10X9BoqROxARmV4gC9BItl8",
+            "reference": "CoQBewAAAGIsv67r93sNvjqdk3PLuojdutFWoTJzJvDy9IzGLVes93HMGPZb71wqU8BYnuIH0OFWhOyPMBmyL41GlXn-yvjOtM4ny0mrY2AFtQt94nT25y_y1jelfP0Qcjyx3R3fN7jJG-SuEqjM_lB7GRBT0ZwBSw8Hkc0XQtds3SLCwfIbEhCt_Y3iaeZmLGFCJJju8wPiGhTX8y_Wd_xyeKu5KEST9SjdNq2png",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 22/ 23, Summit Plaza, Opposite Access Bank Plc, Alimosho Road, Egbeda, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.499913,
+                    "lng": 3.384985
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b0ac88b4842a4eb8a71b486eeefeafce151c4fe4",
+            "name": "Quadrillion GCL Consulting",
+            "place_id": "ChIJWajlZIyMOxARK65rnJ-iM1M",
+            "reference": "CnRtAAAAP8YmqdlZSc0zQV1g18jPhB7_3GEaMJ6jKVjOCdekVfsNIlud9bDOJE9vYXZJw6cNX9qOARBpbXbHsbgV2Ro2Nl8u4UWBO16ewMNvtX7O24NbeZwchuqQpcBpLDHn2H1FJyFnZv17Pow0a1qYXwypCxIQYz8IcPAkYyZtAoJkNtbsbhoU395x8JhEdVGlwG4kS3hqyTnBAmY",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Oyadiran Estate, Sabo Yaba, 157, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.502498,
+                    "lng": 3.345981
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5aedc9a2d8c4f2d541b67059a47257b9db295690",
+            "name": "Lexwonder Accounting Services",
+            "place_id": "ChIJTXUHjxiMOxARXgyIY2eJfME",
+            "reference": "CoQBcQAAAJitPgX5vCL8AYuIk9oatuikdpSVZADNFZbFvw3FjT2Wr4gNdWrfOJNXJ9j37YHj0TJ_mAh8cT6b8N2IqYcUelg3WPdgrCO4Jbh1luBBzNy_kEEyH34Eq_iD70CzJbij1_N7zyZ6XbyWS0Vh5izKRCooMfhc-VVx1mWtbfcvdadUEhC65C3ohGdGM-6EPbfZO4h-GhSruK85IbYfiHFAqlk8J71S27vEpA",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "12, Itire road, Ojuelegba"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.562152,
+                    "lng": 3.367336
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0b8979263bd9077e8b533d68b843ad363307c401",
+            "name": "Tcb - Bookkeeping Services",
+            "place_id": "ChIJMWppzoiNOxARDPn-vQY0VvU",
+            "reference": "CnRuAAAA584bR4Iy1jy3glPlGtknfGrr4f87_9FOLm22d2-8-TUHnLjQy6rSUpsw_sKNQaOLuZ9gehWWN5eoBwhAFJJcmxO45CfTfvidCSG2vFuMMY799RAjsRkR3WeIS_GvalU2x8N1PSHRS_JGobHCzwTuCBIQ4cQV2zmzMjn7HPE5w3kmpxoUmPR22jCoRX28dueBWCgwsDTQ2z0",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Corner Off Prism Computer Consult, 2nd Floor, Elizade - Toyota Plaza, Anthony Village, 322 A Bayo Shodipo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.647974,
+                    "lng": 3.305175
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "10e9aae45c5fe88c8717f1c190f57deebbcd0a27",
+            "name": "Kellycom Corporate Services Limited K-Express",
+            "place_id": "ChIJybmcIyyROxARSzNICxr6uH8",
+            "reference": "CoQBgAAAABEtMGlUrmy3UijEgR3LFu54salCpRX5PJZKlDSFaIEIpImdXOLNIfZaWLLbUIYb515k77vw_9_D1FnOizrMvvs_VdFQJ6q9MxjPVNLUqxVvWN4_HIFXi87zTtI5NyyEDajIOPet1pWHoV5JNtCIU3KlJFlCpdT_pCjmP-SeUUkMEhCIhcy2_L7PDfNwjyiHpENGGhQBJ0DkspExtbdwT7i9AOPd3ncPjA",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Olayiwola Street, New Oko Oba, Abule Egba, 17"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.531489,
+                    "lng": 3.328182
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6a1b0cc0624cbee94f408b4e611c6c806ce12196",
+            "name": "Johnson - Penn Consulting",
+            "place_id": "ChIJ_ffYx2SOOxARMYpwkNE7k4g",
+            "reference": "CnRtAAAAJ6LNp_VW40wwQB6q0_vCf1qjV9jtsgOZC8MjF5ivSRwrTG_xmf7HxwHKooT1SqnHSMI-Rueab8NJB_VWNaSHPmN5VZTeMk2hfAjenOUnOHyCvmZKsOk7bewQOuyHE5Ff9QUvrXZL6oxoktvfSjl1NBIQtuiZ2o7sK8mmF2n24kktzxoUcepn6etmdwURQxbmLjly3WScgzc",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Olubunmi Street, Ire - Akari, 5 B, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447198,
+                    "lng": 3.40693
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "83d08ee3486d29e759dd10eab81551aa33415260",
+            "name": "Babington Ashaye & Co",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 652,
+                    "html_attributions": [],
+                    "photo_reference": "CnRrAAAAYtYYYF2djeuXKbnrN4Yn6js78uwFxIhPBLetuSjGLkcCrUe4OocFw-Bi4-tDtOFMKwTRctTtCxmA-qtkPWMqopl3xCVwKoA4fRpfOciX4ay0uYyUVu8t6x6YOHXwKFYQi7455npVzQt6kEdbWsnsiBIQxWNlisy_P8RK4gb7OZsbKRoUoTlVf-DO5m9kDKJMA-uh1Ty7W3A",
+                    "width": 655
+                }
+            ],
+            "place_id": "ChIJi7Mr_iSLOxARpiFkn-FoSh8",
+            "reference": "CnRoAAAAWbFl9uBka5SK2w4UVBcpVKX4mkrXZJDkOsHfhGikW2m1OYflSyKWSyB0ayNgt6KG4fhgyXSo5wUriUX4a6cydhcCI5qwCzgwyGfDvj4zharczHDf0FI9IQfxdkKTRRg9RhSHbdqGZ16wW8c94bsIoRIQCc-lvKxM2bGTiIpGSq6D9hoUDGZLPuVR3l_AYejGMBxrzjC4JjQ",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "21 Araromi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.61436,
+                    "lng": 3.345911
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e77eb9a85a7ca49871ff6e746221d82a6fec17fb",
+            "name": "Olatunji Fanifosi & Co.",
+            "place_id": "ChIJN7kLz9OTOxARfqpxwEQhd8o",
+            "reference": "CnRrAAAAGAIMnFwft0gnBso7ogL8DwWBZxllK4ilbfrfBI7pZJdLVIsbarTk-T__KVMPic319kdcOWWkvc9fOYbWW50WYCTkHGPP916y82Nowil40KeZPOUMt3GmD5-fmO43TA3RYrpCCulqr3NhRK_KA2uNaRIQm1q3UBUyTurKKGnUZ1ziSBoUGBebYWx6OwdSKxT1bId1t10ShQ4",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 13, Aba Johnston Crescent, Off Adeniyi Jones Avenue, Through James Oluleye Street, Ikeja, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49879,
+                    "lng": 3.379199
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "975803847573f3310b014bde5589f3036b866b51",
+            "name": "Yinusshokoya And Co.",
+            "place_id": "ChIJWw_14WGMOxARNoIA_7qJnAM",
+            "reference": "CnRnAAAAXGXx-QRPHDwiQczASeZM6jinGVETsCrI1rcu2UToW5AHeOXRS3ekBmUlDqgAqVwHpopsUu2yLPfz842W5AwdvJfDvXcPudD4ftpbEwVv__otVJZtwcpjIbySmMVtzQUIe7vUFkdZHA2Zs1w7905e-BIQEBMSsoKelx82JB-YcZIadhoUFNER2kt4voG30TOIJkdVyUibVOM",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Alagomeji, 24 Moleye Street, Lagos"
+        }
+    ],
+    "status": "OK"
+}

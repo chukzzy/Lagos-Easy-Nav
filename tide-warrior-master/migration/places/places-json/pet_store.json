@@ -1,0 +1,497 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9wAAADrqe-U-WjyLS40oXI7wuEsUKnrKqgGNf_11CFBr6dttTEGGtg7qRxjHjDRlnYP7BOgvtjGItSYU3gf_kZzNx52LtX2rMmeQnePG-2DTjG9F9ElkH9DPW0uNLKhebN3APe9upULePnAJzYF23cMBKotqxQ0nEOH9jF1ojQlHHF-U9pmIoqnmb75_vhipUe0AgiWfQb1_WHJUKTfhZUAc8i6_pmRhhGYHC2nxNqjgY8z3MkXHbCbulOzATDKLZ4rEC7h855uNusB-jgPkdle8fYzUHOX0dl1F-U0FyFid32HEnTZZt0GO09Xeq8HMsKAii2-t_hpRDXK3TU18tg-9Nt8SEAZA7O1oWhv7l8Vu1T8QWI8aFI6VpnVUpOJ9_oO75fAApLKp4BVk",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.551896,
+                    "lng": 3.337038
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "9242171367a5215468f1f4e8ce2cc3d1f1d9e783",
+            "name": "Asabi Frozen Food",
+            "place_id": "ChIJ4xnyjwmOOxARZKKciD9FAQ4",
+            "reference": "CnRkAAAATdTyApHKmChMhvqdkBukELLOWo_w4Ezfs47pxPcxbJ4htguy54Ivdxhb1TSRPnYyeJ4Za5UP3_rGUxCZOUzeluaTRGx0xIr3aklnfhU_-VafOMtWmKR2otvvV4QzlyXwV_QF61s8mcGhv87pEz_F-BIQ3VrUYSybU_5pEwdjBxkuIxoUGjo-ngL1PYvtrndWHJdy6a1tTBM",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 24, Olateju Street, Mushin, Lagos, Nigeria., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.607673,
+                    "lng": 3.407559
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "1cf9b0ee071eb4346bf2a8e0ba3054dc4c7e4761",
+            "name": "Pidna Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAnVf0Vi31khe07NEd49-kHujV6XO12bEVw-B4yi9ubPB_5zdLes_6DBZhvy-gxdtrrjp_UFGWlsmuq-2ZzdcFBzpc0qBhV-VqNyF3Lsq2W_wC0kI-551N23TaSwe5vDVgoAJwtJn5AHweUTqBZuOZRRIQJ3FfFKTUEJO0nr_rmnB6WRoU8_KgjQizzU1cFzZ1IbK9L3HV4yQ",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJxUIyW9iSOxARmaefJ0L5_H4",
+            "reference": "CnRoAAAA4Xl8qmJyERyDW8OAkAESshhqq2rkV-RtCEO0V7iZjCh2Ew0uKfTHRJR1uvX2VEN4kq5fRpnQlzcPDFFpk-dLhw_VPAF_FNUs2RsaWuOyJiec7KBRS8D7NnR21YEgtB_SoAuWAEm-OOW0vI-qwq54zhIQMf7MoIP-A2KQzuCyaAoSTxoUzcC3ukXSLkJtplwxJvviqi-2msI",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "496, Ikorodu Road,, Ketu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.590428,
+                    "lng": 3.287364
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "ac7571d190b34770c0b5c3755f60bb8002b7344a",
+            "name": "Real Teddies Kennel",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJJRBgwEeQOxAREVaWMQlgu3E",
+            "reference": "CnRmAAAAF2nyVNuRWQDHIU3Y8TMyGFtOoLBPc6zcF6SlpTzjh5H7bRzWHaiIE7meJvu3E3oTFz4wz2zhCP0GX10CACaOhIoA1H6olS0lEZTP2BLMOwfogteSSNow0BFdf2HgLTUY8ftDIXANr3QKcu9zhQU-yxIQSan2apMNN6PmZze6DOS74RoUjLVJth-RKSvp3jjPfK-RrSm-Qog",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo, No. 23, Omoba - Jesu Close"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506352,
+                    "lng": 3.350197
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "9dd62b9367a95fa2cafa837e7ff09b6a5d6d0dc9",
+            "name": "Dogs.com",
+            "place_id": "ChIJA20M3jyMOxARG2vpci1mKu4",
+            "reference": "CmRcAAAABnQH5_MzKBaumcK-miuk1CUxR5BPzi91FNZhH3z32q5T2iShB3D4CXjH75KB6Pip6fj6Wao8SKZA_0x7YeAAaANA7TH7PBuRNH4yO_NXKf0wKzu-0l8yiI3SNWkH8VE3EhDzkH66s667Ik3otoV12VlaGhSV5HSRWe1j3n-wamooHJbQz7gbRQ",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 14, Off Nathan Street, Ojuelegba, Olufemi Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503818,
+                    "lng": 3.366986
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/aquarium-71.png",
+            "id": "114095f6508f6729a7ae1fbb39bdc37639f102ca",
+            "name": "aquarium shop, lagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 528,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAElfTlMTfvSMXpEcKC8HJc1P5I5aQFvxNfm-A8vjwmBpMLyUICbj__H2zCAT9nagPTJFDT6G4sO0zYFT2s47EGE58UgNSdvd8q64aJSku0eIBbLmBiyThjlIgvi6AHV3sadbWmUorHgoCwyyiWMfyFW5U0PjWwGpYiG2MCXYT2r7GNfI2fM5hg8cXuKdHwVsHhIQk4vhE6cB-urq-Tcu-gHxpRoUri6xJNWHi3PyBerm18s74XK9KXM",
+                    "width": 529
+                }
+            ],
+            "place_id": "ChIJh6_1hUKMOxARKoeGJfS6rZQ",
+            "reference": "CnRoAAAAJHunSo0MZHPBK_b59OWUGGkeh8AQMo_oo6YNE0QquRWPtaf0MlfklvT49CGEQJ6lHCKNS8mrhRUHlHR4p2BS_xksqd2AmuNAYeaILBEerLQX-OMXrIfpePf17wWMMIaw8Ar-pV4PDR1mI3IktkVO-BIQ7lEjtJKsP4aTqf_urYWjFRoUR4Q0mSXHqnMieEaaol1Q85NaUWY",
+            "scope": "GOOGLE",
+            "types": [
+                "aquarium",
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Onitana Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.601795,
+                    "lng": 3.381249
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "7c08ff313feb2649fce88a27fa9a03a63b2a5cae",
+            "name": "Got Hook Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJPQtV-PiSOxAR6f_-4ZifaOA",
+            "reference": "CnRiAAAAzRwCwAApEwrZir3iw8Gv2TRi8x94H7zHXrJqY03MINZ2nS6kLZkmSyNG0hlmX4yscgdvWSq_h4f1oUnsTAmHyrxqoHjb1NcYIPL2k4loLJy8BhDwf3XhXzTxdJd1tdI4nCLk0GEIxHIGRDipNS60jBIQNVx5-Fh39ra7UlBdvwdMpBoUbZpF79d8NOiFmzeSh0k45JxsbvQ",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Ikosi Road, Ikosi, Ketu, 24 Aladelola St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.623998,
+                    "lng": 3.502904
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "a20189a28bc1e92cbfaf7cc1438a40df52d3b175",
+            "name": "Mummy Dammy Stores",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ-1bQMpzuOxARM_9vrbD7rF8",
+            "reference": "CnRlAAAA1KUFblsL4AoL9JCclmQBLtYgkLolLCjavFBSG3TvRUiwqngXB7-R7kpOCSn-K79UaNGWfceyAauYZAoncnsFVNC5DVilk3Od2xQD4ciEeRAtcwVjzcKNUdRHrpZCGQ4nUFyjt_-xSP-hB_Dduxh1hhIQ7NdEdzxOcQ8ly6A9lWhKrxoUKP0FqrRRPlKJiaUCRSRmLLgCofI",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Benson B/Stop, Ikorudu, 2 Adeyiga Street, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506242,
+                    "lng": 3.376666
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "214c5043a595318b6542e3be75301265b114a751",
+            "name": "Success Stores",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJNV6B_V6MOxAR_PrpsfsK_JA",
+            "reference": "CnRiAAAAuaDKPBXVGikJSVMMC47rkU68p-y2I0MiscXE4o-6Ufle8M89hk63aMgnHdR3eOBPXJUb4bqDimWvolFPiXr5VrfW2S9JjfdnK7IuCOaFwezYdrZVStcbNS3JyT0wc1eujEpeP8UKJV8zy2osXeE8EhIQV1wF7knvu8f3Z6gIsijDnRoUgecEm6g_YlPftVq0BLhXGpRHiEs",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Along Ozone Center, Yaba Market, 22 Commercial Ave"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.547708,
+                    "lng": 3.266474
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "42cec1137983bd96bb3b7e87fc119c120c03971f",
+            "name": "Mummy Fawaz Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJvYJD3fKPOxARmPrU39L4pBw",
+            "reference": "CnRnAAAA3vuOI5w5tLZbHXwa1RugnVI8DYw1yjJW5HukE-y54mTqPwJHhM4A41pAkWn7X5Qw3FbyQ-p8ZtC_u3naa8lPeHKMrzAxQyZgegY4FYUlUQHFoEZePYCPCKhvxIAoYmpCYoCm2oLwFjUCmXkp5hwgnxIQrRppzuzAoCkU3qjX0P1IYxoUTS0le9HDE9Y68kgR8ZfvPhGhpVY",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Opposite Fehintola Street, Ikotun Bus Stop, Ikotun, 1B Muri Oloshin Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.53138,
+                    "lng": 3.356048
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "98af4c1b7af2238f7c44d6d6fc406eda12ece506",
+            "name": "Geshinola Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJfZisDcmNOxARu_TdPBaxp8I",
+            "reference": "CnRjAAAArpC0O6R6E-ovYE2leZOTxiZXm9_eAzG58MJheifCQMjBIONUWHDqCiYM5CCvXrZDN91gCLHr2kiXZIrIxVlvhBQjicMJtpGpsGuKRq1eGxx-1VSxUJHJPSvLgpvvdYwh8GFQDzFeYXmTchbqn1XroxIQNGzt_sDLlr_gdiOx23tFwxoUsW7F6Ltpv31k7BcaSOJ4BfoDJgE",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "35 Post Office Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.601808,
+                    "lng": 3.381276
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "4091f7c75a03f950cffa292299cada80e4ef496e",
+            "name": "Mama B. Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJVRAC-fiSOxARIu5dIWfJLJU",
+            "reference": "CnRhAAAA2wEvMk45A3O9cgrKBdOxSWmFshgjCXPpOocWBzIMSquDzKdsCr_oNsB0aI70bOOorgm_qGlOGGQTrdFMwC8OMWn1-8f95nji9MZQ7ix5dUivqRLA5Uq5jLaTNLbtbYGn7b6THxO72BdMaKhi8zIg9xIQhuSLnbWE_4IX1RjsZHEqOhoUU7IO8oFffT2EDkQD1J1ZazsuJhc",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikosi, Ketu, Off Ikosi Road, 18 Aladelola St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600122,
+                    "lng": 3.383305
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "ee95b40132fbedf7cbef4e20acde898cd8bbeef6",
+            "name": "Yemisi Snacks And Pet Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJA-V_7PmSOxARmOcVD4zTW9k",
+            "reference": "CnRvAAAAz7iRLDexJU2ltYyogqKkylb8Wt3PcKdZrfq6NaLGxbfptq2Og9vPJMjlFvfPcIeT-f3L6Ugl6nszZ-BCeq52Lo7wiPgaIo_HD4gMZUf23-RMYX0EImaIKPtM3idT51poWnUfTxEh6-OrH4Cn_VgQmRIQfYHGRMnlENEn0r80COd-YRoUURdMk_ZcbJAh3yo-B9vsYI9fxY4",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ketu, 52 Ikosi Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.608166,
+                    "lng": 3.378488
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "9c9eacf2c269e336e2c5eed95ee3d786473ac203",
+            "name": "Just Drinks Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJRatfaFWSOxAR3uUxuMjpPLY",
+            "reference": "CnRoAAAAxKM7Hw8LxZA_OFw9u0A9tP-B25erTfu2E9OSR79-S2zWmp5gkKPLFF_6IXJgwkCWERYeKjAZ5puSWUjWVwqTuIgo6fbUDTmwMqrFUpYCizUtgbm3W8ZDj8WHKUbj67fr2ESRa9v-yw3qXgVRCgx74hIQNmUWXeIWHWhR9F3zs6P6zxoUvpUXj0UobDbSWoO1SrQa0hJJ6aw",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikosi - Ketu, 102 Aladelola St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.605652,
+                    "lng": 3.377108
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "715f82e6441b796d8c0f202bec7c93cde0e5313d",
+            "name": "Gods Glory Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJUQjZyVWSOxARj-TrnH28BD0",
+            "reference": "CnRmAAAAAN8v38eLQhPSdEWzv-TgUq7LSE_cnWPD_EcBd3_M80Cpkraf0SW56gvpAlTkSa-D-OXrnI2nyzNxuyh5b6Lm9MheusrYMfndsa55W2sf_lgDVVafbWkkmhjG9HUOkT3o5yQpgqdKQqTzBs_m41CD1xIQUlPia8Et2nXkQZSBpaKwKxoUZWNfg0uuKspoYCVfngeLv3aXRAA",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikosi, 22 Love All Steet"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.530929,
+                    "lng": 3.354118
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "280030277f6b7472cfbffffbdbb191f38382e06f",
+            "name": "Mrs Ogonigo Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJVWpuS8mNOxARdN5DW8zMWBk",
+            "reference": "CnRkAAAASBw9fBLfsReFZP8BvD_L3aS51eEJcCziJzasWcyi9ciwwsoYMb8Rnbro8ak9B6nxRATNz2d3Cc19fE-t1WEfgCwMweTSG8VVYwEqSEbFRBdIHzNUXknDr7wN-YonO0fV4nnjMoKvfQa8Wfo5P90WSBIQS5K-RWssk2Zy0RRaN_x_EhoUjzDGPzvLpekelniD1DS_yOpn1fg",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Post Office Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.528754,
+                    "lng": 3.359072
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "4432afabcf6a957101f8589376fe62cceac2b5c9",
+            "name": "God's Favour Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJndyM9bWNOxARxdtKXgHESuo",
+            "reference": "CnRmAAAA5lRzPXnhoK04sMWuSBEeEaZ6kbZpVypetwlPHcvHu_-zXMtuF0SrHhCXlwCKey6rrEdgVhI187N42JWlIAHEdYBPOvLUizbibXFZAulsKUh8HZFqnu92mMCxDC9EciBFRC60kp2FkZRxGGRhptBwkhIQ6rd24XgpGy1AoiLCbordnBoUVm0QyExAbdEsDz_W4dfqKDMoI-A",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 14, 12 Ogunmokun St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.586991,
+                    "lng": 3.356028
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "773b157b58b813c4500e10f7f0271eb9bc01e692",
+            "name": "The Fish Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ6f6u-xaSOxAR29kWj4Z5E4c",
+            "reference": "CnRhAAAAWA-n8vpdpPjq5uMrgBVZ7EIfo-mWLj7_HZvE4ubsjwACuErEe4Mf3HHbUCarpsUK0jHUN-7GYlnz6GuDrRMhitlgFEomnyXXnT5oLZrh2OkCBDPtd1C8O6GVMkTDonzRTyrfslzDGb9wFxAvGjZzFhIQVVFmq_0wNid1t5e-NYyKXBoUGxV1BQZmBXmwvUQes8lF6OKD9oU",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "GRA, 37 Joel Ogunnaike St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.587459,
+                    "lng": 3.380316
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "152521a9a50f14a87bd90c1660108ab731602ae6",
+            "name": "Yinka Phebial Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJx9r9uIqSOxARO9juhb_UGqU",
+            "reference": "CnRtAAAA71RMocVMoWlrS7ZXd2rb3OZ1VnGsYpzQX5wPKoKlvJ8ZdhaFpN2jubJnGWEWi3pyGFVPQqvNRpAvsh28u1qcNwbmVTj1fyiI9YJ5gJA_uIQKLcIsPb8DsJCYeJ891CNYpl8hN7B24dfkEzJM76N9fRIQnu4PcGt6ysWayt-QL-CqKhoU47MYGlekVzZbHBI-K8vmhtrH0D4",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ogudu, 1 Ogunleti Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600171,
+                    "lng": 3.383692
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "6a4dfe6736cc09731b06f9f59db3f57ee3a24ae6",
+            "name": "Mrs Shobukola Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJWcOS8vmSOxARv9UaAYY2jdM",
+            "reference": "CnRqAAAA-_9mRzl6Twtzh4FruxTdaDDOiAcBSHkUTBZhWXI0gX-WCwkVjxYmhrF-vy7MhYwpZukRArIVmEZ1jxqthJz6wU98nlEZ7nx3sHct7yIiiFNsJepKFA43PEN4EdrA4DIdt1pq3uVwCX5nfci939aK2hIQhRksvZ3Q8LGjAeYwuROR_RoU0aKm7vAl_ppcI2h5Km731zp7iAY",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ketu, 41 Ikosi Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.440764,
+                    "lng": 3.516218
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "f9ea562d3c9ea4a50d68d27fdd3540f4b4b39698",
+            "name": "Bamyek Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJVYJnMor2OxAR-89HiGL3sJc",
+            "reference": "CmRgAAAAELV0qOY0xa7u2sADtNnSmK-udqud2e0-dGL3zFvHcx2R1c0xrTdiSwBO9nj0gtOcxNXwUEwQcOx5Pd6noaMle7WM_-nPBbin0u2YbPm2UiwbAlBuzl4FY77m8Pf15vmTEhDERlTfSbhuCaRd5BJsLiXJGhQRor7pGElo-HsMfZbFPi1eVgOPtA",
+            "scope": "GOOGLE",
+            "types": [
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lekki, 7 Agungi Road"
+        }
+    ],
+    "status": "OK"
+}

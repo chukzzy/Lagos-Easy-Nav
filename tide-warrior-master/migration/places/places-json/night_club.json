@@ -1,0 +1,512 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAJZ2px_cuR2MWKCfuHxF4DJF16xPxB6alLOPRxkSvTrrLNc58eV0VMC6Wa7CAbYVggc8p-q8oiTqtl7o84l0OnoEi6zUzy6G0SuX3PKCnt5yLEbOHRm9u3Uc3jEplfvfO_ox9HCrdID6oWMdw23HU0hiV2_Fpsvty4gEd69kUTRLbbc95fYk2l-A45tn9QsxgrKGmJGyGu8fg9THzDAkQnjgBK5rVH1Jp5Vz4zAAtUagm1EKCUJigrOjYYT8m78wTLIDNam1ZLARbvmNWwvU9KgRyGz4bnqwUCMspPJ6QxeCoM_CY829nYzRKuB2fK9Aqo3BXd5LOrIb-EKrtOCSirMSENr3L1VlPeo0uDDourpSaUYaFFVd_AgI0hhNQtYlKdFBqf6xGeoH",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.426464,
+                    "lng": 3.414402
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f2c801fd6910e736f6fdb74d371d31d8e91baa8b",
+            "name": "PiccoloMondo Restaurant",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRpAAAATPnB-q4ZWMaWprfnHq6s_1BwR4GBfLDUb_NY3HJ7kZVKm0nvC5snuUdmJv3vfq8ktBmC19aTwwHLjkOi2xff_JmhsibkNoH-qnO6aa5M-LWng5d_D0uYQwzcRHj6xZatnP-4QAdvDEB6JNduNdqjjRIQG-F9yycpcHcuWX_eEg6D7BoUXt3ukh_sQn94pqGMiqpUEsY2ViE",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJNRmWd86KOxARxFDK-6EltPI",
+            "reference": "CnRrAAAAhTiUZ_2gUPkrWRMbG6vEQeQBJwp2a8B1QIOzvapD51yE4wJeeNaxvpvVcWX6ba0u3uDzBWf7qMTlZiU7NiGy4gnwXkgJJh09DXkQahOHZAE-pdR7w84tkULBlQi-1TGYxqdwZBGnKoD0XX5-mOFSpRIQYVPcrii_b170SGGnsOn3LBoU_dpFT-p4gnEPO8YFTDcUMFBgA_o",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "night_club",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Idejo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442864,
+                    "lng": 3.410804
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "a4f6245c5840a6a9767bb1e477a178f0ea7c20f3",
+            "name": "Ember Creek",
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRrAAAAdkzb60XQRL8EHPNt4QjgJBxtFlId97dazwL42scFC_XyN8zKkVbuur0rIsmX4FGEYKPMTKP6SU4HZoa06-JFi0MPxdxt6OjGl0WVXsA1rIwNdCkwbbIl4Yt0WoMPa4tpEYOIlzuUdV3n5n2b9tkrQBIQu-xrlKEzI6RQaUaRYpZYSBoUNODzaMI4KEY3LDvI6Py71X_VP60",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJH2Tn6iiLOxARRSyXC681orU",
+            "rating": 4.1,
+            "reference": "CmRfAAAAxJWFJ6g9Ip6TLhD3JY7aWudqpnIspJw9XYgY3J0HSVjR3TvDPluAuj0HDyX7gagU5k-M0C_5ZWUD3NfVKw4g3Awg4ypntvdtU7OGB2nEwaoTeNI3trct_9ZAb9aQM9i-EhBslW6yTn-Hfxfccb3mnhZQGhTW8OLNPiGBMMaD5es4D67nc8_qqQ",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "32 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447482,
+                    "lng": 3.361722
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "00ee5ae03f9b0b6d829bd849e3a12b9e8ff0946b",
+            "name": "Apapa Club",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAo7QUGr2bHOCsE7x3RpLIWJC4U7BFQtgLcN98a7KYyuWF5faA6Okc6GSK6rgPFQwODZb7ACp1aJCp2LwTxZhI0ZKCFM-5N9y8-bF-5sg3ntMBe_uFmQdUGi_HwInlYrt12FfctT4ew4axChmLhD194BIQZA5TOP8gpUq9n80gi6oNxBoU6RdSlbd-eRDmV6Wd1N1f2O1-bYc",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJQbV_HbeLOxARXrUweFT4VwM",
+            "rating": 4.1,
+            "reference": "CmRdAAAAxEJU8vkkSqv_UU6FoS5AhFyRa2Qz16SS_m33fQ5btDCV176QSRJiCRowx7XdqqayHPXrsg9trW-VYUeYdQ5B9jDZlsv7KKNHahXIJxyoG4Zu33KVV55PPUNJchI39aWsEhDD7PU3UiuQyXDM3ubXGwHGGhQyccaLxokUxrCs90kODReHxRp_Sw",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Park Lane, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442581,
+                    "lng": 3.34022
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "4327cecf365cf175c25fa4c7834a0e9f79117b67",
+            "name": "Lagos Island Club",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAADvV8QsUZYNkxhHnvPJGWYl0fgR8aCFrAl4INqx7mqEHOTDDAXCcInVNq9CN6irmIa-G9qiz4ix8w9OLit5uQMtLUszvyy6dqwoNMxjWHwbxjOccGXghPPHkV1yl6f2eehP00jq2bOzMhC5k_izUChIQYaZb6Uaj-G6AFWJojnRzzxoUOVDdaPU5dWKK5fsJ97LF6vN5tL4",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJa2AaotWLOxARRFgm5Z1AxHM",
+            "reference": "CnRkAAAArput02zg-zKFokUgTWA7wG4IJR_dZVW03u4zzB2EUqRYY5R3Netq1B-ss_ZRhPeAl4SkwW7A33AYdyvEBO_-D3uqa89jkObaDwvl0wxHSUM9VA4mc8s6o7I7lw8qDOF805MoTLcUL3D_cmt6_guHyxIQrnyOk0aACSI_PlLtIElsHhoU6Eyx2dJL1SgKi5f2-jnMGYSjsuA",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Ajasa"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.42975,
+                    "lng": 3.409613
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "8a9c8f54993cdbc901cefcbf3af4003781cc3a24",
+            "name": "Nirvana Lounge",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1211,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAANshHg-LoEsu_lei4xmwStZ-7aCA_yju3VEAwWkBW5xBHBg4nsEdK93c7FFurRznj5_BjJiBIfkX8d4f8QpvH9UDCbCg02sIEqZza2mLe7JMKFG4ZDccNuqwxPlmTNV2QrlxZGpROykoRn4tLzSWXeYF6bCepbTGahgSmSWO8rGSEhDX7RG-kKm-Oze7eJYdQvdKGhR_cDyNeDLKhRMmyeQFWAKc7ZR7wA",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJyVwoddCKOxARO13po1N5FYI",
+            "reference": "CnRiAAAAUgUiZUufzg9yedZvtcHHkvg1tIwOBZIjuCdvraew8sIGzZZbT2GdWut9ZRlF_NJoJ20v4lLiBBGkj_jC_oUgPptBDmZ__ZTtdk3Imi21rPOJ4svnqsr_gDyHZytdo1KG4tO4myUVfxU3cxrmVbvCYBIQzovPJO0_NLAkCgYe2vwEoRoU6ejiUGFZJor1lcp_vIu9UZsO0go",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, 2-4 Adeola Odeku Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431919,
+                    "lng": 3.413025
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "c0b5e2345b038a27caa52666396ed440b1272cf2",
+            "name": "Caliente",
+            "photos": [
+                {
+                    "height": 456,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRmAAAAe49frE2jXQn5tux4fLEfytzxQfYkWSctpx4K6-M2W73pFTr_dhwc8Y6hWX6LwA0UgBHrux94fVmyZM4AgZX3YuqGIjkB-8I4_udjWX4YdXDcDeYEM6fTSo3taTwuJ0iBnFRTUP4Q4gzf6w7up5RdcxIQsYeO2dl_4o9M-g1JhEENihoUQPM8dK0RdqAJHrfYJTkxV67lh1k",
+                    "width": 684
+                }
+            ],
+            "place_id": "ChIJy8uwE9GKOxARvV6IPlOStD0",
+            "reference": "CmRbAAAAnRg-7YTfij5x35Cmq4JOA7TDPmo4LCzzrpj7lrXqtLydXX8XLpSpPC436-2tLz6lgKc2j_bhReQxSkfxoyR3e4vM1VBuJwIT9-G7bkaBfmfY-VwqogZWGZ2b8eiR65RWEhDh_0OU-HnOe2YZSiVr6OQVGhTaCaEqlgVj6MKjfg6gS8CfsKcSTw",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Goriola Street, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44314,
+                    "lng": 3.409336
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "0600857087afdf9996fb10858c29b941c43a8737",
+            "name": "Boat Club Lagos",
+            "place_id": "ChIJh5yvHyaLOxARCU1leV_0N9w",
+            "reference": "CnRjAAAAQGUJuTkLgJwbIB_QT-P4fG_s9ZruQB2-VWcNF-Sw5mWIEiT9sQvkHfJ-BjrrUJ5m3FQn0kndzbegvtFpVOkCfPADfx3b6UiYLXxaKvCE3j8h4vMJPdVByVf6mYNlKnojD3HNp3kBFg94TUF5VqaH1RIQnEgKJhigdUzmtExBU-uHLhoUzLJKMpfOndphDaus81wcpsxovws",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Obalende"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.498533,
+                    "lng": 3.362584
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "8c1946af1b9bd8f99166e674bdaddca50b8df74e",
+            "name": "Ojez Night Club",
+            "place_id": "ChIJN6IKkmuMOxARmxRCwwO4YKQ",
+            "reference": "CnRjAAAA9Jh-JfC1irn3NN9Y-afQbD8huRARy4kYa3E8ELdbhuTfxGeOJd25BhjigKXThg998hFiUvajIf_tqZC2mc3F1YUtCghafLzNxE5EN5AHz76XutuqpR5I7NhR04FOWNyAsGnqYsbqIZe2L399alRoLhIQw1OeIh6Bn-rU_xfpdzEKPhoUkogjHzwT7cediEjKdKBkgnyjlUc",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.592001,
+                    "lng": 3.364793
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "0b47da84b07f73b3f2e772e4158b256d2c25b7ae",
+            "name": "Nite Shift Coliseum",
+            "place_id": "ChIJrfZWw0OSOxARPhO6CwQCU4E",
+            "reference": "CnRnAAAA31tfm_GL_XBtE3s_H6mZkGLZrhenNw2slaXNh78IkXa1X9VLInHaoboa4Y1EBLdRN5xKevgwgdXgfwtfCS1sgMjpID9NHb__TV3oVtyFOlq7d5uH-PtFpK6vXSf8RAvkgd8ABELM2rqzxEFNdcAM2hIQ8SmlNRZBE8Y6ULAD270hPxoUn66Tr0bVMufJ3MkQumIDVeQMN5E",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446764,
+                    "lng": 3.399872
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "5fbd00acb2a667941c624aedae2d739edeec848f",
+            "name": "Club Arcade Of Nigeria",
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRvAAAA4ljkXTlHq70vsKiIxP4Nx8aMl0I6w_KZ6-RPk_r7Sy8xgqOfVGaAlTog4XXHtubQPqUOL9uBGatyHvwOmpriaZ4yHy0vFYYvlHOjE4DAt0wbz-76XCyUqXfMXMABU0ITd4U9iXuScZivQZ7lHj5hjBIQfWGsfbOIO_YgPmwM82mtXhoUYKMFbPF5EHtT-vq1smqgvMQqQwA",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJ2R_5YSCLOxARF4bfcfek1Ek",
+            "reference": "CnRpAAAA9HpA15Hty4I0KLHrOkYQeq-LHrRbjOZW6aG40EKcRmbTHhckOOpWou5MhmWZ5w57hl6CfRJEJKrBkiKjLHHRjhRBQimmR6IYoimjJzlTBWPo1xLEn7tBEw8AEjwqPHLRm4rh3UrmTdiqqIuxmPUZmxIQE0L19YDa3jDjtCp9Tn2npBoUP66D61wF5aYz5v4jBihpTLLcXF4",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Tafawa Balewa Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433193,
+                    "lng": 3.427217
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "8bbf6ec5f3fdd52d1ac6da8f137ee730af2c5a31",
+            "name": "Movida",
+            "place_id": "ChIJS4BLKC_1OxARnxLsTD9k9d0",
+            "reference": "CmRaAAAAabcC81sjWi-FolF7NBP4B3cKD6NM_6Zw3ZFDFLyDsYLXOThRi3M034C--vlArRkX_3yJcIY2SAEaceLExP2pRc6OQ3GXLWFGoAfp5Cwy4OfiSQ2O_aUu6xH1zjNMHbd7EhCID5FE9OBjdRBoKu6pi9SEGhSnfy8q3fyBv7XaBAZphu0aloTgwQ",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Idowu Taylor Street, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.58014,
+                    "lng": 3.358548
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "3c6b80eb195582150e830515f68b365e381e8873",
+            "name": "Metro Park",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ48pqK22SOxARCWA56mYGiBk",
+            "reference": "CmRdAAAA-zKhQd3QX8ySJc-HoBdz7NyXugQWEfvdjQ6J0sllEwzjUBvVzWPII7RC6StldLl0ZBtilF1qEx0vdISKeWHqpMA1Ihfo2hX4Xa31wUgzTwRX5o8PBtYQb4oARpmmM3DkEhAAKCGX3_y04J1CCnQ5-gWiGhSfjLOK64vtJ5XC5z5MTtcxWclUJA",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "GRA Ikeja, 31 Isaac John St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.564209,
+                    "lng": 3.274746
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "c5854cfdacd918a3c8455e35a32e6b8f3a3a40de",
+            "name": "Lagos Idimu Leo Club",
+            "place_id": "ChIJ31zXEuGPOxAR8a9VcF6QHcA",
+            "reference": "CnRoAAAAISE9IFzrstg2RvHP-XagD_YlBCv6YE4le0E4N6n8WY06NgWfeO5tTOg1VUK7iJlFcNO5pU0FUkGZdWEZlNXaxvzQGZDMlgX-60cb_O4h3luTBFLrUNGBiiTy9annS3omFM2kpTFyO7i4S9GEkAPzfxIQa1cHrIEgdmSqGrEK-z-7RxoUpYaUgqzz7DIuDSO-FAjHQ2w-kJQ",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Alake Bus Stop, 179/ 181 Ikotun - Idimu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.425697,
+                    "lng": 3.428745
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "4a995f5f2715bda853d58976ab673274c0e549bb",
+            "name": "Tribeca Club",
+            "place_id": "ChIJ1Z25zSf1OxARiWWrbF8wDDc",
+            "reference": "CmRfAAAAEWGwvDrR7XCeqvwxFMBMEpxlk7aBvYcntQFz9n0ezVCNqWbWj4bjNdc2MT-nndi7U4miKu-gFO5XMav7rQivxR5JJmI9RPEu5CQ6g2BCDNhfeaZh-Jmt909uke0-QE1-EhBZyqQ26_f7coji_Qq9TqwTGhSn9-43H4c7vQFImgnFH2Vci_BbUQ",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "62 Adetokunbo Ademola Street, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435693,
+                    "lng": 3.493203
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "7765e94aaa1ce3ab9be1c6e1bba3a03e4f972949",
+            "name": "Xovar Lounge",
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRmAAAAcA0AW_uIgNm7xgnu9m46EMwtgsCyocCHZQPm5GLzTLKAmY52TR2wGqse_8IvlBVxsudJ0n__Y7qXuUQjLNc5ToH-bOG1phoHWk56Br7kQ3nBUIdcFZrXW9CeFGwrre8VYQYmPo1zE3rhlPNenSx3KxIQjVJ8Vm6mYaXjwo_aR7y2TBoUxmcxsdvHtO-y3kcmP_RCGTJ-cAM",
+                    "width": 400
+                }
+            ],
+            "place_id": "ChIJY_CyqdP1OxARXcfVvBVVFs8",
+            "reference": "CmRgAAAANN_HiWeVtByycDjXp2iYL0KfXkX6ewwekfWrIjoowxbHueZAQnEB-hEG6ZKL9U-aawIEQMDkxfxijHv_tic7kxhk8nptt5bftxn6ldMiMUhqvAhGeks9_-ZBZsYBaimkEhDflsJGX3dynWmR-Jcp4Na4GhTCDgB7LHQVR1_GXAVf5mwKPsekPg",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "establishment"
+            ],
+            "vicinity": "Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.512498,
+                    "lng": 3.347742
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "b6b81799e74dc09fbb0fd0aae281530c5858bd48",
+            "name": "D'Yard Entertainment",
+            "place_id": "ChIJ8dOlaiWMOxARqD6J8F9fOco",
+            "reference": "CnRoAAAAiMbEUEf3zBfv6lmnMrTYUTikwjDMFk8nI5A6FhGTwewUc_xiCb0Dyuxvgo3wz-0j1jd53Yx5GmGH_M5I_R9K9Zchd2VYjW6FCpXNYYMqbghZ5i_WV2SsBfEul-wZV6lr01Il8ByYhpY1LSYv3U8oSBIQJLTqIFicjfb4_Omm-8YLIRoUQQHs0v-EEg-FUImdB75GjfluEVc",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Lawanson Itire Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.426926,
+                    "lng": 3.421114
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b680d98bf1d9c483f9a558b08f07dffc6931f6f0",
+            "name": "Unusual Cuisine",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 348,
+                    "html_attributions": [],
+                    "photo_reference": "CnRrAAAAdv9nW6hOw0FBx8WL1jl8FwNnHHqvjDzmwjGmqdOCKRQyDH2rV-ANOyBn1THud-dKMlTS0RN6sa0VimrldBu5ztM0Ghvr4lrqaJKYpD9yJWht6BZegCm1rob05TqZEE63MjPW8EGVLavoNqFQ7Bi5RhIQfxHoPx1C892z98r5PpM7wBoUVundfWtri1IbGRCGAG_9FT4Wpn4",
+                    "width": 348
+                }
+            ],
+            "place_id": "ChIJn5N86zL1OxARCQYur-iExFA",
+            "reference": "CnRiAAAA2hMpKyEvO0o8dxV5Pjh7I4p92CGol1NFuokzEbTLe5VlczQxQLvlrQtvVdLS5SJajSAkLw-Vp3l9L2W6aOirl-dZqVkRJ5qd1ngJLxWz8QxscrILsDVtaD3Ys3QzQQZs44wFcFhEbSSIlOChAV_s4xIQQ-BHtLAXY8LlDpmoqdcONhoU_E_zM7Pc7lhqVznxwXbIhnJp-O4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "night_club",
+                "bar",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "46 Saka Tinubu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595802,
+                    "lng": 3.338504
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "00fb627a2fc2205860624b65dddb9024b867bfbf",
+            "name": "Ikeja Club",
+            "place_id": "ChIJyTAk2omROxAR9fHsY9cIdIw",
+            "reference": "CmReAAAAtkE1V9bfU9_WjnYGPQirD1m0pc-lVH8lEeERvszHQdhzb3vwrHkgsB60WTELalLOZCNhnRHBIyyGicmUF1tMfzblnCDBg-TsDk-OToQp1PbkdPcobDxdQCEwlwVJ2mRpEhCERWot6M9Vy6FwPF-1U3QlGhQGzSFtF6BxMecxRoGeSs9yN5TR4g",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "Simbiat Abiola Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.468922,
+                    "lng": 3.339583
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "01d759cb3e75c574ef8300a450cc36bda73bdbc2",
+            "name": "Comedian Business",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJFRpiiOKLOxARM_Mrmjm47sY",
+            "reference": "CnRlAAAA727Caf-jO7iTAVBBK5_0kKc0kalE_fRuXyzLyN-JzRiw_LaXi-fROkwVV1ET_n5DIG8HRytgoxXGlqmkSMDaXBriuHtlWfbaU_MhOeNKybYVuOXZ5N0AsmNxRbrbwCUbFgzlVGWAYabLlTTc8rerkBIQdaR_SA3aUOP6Oa7gJ0WDqBoU_xQM0Fk2XOwT55WgEjeVCxNPCrY",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "establishment"
+            ],
+            "vicinity": "No. 14, Amukoko, Alafia Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.425988,
+                    "lng": 3.424963
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "253380a771ffba0236f6f7f436c496b1a15fd1ab",
+            "name": "Prive Restaurant and Lounge",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "place_id": "ChIJL-ucnDH1OxARYCOK438RKto",
+            "reference": "CnRvAAAADlAv2BsOUlgWkfWFj9f-wO4f_zh-Hp0biwFugIHkD2GSR8eP27GgHi_Qr_01Xdg2lGLNhh3JtYkRLlWmfG4za5eHv6con5TWcdD06vV1_h5RZ7XBzczDnpbOixmy3KuGJ7VZvRFxRBhbOgfueRNjgRIQ2CPKzRCtygUvh_g2vWs2khoUrGF_sn80lsmr4fLy3-4vhLbQedY",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Akin Adesola Street, Lekki"
+        }
+    ],
+    "status": "OK"
+}

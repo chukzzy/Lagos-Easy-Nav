@@ -1,0 +1,455 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAJzoSLThj9UdocF6yDl_Ymw11P36zdPFPsmhb5Rh-9HVlHRJHOB3jUg8m6G8M3ZeknvDCtFzvS0jH6VKVQiJM8YeBLglcATAulWrsQcbQglAnM1RVccxN4VK-DpK8MRNcV6mPs9hb-4oOKbUN604HlNHo54ToIwMLNuxNOiMhSmQuU8uZXF0NsU5tHJwjfG8vjocp0Jhq-vZPTu-vZyDLgr_BQK357xbXaGRG9Z5Mr_6WeXjAHT6N02K-ziy237rYWaQhVE_GUHhm9fxfAhM5lryt8CtK8Agf5onCLp1bVg11HMZaL-UaldZqi_jRDFFY2b3cOPkqlblDD0uVHcOhwwSEDJcuyMo_hOujiMq-ddr1G0aFCt6Gz_Sm2tW4qmKpFS2r6w1fu6S",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503061,
+                    "lng": 3.376452
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d758a32e44b00f71e7bd8e06ab65f6636dba4f47",
+            "name": "Malizz World",
+            "place_id": "ChIJjVMQKl6MOxAR4LOBoDitF7Q",
+            "reference": "CmRgAAAA_HY3ReB6wVvvqGwtn7ytY7mwfuH5c7nwFejkcoid0WNCDXsr8HnJIueO8_67Y8YDf4IcpQjYzJVY6WXDmDVCxDpMdYc7OLCJJRyPG0k7s9ujMULP8aLLUxyUW6I1ywfyEhCYQu9JEyHy9RfmS0xQyh02GhRPh_pR-4cy0TnRMsiIL8-Ox2BPdA",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "Oyinlola, Ipaja, No. 5 Adams Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555554,
+                    "lng": 3.339039
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1f076351b73065cad114e4d76b52af1163e5e319",
+            "name": "Top Cleaners, Professional Dry Cleaning Services & Annabel Interiors",
+            "place_id": "ChIJLR7ZoOKNOxARQdpjjC5ECC0",
+            "reference": "CqQBmAAAAI1UAx8BDFxVF4fRF3-cZECEsCPgkmbB1oSQjJI-JxXaNit4aC-jWe7N_BB9olpWgElMoGljR5HKyrjx0TIOtF8mL0XSe8oF2wjZHrewkUCtnqU2JzjpmViHsCd3_dh9p1IAUkYrEg5YYPyoaVP5ujJ7lD-JtrFjlcK38RKeESvg5um76isSwr67BgFAXNrwSe8K-g7oI4dGwT3iKDXNSqkSEAxDzNyqUVXjL9sAlhEuyq4aFI4mqla8pfo_EvGUuazYWmAEXXtS",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "22, Nwachukwu Drive, Okota, Isolo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.54792,
+                    "lng": 3.376291
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "72fdb487ce94d74d51e14e0b50ebd2b38ef91e30",
+            "name": "Presklin Global Services Ltd, Dry Cleaning and Laundry",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJbzIABJ-NOxARztYNamolU4k",
+            "reference": "CpQBiwAAAEWRnu7nGwGH--GdrWd7ilN_5Q0b7GLmtoxvkFUy_P2nVgKPmrzPz-mVvAi0YuPbfE3KLAwIAIZEjAfrHBuM66Y36yYKqTdENn3smB8fo-AN6uyGoNq-xf7T1Ll5o7ABsNHIXZ2xPNENDG8YuBVnP6MwXKzFyHmkM19XzEgJO7jgYcywPGTeCAnv4i_6xxbSjxIQnN4f5XCSL89bF-kqiXiAIBoU5Ke-HiViooqKU-UPKeBdAht4A0A",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 47, Oguntona Crescent, Gbagada Estate, Phase 1, Oguntonna Cresent, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.511292,
+                    "lng": 3.314381
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bcce5ae31c49c58db60cb772c31d82e5d1e592c2",
+            "name": "Top Cleaners,Professional Dry Cleaning Services& Annabel Interiors",
+            "place_id": "ChIJWzJlMuyOOxAR7Kl-oYFGUFw",
+            "reference": "CqQBlgAAABN5SAftHW65rL5ZAqScbD3VeH6UJlTlDxz6RZIed1YCshc0knF84BsE-aj9o_cjwdNQt3BXwOkbob7oFMPcJtsPNXx96Djt8Ladx4KOwWrZ9Xx0relIVQ-4oK1dYBSQEtmv_d3Yqwl7Vzpbt-3ZA7Hud-gylQ0QP43220632oYnWouAQpO-K2vFEX47ucH2Uq2x-9H-5kiRhYijvTfQygsSEJsVJUPQSt4VIhQq024wTtMaFE-RcqePlrGrnKOuN2hkVGnrTsEh",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "22, Nwachukwu Drive, okota.Isolo,Lagos,Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.564561,
+                    "lng": 3.340474
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "352247e09dc9cd009b46d8e3d1d87bd29b480d63",
+            "name": "D - Vyne Laundry And Dry Cleaning Service",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA53RLS1yEsOyfAcClTwByRTGsz1nxcrvNxGW7rzxae2dYb_i9bEmsjmY5DmiXhtyyP9LumtGjB2BCV5RRzJ28IOcUVrJmsPHTCWoDWv-QJsQpKmiFk-Tqvqm_c7Np48zLZMmVfSfNMX1Xg07iQj0_hRIQKUu6SgbPSZH7pCiCBtRIhhoUpXw83EBjfKLG9sfbEB7fRAETGhE",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJnTnp6v-NOxAR5nGiDmQ_oT4",
+            "reference": "CoQBfAAAADrvezRLhPad5_DAnH0tnpaZqHCVgDxYuIc1SLaD36D0opXlweZsvv0Rx-reHfsla88TpafqANkhjPR8WPhGzS_GQyu8X8NuuiVXz0qlPXm_xZK5GCQcS0HGgNVmV6FCl5NFZHh7btXT9WlunoVAcbC9u7NVk8tlP1E2whMbFl_aEhAGz49DaSWhc-t1py5hBd6NGhRL4QznXBClDvUARtu_pED_dHxpZQ",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 2, Adegboro Street, Mafoloku, Oshodi, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.567811,
+                    "lng": 3.279463
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a5de4cdd1c2495e5a9c55e300593b102acafa70a",
+            "name": "Washnet Professional Drycleaning And Laundry Services",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJFaVmbtaPOxARVOQ0waZr3Kg",
+            "reference": "CpQBigAAAOh43ppf1LmD8Hh3SnVdIIxIZhHh_roAkyCnv9zlN6fIPVARPOepXbiN-eJJItFrzT3t6ds3Br9DPdtwk_Q1bwgatgmQb-oVF50J59beSRhp1XKQFgIHTEZx-cluYB-y1MSOgoQdmkGU3BBY2DTqDmis_sq3xOoiFXl3x5Eg0a8hGJa9yduGtNw98eoVLp8CzRIQJku7XVr9ffYdviNlUboY7hoUChbTghN-1S0WLW1tjIr2kWOikIA",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "Suite No. 13 & 14, Glory Plaza, Ikotun - Idimu Road, Council Bus Stop, Ikotun,Nigeria, 229"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.504525,
+                    "lng": 3.355906
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c3fc9337577f0105311ddb6c2f9a27af04dc96bc",
+            "name": "Spincity Dry Cleaners & Launderers",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJV65HOD6MOxARxV5JjEVeSuY",
+            "reference": "CoQBdgAAAAduAhhqvcPMMGTQkEbgDYqCx6zW-RRAmJChMcDHWPBqpibr_Y1_v7rdQJsd1wM0vZKwjHquG4b5_me07GO1XVKBEyQNpq7fO8_n5Ykdq6XSqBYsM4yzKu7CgQQZhyXOJ4sXok1tbx3LOTL32KZu-LZwxsqsAqWAVMnH13HQq92pEhBrt3gFKT7mxrzkqwWbf7IwGhQy1DQgsD138RtX6iaJqFLCmuu-bA",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 48, Akerele Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447506,
+                    "lng": 3.473407
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ea4ee23f2e700e090adce021f0b936ec289f2cbd",
+            "name": "Discount Drycleaners Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJz_9rEU_0OxAR8dszRggN9uI",
+            "reference": "CnRsAAAAyf57h3cxayCF1O7x4ZB-PDGf7foybOV8-SnVWffrKP0igbxlw4UNw5ETsbhxPjYMzIiq-kLhuGSifq4srgfZRFQwOF3rl4KPCBvIFv_Sl65cSXrLIBsWzvL5pszXLzyS5AVq_OzRm8ayHgy1v8yYmxIQxb8Cu9EThox8ndFz5JySBhoUHUyWybCfw1Kav3JY4eQ1yGR7c9E",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 28 B, Phase No. 1, Admiralty Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.453018,
+                    "lng": 3.385098
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "18cd7c037cdc3179e071b9360d4acd7174b4c082",
+            "name": "CleanAce Drycleaners",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJB-wN2w6LOxARK5PJolLxRTw",
+            "reference": "CnRnAAAAspURxNWIuc1kwLAQeaRzkJ0iaQtvLlesvRKNUEoCooqB3n4B4tPjpPhyNdss4B6T-bI6YRhY4UMV_pqyk0hQ4Xttu5qAssz1K3bG0hX0wJpAIuLtJsaWzvrAvYIqCWZKZpJRFmrydgTm7xrWYEghUhIQogS0bOHaThmA-Vx8WYh1yhoUTiIEPWoZiOVTEI3omo8SE1FT7BM",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "Oando Filling Station Marina Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506116,
+                    "lng": 3.3635
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "11eb1fe4eaa52ce25a8b2f3abd9259cfc39b99b8",
+            "name": "Stanley Crux Fashion Design",
+            "place_id": "ChIJj0Jqd0GMOxAR_c-n5sb27ns",
+            "reference": "CnRuAAAA1_yuG7MHVaCGCWxusE4TMolKbUlQAIMTzeBRIZWN_HX3_K2aDzwJaEFnCktAKieyDbWEFvKFMZKEAK5tJ8d71Eo-TwRpS31qr1EAmTsn0FkLE3qLbFDegqVYWK4p-xoArnBC7YltN80DiikmxcCB4RIQ9DHRONcw_BmNwauxIdHNQRoUFF3VOQnODKjs7saDwUyrVsFORkk",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "Ojuelegba, 55 Funsho Williams Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.573918,
+                    "lng": 3.368288
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "159bc0d578acea35e5e89316f3d734aa40f35ead",
+            "name": "Cleanace Drycleaners & Launderers",
+            "place_id": "ChIJ33_4lnCSOxAR9ECD8sSzXkA",
+            "reference": "CoQBdAAAAJKWgCOPkFzR0tQv9uiTglCAmsRwigWJDze0fULKz-u3tyTlsTaaFJoUaCi__bGJxjxJjwwiqqkqjX5d6UqHj_5CW55idfQ50epM7qiZz7MgnuEbja892IwEGE4VAyA0eJw9uXnkPi9vLBVN1UJuAlwveLIe2Kp6tX3AXaK1kzFiEhBLkznHs_CDQMfVnnK2VyNTGhQPMxkRS_Hv1zeZUb16tAGKnxUJ-w",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "5 Ikorodu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.492185,
+                    "lng": 3.346023
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1f384f0933a8eee312f640d6a19c4da76450b0da",
+            "name": "Green Box Laundry & Dry Cleaners",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJec3b2QSMOxARJzuMy8dVVUQ",
+            "reference": "CoQBcwAAAOO3VDrCBVRcyKKgsBhOeeuwj89joNLvqGiL8lJWKoB2U0e3gMD2bwicMd2rmBdFf5t82IXdK00aKHu78dtx9UX5-IV1tIVbUxkwlSF2REYCeGNz3lX0xV3NDLdw5zQfTh_xgXT3LUT8qWOXgsfjBeKWzi4rP8DAB0nI3imbE-NoEhB7NnfNAe4w2yI03EshfFflGhRuMbqE4a4-7f4qFqao3l9Zty3YkQ",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "Beside Bakery Bus Stop, 4 Adenuga Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600955,
+                    "lng": 3.36226
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "584c44e5b8146682e166ef566f836d96bbe553d5",
+            "name": "Fabric Staintreat",
+            "place_id": "ChIJDwpC7kiSOxARu2HdPoKMxrc",
+            "reference": "CnRlAAAArcfgcHk4O3MLPG8kaXYaAONrW754fHTLNxAnM5AWihrYDDX7UaBI-4K7FoaBAGULftfBtlVeMM7erb_qXwFQWBdf-wQR1TKbjBD68Q8mlYQuv_WSJgpm-gF8N0DQFj0hZt27OlI425QWDbn9RG34tRIQ7KNRaHzUnxpagWT0Mx5J8hoUBaOlHoLsxnlipMBHeb4Xl25_Nnc",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Lawal Lane, Oregun, Lawal Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.501467,
+                    "lng": 3.347813
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1b93fec721e22a04c13e2ca0d1a4fead35e4b217",
+            "name": "Kleanhouse Nigeria",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ81j2OBiMOxARklYzfctgHkg",
+            "reference": "CnRlAAAAMabX3E-uVIG0djj1ws6xkFW67wGlSMxf3LVO9mFZZopghTOPY72EEiSexgWo4j_IxVENiqnPHBQ-Gzo0Cx6yfx3Ig5uETNnCEw2SRYzorHvDepk0RlLhh6YFQUt1OV62BBCIALKWYHtraaNJTFa4jhIQRyIyoeORL5vIq3A169tStxoUiYVwOiRDVFzZYNKzEaervQ_oTUs",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 36, Adetola Road, Aguda"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.511991,
+                    "lng": 3.383481
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9b14eca8263cf1bbffbd4579832e85712b748547",
+            "name": "Keff Laundry",
+            "place_id": "ChIJ_bFFOveMOxAR87p-rTD305w",
+            "reference": "CmRgAAAAMPMXn_cg7Ul-4xsvVA0LOllxvicZj8S6l6_C7eaU8QGgqPB5Lx1qH0Z9wVm2eAZ642pCP2RjnLaA993tSIblN5S-B-rKNyQWPHgHPpwsu5wMguniNfUUEbsopBkv4x-VEhAkpIcSydQf_UPIgZrlM0NdGhSZJjoYn2wr8TK0xKmdHGe2R0vCvQ",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 1 A, Araromi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488717,
+                    "lng": 3.362582
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "79995c5b0e342aeea0c77cc75f6627e50ec1aa58",
+            "name": "CleanAce Drycleaners",
+            "place_id": "ChIJs7pGvnOMOxARJDWp16tT-F4",
+            "reference": "CnRnAAAA-nk_dt47Fvp-yukh4pd-5E38syQdvXhomosOXxaLpMkQeg9Q7TlcwEwcJuSvRtY3iyPHGw9NChtJP56r15I0ADXL-ROKuQCqNdp0lvUrXpVnipfKnFl-Cox2C0hCV8xgzlylWGJX2E2V_rXJmtLGNxIQPb5OEjMpHcIwYClUVk9-gxoUf7M9JB5wMMqjtrRzRDJP1vbEk_8",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "55 Bode Thomas Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.642599,
+                    "lng": 3.3484
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "76b07a32180ec7ddabbc7775a600d3cdf09a067b",
+            "name": "Spotless Cleaning Company",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ00ZBpfqTOxARSJCDIpijXII",
+            "reference": "CnRtAAAAnDdxMz0zIgS2iuPibrmxz0DlAFwPDWkeZGIC82GeyLdwmtt_tz-VSL1ZHvs4jzohcymVUygTaGumVHkfSNPZin_XTjH4KIr8Ird_ke8n9etuXfrY1921Nyz3GCrqtdA5sA1OIb-tRWxtVJhy1waOpxIQFFCr37R4bDSXURFGbLB78BoU9eOp7scILX-cAUBpuRQ4uWwDvQ8",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 14, Oyatogun Street, Aguda, Titun Ogba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.521712,
+                    "lng": 3.332684
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b557c35d48beb083b0d168016771335d7ba88057",
+            "name": "Solar'1 Cleaners Enterprise",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ0X9z3oaOOxARcI5m_s3Zdfw",
+            "reference": "CnRvAAAASuAE8NLNLONXAmc9PgArqw-xRJA_U3LJQHf44cthTzUyhPr8dhgJosQBYrn42ZHm6pUqY5g5BN9cN3yaquLVg3gF3PqAJcvrnM6x5sVVaMGYGMg1n-KmgWHI6RXYccINo0odMjwv8n6Pz87RrNpXhxIQtq9khyuTDEk-4w2Rz4vaXBoUsWypjmbPqcjVPo76TBba11SH2VE",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "Ilasamja, No. 17, Ifelodun Street, L. G. A, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.497784,
+                    "lng": 3.359856
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "1e9ac811691277caf1c1ed14e0f51b2f147fbda6",
+            "name": "Lakeem Suites",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRqAAAAutVChIuARPy1S6WcLadhdyCVVAXwJSYozc17tmTBBIZS3Ot2Tg8kP-b_78SkJwJqX90qQotldIwH4Az9C3YaFuSg_l7UoxmEV4FRgR1TXNchVWidp65ofJdhCNazB7bcIXHxOfdgaOKC-pQCdkrImRIQS2mRQ81o7IB_GmF4bTiKBhoUL8gbD-7PqAQprRekju9MuDcazps",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJrRUMp2yMOxAR_wvtXxv6UhM",
+            "reference": "CmRgAAAA5wuzihevE9g0Pqfh0Ri-s0-hd6r1RmOKU6IZvnoVPGLH1PxRBrHHQNBM7M0mZtXuFq-QFTKZHdV513q5zhyY5mX5rXPiaR1xis2rBisuV60Upefble3jrlGsAwD6uvFOEhDQq1imDJJ8DeQcfG_7XUU0GhTWAJXP-4EuY2WuzA0aMTZ05b6Ueg",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "bar",
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Adebola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555467,
+                    "lng": 3.334187
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b9aa8f3c63c8b63bf135585a8c7d9f1938e24634",
+            "name": "Symbols Drycleaner",
+            "place_id": "ChIJvfoQtAiOOxAR5PGOnziAgdQ",
+            "reference": "CnRmAAAAAblgwb5Moque54VyOgmf9zNRVFwULRaOG49HIpRI0ZK_laTfTrxfS2B-eGjQxBnjIK55QF6DAA__Pm2otYEB5n841bBTegM-XzcvmnFu2oYRuidvvAR8nFBQmSesaAHbdYKcCJY7EBQfjGx_RCn1qRIQh9fmVdE1jhH9ONBRfsjo2xoU3LGk5pGtVKSszzOIZjLHrhreJE4",
+            "scope": "GOOGLE",
+            "types": [
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "No. 4, Ileshomi Street, Mafuluku Road, Lagos"
+        }
+    ],
+    "status": "OK"
+}

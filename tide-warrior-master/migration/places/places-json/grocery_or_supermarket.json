@@ -1,0 +1,520 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCBAEAAEdclg0DZMpv83FX3sbAZGxgy1bGAphCgcjRGIOJraOC65dqYUriOcfkgrLCLekF8KUyyO9qzu9Az5DLq7jKN80qjaHuFIS-AdgpsBJ0sHI_66ebmIdUQ1_n97YCkHBLG52Mg1i4K94FyI6AyPERECJHlX4TNyKmV-giEmCfy6GwhxkzxNVpNVX9DlcMNv_4VvdXiK9vmzZ7taIW87n4jPbqcYk7dTEKKhyAzBvQ26-aj17SB3VEtK4GpBoniUeVGgPprXbZgWjqNw5B4RuBxokteVw0h5iOIvSPAmywPbXBsYquQvsSHmXN1tX9rOU3UA8PCVxQqZ-upvAgwkwP2-lT2l1IB23haeYlX3zGNsiVEhDb65qjFSSSteAz4oDa3yU2GhScKnTa8DpLNJqdagDXXHgx74EEEg",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43342,
+                    "lng": 3.463443
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "48fbea49a5ac5d2594e3f61931d389643bae716d",
+            "name": "Trifarms Supermarket",
+            "place_id": "ChIJgXRI36v1OxARZrLPsaZUT9U",
+            "reference": "CnRoAAAAtrwV1Gyejvm5gt8PM8p0hjY3Bp5LnLmKi0Bk8Q8u3K-NyAUlwqAw7r8GB0rh1wkoc7lWpgMPt14b1P5sNGpkw1xld5WzyFKoMEUbQCzmJiZFSBr0qFW4Ty5fF0qFsazyNE-tUm6yDkBFVjS-9BhRXxIQYFsXYhUKDkhTRs_4spC_wRoUat1D_PfLRss5nJ1vQtR4JQyUYNQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Furo Ezimora Street, Off Adewunmi Adebimpe Drive, Off Marwa Roundabout Lekki Phase - 1, 12, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.623009,
+                    "lng": 3.37813
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ad19a233e809088fcffff195d78b44cd3b840111",
+            "name": "Bonje Amazing Grace Supermarket",
+            "place_id": "ChIJOZKGdaeTOxART8PHVRZgo0Y",
+            "reference": "CoQBcgAAALme1My7v_ud3atRDReTK4RKDvu9OVas3v7-g_sheUPx5aLW-lgnMAiKvvebcSxC4RCVypX7mDcjHc6szO_UMgI5R5HM4O2tLZqIO47PGirPu-b77MPBj_BQDcaKIeNG2O_zmWWzmS5Td0wPPW3Z1xzbmHGMb6m4yH8LGc_RdbTKEhCGdVNMfmmOtVLUl0w_5OSsGhT8UfQYs33D7Vx3z5ZJeEmgXvrI4A",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "1st floor Encounter House, 1 PSSDC Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.58722,
+                    "lng": 3.39896
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d78141a0535a59fd7b5cd662f14b8bffa21df460",
+            "name": "Alapere market",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAwhVC4HMt9xb-9ybZQFDf3eMNMJKfmM_0CpqN8BosLhYzAC6pa3h6gZ4f8NOXSzkuecBrePMO1FoRtk5028XiaU-AqvXZLlEF2wsX0BWLIy4bZAR6rQ7so24bI6FWV7nVm-pVhuef48ZC2sbGRpOZ8xIQ3fYVtxLX32qmf728IhK74hoU7NfUU98OHJ6f7lSAAelnNNdj0wQ",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJeYeOW5WSOxARw6uZXEAShBU",
+            "reference": "CnRhAAAAaQMKZVZ2MQ5QtKa1O8gp08WkminDhR83UGVQ_iBYvBMMhBUv7m_eO5q8wca0RmDZlen0bBU63MXANydq8lQLJ8SsMF683SXQoK7NmIR2W7EhsYGkSq3GJYxSo-F2YRrnvslLB30v6jAEBkfxzqO6thIQy3BwjZSCv6dsJAC9CPnivxoU9yllritsjm2QHHzjlPkFMlR9kxU",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Alapere, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.570237,
+                    "lng": 3.289343
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "82c01c0c5aeffce7ca9991bc82564abb50c958a6",
+            "name": "Hammedal Supermarket",
+            "place_id": "ChIJmTF8YiiQOxAR953Cg80pC_o",
+            "reference": "CnRoAAAAV9vX723yBce3RGvt6f07XDfUQ-sY9Jw1UohyvKqSOkZWWOwy61q3r6Vh36P4fkiNNZL38OmjN9vD8bHauA-UkRtVedA6PDfROdJOghrOo5vIqkP3XgB9dEjyjz9RjGk9TnYaXft_7WjUG8oU58m-chIQcYwIUD2xFA4wa31ffivqphoUdrj_C_UA_P-il6CtBbl5gVzr8qY",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Idimu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.586096,
+                    "lng": 3.358641
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5f1aa5af135e6710611eb157baaea8b29d580ede",
+            "name": "Goodies Supermarket",
+            "place_id": "ChIJXQA3KRWSOxAR531buE12INs",
+            "reference": "CnRnAAAAtLGOLbSc5ZLu5r3UKO9pNPUCxFhNGK6hYr4F4BBpwaWKt58SoD8Lv2HouPbU7rJgaSXMtazOfW7NvYFX-l8jg46tq4y_NhzwGNFTZa1iCqUNmlGg3yBpD_QQP5DvT61d5frkOyeJh_tpVgquqzrzVhIQUFMaJOWdbkXjgn5cKogNXhoUHg8Ny39m5K3_1KJ2cYiSyWWHgPc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Etiebet's Building Maryland, Mobolaji Bank Anthony Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443282,
+                    "lng": 3.370804
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2fbe29a09efc8f4d18141629d7942ce070d33e3c",
+            "name": "Goodies",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA77Muv8arspsJIeL6V8CXccmtRQB9DtK8HKdoEEVcZ6usDGJPI2SG3Mo8chtJPMseCShO_deYH6WGPjvXZKwApgpojlbVUxPKS6RnsfCelISxgrmzY3yyRVuvlKl_5Z5ed7W6ljJw0GmBuN2dgaCKrxIQQFovkqyG1bBX3jESx074qRoUqStAFMEkhyAAYsh5GsOBtNjnokQ",
+                    "width": 918
+                }
+            ],
+            "place_id": "ChIJ6y9jx62LOxARazCe0WdM8P4",
+            "reference": "CmRbAAAAn6xdH3vRC3njpYKZeXGVpqfxAvg0iGkTkXINgTRRaVDQdn87a-ItdvfcZPn50psCtqgjo7yu70SgEb21ZN4nOajzxcwAYQMLb65mOJLjm0kNihAhMRM3jAJvvwqH7vV-EhDhxtD6oZNfZKHu0yffYvk_GhS_AYIEGPJCvdRIeIR5g8A2r142DQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Kofo Abayomi Cr, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595065,
+                    "lng": 3.356342
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6b0ade51742b2bce0270e7200a0a20cd83b5b952",
+            "name": "Osata Super Market",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAABVN9ztbykxr8E12I0OoR-Wnm3redJU0Y1lka5qXzDgKUjdDquH2sE76OCP774jUkr7ldv-fcPUikRFN5LZNC1z5GFP2Stha-eocLrAlm0h2xFYMyWdqPqFVQ4gncGlTpYoZM6nDVCpdBTUyWHwDXViivTpr0-YwMq9KgoPJmQ1qEhA96frJE7Xs6Dz4VzMC_-dcGhQvlTbn6kX1IMkcTezsmkakAYW97Q",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJtbzJITmSOxARlT--S3TC5cE",
+            "reference": "CnRmAAAAC5aySW57lTFH3sLxGMt3vJ9PAU9gJvypDvHL7I151ykk_NK0e84ZbW7Onpcl4Y25HKo4Lq9xJIK5KTIYuiOZICpjWiUXKI8yhZ594nH2h3rstdyeftbWcnQ6eVtcJ61NC64iwwzItYTfwTajrrWHYhIQOazLBmgPdfbevEbcjVOHJRoU8E7Aw_72gbvheHgghz4RcFTsWKM",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Opebi, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429782,
+                    "lng": 3.409581
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6279d8e7b86e4c6d272be8862ccb0573e3b21fd0",
+            "name": "Emjays Supermarket",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAKDY0lJKD_evs4mau2JHx72ArGKo-i9v-AJobs1ERC5LKFHHz_jK0g4d47y5COG1HbICeVA3N4U2cQJ72b-od522gPmh3Jpu7w93CZ9zwsBP8J-6Fq91Sfp2taFGzXQhw7F9ZHnpPCPshTGyi3tuhqb2f2mexFzSUS_p0Uq9azjmEhD9wbxb1O6tuCaSQnW6abV6GhRtaFOOW87O4yJ1RhxQy8-n9znigg",
+                    "width": 1208
+                }
+            ],
+            "place_id": "ChIJSbU8ddCKOxARNQOYA-5ZWm8",
+            "reference": "CnRlAAAAjxXOQojOGwP-g_N8WuBJaFJDOKs1ioKdp8FfSLhpK3A2S2N-y0FxTVHK27VB8fAnK1oFwR8nBF-U_9Xdb7YkweymRiENY9NH7HFMsMSisy-08i7MptPleQjze3VEU4cxFcB0NNBAI7RiY9GVPRvIyRIQCcStBVb-cv4ClsRvCkWtyxoUBl5CNjeQ_uYvwROh7HSOQ8whltE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, 2-4 Adeola Odeku Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.563585,
+                    "lng": 3.370128
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b6769c3c82d4fba23c1a6895b53719031d39a1d8",
+            "name": "Edichart supermarket and pharmacy",
+            "place_id": "ChIJqfecOYaNOxAR9C8ZQ2BT4rs",
+            "reference": "CoQBdQAAAAsSoC5hTovDmLE_-LGbIIG8DUWbNTPw9ExYWKfAPGYv0kx8S5QpsxVRU8G2T3wnwftchD8Tj_F-nIHwp44LsYqPwiYcKUNsf7_-UglbpLe07JQ6gHEhXzzIrLFx7sQUVANjElRZQADiT64IaiXQOulrBFR0HoEhjtShVZbVkTKPEhClEzbDZBs0dQ_lc99hDXhVGhQjuKutOsDIApqXwTBnXLF0IvkR-g",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Olorunlogbon Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448051,
+                    "lng": 3.471261
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c542071799d2d7d070ea284cc86ee32380aebf14",
+            "name": "Rennies",
+            "place_id": "ChIJvV_Q6k_0OxARlJLOVRx4J28",
+            "reference": "CmRaAAAAIPgWZl5Sf8UscPwE-pD9D2_T9mWpCM1dWeuJdczuSV9hRyHEwZoxhd8VlT-mpnm2hmLbZjsqKOrrF5EI-brBKY0mSsuEhsH1Vo6rs5j6x0CH6OHTpuqwOO2pOEX0sIwiEhDssCbRI1eTHR4--81Eb6upGhSZ7njuUSN8fWQAy8aIBvEIG3wHHg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Admiralty Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443206,
+                    "lng": 3.36883
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "12059b0b7c10dc51e8bb6084b583675db78bc0a4",
+            "name": "ShopDirect Superstores",
+            "place_id": "ChIJrcdYc7KLOxARjXRqSVShXB4",
+            "reference": "CnRpAAAABeHx_jUIc0Yl8MtAUllBTwECTd5ESi3G9ePU8uIkdETp_ddgQjSm_Z_mNG7fw32DQp5tu4qNnsKtnB-KqXBrypPhSWdJit9ylH9VybTMV8XDOv76lZUF2N-oFBYJDn2V79UR5tp4NQXJOY8r3CDLnBIQMRb9fL6mrr8D65FqH1UtWRoU-LWNUymFzF3Af296o-EbjdB-qMc",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Randle Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597289,
+                    "lng": 3.347153
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2dfe0f84e9cd09f0e2aef63d4473997fa718729d",
+            "name": "My Mart",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 399,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA9d_3z2lBQLROBxUgrt6Vc6Ax3FteS4qPtWAoea5jhYI-mc6mRPjxxAmsCbPrWP7mwZLJlkDwym3iFlg-Kumghw6r6XGIyj93ezeWzN_XT_9iMtZ5J1ciJfbu-AiFq2AzyXpmdMJyWjmCIKfxAka-LxIQtrAFvrVRJIDTMBpckPM42RoUWWodSd2jjXmhXpPLA3lBdlCBzQE",
+                    "width": 599
+                }
+            ],
+            "place_id": "ChIJExhdECWSOxARud0bzfUbqt8",
+            "reference": "CmRbAAAAQuUeuwLdkFz18RK0gAf1a-1H8aDzvfA02gocFhHk5OlcxMsYNYGyMFuwuj8W75EMRpj0aA1XIuQcxIdwEdzX-UI25RNRuK7bAugHJFjhV0bG4odcGlA5TF_k6PwvOhibEhBIcuwBik0fDwjV1j6N0xg4GhSrN4CFLMGOP99AJt0oV9TbYa8Lfw",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Mojidi Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43554,
+                    "lng": 3.420735
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "af1b95b7f1f255b9c05aa42692c66f79089d7079",
+            "name": "Goodies Supermarket",
+            "photos": [
+                {
+                    "height": 920,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAANc0xAgqpbhkSbT883MCeC1tjrsBTnG8Lpfir8nEGxxGQ_K8tuUE2sbLwn6KJz5zVH36nMD40xkgHgkcVrmGa7N4ZLe5jM4SHEMGCnqyz0HFEN4kkjYtzhEBsbl2BN1ClFiZkrOQk990yTI7c9a6RJxIQ-Lth2xjfUJvFOY7yfyuHqhoUoxTH6A1NiVjAbA04ZPikOlOCumI",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJzY0yIyv1OxARnl13wFqlkW0",
+            "reference": "CnRmAAAANxXjgRbyIz31PGnRZEVDPwd5P-IUYxgyji93RUoiEHngIt7sGYTHKUVwkn3VZ0dQxPagQo3AT_GACphy04_PJyzc9P6LL9g9o4kFfh4OvJN0Ho6paHH9guWYvZAxKwfrRjqmmPjXHFp58P9a7mNW3BIQ7cijG4y8aQrjeo08bCl9qhoUouAP5KOEUvyDxghAzc24fHxw95c",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Kofo Abayomi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.615387,
+                    "lng": 3.356925
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1b1909afebf191dff4f0d1d5e5140f33cccc8dbe",
+            "name": "Shop Rite",
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAozZIivrCMN5lgd_Nn6MunYFXNPdKuC53Rn6fBjoPvCO2rsaUISPjReCIxe5GyRnQ_d-fHZCEaX8iK99vfKedh_zyv2UARtljoUtVKEf9MlmDvP4JuuuXvd-a_J-CxQrVMBD8yAmHjUK64cQLJoOm2hIQKxo69VSkjlbicY3FF-JYjRoUE0eqAUZvysHlCyyDIqqzhNory1M",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJJ-Hs58mTOxAR6ax9rB2vnME",
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "CmRdAAAAuzSBV7QR8AdS14ZDPX8sOcvEss-_iAqbls0F0Bc6VZloAYYZ2rNrYfWQ55fc9LjJDFBTUqtJtJBxy03A3NOtIZtD50cpDWhwZ0zjxbXNy1dqoeLajnYGm392gcEKwGSeEhBPYttyq5YycORJCzrqzCmvGhQEez-NckTbETRfl-yzokzjR2ko7Q",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "IPM Ave, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.54477,
+                    "lng": 3.361548
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7ce4e6dc6f12aa5c5a05f59033d4097eb33d7245",
+            "name": "Sussana Fruits Stores",
+            "place_id": "ChIJne61zL-NOxAR008NjDwFQEU",
+            "reference": "CnRoAAAAsQXA26_GZKpr-xeOkRMAe-CsPdMpTyoh3fnodiSsm4u5oEBaaNv1KJHqGuZrV6pmb53nDg_vaKravNxcka8mtzg6QS1H5SeWwgVf5U08o_p6pHTmwPxmdY439M9GfNXQXatAkNV-v55jbTiWYkrnOxIQf7DMf3qbz4uwbmEGxCmrshoUdjcZGIElt95q_GAAhI80UBVclag",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 10, Ganuyu Shogunle Street, Ire Akari Estate, Isolo, Lagos, Nigeria. Awopetu Drive, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429601,
+                    "lng": 3.424282
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "791b7f47040bcb20fbb482c6a0166536cbb7fa80",
+            "name": "Delis",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 439,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAJ6jU15FZS4AFfnf0gosiFiEgFYPU8kxg_79kCW-RG_MTpubWinhybRcegEKb6WUDGNR6n-_EK0a5lsbPPye8UmlW1gOpc2vq2Dn3D7BMwr7AYZnrBeMOcAw8SLDufM_buQ_cyHw8DXbNkKX4Ws7FKkpZQDnvAiiiqL2hay4Uyb2EhD_Msf3zrQRYVtd0spRAqeZGhTYhsak8sGB7Aat-0orTk7EEAPZ8Q",
+                    "width": 246
+                }
+            ],
+            "place_id": "ChIJN0zf2i31OxARgiI0u5oNBeM",
+            "reference": "CmRZAAAAACbmroo4doD67xjaWEC0RdU_P2z1snY8J32DzH478Naa6OkAvuHtBD54N5LJkgwCNPQI42FGP4b5B4ZtJAnedh3_bgZy2hpU5VxTwQWTx-SL6chO3dXax4lTOBl-lKmBEhCTvKKrliLVngLvZRjUVoUaGhRom2QqriCuy2Vm9Ruzo3GIhLckoA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "1291 Akin Adesola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.487801,
+                    "lng": 3.368661
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "92207746908fc3939267d42e5e74f0ddf20979ee",
+            "name": "Nnamdi Supermarket",
+            "place_id": "ChIJeYJ3r3CMOxARebq2LdVwecg",
+            "reference": "CnRmAAAA18pNpZBG5309rG-UUL_o_in9293pl0CxqNxc1oIsL2-Om1uL6PXMeR8Sp5k6VEWAi_O8rF-lE0gm1klmxOKLZ098wLXFFF38VGmTluI5THmQyor2IK-s3wXuB7VC8OC0ZmlxROtgQIOmQwSMj93KeBIQ5A_yBQpjPbfEdBkg4n7NDxoUy1Mche3_qpFvBnhoDtbMJeBZqMA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "113,Mammy market, Ojo Barracks,Lagos,Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.499106,
+                    "lng": 3.306954
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ede375e9d289ba3c1490d971917ac7ed754fce3b",
+            "name": "Genesis Supermarket",
+            "place_id": "ChIJb3AIkdyOOxAR4nFcnacRKo0",
+            "reference": "CnRnAAAA44VND3-KtYlbY9Hi67YhsmkUh3VkYTldP6LsFbw_eLTS_UmdLUP6zlS9H420PKjbEaP9Ytw-anv_WPIlQjPvEkfS2l6s2xmK0qeI8soZSNc1ZL0XNKvKMNArHBf540vTKQB3ShPfgnzAevce9my0wxIQLyyJS4HOlYMPpa9TIBecIxoUozkIgl6McaVUDCZXnM_XkJgPH5c",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "128 Ago Palace way, Lagos, Nigeria., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.498557,
+                    "lng": 3.349221
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ccf04de3095f8346667facfb3e608c52942b2f7d",
+            "name": "Dumeij Farms",
+            "place_id": "ChIJ3VdBVxeMOxARfmpeUQClOic",
+            "reference": "CmRfAAAAys_Q1Z62w7YryQPcknSsdeaV2mMSjfiSIhaSPO-oh_-EcC6XcxgbZBv6gIpmFqJb_0T2p9_SfghMuG3bt9RKuwSklHjyhTRO69JaMivKlhU6KAEXQ7r2vmp8WybUKUWLEhCHioTxMGZwCGAOne8TEB8aGhQ99UaD0gQCZOlIFKZHII2mvIPTtg",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 16, Eloseh Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503053,
+                    "lng": 3.304145
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d16036264b14a060d9d1ee65ded082fd346574e6",
+            "name": "VC Mini Mart",
+            "place_id": "ChIJwUc9-92OOxARJgmSbchULCM",
+            "reference": "CmRfAAAATJgSNs_VOr-u6MuRiW32lXo59Z4p1BvYaMlVxbVJT4WeTet_fRGi-kCuBFGquydYPXek_qxFQHcvURGYYn2iRRHGdZ8Yhx7x-hM2IS5W6dhMJFT7reysEWRayEkDSoqjEhBPJVWEcZOgU9zb1k60e23-GhSYcosjGEsuLFbqux3fs3jvyoVLdA",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "96 Ago-palace way. Okota. Isolo Ohafia Road, Lagos"
+        }
+    ],
+    "status": "OK"
+}

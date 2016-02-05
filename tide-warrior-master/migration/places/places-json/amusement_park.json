@@ -1,0 +1,425 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_AAAADUW9M3TQbjd9q5KjyMHBVfeTf4VqpI2O5dIrzz3oRxleIWGednDwfPOM73BeMF-GFzLWIoAGRnf4LbMJnz6zeHsn4cypwMwgGhvSlMdb7v01bqs5IbDd2CPj2QDcfeEPKMkJPLWc4_ImdWvplJye_KpEzMbdg0QmCEUWyrUuBWTkqiCfhiEhjSTKaGAUKweYEJx-LEiF-0Hp0Wf-rV3JyM5S-m2Y3CMDX-mxjPaphJDeJ-Ye6dpRmwQA1DEXF9C7GucXtkbqHhX-jtjB4bOgmdo2KW429EbF_UBeeocciOTQwma8qzF1Kz76zEto3ob8wmUy7QE8x0_MSdJuz4M114SEDHzC-JsO1nZ6elksrmWjIUaFMnonK4md1ItM2C-517Mz99mPK2q",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443794,
+                    "lng": 3.366446
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8316df11a85d358d1023bdf5c4f726e8ec4cdf6b",
+            "name": "Apapa Amusement Park",
+            "place_id": "ChIJoUJ1ybOLOxARsmn9MtnLZo0",
+            "reference": "CnRoAAAAouORpjOjr7fqN6qrYuPQAJnm_AhscmYvp0nH7sbzC5PTCugqVdsCj5e3SJfyYhjUVl8SiEiEyii56q2msrYCEBB0JhEoCl4qMxZqPqJf1X9YTgXPuRJlorYq3IqLIcPwqqXkUqqbheKouoAxbXhRABIQ8SkwHKhQWVAd_CnPop2_xhoUda3I2-r3izGoPSUHsKUyR-H0X3k",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450206,
+                    "lng": 3.26405
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7a3a15c896682cb8385c13fdd86f77b88b0870f3",
+            "name": "Mamamie Services",
+            "place_id": "ChIJgfXmsYSIOxARaHk-nOZk2fw",
+            "reference": "CnRkAAAAtzoBDEP0Rx4u4vTXuTI-lNwiGA-7bg5y35J-T2BVknLzyrSHmnYrt-N5uLLxGYF3VV4siu0i5aRO9RbGsVKJ2I4hHMclUhE9GPV1vZ1rCV7m2imLwB47vImJEYn3ikrFmarQwlC3CoabGFVSykzLFhIQlSorkJsJSRBtEIBj5HwZsBoUwh6ys8seBQwyWQO_wDW73DSPG80",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Assembly Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.451376,
+                    "lng": 3.394424
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "077139dc37104b56849fa9edf813eeb3dec0cc44",
+            "name": "Campus Square",
+            "place_id": "ChIJ62yXNBeLOxARFge7d5MKVDg",
+            "reference": "CmRgAAAAapKXgdu6iydqkD6nCk3nqzKJU0slY0n_KNJ24pY1gNNg4e4UIizyCaI4cw62KyNGtF6J-aWeyAYAHJEomLTrOyXQouAiiGAlLOwq9qTFNbUvPMw9I9nwUuwAlCUB9cyTEhDFp9MCLyf9o2tKTj9VeB5yGhQVVyOZA-Jg3gnB78aqVxt2muDsjA",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Igbosere Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.499124,
+                    "lng": 3.358346
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "debd00bd6d3728a60c9c2e811c3afaea0fa7ecb3",
+            "name": "Shitta Roundabout Park",
+            "place_id": "ChIJTSc_uBSMOxARF1iaH_GLYMQ",
+            "reference": "CnRqAAAAovQCcQdspE8sTBqEwJ6fwMqlvTp2TfPyiaq6byQAePE4AlKDIg9B3czpQbcSwM21ZuE2suvBm-RdADAcB27zmNWKEO2CvxZCT-4GJ5YTggWurURtt3TaG35XvTA0m841kXDc766U89yQmtb-0_nFMxIQBLyBi7L5xo6DWt2PPdK-rBoU8StIi6qfAdZioeIy0herDqUOJJc",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438438,
+                    "lng": 3.456036
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "acd3f06fb681aaba36989ae41fbd9add728dcb42",
+            "name": "Fun Factory",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJiZnI4AH1OxAR4IYrCwvVjfI",
+            "reference": "CmRfAAAAw5VvU6mHKejh2HMXzbiAWEknNC9znNCSWCJCkdeeGaBVHvEClfWdVLDfpdZHb461MRrnCgLGgSe7Zasepf8N_hkBb6avciBIFCBQnFOxw2eceHq5Aos7NUPLBoF56lqMEhCKuMGkivQsXmFJijXBI_6_GhTE3Ye_g-ZyY6sT2FRmbRd0QGICfQ",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Block A10, Plot 4 Admiralty Way (E), Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596498,
+                    "lng": 3.391331
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "aba08599cf726d2e889353fc0abc64f5a8d98e32",
+            "name": "Healths Wealth",
+            "place_id": "ChIJix3Lre-SOxARNIzcrpOshWk",
+            "reference": "CnRhAAAAN6_6_H_R8V8FaSK-FFLno7VHi13vhuVSIZqs6uuRrmSu2ERdA6xIDl15zgrJZ2VQ-luFkP31iQLjb26nt_Wd5atNmMzuWOiSlgVKKmRxotohRfTaGA8_7b1VGM8FPr1fFma-kgVnoZrux7tk-Ghw0BIQ7ErkouY5If9Om4LgVe5ZkBoU1YZe1Wa1ywBaMbXP63uqRangrvo",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Idofian Street, Ikosi Oke, Ketu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443596,
+                    "lng": 3.432326
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "21ab0ee21ea60bf50563dd1c1df98faa69fdc091",
+            "name": "Lagoon View Gardens",
+            "place_id": "ChIJfyrLedn0OxARBIIbJYGJIhI",
+            "reference": "CnRmAAAA3Gf5QDOJ-N_pFJiJy4MiscACxCvSBZiZZlHbb-osg8NOwdnzZM3rKYJHSYF8Fy4ZSbXvXeQZOMokMzOgs3BtlkGbT6SjWo2Hv2k9I0qr4JhNM2vsyy8MSfdd2MuGLU_3WC-0Cd0d-2VRK4gdZwwFgRIQRVEYwtl8QMUwSLzlvbMX9xoUh0ektClWgUp9YL8qsy_Wx31Yl00",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Oyinkan Abayomi Drive"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.582158,
+                    "lng": 3.358324
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3704c4fbd7d45423f484f6312d90bcbc061f0625",
+            "name": "Metro Park",
+            "place_id": "ChIJM0jcRROSOxARht4KyceOYEo",
+            "reference": "CmRdAAAADvGWCzCbSA5vDWwo3DG321uVdk2mLQqSCerFhg1c3geIhmJtC7bnYq0SEt0My9bG_mtDq8Ta_t7V7C167VTKQppTx8nTYrS24jwQCd2chfouiEk-ZnCNIJ_y0EP94wDUEhBMzZL3kvpH1wxtkOv2iKTnGhTu0jzh7aogZrIM5G-2kRb_ZVAAwg",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Isaac John Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604239,
+                    "lng": 3.296859
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4a36b2c886180ffac4ec629bbd7c21e139d6f804",
+            "name": "Football Viewing Center",
+            "place_id": "ChIJo3WwelOQOxARtfgPY0GhF9c",
+            "reference": "CnRrAAAAGS67jKVMpz9UK1FzapQwhxjW1w-pzvHHYG6uxK4_GWXoVCvA_giYifyaXlBGejRPESsshO1_wiCYh-8j5SPFtjrkuUR1ryAVG99WP2BYoJ9C65kWAj8dtJF_jFZmqxbGcnqnF0NqXDtJKp65j5-jmRIQmY-pxd1YeKFb5pXYQk-TdBoUVMN51vW6R3fSdGg4nzsMaAus4_w",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Fajumobi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458348,
+                    "lng": 3.432916
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cc32d7a3ac0242c7a51176ecf311e412bea54281",
+            "name": "Fantasy Land",
+            "place_id": "ChIJLSawEcf0OxAROdd2CZIuqMA",
+            "reference": "CmRgAAAAxQjxxOwUH_PgXylAzx1NZN6T_-ejcBqaBG6-9qHtk4hA52NZ5aFTerWWtZ0qVfscbFmboVwy5w3h3NsNWCL8bMsW2hG86ZKsBw96s3bV79Ry8BQwvLLK5SFLOXmCeZDpEhD04Ke6ry8TjFSau8tGcro_GhSgFAJli2U9y7rzx_4cvhGLGgGLkA",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Waring Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44466,
+                    "lng": 3.406137
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "19facfc81a26ab2b07d571bfca6f6df356f1828c",
+            "name": "Foil Civil Service Club",
+            "place_id": "ChIJq2uGJiSLOxARI2yTikbKs1o",
+            "reference": "CnRqAAAANbQqiVxNPvpJmWdXuyDdsnED3fk5HeegpkXWCTykbp8Vka3WJW64eI-sdCriQ4AFuN2Ewh_Zr_4Yk3ameIGVMtUMNwEGnZe9XwwFpwJuGL-BnAisAHIBH9PQtNeg4Squkvxlhgs1wpwhIf2zYmQ_phIQRtUTwYT4iHCogNXv65tvyRoU5eTiWObcax3thrvLbBthpIlLWKM",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Onikan Environ"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443194,
+                    "lng": 3.507784
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4664e50e97d1e5bf512caf29bcd06dcee50e07d8",
+            "name": "Funmakers Creation",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJZT4Bh4b2OxARcPl8AF7HplM",
+            "reference": "CnRlAAAAK0CW6ONNxZ-5kLfmb-Sqhdhko_KBMvURcJMTITs2aVp1HoynGIVykPtXxwc7fCxvW28uZsxXhVM0-2RDZp6MBAvUmJu9vRt01-Tm_CdDPXlzRUI8t6PuA8QkCCxRKNAMVoMI8WM4dXw_GOHxLSbxwBIQ7p_aDG05qvVJKlTQKkDc8xoUOrsOkoQwg_w2knjEqeSiHGdIf_M",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.51563,
+                    "lng": 3.318727
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "4e5f50ce31136f07a4def0d4472179db5dc8fe77",
+            "name": "Royal Water Parks",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJb21ph5KOOxARRt9jIYPy2bo",
+            "reference": "CnRlAAAAbVME_K3mTSa1_dj0Pd2_KkCiiz1MFlU-ZNw-ylHgpikooSJOQUDF-nmVkcTxTeQjkGrYuEnEsDuU3F-fIRjLZXnonW50gmWJX9LPa2bPrhbENHzC3klmbgt6xbcQsTexaenCvkWTepYHWknawAFj2BIQD6Zhr-PJ7tBKOnU6tTK_cBoUiXGQOCy2T-le61oDkBaPretKz7g",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Okota - Isolo, 111 Okota Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.551126,
+                    "lng": 3.367283
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9c357ecc2bd891b5cc8b4a21f82483b030d9086c",
+            "name": "Consolidated Hall",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAUw6MxOWnAXbXoVTGzTR-WTTrQkatqN6rTMlgl81H48pFnEpE3EiKzg1oUXJRf_5qdedPgWkDxhMisrK2y0fxKc3lZkO_GfV3V-7ZdBVMrxSgHNqLOuQvweo9YtxrZTkQZlyRbF_gBh9gISpL9bBB4hIQx-cAK-jFToP4mL5DPJ8RVBoUvZuyMR-nvRA0F9x1Le0dcxG0N50",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJtVgozZCNOxARt8Oa45SndWY",
+            "reference": "CnRkAAAAo9MzmllQW7SUr0WlbovJ0StIGoMQno1QinIy_dFVQdQWtWAKa-0enOx-4qw8W8Tvzt-tbBUGfHEHriUr0h0G9THTI4izgN2W-vdGu2MLRIne8Mxp-OLTXAWccvTiir-v8OBI-acyTSico7MsLeaG4xIQQqql1zory4gZU0mz_C2oVRoU_Kk0rR06ukPelVLRLQcCz0NqgCs",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu Road Service Lane"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.639948,
+                    "lng": 3.278341
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "86cb5fc0e3cfc5aff268697b37e79fdb2a2429be",
+            "name": "Crystal Garden",
+            "place_id": "ChIJcWkmf7iQOxARn5EZ_OmCfLs",
+            "reference": "CnRiAAAAFqneEPVzNqLJhHeaKrx3Ch7WY-XAkaAOBlX4nQPrUr8p_VwyKI0lK9Cqz-DmKlLoCJCEAB1ihwhzICo3H5PuMaXSjewbmJuiL4vvoKBFATVhOT0xSuLTIZt7Cbz4QpkQCcAzGXeD8sklbrENmM6pYxIQ6hBaqOtOLs27GGIs3xjxgBoUv6L0SVAvwigoeZwYFmq_gtK_B5g",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Ekoro Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.456643,
+                    "lng": 3.426688
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a8a8f90a7a6a603e8279b26d565f550b20ecf6bc",
+            "name": "Angle Court",
+            "place_id": "ChIJo4G6G8n0OxAR1o_c7orNqNg",
+            "reference": "CmRfAAAAUfdqZ5b8exwB8j48T01HG2KxgGl1Kdd6sgLqgFCB9OHutFFyKoy3P2WT2fmK5Nq_PBebVcXGLxceObMeVP63pVPGZp_Kgq3_i8MhJtPNwprkjR-Pf4o8uJ_H-ctzmyztEhAT6ld9wtETjp_NKFynj08yGhR2HzuiPG0BgOV5CGP95Jj7PaKq0w",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Glover Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.556736,
+                    "lng": 3.263892
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2e2a14ce2d44f8da969511aa32c49e3db6430567",
+            "name": "Jolayinmi Event Centre",
+            "place_id": "ChIJqwYvr_CPOxARW4uOzx50d4Y",
+            "reference": "CnRqAAAAg2mR6GsTmEYfY7BKcHtw5uZbizLqtAZbikHZ6e0s00mZYPCKUB7unJFc5wugsXYyq70zChVA5ofVTwiAmKbOoSegpCen7EcTiu0t6aGN42pp7SWhf3Tra_uGEr-sy2DmuLD9HFkzIkJ9rfEdcPHSsxIQY0efHRiGD6Y5_eU_RmqhFBoUJkzZID7vTeBrrSfDQpyV-br0Wko",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Onilu Village"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596443,
+                    "lng": 3.34004
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "13ec87d827702dcf4a58bf001ce6829da6316d67",
+            "name": "Its God's Doing Venture",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJEREbdSeSOxARpYIHXhhBrEQ",
+            "reference": "CnRqAAAAwvCELPoaTgKosclUBi3D_1eXIpx1y_hwhV51ECW6tbspUZ_H4qRKRYj8gxVyhittwVOw0mm5uFvVy85QwkkITHcsjnbtQCcHWhunC6K-IQYumbhW2iDs72ES2z3zAUmVr5j-XzGvXx3QoSIOmuN5CBIQXl87pYQ4TWAbISOn1m6_yxoUGWxlQ0O0OjtMreE654g38Jq4jkU",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Opposite Awolowo House, 28 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.422289,
+                    "lng": 3.523611
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a771faa5b3d355744f5353be6468e08ecfb63e04",
+            "name": "Alfa Beach",
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAoe-C9r3TKhBwPBIDLaUE5YnKU3qHAoksnQ77mFtmt8TtZsGSfDMpZWzxWSUo4QUooxL7DaBmStKKho8Y_fjuIjayRXFdoJqN_64p_rk19DHCn9ZJ74roWi9bsvMwG3Wwcsuro1noIW2atwH-YemojxIQJUx-PQaIv5fxGAdWAzHZjBoUhdXUm0VTXjJgbqQEbZ6rrpLNZlU",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJxx5jfUH2OxARUoJ8c83iC-s",
+            "reference": "CmReAAAAChaXQ_y_BLf8o7PMaTQoc9PGqoPDbOPp9LduFU0MeBVZhTy4p3VCKN_R9BDPWAyVSKJev58ivKW9TgDPtTpoua7x-BdpOzB5rpHxNUOj1eja_7s2D1uTGypYxtII3h7aEhDm3UC36shd25G0JNogrYecGhQh7HTBIbjiDEZZfXfT5DQ-dMZ1VA",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.625253,
+                    "lng": 3.492664
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c992cff8af0f10706337c949c8c429a51d7106ae",
+            "name": "kunbis place",
+            "place_id": "ChIJ0b65eCPsOxAR6n4wjVOHPjU",
+            "reference": "CmRfAAAAZEaBYUA2wJcwkrCMSBNUYPLsdlYKPX21ehKSiWGMJBt_k3IVUCUHWZSvoPKExbpoecY8cEC_RN1dyvgTCJvKi_J4ndzDTCACXxlaTuAQyCOE2XOU0Gs2Zr2djPxDpcO1EhDwh9nOGENi6LHySymI_Zg7GhS3UVyCdsUNrCVwtnhJh_iUkPyqXg",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu Road, Ikorodu"
+        }
+    ],
+    "status": "OK"
+}

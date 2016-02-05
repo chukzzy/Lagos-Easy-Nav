@@ -1,0 +1,334 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442562,
+                    "lng": 3.402054
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "cb8e639489c31f563bb2fbc98b32ed53786fd9b6",
+            "name": "Onikan Stadium",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA0ICsGCyS0pg6-U0v5jM-ixmZEjkPoCWLUE5yfDNMOvVsUslooLBmsZ4iCsVp_cs5LDZ7zsRffnETpqp9h7KIKeUkKeF6FONoRW1cbQISio_qeoTVll17f4N5_Y1fqLoqAsvLqKZ4znXrSQSFCdo-thIQzmFg5ATJYbAcZ8TzGrEzFRoU75Scm4pCwDaLUdGnezwV9fArBak",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJzS4rCCGLOxARB66qhq1Yknw",
+            "rating": 4.4,
+            "reference": "CnRhAAAA3yKSmRmn2_CSa9V3F3t17-I8CHnIgpk_zeGcHpP3NoJJ1Gw2zOVJe-WUJ7pIcurpHdNvzh08_R_fhPd8shCeHmrui9CWKGzLatMVYTJ-u-QeHHCzKzK0ty8PhW_UeM8YZvshvYd9P7EiEknxwss2uBIQY9pTRKRXRQuaeEgJNh4MaxoUIe2I1DcQ3FlGB2SPX_sHMmkFv7k",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.499873,
+                    "lng": 3.360934
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "01dc69e2d6aec352a2ace9807d3c11689365ac6e",
+            "name": "Teslim Balogun Stadium",
+            "place_id": "ChIJ05KLEWuMOxARLrsYDCpj0CI",
+            "rating": 4.2,
+            "reference": "CnRpAAAAcZ_lBHfX9N1zyk2cTkpSa3411QR3er3nmV_OiMbr-5sY5nhw-V3dTLpf0gFuKMAgd50QeQ7ChjAoSNgS8oDyM1LdErnhzQx4l2I0OlDDHrui8Jsp5TTIzvjtDOTDW-S6eggovZEAmuUMM11RLv-PLxIQFlTMWTI8Q5083XoZgDAjJxoUxEeVJX4nNNUEhFIzIgjZE8WWhvo",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Alhaji Masha Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.497186,
+                    "lng": 3.364714
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "e399630500bdcdb1b6ab4d42bde21561dcdb561b",
+            "name": "National Stadium",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAgYrZvGlI7MXzcN2wZVQyPS594WI5sOQqorfrP85cbkWW0qALfIx3GCPU8kp3oOhU9fQm9whBSAZ7sXe8CbNXNJdELh_lkNQKaSGVwTNV-O4KrElpQJeNcxTXbRW57fLmYT4xEtTE8Y5V6VX4dPRADxIQS4VlAxmDP-zfPfgeTCrguxoUgyIYmqzaKN0f1vmKz6rwxZd8774",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJL3RXt26MOxAR8ttExzfqCSY",
+            "rating": 3.5,
+            "reference": "CnRjAAAAiGPzhtEakPgFRLBbhg_XMYvN6KQQ1E5GV1ZOGrR7lpivP5xNsBeqkt_puNO37NUcA5WkuZEM1iQ23NqRj-i-8kRX_dW0NqnD9IY17p21_n38sfyl2xVg_ZYN3KsNEBFpUliVBYZRJOoFTWaMFOA7uxIQou7EnqrCT_d26hg6GxOyLBoUwOyS-3GysXk3CJw-zZTxKCg-slI",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438646,
+                    "lng": 3.340308
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "7b07e4bbe2aeccad0c144df2d1bb932fc174c210",
+            "name": "Maracana Stadium",
+            "place_id": "ChIJiczMxyqKOxARUKqz_1Cq7aI",
+            "reference": "CnRkAAAAcp7-XwiiWtI_1wCRIk1FZUCP7yWOZhKyCKao8B9GWqarRgKnWo_qqCBz8W1mD-DaGMsg5bGXled2fHaSTUma0Mgh5cq4jw0HO2YWG20VMkf-9QUR4HY2kwPBFRNmz3ovLExSueqLv_V5Onb0Qjv40BIQ0BFbjMFQ4ZhVlnp0pl_i1xoUIE2H4A_CDGSAkwzqfUmcknhLwv4",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.451171,
+                    "lng": 3.394726
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "16a385d49ee81ada52c98436a7302d3436cd8a6c",
+            "name": "Campus Mini Stadium",
+            "place_id": "ChIJ_9JuNheLOxARHOAtH1PpccI",
+            "reference": "CnRnAAAA2DoGR0-SXYw5-eV1KsBowU-fZEdngUFH8tvvrmPYNydaPtdaoCASGc820KoAQ6xsyoE72JFmjxCVqXMQokfNpDqlCJB7IMq5qjRQ9eUlH3jO4gD_AS2tbWMjkheRhkpUoLqo_wO5toAb1ZS3Q_cejBIQIjefsHSlRM1yjfe4R9hCmxoU-PdIKCKspjQ_nYbG6wAb4iiIu2Q",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.623646,
+                    "lng": 3.330392
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "7dc909827b04d0f1ef7e936aa9b7a9454ba67ce2",
+            "name": "Agege Mini Stadium",
+            "place_id": "ChIJAaL_oWWROxARjx-EgUF_0dQ",
+            "reference": "CnRmAAAAatcAFAjQmceuV8fNqf4c14ZdXVj7MOzfQtjLmm-EggbCpZfZ3dMqhqd6H7uQh9-H_WZYEtLfI8WqhYYzqmu7U9p-0vu8Gq0r0vlHVuihRStPEYXsfJWD9_Dj_j6RF34m-VOdDyek_FxUXTxVUyEruhIQQSLfymQ3CupAUBmMsfADCxoU84BaEIRHAwYKqXy-mESUv58Jq04",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Abeokuta Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.539377,
+                    "lng": 3.30097
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "a25aa90f9d5bc33dbda5db5a008097524a70166d",
+            "name": "Ejigbo Stadium",
+            "place_id": "ChIJHXRQ9EyOOxAR4xT3_lWEgEc",
+            "reference": "CnRhAAAAQlNqtjvGPqC8DQIAAvEyPjdB1TbQCkZrV4tTG0w888RxeggB5kA7Bsr7zqwEp2O8d4TBlUZyqtudUUZvEzkNhdz8VRof6fqzxN4NrYvVkEwkWzZLbTSCROFx7NcSH8ZWJs_KSXuwLKB0aD0CtCXNzRIQnI_SEhdY4woPFmtn-0uQ7xoUL9yvSWM15pow6Q2NyHYnCOL5V28",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Muslim Playing Ground Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.490847,
+                    "lng": 3.353571
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "86e5ca5cb2abd4922c1e6a1d3fa8b7070e4d09a4",
+            "name": "Lawn Tennis Court",
+            "place_id": "ChIJV3sNcQ6MOxARFBFvihT3bKY",
+            "reference": "CnRlAAAAUV-Ohe1emXeu0wN9mAi5VTCFQdR6-AL5dAXqiEa0pgTRV0ucYoiq55ZWaB3LEW0H-MGwOOIMa3RDl9L5TLME_ffRDyw8da6V4bB4NoBCxEHwVxP-LukFw0eu28w893L_JyMMpv-Wd_tDWXPs7qjvExIQIfnPQKh-84dYJfZiNweuURoUtE9vWrBaoODaW0IhKtR8-NgNzeI",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.495716,
+                    "lng": 3.373141
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "c7034c22307b9964caaff5826f5daaa4403faba5",
+            "name": "The Railway Institute",
+            "place_id": "ChIJg5enaGSMOxARv7HdOumyvAY",
+            "reference": "CnRoAAAACflOnkpwHIHjbQ7Y8Z6HLFqDjKBKa0PgV4l_FFubc_8tEoYFI8BjwbKG4X71qK1rVR8A0ZiccdxxV8LSCyi57Qf5gL_4GaeY-9d3276uPpj2RLEqwoLLwv_RuqPYiZk5Z1WBZpuQYDhLVD8s_1wAFRIQ00ucpTGJh4k3LtmuUbauZBoUDgjI4ejn221QxALtQzGpSMGhFck",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Ahmadu Bello Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.610777,
+                    "lng": 3.27243
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "fca61920150e385f8f0c202a39a7e34e92d12ac5",
+            "name": "Greenand Football Fieldl",
+            "place_id": "ChIJ_TGw5omQOxAR-tuXLztxY0E",
+            "reference": "CnRrAAAAUGSer-Fr96VHxE5BPQQMs1goBlS7iLges0hCPDgz3UTsMgQXudY5IW_KgnDawinXDTLOu8EZk2inizlWAjwhXyxCpGbOQkLmeMpudn8lib3_hWGz2AX2hgPJ4sF3ejkW1zy181ISw_TtwaBEnbZtkBIQLuwjJYBIvV-om3aiShDibRoUicXZAWdPey6vp7IaaLMcH_aP5U4",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "greenland abesan, Old Greenland bus-stop Abesan Estate Ipaja Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.612325,
+                    "lng": 3.266845
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "2a47c6e7fbf500911d3890fe3a849701da5046c0",
+            "name": "Pius Ikedia Football Field",
+            "place_id": "ChIJf0oeuoeQOxARDpZZwzgFjxo",
+            "reference": "CnRtAAAAqgI0sZRFocisKvv978TCV-UmA4yQDFhhc8cvBg1TL9T3cVTvN8rliUNPJKuXiaKBnLtQObj2BANffiYE5eXwa8jxRSzoGbR74CohKtFfoTkbIEqbK9hcxezNRPdB1tZjj6rnEA4_awIWdLiEy9j4hRIQ-PqLBezEaH9tHlzfXT0XsBoUIsSuq9wbzpAz-N-peyVIGvqrZTE",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "LSDPC low Cost Housing Estate, Abesan, Ipaja Lagos, Off Bamaka Road Adj Liberty Evangelical Church, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.462315,
+                    "lng": 3.381698
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "5a1e3f0a7a64c043d11037ab2ebb581274e7ba33",
+            "name": "Ebute Ero Mini Stadium",
+            "place_id": "ChIJAYR4HXWLOxARuvf8EnboPzc",
+            "reference": "CnRpAAAAOWuI5fEKSZzCUD4KudnjF-Z14HfQo622D0LUL0u9JcLx0ejmVnJf3v0SjJ6h8bZ4WKuOCXOjVx4y5lk_2hmD03eFR5kAqDPRbTrXIwFO03zj-gSJ6Dn42Ovs_b6kDv-Psafc5SXVjD-Ho9EjLWauShIQY0YTjcjI8nWCxfcQ_h22EBoUVnB-nQ-GQ9WH8O8wM_5BWC9upbQ",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Ebute Ero, Ebute Ero Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.516484,
+                    "lng": 3.388971
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "342e436094a56d3fb6ed620b03a13b7a2b09a941",
+            "name": "University of Lagos Stadium",
+            "place_id": "ChIJWWSAKfuMOxARmY8SuRW5aek",
+            "reference": "CnRvAAAAZidE-ZfJqNaZnH6QHu_7jVjhDfD1gCLubJRxubQ5TxE5qoaqtIy-Pi-t0fmw208yYBkmvlhB3KSHDRJCMndgefMOopNog3csekqiXBxv0bh3W0soLxOfLoEcDe8JeoKboKb65PW-9e3L4B0CQmiEZhIQA1axrWXbzqtsS2JH8yKm_BoU0eLL4MqSVCuSdHA7nfwdq0V4Lfs",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.64309,
+                    "lng": 3.323958
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "854773f50b36f104d1585cf113edf5378a649925",
+            "name": "Ifako Ijaye Stadium Complex",
+            "place_id": "ChIJWQScS0-ROxARt3vlY0oxW1o",
+            "reference": "CnRuAAAANYA3LEP6hwuv8k9iOrifItAP5SBEFPOgrVQEonuzw_fpDg4i-rZkFHf1ZOeyT2N_RET2GgndB4svWZhWSxxOnWtVp7_kuDaioK_pw7LlnZplNDNlJrk8AfVugFpvYhSWSYer6BEu3vtTZcDL-r3GaxIQQWwub-ht051ov-YRhAj8RBoUS_WTFzwT2U_z9deFHN36OgwXkvU",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Agege, 7 Iju Road, Ojokoro"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62339,
+                    "lng": 3.329869
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "a988d26a1fe90dbb2411d6a213ebf44373281589",
+            "name": "Agege Stadium",
+            "place_id": "ChIJ0X9meWWROxARWnXBpjfmwZA",
+            "reference": "CnRhAAAAA_QvKuqKI7-P9F9hPpt6VSBjscKSsL0RqeaSYCJYxIPRJjbQY1ZsIk0PA7S4HrK4YoeaCbWp1OVU-8CpzfX-XsIx6VW81ZmJKdddQisMldZ8SH0bA72F8hDr5eBlkComyvEPbAAfKboTAgK9_gXkGRIQj-xCb7ijt7U34cC5A4D0ABoUIL-1Z_GYLNf49s3y2Zz9RMv0Cr8",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44249,
+                    "lng": 3.401861
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+            "id": "c28ede6af486a978738b2083eb1312cb57925286",
+            "name": "Tennis Court",
+            "place_id": "ChIJeXaNpyGLOxARkkTCVlAOnsI",
+            "reference": "CmRgAAAATQFRivCMFXD9MLk0HD2Els1n013RW9aye4q-9VZhqCsgZLynQDBBRiesAW9MnP7qOCTnEfYRCYeeAcD_kS1xSsOUrMtDrGb4lwiRuQTtzKKmwyGTZ96DG0JjH18TrG9oEhAGPpDQ_jrNyaiScuBgoZ8IGhQCdjdKpcZsETbyW86jkbqCWwDeMQ",
+            "scope": "GOOGLE",
+            "types": [
+                "stadium",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        }
+    ],
+    "status": "OK"
+}

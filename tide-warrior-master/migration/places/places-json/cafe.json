@@ -1,0 +1,525 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC8gAAAAkUVNehdQEnO4B27J_TczfSYfN35ys8YPRHlBJziPMmPcK7GOMTySR_XWnTRuViVxy87XGhlF5UWoha0w3u24fZZN80bzdtm4AlDHP2QQ3C_ixux3FhDhP9T50Lor-zfpUcUqeGgQ7rCyeD3jE5j8ZG8P6Wf_aX9R82B0cymynRV79nN_LoUMaCLK_3s9dLZhGk9tljaZaQdzL71WU0MSHd34VU9ZLNsxq4oW6Q1ekJRTdINWN6OZew6qdi2i2kWFB3roIsNyHTeiK3cTY_oz-lshwRa80Lq3fpdLHVA7n3iSwFlNsGRKeBFSsALDzviw2enO61YkO-k_E7E06ht5cSECMBdeFQWSz9NOXmqOOKKb8aFIS8AbiYP_SmzKKeM3-A6fATH_f1",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45,
+                    "lng": 3.4333
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4df37360913b905bb9a4cf2e52f54b6e0d7f8681",
+            "name": "Jazzholelagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 940,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAACfXddr01kb9mAIFHRJihgT6WJfn1MzbZDy8GYfRujV7UJ6YE1EHzChwVZEWjMvCfua71nA8jlPpzBuANZ1z1LjbBN0BFzXo20YGNtAb2kxX4tpejr8TU2BTyQvmQFfJ5yw0NdQ4utdJ_7D2mDcVv0bRdOFXJ2ZSg1aHI2AKdUBbbJNQ0Y4Kpvdr6CcOrX431xIQ6-Wgphz_ZtQt09d-LxoekRoUYbga5drPhq_65Fo3s2uNOlMc5I0",
+                    "width": 940
+                }
+            ],
+            "place_id": "ChIJtSxTyMT0OxARtVxevkRHR_U",
+            "reference": "CnRhAAAAg4e9nG2sLDCRmLWqsaXc4yKXUFZZbCo8x0Y4CKklIqCdUKSqXQIarZooKuTVATMLCyhn5IoDixgE-JpLr8ODduFGIUmgeh6uZDwdgTN1CJQo56RBxm31lTFMGze8WfLuJ4hAplq5yMH6YnE98CrX-RIQTjtg1S2qvFkwJ74zTML6IRoUbpP9gljXNk0bTCYoWScnX8ko9go",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "168 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.581429,
+                    "lng": 3.358178
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e9a54a0970d600e0abf0c9af999483cf1883bd3f",
+            "name": "Rodizzio",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAsLqvp2TxXQuoVpM5xeuA0CvlmDNHC5_zijUDsj9XHHwtnOMs_ue1Tvh6YYz46Gwt5sMgeEEJdaC0dgblC2nY-EuK3v8coYGaT2PaNztD3Fj_WPGlfPQumW_IG2xRnYEJSpjEzo_K4t7rICQDsgJ97RIQJGoxZlBWlLbUC85mudOO3hoUyj11kD6ah8ToN9J_bkxvJn-5DpM",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJgbXDOhOSOxARcpoqPqinY5Y",
+            "rating": 3.9,
+            "reference": "CmRcAAAAwL5li7sQso1s4_-cJFpqIpvqNNeW0TeBtc1i-d95-ODMbzhWTFNXAz1pbIoI2RlfwgIs7YM2PDYL1j1HSxbT19Mnc7PjHSvXNE8kNGrLrWgLJuHEqA6i-eFJbG4CT82IEhBPd56Ob9_K3ZcfaMMtZIbPGhT025slxsC_L541DqdN1iKeEiXAaw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "cafe",
+                "bar",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "29 Isaac John Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433159,
+                    "lng": 3.42331
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "6f49ccd5ee5cfbc7368cb2f3c14548957ef0bc5d",
+            "name": "Bistro 7",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 333,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAOWKHAfe7SzWb0LUSuvq2IWVZ2yWtdbqv6kqMQM35htiFH62zp_ORW5hdyk_Xfuq_w0XEFgc61O7T68NBWMunItdla-D-2hmP2e87s8CP6bMvjFUH5Fwr_cSas0wkX3em2zZbXP_K1lloMY13u2eYLxIQOBVbLVEFHmjNnVFQkASyahoUc2quxnw1jYyXheSP0OBQAn_5taY",
+                    "width": 333
+                }
+            ],
+            "place_id": "ChIJcVm5kdaKOxAR-szcSfsNKqc",
+            "reference": "CmRcAAAAwPu6w6YqhHnhDt_yMNgf3x3V_AH1HJ-28Leub2iKmriSMCztcc-ZnLjVmfW6IOgnRrDLBB_mF4x1kd6FNsMRSuawc1d6z59kvNOGz3hDd0GlCyVqhFcZIdfbibsl6KBkEhD0Emyy-qCEIQGi1qq0e3j7GhRDjQiJO3ObB7jdy-oIgPW1t2hplQ",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "bar",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "273 Kofo Abayomi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435514,
+                    "lng": 3.417445
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "9a75f6f51f6477489bdf7361079ddf362b715155",
+            "name": "Candy",
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRjAAAArt-rxYDWKlHRotzWAu8dfvLNus9PMXI5j8ibsUwcawAQW94FNlow8D8744Ebh6lDGlauS3YcWmbxIqbIcTgWWrkopBGIemQiKR4_i6vl4f6CjOGU77iH5Qs6jI4HN7HM_QQnLf87qUKRaouQ9eefUBIQKrLmiAfGzHQrsPK9bXZGRBoUgPYcziIhiCI0P4B2ZZMflUjJCQ4",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJ6yXk8NSKOxAR7TdfTHrVHFI",
+            "reference": "CmRYAAAAo0mOdYgZkja1RBsPb8MbvkdupRu8C2NnihFYMRNsSbzCV9f-EyAC4a40ka3xszas49Pm9KGHxbt0ZmSG3qsHuk5Af_cZRGYqMHnTTZuH_AWpttRZQiC3-pwqQmjOFlsLEhDvGUmQ0VbpdpG6AlM-CFiJGhTPfdiIFvCP4GPp3aRfx6NIdZauhg",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Kofo Abayomi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429659,
+                    "lng": 3.418348
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "4c5b0a1d760061be89740de8606efdd0a18a73da",
+            "name": "Cafe Vanessa",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAOlOpTLWqe26ZUK319YDcIzqrBqhh979I86tGVkY0f2J7tBB2eZJkQbxcV6Cc4h7d_1tsKUlgcjKRAFNUF-hKR_Gjd-YQcIg2VVh-UOitK1aAQ5WbKGCWtNGRuB9-qKoZ4w-VXEQ6_cmgLiTQolK-M7Q0DqCCUC2OPLa5uosxRS5EhDgwCBE7YWEMJmU512fb0PwGhRZyf_W2lpovxqtkpCdISz2141m8g",
+                    "width": 1208
+                }
+            ],
+            "place_id": "ChIJTeUJwNKKOxARRi1VE40lpeY",
+            "reference": "CmRgAAAAhr69DF3EQdh9DR1psAPwo_5TPz3rnAKtMmUqX1cYAtEuhH4S82LZdOsHdCPrGWQ36Vl7jus7o4pQqUgGlYFY2qf3e4fH64WYJW-koe22VkpPFxH1rweM7--jbtruPyB7EhB8OfkwiHQVyGzqf40NlszHGhSibgSYs_srtcLWa_rHgafEhQdQhg",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "1089 Adeola Odeku Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.553364,
+                    "lng": 3.336612
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "86cffe611b753d8cab0cfb0a4e0ea5f1bb2f3044",
+            "name": "Lady Chi Cafe",
+            "place_id": "ChIJKyO-qAmOOxARK19eucrDBqE",
+            "reference": "CnRhAAAAfxpDGS9_zaIbCXtZY6pqyEAjJrCZ4dcqpRk7GQVTdnjoENQ7TRvjYKlImL7DP1DI_nCP5DtBQU4RA0wrQVb6m_wYJuJcf51DeePxBoW5Smu0IbS8PDkS4tVbcp-dkGYDquFwlCGUwEMJgdmPgkVZnRIQiZq4NRgnRMk801ZwOeTenRoUM2Rsc8mGfZk65KNGO1WSbfr1LmA",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "119 Ago Palace way, Okota, Lagos, Nigeria, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518658,
+                    "lng": 3.38969
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "911382129a31114f2aa72d382d1fa33410ead031",
+            "name": "God Best Cafe",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "place_id": "ChIJpRE1qeSMOxAR4dYu5nH_6II",
+            "reference": "CnRhAAAA7vvnUH6l5BQxAaQqmvWpEiopOwb_JxaIGkWRWIpzdjAAV0hJn9c-El28o6FC-pydY1ylhUmk7MHrSbcqiGA3MqbSKcdFm2JQD3Ck7meAJ8C5czFuRLqqUT2bkZOeiseRk1FzwXwxlN7Fo5gjvMTQCBIQWkcg6UEkjYk7HuQQirf3hxoUq3e92W97H_r7KGXkcQy4Gh0P4qI",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Dan Fodio Boulevard, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.592806,
+                    "lng": 3.35816
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "ec9945d0ccf1ed80545ce20fb85d7f6cf38ce5d1",
+            "name": "Cafelicious",
+            "place_id": "ChIJaRNYQT-SOxARZHQ5cv2zWHs",
+            "reference": "CmReAAAAd0_THFiwlJRAJywAKuTjPhUxeJfaqCddp7PSxXN_5SeJX6bfBBjP0Z_BtqzN8dbtGqBTMHs-NWlzoTIWflB0oHbnME089tVU5-JD0uY9mAmkFPSjaE6PHp-WYWUwJvcyEhBwCUR9xUfGUoZG3mqplR1xGhQg4FGgIMP8xsBwBl6-MhhqJ8PhZg",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Opebi Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.656274,
+                    "lng": 3.355315
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "9a6af0dd62e3914720f9d894e56503058b46f624",
+            "name": "Zoe Tech Internet Cafe & HotSpot",
+            "place_id": "ChIJMf5uvwuUOxARyg1zXQz3ZQg",
+            "reference": "CoQBcwAAAMiNZWiTVRXFXR7IOoIgp7Y7nwlpo7uUjrv-P3oYlaB30Wm9AJWQlfGWZ9faC6By0C2bSy8x9joSEck-wmdfrUnWilsv21OA0DivHH-FnZWL4DL9am3biAof-uh7K1qfVNIk0NyPlY2BrEzidQRcCnW76HL7ayxwfppz91MvozqvEhDJaSh-EE6Cr2sN6WkdSgtSGhSHkOV-5poUAr6mfFjje1qUhlf31g",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Claret Plaza: Suite 101, 79 Yakoyo-Alagbole Rd., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442618,
+                    "lng": 3.457399
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "11f221c79ba04305d9c10de4a9e65206e15275d9",
+            "name": "Cafe Maison",
+            "place_id": "ChIJlV0A4P70OxARF0zCcHHLVaA",
+            "reference": "CmRfAAAAbzUCFI-AYUMxQS_cAuVRwDKpcjeSfY_4wkYaCMLa-SmrBBo0dEQpIioyhecS5knzsyxcNG9pJVO0HDUiPmVTh4SrSenkCCYk6CFLelkYIiweKTEi505dLkPBU5zUfbMMEhCvsz5_zipDKxng1uMJf_clGhTR67RTag4BHAQbRFAJv4CDv7J3ew",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Adelowo Adedeji Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583592,
+                    "lng": 3.401547
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "4693c4393e650b60a184a9865b6d74bec09ede85",
+            "name": "Viewing Center",
+            "place_id": "ChIJI_vxZL6SOxARlkMTLiHKHbM",
+            "reference": "CnRiAAAAWHv3e3bSjfttBS2n1IDqPSu_3_t7gBeR_9afpLmVQK4QXV17x2MmrqsoLF3Ey_O8g7tRtG8lzZi693ea_JV5URLgnPlITDmVpbA2UGljtcqh0Jc3YumSzF0OFuDjGYcZ-phHfqBjSjnN5hOKvpKGihIQDZcoOQWbiwkJ8qpSj5_O0xoUQVVj_iTTPlOyiyC1CbjTtvRW82w",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Adisa Balogun Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.481248,
+                    "lng": 3.34569
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "4fafc2f183a224ef439ea24890db9c203ae6ca2d",
+            "name": "Salsid Cafe",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJXYpZkPiLOxARmuUgbny5_8M",
+            "reference": "CmRfAAAAQzITCn-bATjBUKBXf0k37Qger5M_wYBy5T3MT3a21RaL1lCqaCeMBhncrVMZFMf6dCZkJxopHFU6G8w7YzdqQLBw4u5s2SKXxCrW43o8MbrSZj3hmqn_zBUJKMFw2gOTEhCfMXjgubHJiygdIoSH_UQtGhRcMZhB8-gWOHaENLV0-XO0h3ISRg",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431345,
+                    "lng": 3.420486
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "2d3acc02bf0361a268059526558d41a428c59480",
+            "name": "ART CAFE",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 467,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA2oGdtqwJn59ZW-tW1ChqGmVZCq2bKkeiqm77QIwCrZOqQ0DilvhkKXFEMmTkyy0TXQMqbpH-pLFk_YcfwfFicuE4E28_Aplm8XJDIaXvLC5EHtTrp45mLGqd4HISD2PwPUKidIaLwxRzms4ayRopsBIQH5M888-H8XLFe16yRIT_tRoUECiKjLidtUtoRESYe5stBUaeM1I",
+                    "width": 467
+                }
+            ],
+            "place_id": "ChIJjwAH3Cz1OxARwV0fkimUHLg",
+            "reference": "CmRcAAAAPUtW4-yWIMOfZ2UXdeHhBusGVTUMAqH6yU2EUSp-r2izKw87RZ-zsEbAUx1Gd7-6WIy4i4_7gR411wS_l9FyT8Acvq6CQzkxN0IF6gV3w9ECbuDzg54AlXfMYFdbf7RhEhD026wh3lIEAvJlZChW9HWMGhQsSPoCIKllLxNyQ1Vh0WNJzAj2oA",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "282 Akin Olugbade Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.466342,
+                    "lng": 3.343273
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "d9508e8030414d5b064e03d1d4bcb15c98ae5e31",
+            "name": "ST. CHRISTOPHER CYBER CAFE",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJD3kr4-OLOxARNYMFp5ndxc4",
+            "reference": "CnRuAAAAgNC9tR7qIm9_1EppZ3jq54dTJ4UWqGMK-6VmXNgspTzecy97gnIwEaNQRJA1qy3X96ZEE0mygsAM41E9m0cmnL3BNVDqKHvYYoybzlXj2giHSjOmxdY4P6VpqkDXq1O7KqvkRV08yd-5k-iFXVLMQxIQ6n6Sx-xp49yCB4dcTsUP3xoUgblB-t8DBUZjdmoijAqXwS9t_yA",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "57, cementery road, amukoko lagos, Cemetery Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428008,
+                    "lng": 3.423823
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "5a14524ba8f0fd9181aee5a6da966f4d5cdd9d53",
+            "name": "Umutu House Cafe",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1184,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdQAAACt1pL6lN4FfpvY2tq3ueFpXCluHHbNddiORYpZAVGW0qfakGXgQYPlxDatK2bydFq5MRPWYaJB84ec3gjHSL9N4ptEnYm6RQfGndwMeooPdpwhrqwbeBj5k12D-cGQrcw3DIIqUXt6HAp8KJ9pnylq64-O4Lj2jVE8rFmPuqiXYEhC3kmaKloKLGjB5zlDrhpI_GhSz_uaEd4VVVdG8TBZJ0PwosP1_mA",
+                    "width": 1171
+                }
+            ],
+            "place_id": "ChIJq6JFCTL1OxAR-ErF2tPXGzo",
+            "reference": "CnRjAAAAh27C3VUtkL_DR7nmx62yjAM0vTMkDNVT54wXImJlHh4zP4KaWRkkJs0pVftkW4zR2_RHOYKpIf3HKaXr96oV73ubGUTuuuyPUFMs8EGmEue4prZ9w49GVPfNVBRJwX_1aD8GRG_U6ls2fRcXVds8dRIQTnBzi36mAYsnWdCEUBG6QxoUvsaA0YdIH16cNZBMVDiFZY_FuUg",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "29A Akin Adesola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.515964,
+                    "lng": 3.391565
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "0a10be6627109b3e4b78d8164fbc37b5015084ee",
+            "name": "Relaxation Centre",
+            "place_id": "ChIJeWPMBuWMOxARgOdHtE5-bCY",
+            "reference": "CnRkAAAAOJkQAH_ZNYFm5ILbwZZIWgROVGiIhr4bQzx62odcE2mOo9o1IRKFbDaZaPUWOpdKABBXJ3sQyz9NGetBVzCRHaPAiF74w7rXmrHcaYQXhSNY70jBSwYC61wfj75CqnTtvG4NZgY2D0VpW471AGIzuBIQBMQ_8ASoQxPWYxZhSpv96BoUzpj5Xd6bSoLsHd_R_FpodSBu-ac",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Commercial Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.524104,
+                    "lng": 3.369036
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "2698585dff57bc6b5c1923058b0af2bca1d67a19",
+            "name": "Cafe Venezia",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdQAAAIoSgHJblNcwwrnlSGvYgf0px8t58vhdz3Zggc_AeMpXzhtJqqWlKzqfdjFkPEklizkLh63mRUlgrMbS1mJhb8aYK0LIvP3V-Zdp48eKx6Iy9vKRwpvAjBu3c8FhBOlV_ukEXprKz685OGJEBanozf00kxlneN74L8hoHeWd-42CEhAD4zne1H-jKnPZVMwwnv09GhQEsCuwjaQ13xZNZo_IhHF5LYFaHw",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJNwB1Vk2MOxARNf-iaEQcfW4",
+            "reference": "CmRfAAAAV_hs2587x0AZqERjIB5wAhy4gKq29EckI-xSsUaC1AVB0g02Z2tfzR6io8S0mp3vAaOPCHF-sW14nLTf5NXQx9i2HanINBrLUcGhrkraQfsn9WRuaNv6uXPgwa5Kch-0EhDrLebYoT4x_J7QpU5j6famGhSpFPugEg8LOwMOogQg17AWaLeFTQ",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Shiro Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604795,
+                    "lng": 3.281027
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "b6ce9a0d5ed53d1a152b1b9050439dd432b81758",
+            "name": "Belero guest cafe",
+            "place_id": "ChIJqwL71F2QOxARxf4_Fl-RWQg",
+            "reference": "CnRkAAAA6C5af6IzxofQ3XolFIdsR5qZo6loq3USY3ZzOf_OB_Rw2UNTVlwEzvdRxA83kYk2UhL7bnYoZnGnp7pmBSvLUqoQcr-FTj-ueoeX5AoN-8Ggf4ZNiRHyMKhDTSCIHuSa0LUkNEcK8TOLh5p0rNVr3hIQRPBU2Lq8Yk5MJiJP-KlL5hoUiRVW-nBckzc1R4BUxrcU6dKsF58",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "3rd Road Avenue E Close"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.570807,
+                    "lng": 3.377704
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "6e3d668ca66d35f65e3ae042c6dc2af31c32ceb3",
+            "name": "Café de Viande",
+            "place_id": "ChIJ88JyQX6SOxARlvwW82qJpdE",
+            "reference": "CnRjAAAAZVZu6KjdeDWdIL7mGA9QoeocQAZHqWjWi1RacF4B-ufu-F-5xtL89g37G3quLTfpOknLN0uPMlJXiGdDOyrXL5dzJX5ydlRxBErtKbKIBFxKAIXRMTSj0ZTb3RB-ydWZZ7K-sLLnGQVMD8rEbKKb_xIQt6Q6PLMOARNa2QakHeteuBoUuLPtaik3lmy7tNoc0SMSeoAHGvI",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Okungade Okuneye Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.524036,
+                    "lng": 3.386316
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+            "id": "cb7423eb57e609b116c805132e7073f2bfde62b0",
+            "name": "Isitek Networking Limited",
+            "place_id": "ChIJQ-CFhv2MOxARC_o2xKx9Kkw",
+            "reference": "CnRsAAAAWaQKf_M-kGG1ApuZPN-DX3BSyzI8dehYeiQnaf-utDOxL-EAQU4M3xpcOTb6I8GmQTKnXYjnxJmJOFDsoYuvCYIxbrG4UURryfuH8J5bCK8SjcSriD_o_-NbsNK9HH8ohfKY2S9Qaa3vz7pVOV3a9xIQOTQmV0rtZ1NminNARcQKHBoUBdnkU3aZioH7Dr72HEn5MyFRUyU",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Moronfolu Street"
+        }
+    ],
+    "status": "OK"
+}

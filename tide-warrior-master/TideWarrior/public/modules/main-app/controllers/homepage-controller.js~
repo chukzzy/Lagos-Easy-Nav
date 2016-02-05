@@ -1,0 +1,17 @@
+// This is not a redeclaration. Just referencing the mainApp module
+var mainApp = angular.module('mainApp');
+
+
+
+angular.module('com.htmlxprs.autocomplete.HomepageController',[]).controller('TagController',['$scope',function($scope){
+    $scope.$watchCollection('data.tags',function(val){
+        console.log(val);
+    });
+}]);
+
+mainApp.controller('HomepageController', [
+	'$scope',
+	function($scope) {
+
+	}
+]);

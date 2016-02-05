@@ -1,0 +1,577 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_QAAACsozLCg9f9LSeFnXd6v6ry8dEvgs57oSim48CG2pvhzIppU2aaZK_4SMuXlBEOaCfXWlWd2Z8QOnl0DgWsNmQ2WkV5o4OJI_p9WLV95o0svlfF-XMi-FRCGjULMET9z87_NLFFVQFKna-jzI1q5URYcPr4zSWZmcEjn-7SGY1z0RAvwW-Ke2b1e5BxxAF9r4vya8WfFpNTpn6mfT2Ew8pIeZXSA9zLgAJo6ZfOyLAc_W7FoI_SnSk2xBYK7FyDklacoLGhWa8SjgLvdHktQ_2dUAR_viUELCwuTs7qavyOrvzv-BiBNSqMGUtS7jjQ-NOQykjmRXZ9iRgy-0aciXDsSEFs4XdOj5GDO8VznpC17aFoaFJzfTfhjgWBQmrA_7K-liaG8CIXi",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.51361,
+                    "lng": 3.334186
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "6efd28639281db8e70de7bb12bd019036bfd3f50",
+            "name": "Blam Associates Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBeQAAAHKhFcEzt1mSsshM05KZoti6efrEHwePSf0raxjI-kife7caUWcs9Zahl3bbpxqkG2Y3VQR5WNGf4_FCArYCu0R52XEhcraZM8NhBFYmkDniSUUSOBYqowAVF8A0qxwf2F4vOSvRFIuVYdZrV1REXWvyBNwFjbje4V_Z264kw79_EhAhwOzcMX2Ix-AwvsHt-Oz4GhSIOj2bzQvDxCLzDRioUAnDWrWQiQ",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJ1_3yrpyOOxAR8o-xljDf6XE",
+            "reference": "CnRqAAAAaQNB7dqa1Ue0Q0qSI_rP1hl7yknb2UAhkrp5qeaFeUt2AVugFBRHSaYkHVOfC2jDFNtEJEmO7edMqsFAiH7MNExDVxbiRdp_U97pXgMXhDkgv7p4sya33s9jxvH_AaLVLJhGMKlSOjqTce7ny15QRxIQOiOXo1hoDU5M83LrRW1x2BoU9nOc1TP3KbDF3_iOI0nSZIUZGWE",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Adeniyi Street, Iyana - Itire Expressway, Oshodi, Isolo, Surulere, 18 Itire Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.544102,
+                    "lng": 3.337864
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1792c8df771636306432f09983ee821933885e64",
+            "name": "Furniture Selling",
+            "place_id": "ChIJrzm2bXWOOxAR20z0k1jJx8A",
+            "reference": "CnRlAAAAb1TAS3068mvZ0laDXaI5txY2CSEsQ6fUtovDTK-vwfNJ4z9JPDzPx4FhKscU2oTbgmucvhkZvMI65J7MUR6diQlPctxwBYxF0139jkDRUwFRaIFZYyp7VGypbhRTkEQMN9E1ESFCmZ-3XZi9ihuWAxIQqGQNMlebPc1RlDbpU7txvBoUaJyEuKm3dOlL1xz4_qFN32iH4_Y",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Block No. 1, Mathori Industrial Estate, Oshodi - Apapa Express Way, Behind Ladipo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.609594,
+                    "lng": 3.352718
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a054d235b5e45cf217f9b844d455ef6509b27c02",
+            "name": "Dreams Home Furnishing",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 622,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAA0j_s1YO5GwLPFQAGbVRPCp4VUqyXVHBN9XJcF0cUit60PjFVl56VKmGZrdmIL7Ldd9-U4cyIRPc_BAsNt9b0e5kibTwuiogyTnOxQZ4cAilxWkrPPsypNrcGi4KFwSZADWv8jsKnwbhyQ0RcsT5Cn0uqkCZg28HYb8JXcyI0SN-gYFDi1t_dUsMkTKAS5SCxIQTmMMqaMOi8flnp9o70bUHhoUWD9BciU04Y5EPjMXCT4EcVsF15U",
+                    "width": 622
+                }
+            ],
+            "place_id": "ChIJqeryNTOSOxARoBJLgetxGQk",
+            "reference": "CnRpAAAAbZ8EgNVua8kH0-ZK3P4n2ylga7cSlZrLdah19WymMTUia8j3HJuTe0xebOK-jv4RibSLia94ysxelP91VC5L-rzfGmDJyVGOtoPIrGMJTR_9tvohyFVSizldeCru1zcPFVLFJDNTavt3wGYb8GSqpxIQtmbrJyDBWSyso_Ymm7LnkBoUGYvBCMyG53A_uhP7Gf_Me3_DrHk",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "7 Kudirat Abiola Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.424565,
+                    "lng": 3.419204
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "579668bfab4b5aaf648b338f9299f87e4787c15f",
+            "name": "Michel Akiki Arch. & Interior Design Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 861,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAADYLr9yZeHD7yfaIQtj3TVWyE1OntbA2FwZrm0VqhTsqWyln478cPcI70OQPrr6q2Fkf6DYhkcr0eAf0FBAtFs-IK0ZzNCEAS6XG5Jli7rR3Hl-_NRF4PUOgn9ku8g9Q4bEmf7sVSHNPrMiACBZxvDzrRvEFDWXNKqrMXUKu5i0OEhAlXzGpqhi8OW1Xo2MaE-uQGhTRijADvZKpHWDBld608I3ZHKFO0A",
+                    "width": 862
+                }
+            ],
+            "place_id": "ChIJTSjpyMyKOxARDR9mw89hweA",
+            "reference": "CoQBfAAAAAcnlqsL4WpnsSMEEmpCH1ZauE3lyNsjSW8W0Ko8NSrwVGsX-HwPxu8X_4QryGwnTmrLiZV6lAqL_FOAXd58WgOdg3SzsYLJLWRiHuErdGOAsYLpr-pbAdvDdoJ9AlCJsgRtMVaoYDHcGAFdkI7M_5y7gWpmF__x1EgYEmrXzF8kEhDO3ImPycK6Wo2XqIDVgEDSGhTdU2v3IYr-pMVqJKmGrCWTzAh9KQ",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Amodu Ojikutu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.554361,
+                    "lng": 3.337923
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5a9f46e084cf59e6d1b8b3eeb0681929e17d7daf",
+            "name": "God is Able Furniture",
+            "place_id": "ChIJ4Wa2NgiOOxARbcHn7Bn1YB8",
+            "reference": "CnRoAAAAJIbONWlio729L9tCRzTn9DMgxyOY-rnY55pzSKTy66F4Q7KzMAMN0yVfXzUf_5rWDqXuOOp21NC0ezNwZNxzWh7HZzchGxncE0nwPvNb_8ntI-gy1G5_IScVqd7vd5ds5sORXy4ri5BvEerfa0jDHBIQ6NqEe0BKPPye40Xd_CDWmRoUk9dXuxGTSFn2UluUI3Pst0MnNxA",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "14 Curtin, Off Adeniran Ogunsanya Olusoji Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438968,
+                    "lng": 3.519627
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a3027b640cebdd765663baf7640d315a2a22237a",
+            "name": "Dynasty Furniture Nig. Ltd.",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRpAAAAhBB-ZXg0Uy_JgwtCxuq7yJedtETU_XIHw9H86-Ed4s-LlWep44cnGabs0HqrIkOAnIX3lmWe-aWiivzsWGwSig4Rk6pHW4HtESOghpAScXeowZJbRI5-ws5eyrU95e1I6w3lvHuYVkEfE4gJmHEK_RIQZ03xYq-JndL36hy8_EVcAhoUNTLjm6SpTtq0oMSIxLuIGftug18",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJJYlWu4r2OxARyRonFQ47Va0",
+            "reference": "CnRvAAAA2yzgP9ppgwxAHPHyc3fYwQ9TlyWVUgxOu9CIjLFN0-IuDtGnAJH09I-VATZ2e8Xu2xdvYEfK4BcU7GQyBTMZskPA--23p9fkYGN7C_4XIyBpN9OtUDQoqYq7nL_tlh8CS94_NRWUJvM9BzDhCl4eJRIQ0Pva4joukxSm0seQrmC68RoU5f8LHudTVIxungSRM-ZrsWjEihU",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.5548,
+                    "lng": 3.342639
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b9f4868e3628859e664ac42a71ae3c44e21b4a5d",
+            "name": "Alowonle Upholstery Furniture",
+            "place_id": "ChIJwTYwE-ONOxARt5DE_nDDu-U",
+            "reference": "CoQBcQAAAD9gKSdjknqMacurTcIpSnYVzDWbOScZkV1z-qWtvQFJ9HgyhhHbHizUjuf9qWgLq3ztdUfDdvO5yvWVfQ7WLXs2PjMg4kQzXyt0I_3XuqWuAPitL8KcAkw3FQK5Uo5eYtIBIngio5Ets51L1baTkRNrqVotoSyd6FO6TNrjpiBQEhARPaHg7qG8ijRmLfFslq2ZGhTWVyKmHsCJXN1UKtKw2bTTIe3QVw",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "10 Abiodun Adesugba street, Ilamonse, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.627845,
+                    "lng": 3.332528
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b35c80e57cc1df8bd543ca301ce9dd4675e3a817",
+            "name": "Meallure Furniture Company",
+            "place_id": "ChIJz17852aROxARC5lBOnc60HI",
+            "reference": "CnRtAAAAXuPGeAe-Pd2pbWWRS_2rqgR6nwIC32alYpcJmfP80Wmd9WA-s7rNK5k1sx9xHz_Kq75VuoUMlxh_CTGiXGCHcpf2ucfjq4WnApnbwa9GYOEGOtcwT2J1pMrXzuyx4COQ07EMDxQ91Ur4QUGgL48p1hIQLVqF6h_HW-8K3MYnnsTPfhoUtNyhhLGh4y_YLrgwGRFz0COAEBA",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 57, Iju Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.576091,
+                    "lng": 3.360583
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "caff2d759c53bb612addc2839a2cadc09faddad9",
+            "name": "Adam & Eve",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJcyFp6XKSOxARjRirEqZlG3Q",
+            "reference": "CmRdAAAAFpaY1gU-a8pb40tZTYbFS8BkJl5Jz7TUDD2Gv59u6fAIPNZzXUU3pnOLDS-Clc_zxTJv_z_hDE2SfthLgbZFJDoZ941DJzmdyyoQ4CRz-g4Mudb3LMFzQZ7Hy7x2ZGgYEhA4cNEQ6bgtphJCslB_PTDMGhRFrQkpiRVxxrmlLXv08fxWvdDX7w",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "8 Isaac John Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428311,
+                    "lng": 3.41833
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "79b4e82d19247a076c061e90fd542314e7234303",
+            "name": "Svengali Designs Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAGR48VBU4KI_KlizPy-mswKcgEWitZk12b-saitPZtp_SjNqv62I5WPZ7timH8waRYilsyXVeCGvvtPH6gYSA4rSGBdg9JiPwZkunj1zTSgTj09TrLfRUe3u0l1WmBltvpZjIuWg4wB_dNcTXifkUMsvMyLsXIFKNDWOS_ESsMLVEhAcu_Y0Aw1nTL3Ap2yvUif2GhTKSwsSY53PN6bRXNfh6NRTqrxd7Q",
+                    "width": 835
+                }
+            ],
+            "place_id": "ChIJHeH5X82KOxARsC8aTIGdrxk",
+            "reference": "CnRnAAAAzq9x2kUH7iN6ERfFSIqwf6TkWKBazHLA8ZId7Gss2dw0hpxFQ-LUFtStII5l4w0cmRysQ5d0ivawAAyyUkYqoJp6LuYGFiisJ1ep8VDG3H_7PDUsSznaUbCidyjwS6lvwplUz3Py0ZeWN3T3JKNB9xIQ0gN3TItju6QCkyI5-VuwOBoUffOSzQGno4RZopvFm-_Yz-bSbh4",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "9 Agoro Odiyan Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.427262,
+                    "lng": 3.423613
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "10031a60d7c3ee9840998e03fa1ef31ddebefa4b",
+            "name": "American Furniture Galleries Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAADL81JP9t3aoSe0__DIXwYatCw3iUO-Ze83A-Wy4-QOceoPx_e6_YsBHjznYoQVFFtlQRC5Rju7buUq3GchtG_I9d7q2BF7A2rKm69uT3RqChI4BSMJB2ETv-WR7lgjKMvxwWoUp4tzRdy-JHxJ8iktuJ9U6ouiDnw5_Nm1TzKkoEhBiTWxQYYLoavD86k2qhb7MGhSk16yv9Zw5L1a91-LoQn6WgInz6g",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJeX0FFDL1OxAR6s748ykRAvU",
+            "reference": "CoQBdAAAAIHC9p1GcZh08OA9dXeY3CeEI9UHFuwUivd1YR3SRgLguxi76BtNogrBd9AtTiR1pwPY2bBPIYks5yfjQkPeCBsTBENzByV-f_7NFlVw9WF_sp1AqLEc9WX_rpiueOk7dgYYzCznrCNgr0MaJPY7NdHTPVCNMBkxSvuum05ETMQVEhA9_f4VkJJHGnwNuV03qED3GhQvjaC72hYBIvUmj9CfIRiDaR1hug",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "23 Akin Adesola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.489009,
+                    "lng": 3.381825
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "0a304d0ed8ef0e873ddf891fde011bc9f11b8384",
+            "name": "Arowud Furnitures",
+            "place_id": "ChIJv_wEnCSLOxARaS6ta12mgAg",
+            "reference": "CnRkAAAADsUjodfgFwRu7hK2KCEh8tTK05-ajvctqaawvqWLWsqWFKLxsUUB3aKSCbFsOAXyMUPkEfOSIQxUYzecB3wl61Dg4-5MZ1aVtCxvlBKhexaYEU_ND2gEmin3CcpauoQdstN9q8PBhDeZoWJ2F7OVWhIQBrWj367aHjc0GFS_0ILCdBoUgMHwjPl7DXcdwneN7KNHdSiZulY",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 18, Moloney Street, 3rd Floor, Onikan Island, Moloney Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428518,
+                    "lng": 3.425433
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "00bc9fa98125f9ac661f26403a201347bdef3928",
+            "name": "Vava Furniture Nig. Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRtAAAA4BVlDxpcr2zNj3GSZv5YVIHr7hkyxG7GGvXS3Y-IPut7ia7KxOUzmIYnDzpbTt4PFnDAQIcmS6XCqzWAcy8b-AIEiZKl7aeGJBWxslc_plBEqimq0jnZcmG_0117_s-1rlsZ3wkoVot-P80uuImkchIQG_wV0uKrymNmnnyWoDhRRhoUmGgApJEr6gVCpVPxODzvLr2lAYY",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ_S1cHC71OxARDPVeF6uYKOE",
+            "reference": "CnRrAAAA-yrVbwS2GHf8bpTYhtebHLRmTQUCiy9zb7mAGerP3NrTjCmEuOJ1U4rGxknFF08SIH5NiHHLXPGq3g1uG9B2JRf_TYlKdmLJjKWtZRWoy_rKKRe7JeshTB4sasfZ9bM9MtR8jZeknmXDHpJZ2RfKGhIQOQn91zzaUWnUdiDEJQneWRoUpir7m_niJYUOmCt7hmmngxc9hL8",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "17 Karimu Kotun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.427689,
+                    "lng": 3.426496
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "361d21f04a141fdfa8d36e886ae87568cab39ee5",
+            "name": "The Home Shop Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 309,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBeQAAAHtDj3bddqmDYMhn30MvbBkjH6QrLY9bolL-hIWX7c6qN7YFPyv1iSsJLfP1qmclJ8vua2TrgYgGGVI-1jVULt6S6E7mmpDSeEDhTPgNHufrkk_oGOGdofF22EceyP9tRESXXKN_4-Deg9p4sCzckLTReBzotkN-MT-ZTylDrTN-EhDz9lUB2IsKXC9TR4C8CyD4GhQQlE1sIxWLfJVmRefQfccPD0q_Aw",
+                    "width": 309
+                }
+            ],
+            "place_id": "ChIJ94qC0DH1OxARx3cX9T4bPuI",
+            "reference": "CnRpAAAAMtkmYx_0rsqk86sdE2_p8YFm2nYtpxSUQbzvFYBq4g2M_hs9vOIEtWlNvhPtyzQ6aZ_oCLHh_jXL2-EpGRUq46Q_rcDZlGjzmMC564hO-MRuiwBpzwWzEMWFDCXPt-BnpmuK4h_g9Z9Ob-V5pBnDNRIQgULlfAnkAEFh4EU-GrBA9hoUPnIquqme55qEjGzOcm8KL6NKjGk",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "5 Olosa Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.528134,
+                    "lng": 3.322989
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "556010e469477fa556bc32da6cab763a9362e061",
+            "name": "Oluwaseun Furniture Walter Living Room Set",
+            "place_id": "ChIJjxozbmGOOxARnUM96diPXhg",
+            "reference": "CoQBfQAAAKjWmianVOyontog8xikSWF-0FwIw1wIIdVcrAaK52COeJE-xtor5uOEZH1BDLRkouhlXIjqGXysARzLFCceTX00DQrK3ADRa2ZMQ3ILUc6wi9Nxc9Pr3t7URqffGYuK1GRHdeDzR1zgpqaKEUgoFB20Ra0MAjLzag61mg-V_aAPEhBLHCxOFa53t_8ueUBTjSigGhQEMNUJq3yqwtFDgqX4onYeBxattA",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 2, Aina Compand, Ishagatedo via Isolo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.463114,
+                    "lng": 3.324574
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "e2a59c51d0daadca76314f3b1211b56932faac13",
+            "name": "Ajoke Kitchen Equipments",
+            "place_id": "ChIJ6Z91MUKJOxARMcl1KksW2aM",
+            "reference": "CnRsAAAA2gMbKPP9xxGBDMlvLvSK5ToHkMQmotLbSHqcaKmK8FZgX686wk1AobnlO3z1rIgRioOyiU6JcJk78k4gvlNJtK8fB4yAIboaYksRdal9N5wZvmVUZl3mgB5SgAe_uc8t1fKiyzFiZDFiL4tN7GYn7xIQ_q2wY2n9t94y0BaE98vzsBoU6dsu0L3Ypm0TVHsj7WZ3XvqFxEA",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Mammy Market, Opposite Cantonment Barracks, P85 Lagos Badagry Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.490267,
+                    "lng": 3.354043
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "aa2cc0ee4004131d3c890c088831247be06d2bf6",
+            "name": "Imagia Furniture & Interior",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJEVD91Q2MOxAR6aulUi4KMDw",
+            "reference": "CnRuAAAAWJXeMGNMa_6ZOEllnLxGuk0GmLxDGXKHASDoYDO8BoOEJ5IiSWwR-i4KSmj2uOHfL0zWpUHf4sva6tiu1di-N84Nw1DCSfFOQWcgJf2SAvtdgR9i-Rtfok3b5CnVt7WXHQR6SVre1NUtGZ4IQog9RhIQq1j_gpqoGxKiOUaD_W2J7RoUBMlrzL5ZvRfWsIyiDs6rg3P3aEI",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "37 Bode Thomas Rd, Surulere"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597888,
+                    "lng": 3.366273
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b9b3b9e510890e95149210a1f05e1db2ddae8d1b",
+            "name": "Udu Furniture",
+            "place_id": "ChIJM3U9mUWSOxARB7Aro_cNw5U",
+            "reference": "CnRhAAAAWkP8g2s1bEOqEh6iggkGI7S50-OIYcGuQIs0AOfTRXKpd8mp2Kw7Gjg4xGaFWBqN--cN8KgScWhGjZT5nVgZrKA756d_qVdDVOKs_vuqK55hkuVZIlo4TXqGXxl5FcG1yAYf9aLHa_XSNzK9bKDNGhIQDrV4srZ1x--Dy-WXu--zfhoU1qbzNgbg2SFjtPTM7VRlX2H0xyI",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Behind the Old Daystar Church, Opebi Link Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439127,
+                    "lng": 3.519562
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5f6f785766d64717f098cf4f00957a3dd3ece119",
+            "name": "Vava Furniture Nig. Ltd.",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRtAAAA-hlFR0SnFimyaCxjMhMe8Kj6g4RueVVOGkqLkTwi6vkI7RLFFVcTjss-ehswjxO5tFhGtCeXOFc9P2zRlYoOAX78wNBlSHP4rMtJz1i_l84UHX04z4PNYXJV8f3hbx0WROSHsuNeN4AvYrzdttbHdhIQGJjNOHI28Xeh_5aczKWmMRoUFI8KEZanX9PWMb9bduv1IDh5AkI",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJxZRjvIr2OxAR5r_RdPNrPCw",
+            "reference": "CnRrAAAALtDjie-NYJkq5goqFcWYDzXLIChfeHrsJGCthe3QitF5Crgq6ZwplLkIDNSfrQHF-L03rmc5NwItdCAFL7M-Dwu-kceRAE-NDQTqLA32-BL1YlyCasKwyEby6nu36k10o-yw7KuizbDnCu-b1aOUHRIQKldiDotMEYFHONREsSHsPBoUUlejYFa7WD2rAuhGn4za0mtZK-U",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lekki-Epe Expressway, Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.610952,
+                    "lng": 3.358292
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "9ea794c6ef60c430bd48358be0cee4878090f6cc",
+            "name": "Trackoy Office And Home Improvement Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRwAAAAakNBVg000lhqdMiYQvkHSApHwMGpR1Oe2rD3lioR2575bgaT1GhwazsLdM1QJyoRAIjwijJ0bW3Rv_nTVFPE8c3RsPygvtxn63mJHbk5uhcua7H5J64LHNHsPSWeBfsQnTpxC1TIGEoeywPahrv0vRIQjo8dn7oUWlpfMg_bH5EiABoUd_nVdbv5Y-0ZnVSUcX7lpYbnrVI",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJrZpdvMqTOxARHnFj_NCODSo",
+            "reference": "CoQBfgAAAFdEINUa8_bS98VS18cgzncX5exGgmdgfeo_NEtePp-NMe3Pc9mq-Hjibwgja24Tdcx6Nj3aiYubGTb8iQZeqr-kZjgyzzB6zkCf9Gb-Nu_EJdJ-1Oj0jwjwJ4Uf7jYx6LW9xgkrFHvxtW2DbrP47bU89iqkC4tmy1EmnA0KCUi6EhA5lvEs19uKl0-ongIb0N_dGhRVlDzIzE04zIr3wHV5rDEGYMTQqQ",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Oshin Street, Ikeja"
+        }
+    ],
+    "status": "OK"
+}

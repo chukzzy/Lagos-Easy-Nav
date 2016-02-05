@@ -1,0 +1,457 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9gAAAOC9RebAJ6B0F6q1NIjBG9oUob9QQ4CVjYJg7w_1f3qW_ucsdnXnNYG4NFPSQdELlTi3jeXTsEJCITK_71_PuPRtgJMNAl4wtB6MKhDaKuEDfUtVsgTO9pTBaGvhUVVPcg5OYlMxxaHBzebCo7vMPtALu8i515IbTVRTvYuhAM_Bq7P8BRMEFXwld32DbASsVKE6O9rO9uzOZCStpcmYb0YJWIbRdGCl0iT6wz030Nqv2lJNotbkxftJsvZEzO46vAEGDXCcXQrvjPuOjlJeVVWNVugwrcWbavLnBXN7IqyZweffRQKmDeCBbaNv5X2-D2CrYDL4mcvhmwVGDchXAWwSEOoof_Pck7q_CWMLl-2THsIaFNDu-zYrnDy3GQms9dD1JAXHJG9E",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444573,
+                    "lng": 3.424341
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4b2ff985cad27c4032dd37fa994fa2c5617f5a1e",
+            "name": "Carlisle Pharmacy",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAG1OirvTeY1oov6WLADzTQK_ylOnI6yhvqadNwCuJZS-T4ePuo37NoeZDa-1nNW2Q2h2mqx2WQNay2Q0W0-PCoQdKxIzCVGlJlWRz-uXoI0SKvWl7ZOZZ1gf1r_pQlNw_4XdNxAqpT9hIGkS9bKwm6RIQLnLfvF4WtMXZ534ng_UvQhoU2KDvhTfZKUPybgwhZ7CrSHud-vs",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJMfbgJCuLOxARIi17zana2qU",
+            "reference": "CnRlAAAAohgSghkviIcJNr4_pTfrc41ebLD6VqnXdUf4FHtwailXlSgYfgSughRk-c3NHR_GLYrX-5VOxwDIR78QaOQwkAoiC2aM5eguqFf50GLOmL6xH44_3fZhTVDfYubrVJtSsfNrHMrschfez-xl7uxeeBIQVRxuDz7DuF9Yea9hpOBaRBoUquqkuSqGCvoJh4NRZjhs9L_giyk",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "113 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44322,
+                    "lng": 3.421812
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d0095b5ff1234379aa6343cb42b7c29d0ec45d00",
+            "name": "Chyzob Pharmacy",
+            "place_id": "ChIJXZFMw9T0OxARgGL20XZpc_c",
+            "reference": "CnRjAAAAKzt3pBT02S7KCz1Kz5yAYQLa4x_lX0GnBWIkzTULH3K9rjZi9tZ6ONz7nw1HsAiQr9oNO18ZdEPnT7vGUrzID80S8GYRcbyLA2QNgnX3XLTt-bDYkp4584eUYmF4AyMimwWK0XY9ShOmxIHV0LJSPBIQfUyGa5M_xhvZBify_buLvRoUP0d9y54Ucbkf4Vm0cy86vh2l92I",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 168, Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435358,
+                    "lng": 3.450866
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6784dfde6fb6a0bdcda645bce54ade5995c8ced2",
+            "name": "HealthPlus",
+            "place_id": "ChIJccnAPAP1OxARV26Iv-nRkYA",
+            "reference": "CmReAAAASWItZIAOUAXJ91K6SIG-IBkNPf3PsgrGjmvDrGI-z0bPeu8TeHVGSqMdGbYsar0QQobR-HqvKG7rdIIR4AN8_sj9TSyS9U7CPRmin_NpZsEfWGeVZfFImvOaqPWblfYyEhALoH_XW3bARYQEQcaEJqehGhQYT3lp97GVUv0Pd5rHclvN5acVaQ",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Shop 54, The Palms Shopping Center, BIS Way, Lekki, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506175,
+                    "lng": 3.374103
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6a10679c16a5252023a14f7d7485166478274a43",
+            "name": "HealthPlus",
+            "place_id": "ChIJ_b7AKVyMOxARCH2hRXamVFU",
+            "reference": "CmRdAAAASndVQ2CxlOdREtJCFQskrbv4fviSNUR_3qIg3l-YG5SU8Xj8mhvOhw-uBnJmQNe9fFWu4ab-jAIXiwfo-ZiPkclw8BwU6TjOnwaeUGeZd5DhB68KQKc_bGexDRfI50BkEhBWkD-XB9EKBhUuXAM-Wf7WGhQCHyYIu3vnji2ZR-zWVJ-zM0PDYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "1 - 11 Commercial Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.532777,
+                    "lng": 3.374424
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0a6507363eee01062da8cc20c3a159163fadbff1",
+            "name": "Longlife Pharmacy Nigeria Limited",
+            "place_id": "ChIJJ8z606iNOxAR1YRddDXgQWU",
+            "reference": "CoQBdAAAAC3JKftCwXllsycHVl-058U52ChNljrE-oe4I03YbIznxwov2ZCRrYv7LcGd5qqV5EPMaa7bR1YDLL41ScrWhIFIg3qC4V1pNnbj6OXb6VcIFgRZ7nPkjmMMsJZJ_bof4lmVg-6wDS6cdyqvFOWjnsaymMbk6ZBaSxzC618LiE9HEhD_bTgzgI_O027MdACYbdSLGhSRIG2PC5oczwZxGhW5s111lR3XRQ",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 20, Off Market Road, Adekoga Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44184,
+                    "lng": 3.503222
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "62c2ec40400629f5357a0e4f4c1e7fb6efe96e03",
+            "name": "HealthPlus",
+            "place_id": "ChIJ6d8vD4H2OxARuAuq_xN9Lts",
+            "reference": "CmReAAAAj8byFkmxLt4KBzeXHlaMeFa1SAQi0VLP-2ImsEwtwDdgXrxGIZdSNAb2t17nGCQLqr2N2d13pd235hX6XVqP1CEmhKxS1WpIRrivTBfjqztjspjz5tt2HnbezXZZk0h3EhBrQkzBgV0a2ap8YPqdE1vWGhQoSgEWyOGUzYuY8bnP8sRm5szFgQ",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Spar Supermarket, Beside NICON Town Estate, Lekki, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.584915,
+                    "lng": 3.333201
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9da7ec710f38073ce8d44f580d5bd2467945e4ea",
+            "name": "HealthPlus",
+            "photos": [
+                {
+                    "height": 1265,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAxgOsHbXKdDFP6S7EwHq1S-ENeMzJlOgo7L4dRPdGBU1Z5ZfrvkBwAVCFa6sJeUeCCvzvIW0I0c9lVPWne5SY1e16vTr8NPN_ITH7jewgotP3oazYuFiLE97t5b04VZtIM6fSTQ7mP_Fi0Qw90karzBIQa8FlrcOWFlnq2OFn3s8LIxoUd7jWE11e-3UnZ5_zxr2WlQ7xnSs",
+                    "width": 949
+                }
+            ],
+            "place_id": "ChIJafbOk_OROxARJ9n2Gj5pDho",
+            "reference": "CmRdAAAAaZdAaHtMj1rAKmQvjVufNS2BVOF-czeROjL0noo9L0UoiA8bTxyDcxpr6BLheL7ApP7dYJHiSXhHArA_u53UupehmgyJEFHXB6sGeP_weqJ16Wg3uA6-TxG-yJKrKcgKEhCZkEYcV-ufwkXfuMZaOg6GGhTMxMGND5ojP7DhRySHAIeDXlDmfg",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Murtala Muhammed Airport Terminal 2 (MMA2) Airport Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.58149,
+                    "lng": 3.300304
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "60b0ca2d3c0c7d45ba908e2d41d388f835df5ce1",
+            "name": "Fortunes Pharmacy And Stores Nig.Ltd",
+            "place_id": "ChIJrZKF5cyROxARXM50gHznMJM",
+            "reference": "CoQBeAAAAIV4un-0cnfhby7v0Bv7KJtyxU5MJRkpqQPOApCkz_aWU_O5ExpnDtVjkmoiXzz7iV4tH7LbrhNohJP-YFaId9Ayh4r46UydDLS-WYBd0vYU_ueoI1--OpqrUumfbmMC5kBWBZ_Hj0ywZIwStHtD81klNLqvgMiBgvJ_2mdT1tGvEhCAT5cw7Ec6kifhcoKRjuF9GhT8Mw6j8zYP1H2hTaPqbxMwEd67pw",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo, No. 1, Adeyemi Adegbite Street, Bammeke Shasha, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.578198,
+                    "lng": 3.321176
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f4a14f28d4da993f87c556291a705fb2bbc8b9ee",
+            "name": "HealthPlus - Murtala Muhammed International Airport (Departure Hall)",
+            "place_id": "ChIJj0q0f-iROxARWxG_xO9Eb8o",
+            "reference": "CqQBmQAAAB_MBRwYL2sgDphuANZPwCUHvQDLaO_ILQpOpbob8cFXP0lgFQTdYtwwrfMP3Y1QnZ2jCkuxnhjgHk9vgjdj4ojVa8i6k78T3dG0hckD26RC4SgFidcBgXK_yVvGlaQxrPTmSpNKyoKXHMwKNRPa7fDKrCcA8mgMTHLn6dVUgwlhCmXuwiNVNA0R8rE0ib0WdQRqlGNmTcCubEelFYgMAecSED4ItWWEcR57nWBh5DPvwaYaFA-NlsWUnXf45vEzXujGewki-mll",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Murtala Muhammed International Airport, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44297,
+                    "lng": 3.473461
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "58469d9c245baac89f7ffa4ccae4950dbee3c435",
+            "name": "HealthPlus",
+            "place_id": "ChIJX0fuO0z0OxARhU0vtKg2BxQ",
+            "reference": "CmRdAAAA9yYzjnKg71UaIVOxei0MO7i_OpRj2PBvOqMPhJnP1Ek0zUpWAaco9VUNCA8Uysr725bekEVXdRL0pv8eVB94veflZ8Zzf9yxISGOTEGcTPdg8-qG-GtMGQXbu7mA1wmrEhAvgOKzV3QuKjrtJa6fDNkvGhQhCpueYiQmu53RB-HJujAs2RR7OA",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "4, Emma Abimbola Cole Road Fola Osibo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.561491,
+                    "lng": 3.36897
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ddc9ee04328a01f274810cce902ea63551f71593",
+            "name": "Healthserveplus Pharmacy Limited",
+            "place_id": "ChIJb1m1VY-NOxARGurDMPKF07k",
+            "reference": "CoQBdAAAACRU5HF17dlj_eTGcf3ozWOJb3PE-22rwuaCrUIZWpeQqdYxCbdmGAIfzAJkTy2-AsHI1e18XheBpsjVOWN_1Zb_RUFbo6H2cpthFzaPMPNBsQe6twnaIYhz68IGpSY4axTxqLJ5EG1khQuifrB6Ds20HyMbMvQdeIXXNhCDNhPeEhBPm7ldwxJLXc4dEXt-IJX3GhR3GNaE-3KyoW-Fb7PnYr_9TsRjqA",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 4 Alhaja Oluwakemi Street, Anthony Village, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.582391,
+                    "lng": 3.380415
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ff6501d1ad99e44cf5efe57e52a800fd8b719a11",
+            "name": "Daracare Enterprises Nigeria",
+            "place_id": "ChIJpXvw8omSOxARnEX5IJuGMVA",
+            "reference": "CnRvAAAA7T6rCjB73EI1hv4J4y7tb-y_WVEG_m56AqN2i_33W7FSccRA2GCzrpgIAOpGRjx4kPBNDnltTg3Mc0s7I2u14QK-BQgsVHLjRXHBk_Lwr82kKJNmFwsdqMXMamWIpWjoHNRWM_aWhMd31-tDVWaJ5RIQsqFCOIA7XvoxW2RnLiUB0hoUYtc2kGAGe8liZ7gneuRDTSwfkTg",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 73, Off Ikorodu Road, Ojota, Kujore Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597242,
+                    "lng": 3.354112
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "07ca54c4986e7cb70e2e3fd80ae8ac127764e20f",
+            "name": "HealthPlus",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJF962GTqSOxARcQK-YZTE1tY",
+            "reference": "CmReAAAAeB8PX4J28H2YrjZvoB-PE60QrUBvzIDrvXrvEkHD33JNIsyxKDYG9fmKKKrq-oSTU72S3D-Aut3hrmaZY-Drp15y0iUMxUbKEd0Mv4zwkyZG_RCFc9XBw2QqCqqBJpx9EhAcnXP4qN2xEQJJ_i9S3SX1GhRAXxsiGLyN-m6n9vNRP1TcLq1bqQ",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "11A (Beside Mama Cass) Allen Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.490371,
+                    "lng": 3.356195
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3826f57580f608f103286b78a90649946981fd67",
+            "name": "HealthPlus",
+            "place_id": "ChIJZ3s-qQ2MOxARUpMGPGLb6So",
+            "reference": "CmRdAAAAS4k3pqsC9Z8hmoCAks0-VT453KKE22rB87CzIlE_J6COMDNnNcBW22epb0F400iMypj_uUI7PpfMFyDYk08BT7grjL2diphVQqojYup-GL69Ud_zWhT_C4RzuO2MzOPcEhB9BeW0d348EgqELIeOn5pxGhT-M0wM0cGUazItc5zwkkK99DlCIA",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Shop 84, Adeniran Ogunsanya Shopping Mall Adeniran Ogunsanya Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.603095,
+                    "lng": 3.376494
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a3221dad2a8d0f7fc0aa6d992a674d80016126b5",
+            "name": "HealthPlus",
+            "place_id": "ChIJv0kYi1aSOxARmF9SFpTXIFQ",
+            "reference": "CmRdAAAA40D6_wYJqZSy0AJ2FM00hQ4AbXLir_0zlebmLIHL3TWZaex0I9nYporMZDceOH97wRtUpOdAiGvcrA_IKQGhnB905NZokTV_OExm2b2Ucyhjhp-Nu_5Vg09-kALIIeMtEhAkRLnq2NMkVx6zJGvkkI0vGhRP66ExLB0DSNt2BErL6gZCgr1xbw",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Shop 1A and 1B Oadis Plaza, Along CMD Road, Magodo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555211,
+                    "lng": 3.388268
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "99b913a2011ee171dcf010e82524aeec9ebf9aea",
+            "name": "Springcare Pharmacy Ltd",
+            "place_id": "ChIJBdkUFHCNOxARRKnlNrwQzhM",
+            "reference": "CnRqAAAARkMLdRwutzlGx0AurnnWUy1dHulKodb-TW3g2g9eqPUWqLCDogpIkaqJhnvImz0ejXiZivsl4GqZCepXLpeXmLkgIUm2dIB2orfiRyLRFi0hWVjmYJKm7P5Dh5iHZpq0jab6rnhbsbIxNi_4PzdUtBIQXRjLa9Hs2n8-png6JI4gdRoUeav9xvV142qo0xcl2nbd2hB7BRM",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 2, Ajayi Aina Street, Opposite Deeper Life Church, Ifako - Gbagada, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.549178,
+                    "lng": 3.263066
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3ca076242d375df471ab600e791bd1264c488297",
+            "name": "Elna Pharmacy And Stores",
+            "place_id": "ChIJl3vhffSPOxARv4VjJZKLggc",
+            "reference": "CnRrAAAAUeah-5NbQt9xcyIfZBXKMMHrAk2NCyrFGOJ4nc3EbHhUWJvVK79ECPxN11X5Ngg8VW8h55rZt2sD-bPUC6Ukys7L5HXE1ZQ8M4wX44ykr3SQYhDVwTaSki9mge9qOu9YrNmcYLJx3y7m8LxSikz_8BIQXqpB9-sDn7YaOTqhwoSdqBoUfs9bpcfSmWG5gDp8q6j2eibEexY",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Ikotun, No. 33, Ijegun Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595171,
+                    "lng": 3.352548
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6b4c272498210a4b62ac1ee287e14e57faac4977",
+            "name": "Alpha Pharmacy & Stores Ltd",
+            "place_id": "ChIJseAnvjuSOxAREfR5DVrOaF0",
+            "reference": "CnRuAAAA-hQSnnMUlAWKSncc8W4g3O4jCLf_fQ0hN_k7ibXlDPTr3fUNkDa4pgOC7GLCILVpcusbWZ0ltwSbpzAhVRpV3UEttJM5SnNKIJLbbNkBwydFgxJgmhuyUZmoq4qEBnHwhDlmgoVOgTvFsRdj0VPxqxIQuZg07p6LZP1eukOiSLn7hxoU3i2qIIxhHVowfSy0D70toC-W_K4",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "grocery_or_supermarket",
+                "food",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "32 Toyin St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.55296,
+                    "lng": 3.39232
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b9736e6e59bb552cc5010e0f8e780f8821c048f0",
+            "name": "Kerson Pharmacy",
+            "place_id": "ChIJwTmF-m6NOxAR6-nQCIdF4MY",
+            "reference": "CnRjAAAAEWz_kSl8YPO268oFiGRng-JuQk14yUdj1rJm244Hd7px5cUWwo5O2cyZeLm9kq60VaYAYNSMSxD5V1L7UVu6DbH4Xq2hAmvIf55gHaC6HRte5UpB-UyU8Vyb1Hkf8oQBu13tXpq1sdV4UeUKiO1QABIQCmpqSPtGwkbasK16r0WSWhoUHjC8CB3a4cf0JJOdj5avs2tQWJM",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "3, Williams Street, Sawmill, Gbagada, Ifako-Gbagada, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.610918,
+                    "lng": 3.352646
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "18a94fd7d52597fa5778e73586eb467bab3a143b",
+            "name": "HealthPlus",
+            "place_id": "ChIJNfPpwMyTOxARQZ4Vj04E8S0",
+            "reference": "CmRdAAAAcp9M5dDRIibjnssKnYgaHPU18ucJCy2HyagUJ6JO_2zxuaXFLMCj4Qbr_EmSKqKgMCyG-t6RJQY7jVW3zY3ZQvVZ2HdxCpuCUwPworwfpFnx5Rb-b0A3TT0MRr3GTwkrEhDZSBcxSabVG6SWt-joCGqQGhRUx-XhujnxSt9rMHjYPoOcWcK92w",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Shop L29 Obafemi Awolowo Way, Lagos"
+        }
+    ],
+    "status": "OK"
+}

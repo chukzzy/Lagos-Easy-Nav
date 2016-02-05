@@ -1,0 +1,106 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443887,
+                    "lng": 3.468204
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "6df37c2d27683e601da1762ac1d2888a837638a1",
+            "name": "Geeta Mandir Lekki",
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAARmkOLIWSdo2V1ux-mNXbXdxjIDox-1bbsWMVY6EJ375V6sFVK-JBMlbm5k503UaqjPjmQUz0NmbsFN-rwb2_kFg2LGkjetRqiLw_LLflbvsvbR9CC_-FgXfJcdTdd1fbAyZn7tFlJO91i-pLQYS26BIQeFFIdMaAUuVwmR9azQaO6BoU1qkdcQS60NjEqUu2pQE6LotFc5k",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJB3PsJ1L0OxARh_3-UVAQteY",
+            "reference": "CnRmAAAA6CThriqsk2XnTb3uXgNmUePWSK4Ixsr_B5My3mx8v4IX4D1wRF4z2m781YaBnxMdO15B44WEybkyNkpu8enESJHliZm_2d8gdNgWQa7atpsSXAr8Dkr9mU7rbG-72t-PfTmq1vDtUX25yVkrwUzhbhIQegkrv3RQn62_JiyMjuUULxoU2jHJ21Aaq_RWc_R_qtG9enzEtuY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Glace Anjos Drive, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.674081,
+                    "lng": 3.298844
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "9d4518e593a8aa7bfa73466c14c71fbe12c7b69a",
+            "name": "Temple",
+            "place_id": "ChIJM5Jd_t-WOxAR1gSIXUSF9BA",
+            "reference": "CmRZAAAAyhLlMMBKpgr-7AGRrMSroZtF1_GlRobVg1TViHsNRkAdCWi5eVHuydZWtYG5WeGs-Bow33lxG8nVE2qt6vENGE8QS_Vozw2jOMXXDIcs06VkIYeMKfOskhVFLilVoiOGEhB03lNdFeHSNrLpR_bfOIX7GhQ6n6qyiHO6XtGSSf2Ke9QM2huMEw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.50294,
+                    "lng": 3.382733
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "2433f0a3976fb8a149945c08e88bb2b2a4292767",
+            "name": "Shirdi Sai Baba Mandir",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBdwAAAKKg_c9nT68birVPyV4Pf1khHSZcTNV9vcup-5OPwHspLOxZL15JfyIma2pTr_NB2uqPQ7ltS3PkSjLNuc_lK9QDb2GThs-VXgNzLfggXICxuUZyDM4WPtVfc-0p7s4Ol0pBWxYAVyVQmmF3pVbIZbf9ncbKnQmJqgNCMT-AkA1VEhDXTFKeq-5U-ITGWfKfRbEKGhSQ8OSamgFa0XwVJ-afI4AfnmaroA",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJa9qBNIuMOxAR3h4ZvVJVQi8",
+            "reference": "CnRpAAAApOYWXryKehQ_SxSmoFk9FX5QW4T97GJAbmoLFuuW_Twe4VG5zB9amnZgp9oL65TEVaRJxN7V34xJxWHVLiJgDC9i2GolMo3xdEL1aGt5P4-k_pA2rKEqIMNWzMqHW7Pi2N5cR8NKbPlSl2ncd6u3XxIQ1E0iwpzCcgQSy_S9VX-ZFRoUMtITTlsP3AgDHmZaS1-QXK3OjFo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "98/100 Oyadiran Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.675637,
+                    "lng": 3.302502
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+            "id": "408caba0c87743c6f8075be46f046d1c700401b8",
+            "name": "Temple",
+            "place_id": "ChIJt65EwOCWOxAR_d80VNcx6U4",
+            "reference": "CmRZAAAAYsEVix_0bvS3xtOENjus7CFIOw-bqGroTto7Mdzgd3s82n2kNI0F7JfKGTwoHcNgRhukq4yIS3lF2jnZVn-RWFtzsCELxiCyhcwwmLpwhlFcAMIESzcSXCuyMMFkc9JiEhBqB4A0lc6OPTX0EFmsaRI0GhQlJ4VbeSSj7wNwd7CFkPsWfgWfpQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        }
+    ],
+    "status": "OK"
+}

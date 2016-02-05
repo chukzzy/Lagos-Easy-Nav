@@ -1,0 +1,541 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_AAAAPl7EskhmRTEgyj5egFB8DLPZWjAUgdFfk-rIhrKS6c3HEbowQor-QGVBhZBgHJgpc_PahqLELaEn4LodMmSXBXWPue8zthubNnFM9b8iO4fNVrhE897tPVuXQMD4i1xG05Xm62-5AYRuSTlvoayxSpAVrwtoylTKd4mctd4o5XthAL5PYr2Fc9dPzByhMneL73sTiaNloHj-5gdW_UNyt7ze6To1ArdJjlkwJeBsWc4W0DMbyUo-SLmYryUsKW-PLP2abqUHp29d1nZWCg9LVVypRwr8nTDYLaSGxYyk4eQtyKwF3iwpf1nQyrkaVkqCa6pDeJtJbz0nF5R0yHha4sSEK96EYZaadJS7tix2SdxaqwaFJeIolIdI4-wqPzu2D8E5MmXJXle",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.533756,
+                    "lng": 3.348188
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "141f5db1db4d21ed0c257747efdde8a4a7cd9274",
+            "name": "Adjazest Global Resources Nigeria Ltd",
+            "place_id": "ChIJxwSiPdCNOxARGswcxwh0WE4",
+            "reference": "CoQBeAAAAGw_W-SRfLkqL9Z52Cm7qpo4w76kd2MnoD1Oevoz14etPsbxpZGfxcamJIyqYiK52PQmiiqkytZW5GU69r-2iOsJY-MyyHMxpZ3Nm4TV5trxRoZakUmdo3MN-AgaPQiMCHr0m8QItGsRPWMinFylY3HOxEOMJ57oSuV4C4FcDGhxEhCuY7ZnAABXuIPMyfDli8FYGhQF_OnF1GcaFYm5UC1rbK3QHtPHvA",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Sporting House No. 2, A, Ofada Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455294,
+                    "lng": 3.432039
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "0f9e07677d3266d4d5feea669e5c0917920c1c26",
+            "name": "De-Computer Xtra Ltd.",
+            "place_id": "ChIJfU2ufcb0OxARrGvwt7B3zSs",
+            "reference": "CnRoAAAAMPRORECwXsnakkOQdST5sp8_VAbfqXVeXAnPcGLRv7NqeXpCVAvcLRX5n83KE-Rq-iUWun15jjRYL3yCMizE6xmOb6GdqWgIq0Ot1l_8wcf5qDgsg-DvWJ74nIcsMO72EJgiNivFoHgs2-2PKz8TABIQRucOfFJzn5vw6f94NYFKIBoUebhqmvu9pqjTiYI1kh0GbjQ0Ptw",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "35 Awolowo Road, Ikoyi, Lagos, Nigeria., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.551885,
+                    "lng": 3.337009
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "9e8c0240656eb019286fff98b60bae346046fd38",
+            "name": "Goodness and Mercy Technology",
+            "place_id": "ChIJPRL1jwmOOxARf_SWY6xu-10",
+            "reference": "CnRwAAAADuZ-gL_4jSN4iqxCKeaXVuHwiCyP4YUVH_ZuDKQ_ZLeNk69bQZpF3eUwrK1TLuHpnWp2COsVtbc1QIfJr9Zbjv8GzJ2rQ5HMmWXq_2PtXTzr7p7bZ8qJSHFZq0kEXiz7zvX7_6gmhAAZZSkKqHx4xhIQKLkY9Y0hLYQ4KCTHXrWechoU1Wfkl_0kNHBK8gSbrI5NoOx9QkE",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "8b Otigba, Computer Village, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599794,
+                    "lng": 3.36545
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "47c14751aada893db905e7e156fc5dedec0fda6e",
+            "name": "Moragof Power Generator Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 251,
+                    "html_attributions": [],
+                    "photo_reference": "CnRoAAAAsJzITRaMTCIPu4YqDck1_gvccx_ofIWFK894NaQXqVNcT6mWNDgkQVKbqS5ttG-IZZN05R_6qFifjNQXXNvqR8iwS4R5MqMiKftOsplSPDYlIiJ-eVA75UfxkI8Ia1Te819TomwZ7bmB_Xlgu2EfZBIQQxti7pct4-1guZx3ClOx9RoUThTgWi0PuIqeJEcK5aTJ_BTiGIk",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJt05faE-SOxAR1bz4nPiXVUY",
+            "reference": "CnRuAAAApByCqtEKKB1MSG28iKb_OM7cq1XAu-4fpDH3v8lUgYSPyxGgJxhOQuO4enbRlfvJWB7dbt2FxHLrmBG_fJL29mS1imSW68WB8uo5vCFRv6FbbodHj4S_-PQ-jAIW6nGW0L7sqFGcHUXWErRwp1kUqxIQkEMvUb5qzs9ohSr3ePAGdhoUpRmEDclUDO2ddaoQq3YLqI8zeyM",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "50 Kudirat Abiola Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593735,
+                    "lng": 3.340048
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "e2ae92986648d60ebbeadf3dda4ba2df36b2ede5",
+            "name": "Mastertouch Technologies Ltd.",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 902,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAA9VBvp09z80-cUhfUMMcxHuDzLpC6D-ed8IxT04awyUWS9kTgYNCFX9FbSvQiDua4XNTvOuFIF4ETfJVkbEnakeMD9qGqv64Ho7lK_51Gk6AtgBZv_JAwGAjL6eq3gljlSbNVWyDz1EJBS6yaf1qdOiaD142DTTfvuq5fvn4OIREhBqJefrei-r_iAY6yLEfLvGGhTxjCRHn4PbPzWozpyOl2a81T5MLQ",
+                    "width": 902
+                }
+            ],
+            "place_id": "ChIJNZrAtSCSOxARb_U7_Tb-EOE",
+            "reference": "CoQBcQAAAMPVafaKD-vKR_UGPG1a7s1du5pdL1GTptFwdno2y7sb5fskLUWdAJt_unkvJX7MWVBAth3-GmM5GXKxMrfjO71spjptqYsEMx8Q5Y7AL0vtvGb-WrsMQq3g5za-DEL3seNjmymjFjiNmfrgxhcxmH_t5Oqyc6QNFDWPvKcyTFiiEhA8cYIJgB7UomGOidnQzd1zGhSbmjZaT7QGPLniN7NTCoRK0iM11g",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "general_contractor",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Francis Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.548824,
+                    "lng": 3.268465
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f0dbbf39af321f69fca8cecb04fe1ca68387352e",
+            "name": "Mercylanda Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 288,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAIgO6P6YvIEMKjkv-CdVquyHSszNE2L9qJ9nIas0EBTFtyL9xtHBb8BRB0Z90cYMjbxV_ii3GchtoMmmjxcOrYrHmhrZ1w8w-fjjYpQAxi0P6UFSHSMskvoRAW-kEOaD9uJhup6CWZzawOP__18A7iRIQQ4zOJ2lwcv0RaJut6vn4-xoU_atE7YowVxMOZf4_1SSHmcVqB4c",
+                    "width": 432
+                }
+            ],
+            "place_id": "ChIJ9ZQXfu2POxARU-plosGPNXs",
+            "reference": "CnRpAAAAODLb-kChCNtgAc0XuhdIPrMIQjnjwyN5akRWMGLlwUiomOtz9KJm7yBS_Un93GI9vS-LyN8FtUXzMw1goXaSdof5N2VvpYgRDmDRVtquYIY5RDz0fj1voGYCFTVLfgIDAE1lo8lH6c-5FwHBf459TBIQx23mkSOr7J33I3YC88iPABoUb0qRDkrIWSKdOdpRtOXB46KPOWw",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "jewelry_store",
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikotun, No. F 55, F 56, Jesus Line Upstairs, Ikotun Market, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.616548,
+                    "lng": 3.362364
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "624adf9268cfd57fb86c9f285e841246379a14b4",
+            "name": "Lulabnt Investments Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 855,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAGUQ3e3_CVr-zy0uyr9oG16gZSR546BD2_wHyfIKQo_tMVbWhjXwx6aO_aVHQjMjA8OQwvsBQnblCdN4Se-h-2fQZNLr2o4fm2b1aiFqffNrM1A5nzCWZzKjq4NXJgIg21tfaJvAcZu26QZX0xVvV-KLzT6yZMLrnd8A1fh-udYLEhBOHiZZP3UcgDC3KRZIz3tHGhTkGx5q507VSnqwTT6IIZQ3ARyw_A",
+                    "width": 481
+                }
+            ],
+            "place_id": "ChIJ_xz17LaTOxARf8MkJu0vyt4",
+            "reference": "CnRrAAAARblWGbmcmThhg6DXvum7cz2objAWmSXQSLQEp_1Nrg9LfRU3rsPzttu3pdxpMN7pT3kjV1UhKzrlf48J_Ai2sZR8VnwRD8p7NeeLIE94RsWqul066cABQfp4ytGs1cA1kUiRUW2eCwPj1l7atHnIXxIQxeofblBEmKiUcFVUU-ciIRoUFXK-AGtsmsWmh1VK69CzYQ9APVo",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "29 Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597169,
+                    "lng": 3.341346
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "78a1d5bf5285a5b7fd03fdf893d67c751b98734a",
+            "name": "Brownmark Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAANAxrLF_bYnmNDafR-jQfBdt-1wUoVSxcZUQXrbaSIOWXW12ESUD2S0wTn16DHhHAqpIdO8cdrTpXwxygZwvaxYiaGuUCQlAUkA4QQnpM86jNvZR4pEAIBAoW17328pSMoo4MtvVpmAim0jyw1EeeTvnZjK9iTiFwGgFX1n5Ql-jEhDIcZooaxe3hE6qI-XAIaKLGhTB6cOu-29GXUD7mCFpuxWKMLdV-A",
+                    "width": 1198
+                }
+            ],
+            "place_id": "ChIJXRhBrSeSOxARn4-E_8wtjeI",
+            "reference": "CnRhAAAA25uvZffatYDoxv76qH8ZG5qmI_CKu-0fnbFGrqQVY2H1exC6XWer1-wHzCn2LepY8G1VPUUaCiIyYHsBT0Id70DCrcMlOjU0WBHWTtP4VmtP5uNhb9HiuN8T2k5_jUKx0z5EY0a9OxuRKUzp8PpOIxIQ7JnaNoj7HgwmdpIIU-uxYxoUxfjRZAfpTr6zb7cAajSdCV9HMbw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "27 Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.630811,
+                    "lng": 3.316641
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "ab3eeeea80a9103ac082f4119d7fcb26f3249a44",
+            "name": "Innosoftware Nigeria Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJH7WbcBWROxAROnJWYatSzPA",
+            "reference": "CoQBdAAAAMvkAReuXP2RBokqorefZhyTBtCa8757dtocYcAax7GyasUmzboKLI6qHPX6t_4CeJXN8IAH7G3MmjWeaKLWHDSkOdff8E9l3ZFgcCoBPg5lWcJry8L8a439-SmsEo0WXnayztvVSc4c1i5LG1JxnsWx_yUTC4tmNIethANySBlEEhA2MG7ZjRfdEyzrTwz3PZRQGhQlz-QTUO_Of6LyxwSbiUgkgenHVA",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 5, Aiyegbami Street, Off Funmilayo Bus Stop, Orile Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.643308,
+                    "lng": 3.361985
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "9339be0de52c6476cc079db566bb1549610c4420",
+            "name": "Mc Joss Enterprises Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJdcoJoo2TOxARjHFeT_GSd38",
+            "reference": "CnRqAAAAPISJQxD93pYN_jWn3Ejq8zZVH4bXRw9xqJLoht_EcHM4G9_0W49getE0QBz10lurfeSn4ORl8GwRBsVOA4wrR0TpogjTBecnKFPI82lqbdJ9i1d_B07M8NqLWsCtwx-svNlmPn5eL_D0RdH1uU63VRIQ_pEMEfdtrVb8UlrM_ua_WBoUqD_qvDyPpWrKGvcEPYwSigYPv_c",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ojodu Berger, 91/93 Aina Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441188,
+                    "lng": 3.417931
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "2a127d5fe4bf97e710830fa520a615a504bb17c9",
+            "name": "Elico Divine Venture Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJyUhH5CqLOxAR2kAgv_CQhHs",
+            "reference": "CnRvAAAAwVryofHhp04CZulq4YzasFqGxp9NOqgtZUaofLrYlJjmXWgGygVGTZkPfhwFFNG0YVjwKqbDOnOLyi9vxp5zJlkDPg1D7zw-DQRBawwaHPlyBAFkRx_cGS8tivRCFWDMqHM-JWN_4p2Ip5wetCRyxBIQcXHF6Ri5SexYSHH-S9iCiRoU1uPBwrZC5QWLs3y0zfcVmg07s0Y",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Block A, Shop 6 & 7, Muritala Odofin Shopping Complex Agungi, Epe Express Way, Lekki, Obanodu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439488,
+                    "lng": 3.461617
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "62790aa3272ddb92e521b771131de5c5b876eb95",
+            "name": "Trinicle Nig. Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 251,
+                    "html_attributions": [],
+                    "photo_reference": "CnRqAAAAS167FQztBgkqnp7mTjSTX3zDNMKnoAoTxzC2Ji4T2ImUjYCjSDglp-yoRoYxGhY9No4uY0RgLOL2F9fXaeLnJ9opmO8Rx_dDHuj8-nRMfR4X0D1sB9CETRw9SCNir2c3JjfZX4Ym_buXpHS0KLovUhIQcv5_PalELWgU_3QG-YLPWBoUTD8v0Va9wmOB2p5kz7geqj6vn0s",
+                    "width": 251
+                }
+            ],
+            "place_id": "ChIJEzdMOlX0OxAROgdvT0_CLYc",
+            "reference": "CnRlAAAAffDfBh8AQZFI-F8-XIhgRF8IKdAz_lpu8nEZUJqe2Dl5J06F9jsOJXxoZxScyks2G-4XiV-gnFXZhSTsNmS6dKXqe4bDDob49TKDZbIGcGPFRg05te8RTixyMtvitOfMRcFIjGdWU0tRgVx22FcP-BIQN7F8I7a2192MdJdHTm1lKxoURZps3okufLCD6bpayJrDl7i_60E",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "John-Vic Igboanugo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.53628,
+                    "lng": 3.353494
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "9dc8d64463ff7286561044e84267fc2e85bd3e45",
+            "name": "Iya baby Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJgQpo5sWNOxARUv9dNfxF268",
+            "reference": "CnRlAAAAa0oMd1_kCmdXNMF6AZM-aoioNnQDtxATnlkFeT0pq7GaUDidQho6RuHUX4YYMprbfc6_NJyr8YYzwzI48MB1NheK0Hehsk20RGXmY_DTb9YP7mDGA1ctqOu-nO6z7y-pS5wWNiCQ_Skq2m9xweBsUBIQA_AF5HZIZvQDkUY3CW3AiBoU45gfc4y6GdEok91HK9G6-1dPjng",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Agege Motor Road, Fafolu St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.537629,
+                    "lng": 3.355234
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4897e534f3a823ec0248b4d68c6aa005b15f9ab7",
+            "name": "Bendon Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ0y-aYMaNOxARAf4GUS9KBjA",
+            "reference": "CnRiAAAAL6x0kiFP3S-7C6PE4ShNmwv47_MVxUjZwqKjOyZhqL7YRK_yvsWUMTmOrr1RqpcPVD6mFw9TvHiWq_CAIPR3AzmcPNvy75PDJ1HWqoAwIEG3CqJB91HpGCffHXlNyw0mAk-RMPzR7ZEEAnKTrn2_DRIQk3SOWme9OgK_0nSJ7aqKRxoUPOzit1wbWd4Nh1guFVX13dXF_SY",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Fafolu Street, 70 Olorunsogo St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.619736,
+                    "lng": 3.325652
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "8a1c0151d580227b45180b722dda8e8625a69917",
+            "name": "T. A Salaudeen",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJNbL2xXGROxARlP2D3vaHiT8",
+            "reference": "CnRhAAAAZ1FzvJQIzmFU5uAuRdwoW9-DcAr-r0ikHMAfz2U_bkCVQnaAl2ofoiYmUS-8tLJFKNHEXHI_EJaQIrdyKl_Ru4bZU5cahSR9RuwGJXE2mbCaFlyBG0y4sv50bnOjWGgMSEPraL9R4Z1XLz6psTaPxBIQVDAuYn7CfPzRCWVMqkqhbBoUFQL6IFmyevmjSOwsiuiQnhWtTug",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Block, Agege Main Market, 2 Ogundipe Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438521,
+                    "lng": 3.516889
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "74775f9e2da28c4006b2e619bdde9f7e30a4300f",
+            "name": "Sectronics International Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRsAAAAVb_4dMm0l92l0oOoWKnJgfmFtVZpuq_0eIh04wsblYlRgugmGCwIUy_48hwJn6RawY6PV5wZ-NjW8o8IHk9_NxbeLREIiySxYFsDX7rty5Bn22JexEg0na2I1yKqiJFd6vCxSFGUBA4PCqNBJ2k_sRIQ-A-tI-L3JbfeJzG30GCkExoUInQ1p92V5PrlvzSl-FYKM3ly-zM",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJiSLudIr2OxARovwuU6werVw",
+            "reference": "CoQBcwAAAHZGBVY93VXQe-4gzKvDfCfIGbOHtK4MtrFB5N8zdfYZ2jQKb1td1Zqe9Pw9u6Q1siySjHc3JfCbFrCTEAOruJX-l9q8hF5ETyUDnWxYoAtBOdhF9bP75qE8KlHw8Pb84Fgk5bMLf6xF1CboyaTFejWIOe1m4rJp4DkGp3K7o3qfEhA9Zg5djPZETI-LPF2GucFPGhR41xy_sUihs77BTzugctKQRkuVjA",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lekki-Epe Expressway"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597246,
+                    "lng": 3.34134
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "9dec5788588e1c3419f16bec3a7599f44a9fd77e",
+            "name": "Folly - Yem Systems",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRqAAAA7_7d-SA-eOe-0f-d8dON6dzeAosVnmsNNU7Nji-E_EAiJDw6GSc4lDxCSBp_YsJEcN5DX_GfpDAwDtRIcIRM-nhe4Cn4myZU28xVJMQRVz2uEYit5pAeCPqOkHm5BDq-YzuYs50fff7eTFsIU07RlhIQnz0488iUg6YPuE4pvJx1bBoU10UKC-RfZZk0qD_h2NZOGKKcJCM",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJOVygsieSOxARcfv1KnppPrE",
+            "reference": "CnRnAAAA9ZcN1yODZvY1EtpX0DZNEgIyXBnoQBi75XO4KTL70p_3Yj1eOoocFCGk_FjcFbs8aiVHPMmZi59igtd9RTmy58w7_omMqUieojgjHtl7ys-ecYYBU8lO19NALj1YfP3fEReQsMKBZdN5GPaECckTVRIQK72anGG3j6oW2ykWMJi8WRoUY21m4BFZ4bKPa4RT1MOFHzb6opM",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "27 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.609086,
+                    "lng": 3.354373
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "b476dc6ce3046bd57dba282171bacb3fe31b68b7",
+            "name": "Nadico Investment",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJpzDppTSSOxARV_smMIEGQgU",
+            "reference": "CnRkAAAAonxPq-Ej5EvWKaFrjaxH6VZsqs4lZN4ZU5ZZHhcn8g8BBB8T0RNw0dkElLosNsbu-an1l_nNCh-gCJhDZI6QrHydq2hxw2TZp7wJARKCYMJ7qpe4aN8GPQWQIZ9SFgeFIeL_DUHlINRXH_78kz5bXBIQBNIsle-3LxjxXhQgn_oouhoUzrgvCzbnfmQxpn4Ias95IeMMYBE",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Oregun, Kudirat Abiola Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597735,
+                    "lng": 3.389586
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "3987d598dc158cd0b70b7afd7cde28430e948673",
+            "name": "Mr. Lawal Azeez",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJuybU4O-SOxARUPtZUxNJo18",
+            "reference": "CnRiAAAAa11QGu4bYO0lLdH6UI6biDNIG4zSJYkgQjAETX0arKCetQ7NuxqBraauqUQisHDg-KU3T-NUXP8RSCDtgWX7yhGaUS4PFMuaddh-fsdWFc1MZxEgP45h9nvu5l6ioxNRHDm8Z5EpeezOz_EvMxQ8yhIQ6ks7YMtmnBirJtDADN_d9RoUVnRydTqt7-r1VV5i1SmDNMqILIw",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "1 Alh Lawai Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.657354,
+                    "lng": 3.322363
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "51906b747bdc8b133d87f1117087f1618978288e",
+            "name": "ATS Commercial Enterprises",
+            "place_id": "ChIJYzDWPLSWOxAR1PdpoiJ0lds",
+            "reference": "CnRuAAAAM9z3FmOU_AEgySae1hiz5vzQOhIJRLIEDgpv8cG4ugudldMj1VDNPP0nOY3EeByPuFdaAT_2YEABIuF0D_Tq-tVBPDLkbuIcFpt3Yt5hMQhiia9wrFSpiKGECWOTjEvrvvMATtFHFK6_wa411HHbARIQqDfQ0ONptejWZZUtimPcixoUYRzAin8GAMWzB59E3ViditLyG4w",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Iju Road Fagba, 3 Jonathan Coker Street"
+        }
+    ],
+    "status": "OK"
+}

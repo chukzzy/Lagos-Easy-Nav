@@ -1,0 +1,487 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAAAu47fa_b_PkMouhiqgJCueNeoj_v0g5qk_LjrPzhTpHyg4SFzE54WnXynb2thIb-m_mAgrZb7f_0vx4MsJfPvFd4DpnMDz_mrScTNajty9SyCpkaNinizDMvz41zln_KGDmow2bLGIRzRgQsz8_FOi8P0LHvNFDNztVrz_XFMe-r6NNx4-T0cqW9jvP3WyWkrFp0MFN39kNzlHDdpiaUoPxLWp4YqljG3Kx0J5FLYhlw-vW0b3qjn0OnWnx15fEyVW3bcHH9REc9xTRrSuuy-px3Y1w1AkecktD3b4N2fFO8EypixAl4URNYZNxMOr0hYPh7s7bj7pC_iCdbfU-SFQSECbuwJH12ugcNWRrHz2jD-kaFFnS6wGpFkxMd5nC0PNSGxXPYUc8",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45087,
+                    "lng": 3.389998
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "17627bdee4efba746dad97a702ce446936b5e62b",
+            "name": "Cathedral Church of Christ",
+            "place_id": "ChIJT0s8FxCLOxAR44wy8qw3g_E",
+            "reference": "CnRuAAAAz6hdVJ4PbXaJ-_DtA48OmxUo3pe0sENsDm83qaC8dCfaoi0nNSPJnnSXBshDubme1EeTwgrLoUr9x_kuL6OCtagN9qXPBy27UYNN-Zq1yZ320OVUATt1UreH_Zb0lbtonMKL7_6Bx1puhXu6fPJ75BIQgoG1FnryO6i2ntD7I49WGRoU3cFIw6xvZL_Ucc29AchoIImTgbo",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "29 Marina Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430655,
+                    "lng": 3.443051
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "375f9dec221174ef2b91395b4329d3ee9fa87608",
+            "name": "R.C.C.G, City of David",
+            "photos": [
+                {
+                    "height": 1268,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAHTzZ5pFA-a8PcBmpYo3MF-6doAOivKvku6Qb1UdEWpalgZaebf_XghVaHTIN_y2w38HPhXxG9pCqvaLgp9c6xyvkCRXeOyuZBUmWtpEe9D9f9q5E8mOwc91F4m8qhbdAZ0-q2oTu2eBhQEJY0U6SChIQ2_yxjgkMtnWjQx2khXpfDhoUVCydDRGrm9xI6vjaCZo8K3pebjM",
+                    "width": 947
+                }
+            ],
+            "place_id": "ChIJazuAqBn1OxARlckoFPV_7cw",
+            "rating": 4.9,
+            "reference": "CnRqAAAA3X1dv6pM49WmdAZHiCubRmbzrUwC8O2XEnEmamkL6usoCWnDv_94EOkLF1q-zhm0HKH71SEYtThVjg3DUOXTwCB-qDos3il2LTtGvrgTVod-JjiotK-1cdDiW4_RFQAStZZ3PuqXjR7pvlq-epe0XRIQ_7xYktBh4sH3INxJIiI0lBoUFbl5-lDpvPvoBtXdDhOh4o_wE9Y",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, No 1 COD Church Road,"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.546724,
+                    "lng": 3.272789
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "443d826512d4411ccb659aed6bbea1396629af83",
+            "name": "The Synagogue Church of all Nations",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CpQBjAAAAKtsBYPs_ej9BCAg0YiuLyLsX-GykQZVEo1ANahDlmSripNZ1EQVjZC5_srvxJDhUI1cNwmvK55AVgdQDVK53MSmNqH7vK9euNcyd5m04hKc5FIyMrmyse3rorlAGLUdkDHstYqnDP082s61aPFPAM1iyx83EUlmRM8Z8YHypy-usgF505x-cIZ6ugaAcqdMaBIQGi0NcqH1P7l7itfVmcErVhoUwGrmOH2RmZ0fAd2Cebg_cRf-KI0",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJUxP4seyPOxAR8TQp5ZOeNrE",
+            "rating": 4.7,
+            "reference": "CoQBdwAAAIhho1fkXmuL8So72ecW7PtZemQS2k3--x3kRMDd3RqOaQBD0tSyCRQhA1tzzFiAZ6cuYFr5BeftjS2fU1YuebPerIeWH0jBZdLXqyepKaBHK9UqLxcoGPR5HeRXJVFVhVe467e2rTp4OOYEO6dtrIpXBEfzq9JMcs9DIOzi0odgEhAW9HWaOLyHN1_9N276NlZQGhSq3WAWd2Pla_iee6p9firWOWOusA",
+            "scope": "GOOGLE",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "1, Segun Irefin Street, Ikotun - Egbe Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.517528,
+                    "lng": 3.369455
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "09bed95bf06926b63e3adcccbf1db9c5873af84e",
+            "name": "Covenant Christian Centre",
+            "place_id": "ChIJK5ps21GMOxARje7nMU9Yb7k",
+            "rating": 4.6,
+            "reference": "CnRtAAAAJ0Lcm8YRJp6MPAHLcAI_MbHXweD8mXk2Q1XMWLQEN-uLW46ChJUdm9hP7FffJaxkxBMVB-v6J2fGRF_xlo4hlX9Uh5CWEkGm4OvNTrfjHQeFZexvvZLQKKSREaYccqEF9eak5wfUqwAKOYLoTzkAjxIQfOioMMKcVTSi2u0f0hdBVhoUTtrhvaBtncSfWIyH0omkrjs7OCM",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "400 Herbert Macaulay Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444884,
+                    "lng": 3.426763
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "f2c29f9b97d59d769e1fd1d18790f3454af9fc0f",
+            "name": "Church Of The Assumption",
+            "place_id": "ChIJuztYL9H0OxARuC0s7Fs22iM",
+            "reference": "CnRrAAAA6UYGtG1hr_uGOIEr8N25s2fOF9USnKnH99p3vntpab7JRknVcjJxQy5HYn4Ws1lq21ixs_UwCz0wO0IECdGrVaf0k1vfC1zxDVe-mK73t01YBpyRpJvcri3H2PfumPkbcEHrsFxfV1X8fZ-K34sxthIQUejUz4TtqcVIWdNuPx3E2BoUni040lBE928xXbIZqOSta1ckSzc",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Falomo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.515396,
+                    "lng": 3.319588
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "aaf64b8e26d7316d7c9068a24bb0423ec8e58a8b",
+            "name": "RCCG Cornerstone Parish",
+            "photos": [
+                {
+                    "height": 374,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRsAAAAmxlv352WoIA5qKiVcSWaSxEKAb2D1xVqSJVL8tQXmBIBGdtToXad-2ERvzbu2IfXwONbCQL4NBlLTsl-MKINcC7gGx2M8IQ0lVNHkz9a1rs5yFaRDjtHWpODrPNe93JoCR2A0ZjgfklGh1I2HaOjAxIQEoL6rC8aYpme_8qbSjiscxoU4xOIdaFltR_HqT_au1cNrohtqX8",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJL_mSZY2OOxARsLLS8C1JNp8",
+            "reference": "CnRrAAAAUAlgrwpXmww6phBz7ivlHASPg3Cj6DdS1v_c2tYdZeMImrMFGE3Q8ZUGQ9bt-fj-94m7u2DXH-01McMp3Nne66Z038BQf8dLDsw_mbgwdRqzWiAo0BOC7Nq4UH5pJu1EdH4NEKIlPFb00buu07EZixIQrFKOlsiBupRdau7wRjQPYhoUuf6sh1C9O3P2M3cnB82TMfyBAiw",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "126 Okota Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.605466,
+                    "lng": 3.275378
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "f030f811a05f453f55cc04ae8f8da25f6ee7d813",
+            "name": "RCCG - Court of His Majesty",
+            "photos": [
+                {
+                    "height": 943,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAe2SaRhAYO-4DSQJRxSv0iK4j_03PUZUV6vq4uDWQprhmry8wdinUNviO5U0BN3tVxVUNurWSWJoFhjZBGdHjRrFB3QEppB58mSWCNbxnwaFTtbhLw6CpBFrSb_uAjmVsXOFfagqTNTSDIy6_CeiYVRIQsLSPEjZaYSRvGt_0ETReFxoU62-MLyk0r93mjW6ql0JjZVkmiXc",
+                    "width": 552
+                }
+            ],
+            "place_id": "ChIJNf3aLWGQOxAR_A2zSlrrmnA",
+            "reference": "CnRuAAAAkbCl-I1iiMp53EgUVBN0590scKZUetU5MR5rxxmuyyjFAjRQtQJ8DU90NCNHDDCj8exb7Jed7IVzLmON1gdtNIhRbbt81mZUrHHk66wzB2GpkBd859CpHIgM6RxXOnquROZYqJBMrLFxSvOwCrB4ORIQTXxNru0w8ohUH2Es3o8D7hoUUTyC6C1zoxcon3zf-zLiZ6iRZvg",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Ipaja Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.611067,
+                    "lng": 3.503823
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "a76074ae41425fc1a561731361604279c372c410",
+            "name": "RCCG Overcomers",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 230,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRvAAAA4n5L0fKdL2uw7AhmIE9nCK9iLwrrURvaXLaVJ5iWwtaRLCmdBp3hHxcAqrOjXjWGLvRY4jGTEwwCIYpnPC_4JHyI8poYQ1P58m3KrnzmW8EU07GfbZ-CcR1_u0HDam8vn15CYL6Q2_QW9sO2dB8tUxIQc3Nb-GUcjWVLn3_C3CiQPRoUDNP5veprp9iF3Wn3LS9Pj3SbrkQ",
+                    "width": 236
+                }
+            ],
+            "place_id": "ChIJ80Wn5oDuOxARc_mQUjJwQ1w",
+            "reference": "CnRiAAAAUagKPj3GBhPAKdXQvvo4AJMWmrjxpwyep_diYT-w_o6GtqInOwHXZ5tVj06XOead9uBITWH6uA-Wdqf-izzT3H_OCunCPHamWlNpnCLfChcsx9aqE2DtY_yo6zAu27QdaBjESb13ovPnBi6TfVKXkBIQapySBHIU6-EduxpfHyo_xRoUtRokdW9MgMTi8xDVJA3TkKJlACY",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.552234,
+                    "lng": 3.29599
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "16b97ae199f8d1c47c300df55489d44448b75b82",
+            "name": "RCCG Emmanuel Sanctuary",
+            "place_id": "ChIJB8TMYsyPOxARRW0B9qv-S1c",
+            "reference": "CnRqAAAAgNPUL-tc9dY1jGlovYn_nAKKdr46rlEH0DJvXvsmxpSrV9v4OxsQ4wnwOoKic1vY53O_OuHJBGozP1MYajboEiUUORRT_MP6Jq3zEa0phDbyRCU6BQvF8SW54Q_54S2C5QfiqeqfdGUPdVrzRdO8PRIQDz7jirYAvWIf-9eJepJtwhoUTEBiOwt-bujxK3WYenO3NpoYU3o",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "No. 16, Joseph Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.649066,
+                    "lng": 3.304966
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "72086f88aa54ed1e6855a95a7413d22c05da6ac1",
+            "name": "RCCG Great Worship Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ57-UQSyROxAR_Rnx9pGX-cA",
+            "reference": "CnRtAAAA49L_5tdaOfBNfo6Kvv99c_px7K1I3FDIMO46fpZosemkIdJA8RPzLBtjR0lc7E2oVeRyTgsa1ntT768_vMHxcZLuExuOWrjpnA7UiZiVMZxp-8hVJR05FoaS-haukJvzr3xALoLkLvu6GEAZ0068NhIQKa8J_dJ8a8LT02rFCRBTQxoU9NJVGSUn_MgL3PsZ0jyfCE41nfw",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "A5, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.617909,
+                    "lng": 3.376869
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "19600a66d3f17191deffb0d76f08f49928f9b6fc",
+            "name": "Rccg Overcomer`S Chapel",
+            "place_id": "ChIJq6qq6qiTOxARkwUygEJXxDA",
+            "reference": "CnRqAAAA75dMMOg0ou8zPM75Cwwf6kN3KmWLZfA_j2CpdupX4ObhD88yT7P6TZimNl2Az7U641CdbhvM-s5dlSK9y-84pRpvvUhhsH-p1iXWBiU4LqHttuJ4nG6Gygup00jk2HmV1KqDZkSRrNnFVKrF9Uz2FxIQq_ZybcfOIb2eMkYLjQXrShoUhLC6-XnOHSNbPV0fIWQLz0p8dYY",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Magodo, No. 19, Idofian Street, Shangisha, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594526,
+                    "lng": 3.368694
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "5c203699a2a9c8a9a9a329d09cdcba136c86993b",
+            "name": "RCCG, The Lifespring Parish",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAALYU1iW0ZblTTRC8ZD7eiHbOUg4A4LTNjeHNDGMQOO1pXZ9nyHYwXVYTjKGSuPzPL5omuH1d5tgFzIHy4oNyLQhz95igFud3wm1PySL_iEA3lTT0Af9wq-Me3RTJN8mY9Pss5avQAo12U2WPhu19vGhIQYOkXcmtR4v6O9j92fKdQTxoUDfD_JkN12g-VKkB4KPNp8mcW3j0",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJRZ2lsUSSOxAR3Gf8xz8GQk8",
+            "reference": "CnRuAAAAHWB04Oz9CF9oO_L6pSZicTcGf9zCVkmOEk_fQ7s2nlQYaMUR8ZHrkHd5QMJBm2fBlzX3zMWF2MN04SJ4pa1dy1BN7UPROVi8ZHYfsxI3X-33WVDJ8VDO1lqfh8NhS6jx-bTUaw9dWqVs9TjEFle5dBIQzneMZPnsa9ugZit4h1zXPBoUWv6mUDFQXCPxwjC1BsqNLAoH4EQ",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Plot 9, Block 1, Oregun Mixed Development Scheme, Etal Avenue, Behing Etal Hotel / NNPC Filling Station, Oregun, Ikeja, Kudirat Abiola Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.504202,
+                    "lng": 3.373944
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "d6d35890f54df3824b2c07ebcbcb76ec71fb25d3",
+            "name": "RCCG Glory Worship Center",
+            "place_id": "ChIJF3a24V2MOxARuDlXXTfSpJ0",
+            "reference": "CnRtAAAACzn6VlAf9BK2tv0N41F2H_1x__18ygaGH95mpeMcLM7hMsv9c6gO0VwRdhj958rIfcPVjKUqI3K8Av-xET3CNyS7DbK5OU0eEFAl1tUCng9YpfgoQG9e-Wn5IrkJH6xYnQ4TvfZuGGaK0DWeZcW39xIQ3w1gjES52jHgwyUNeK1phxoUip2BEeKghYTu90Tm6mY-i3RM3JE",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "322 Murtala Muhammed Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.60038,
+                    "lng": 3.336302
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d08aa2ee998f38f539c6452c8ed3e282614a8ab3",
+            "name": "Rccg Newdawn Pavilion",
+            "place_id": "ChIJ_zumNIaROxARy99wkgGLHhc",
+            "reference": "CnRoAAAAaW4EYsdG_Crlve7EiuPnzkvIx-SRVpKZMHtQ6qRniTBoEKF8eF_LyCJoyDDcUBo5xOyjdQmk_ExSm1zufRH4yten8aHP2KblNKRblmNtrYDhzarDwVpbh9_gE7WGAPg8tLQn_eGPa2dlmRHBGwO72xIQW1igcKLyPydK3P2sMmZoyBoU1NgiHV7pOXpSTQZcEbY3MAWSc48",
+            "scope": "GOOGLE",
+            "types": [
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "No, 2, Adegbola Street, Mangoro Bus - Stop, Ayoola Adegbola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.456136,
+                    "lng": 3.38929
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "fd80e8138119b278a87f751e9d1df06ddba90995",
+            "name": "Central Mosque",
+            "place_id": "ChIJd99onw2LOxARzB-2GGhyse8",
+            "reference": "CnRiAAAAuv-iZU3ztt0aWEgqvFM2DsaUgrrRNAdtxRVcINJ2Dz9M5DbajU2_51z72Dhrg2q0bDfRyyP5Ybe_P8DRfrRXnJhueYebOtDxvMOvfu0a_Jfu6Ln5oAs2NEnRC3mqNgP60wIhKL3hAdYolqyXf35R3RIQtbBiMRCAt-STyb_U9vw7EhoUroEPY4-bPSz7bU7hGrUIEYH1EjU",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.590101,
+                    "lng": 3.299633
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "623486efdace4b430a6aac58fded21bc6f372c8f",
+            "name": "Apostolic Faith Church",
+            "place_id": "ChIJVQ19QLWROxARZJjpevZ5Tyo",
+            "reference": "CnRpAAAAgy61q2vW_Spb2I-WiAltn1QSdezfgoKXGOJIZ7X6tr2CORc9IE647AGPqgzS0joN_M8P_8FyYMssHMzfzPT4nPiKAph8bNBD1RYeEoTeDstnXa8HzPqRDApk1JMLfm46ihxNGnjOt6UvF7tNQmXsyxIQsLzepiZExLeic5wA9_SFoBoUPzUA_QuuS5g7wuJosI4zQIM8IvQ",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.585715,
+                    "lng": 3.345661
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "fee1f35b7645e418b13d413e74e0f87614326131",
+            "name": "Arch Bishop Vining Memorial Church Cathedral",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAd9_MsfoBXvYlQ00aTUNTA7jEnImjYdwsZgKy-HHoVSRyRLOq9Vd-jh_kIrV4S6wVuLl9PWCZ-73xVeR5akEM3uw435Roe9ucyyqCbvoj4gIB-JzvpTMYoMyQ8viYL-CPnvXGhOgN0arkQ8SSRidQJxIQJ0PjAesMxNWYfv-0P7G7NhoUm7tmIG3IArnL31lYBRaKr0tZqPI",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJtyQMAhmSOxARUctY0uV_eEU",
+            "reference": "CoQBfwAAAH6CmjhN6neEueSQQjyBqYeE56wEomw66Df8pr8KmE6F4DWm7pYljXKq_uYHCEl-6DiyQs7OrWm1YKB_8_BTp5357b91u9nLTe7FTRMbmH7g6NwNoTucnuh_TKnbPz0TIW8SiWi2OwdEDGbmD3RkSiVS0gAll5Yc9eAOU9CdXS7NEhDvBXavvrew9dwxNv70CNYBGhR61KAyHgvQ1-OmygTRZElwmCVZGw",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Off Oba Akinjobi Street, Fajuyi Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454627,
+                    "lng": 3.291887
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "ee8321d88ddb953213ebd1c7ee0325bf88d3d600",
+            "name": "Saint Stephen's Catholic Church",
+            "place_id": "ChIJU-z1OOSIOxAR7IW1g3OGFEw",
+            "reference": "CoQBcgAAAB3BdvnzvxQTUOJ2xAPxuwK5gtSa5SqC2WI9KnYowtvCPfoTD5nbXFOo0CF5M3IStCe_o5gFBDcto2ALCZ8MxEK1KU8mSVtk3hFuMVWZGzbW2j8elinFFlWkPIslXXez5OVBDlx8c3xQGQ_7RV_DY-hqR8GFx61NPiQCBCIznS5HEhC8V2WKQCGVNpBa1N_wdDqPGhTqp5ET-AeZZMyvZj_99q-7K1BErw",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449105,
+                    "lng": 3.39457
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+            "id": "ace1f4e4c8a29f88f40cc32367f807feca6e3d03",
+            "name": "The First Baptist Church",
+            "place_id": "ChIJ3f1x9xmLOxARZo-WbCvnhd8",
+            "reference": "CnRsAAAAhxT87ixPSeOWlw_ddykSJ7mzHKh07Ta4zVpMt2ihpTWY5cW16ye6INw4_VqmQhQQR4HYgkh6iRQ-mYuXFqL9vVNXRY5OVePEUaSoTHp7gKchrS7m9BIx7CI0G3TMpgXMy3QMQCkKqtgxle-QYZdflxIQvGRAclyt7lr5gLCtMK6N-xoUMdF8Bl-rkhBFwZCBLDPHPegQoVs",
+            "scope": "GOOGLE",
+            "types": [
+                "church",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "24A Broad Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.591876,
+                    "lng": 3.305315
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "e0987b3c98fd588e3ab7913b9d0b0abf8676ccb7",
+            "name": "Shasha Central Mosque",
+            "place_id": "ChIJgdA98baROxAR4dqLJv8lSBA",
+            "reference": "CnRoAAAAmzVfUGb4E7F3qz8j4LUiNT6SC-Fb41ysW3XVNTHUCcoN8WFavhwkBPeb6o7Z5yepxzupbftiQNeK16-GHTVNZQO8X_e11R8slNrwK65VDZbvZsRn9fd16uZsCx5shljwTym_UWi15MuNQL8firBE7RIQsBUG42kQjFUvWHsmSSvCmxoU9ZoDTN3vgSZ-SoGPb4UDefUif40",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        }
+    ],
+    "status": "OK"
+}

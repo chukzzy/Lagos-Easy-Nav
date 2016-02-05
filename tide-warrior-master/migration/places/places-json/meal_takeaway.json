@@ -1,0 +1,495 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAAA8OVPP82mI3C0oq6Spnhgfahi2uc7sIejqGskCF7Zmb5pB8xaPVLTJnwPXpM1Skhd0SScwc__J3EZOGGOWFdape7czqxCovA3t_0NtcekwEy-eQig8CmJ07zJD2xFJfAHyPkE37cd2D4y5e2G0lKsN4xXYF2HZ0FFgpNInBK2iwxItcJSbadp8EPL1xu8zl7xhiHv2FRSfCAixLD5JZhBzBdiCoifvIYMRVOFC3ylGOejQYBrbXxFEKGlFV2-htAxYHeO3e3TU9GyQK60fqiyeoWCaQy0iRg981gggPaNecWDokCei9KWZDcNGI1EB9X6K4SS-zlDp1sKenecu9vEsSEJGC9m8h1yCXQIf2Z5tqVW4aFAuAZ8tPCNbQHf6p8vnD0PBgTLXn",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.624554,
+                    "lng": 3.501285
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "dea0d80a9e1aeed46f1491167bc9ff9a4127bdfa",
+            "name": "Mrs Bamgbade",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJp1vg453uOxARCvrEmXQjFwA",
+            "reference": "CmReAAAA-xaZ245gkxlhSUIPiIox9ZMRLfNCP2eseRaWVavlciHiEgPxudGer60mFrB26ZhwvpFgkqWZi6nuMYysAkXA_RkBZETZX3KkzntjMIBlYfk_oh5WmETnJdoj-7mJ3EuWEhCltoK7rNVFR7h7MHWXoynVGhT46YbIHCQon88l9UDEKLisw9m-pA",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Power Line, Ikorodu, 14 Ayodele Ayeni Street, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.532611,
+                    "lng": 3.349775
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8fe330f721af64802ddb75be4b8441d194002c88",
+            "name": "N . K . Wedding/Birthday Cakes & Snacks",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJTR_azM-NOxARyPcE8SYAKFE",
+            "reference": "CoQBegAAACrEewVxfbWcHOqaEqQgDBqzns6n77GMIDQKprMN4cn2U0SSxxNQFvRLd_mztmJdpBwGHGOtKY-JrDhwgWpNqFLW8kngshhaDFZOATnlXpH1x8htzOulrXCS7fQpZTNd_e0SNyQhWT0SydQIpLKfT40pLvMssxKADUtKQbeu5AreEhCJesKlCu7_SAUQBdsp_H1gGhScKO7lSXOARq7_5hmP01pyuww0dw",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "40 Ladipo St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.636314,
+                    "lng": 3.299074
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "bd83200225ab2174def4b64dd7d18c36a5440fe9",
+            "name": "Stella Venture",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJdXsIryCROxARRvatgwQuwaU",
+            "reference": "CnRiAAAAmj7_Zak5DXrGifZL-rd9sB01XEXKWHp_VmyLpothykeCTBmXF8lYM50vBaeDA8grqxhn5o2vQLeV3Kw0rzfuewCuMKsfRV-H7B2kjxSGXFlZTEFcOWlyBj91JIocOk3CYkR2N9orTI3oSrfImo4D7BIQ0UGB7vBumQcy0ZJ0zumU0BoUSHGdYgTHx6SM5vzoHhS5IM6Wws0",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "17 Hameed Muhammed Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444695,
+                    "lng": 3.401597
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "949692d33465fcf488a02475091cd02b74fee675",
+            "name": "Bread N Butter Ltd.",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJp2H8KyKLOxAR5_VYsRfLlus",
+            "reference": "CnRnAAAAyoweM14WXxft_-SGXuqk9R1Wfjh2k_s7wFPzeTSlHttfu8pJSWnyofHG8QJeNDs2AUmGhTmEe1gw31p_7wsMQ-eS63fxICGrDeO57S5JgsomGfOQaYxpIwOgtcourrsGqPbZmChjJSdABD0Aa9BilBIQrdjstiqTvS7AEbrrTp9WVRoUMBwOHGV_rhQK8BytHqokx8QuInU",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Onikan, Shop No. 27, TBS Complex, Tafawa Balewa Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.635601,
+                    "lng": 3.33812
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+            "id": "c4e12483543c8dacab4f0dbb28fcb784ffd4727f",
+            "name": "Daddy 1 Shawarma",
+            "place_id": "ChIJIYEVRF-ROxAR9PRBBK5xusg",
+            "reference": "CnRkAAAAoZpTZOxCjSL5HIGipnN8yBxXr5O_R3stxbd6iabMGGTXKLB7K-lrk7DrJuGTXmaBbu97FUggBF2G7v2DapIwZI4poQtVl0hYaJYpQZINS0tXfL7CTR6cbvRvIuQP5-_uP5sojBuF1-NHIWl0Y3mGnxIQax0n54TPc2gxIQ5_V8R-cRoUJGTpF_-cMyaBAFi2DCbtqduzNSY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "53 Yaya Abatan St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.631896,
+                    "lng": 3.340684
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "ac0f42b9edf148380264b63e9d1ab15bea239fa0",
+            "name": "Jokab Tastes",
+            "place_id": "ChIJD0khcOCTOxARuPINEImrpHI",
+            "reference": "CmRfAAAAHvV9V8ywA48YTx4bTSXnvXLcO-CFqclphrRl0PPcjCOp7tP096EBopCoCZz4MyPB0tJ1MSeX26qNgTCEWfQyfvQrKjQZj2V6mCTppttPEDOeCnjpTAfPzf_JnaMULwnWEhDR2uFNCucaHROVjCfA30vZGhRvydVJusVEh_CTjZXlgYakDdoz_w",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Ijaiye Rd, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.459564,
+                    "lng": 3.383016
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "79bde4b71058a84fd2abb53fa1f134b15887b61f",
+            "name": "Ojukwu International",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJxXdnRwuLOxAR9eQwkiGDm18",
+            "reference": "CnRnAAAAm1LLpZ_SzVsIm7x8co1Ztb2VltkN8dQs40OpQmhuK5SampXFCwueOCDBnTAWgsAFYtsnrJuUAOiq_orYjxXWhUa3PfK0TBZ0BThrzVAyd6k6SBUOltscXVTyN8yEYR3HVQCjUEpyKniDZ2YulwxCUhIQecVvgsHVAZFneHvl40LF5hoUvjZQG4sDK2UqIoeiH0K6DQACVcU",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "35 Offin Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.567417,
+                    "lng": 3.342417
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f436b211291e534b66e707d222fcea454f08a268",
+            "name": "Edibles Fast Food",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJZxaKngCSOxARgN2z8-tV8aU",
+            "reference": "CnRlAAAA3aeKN002XvwlYctFK0v-ddfGUGM8wYK1_Gl53VqnokwVdL7Eo5gfOo94MjzQ7GoV9iwC-oznFv2wVwuVsZHJ17rW90-BVqJ4-oCttZNPIbptrPtfYxzPFY9mFAKiBUVmzpWQrzTpj7K6UKKJvAB0IhIQ0ucygKY1pKzlRZOLdMVgjRoU5M_HRjsyADbROXyGmv-r5qi-d6E",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Oshodi, 26 Oyegunwa St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.561009,
+                    "lng": 3.342087
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "5732954b00baa6a32522fa7aa75955d9092f183b",
+            "name": "Ok Venture",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJiRdtOvyNOxARw9RB0bEUATs",
+            "reference": "CmRdAAAAfmaGlvAzTPo6TBOyQ61p594ywr78q08STqKlWeo5tQPjg0uzi_MaI4oLR51IIz4wu3KHV7JNkciRy8gkblu7f0kZ1YXanpapVevHJzKbnttX8SRVeBeVh7YqWyOkZpHTEhB_GDAFyJlyxeyEkCzhAHDbGhS0H_DGLXoR4aRwZKMPo_gb98_q5w",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "13 Adeyemi St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.534068,
+                    "lng": 3.352023
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2c806752bf5c5ad734f4befed752abc931ee5f9e",
+            "name": "Lizzy Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ959ecs-NOxAR4tMPTw1Z0Os",
+            "reference": "CnRiAAAAVdKiGSWxCFuRJYgr0X9menyGh7wlvQgFeQEDGqZJob14DT_i5D1HB0esMdp_tXpEeRgmwTLDfwCm4GGAnVaq3m65xzJ0A_9955KHfq3KRW53f36CtO2rPcH21ca_7lbwAEVmnAMLnPX9RfviPCQIWBIQ6R7WflNr8TaaW0WQts2FnhoUTiGyxu7o2keZvrT6fQ6R4Ns0Q48",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "283 Agege Motor Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.657115,
+                    "lng": 3.324167
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "6441755eb1759a770ad403bc7ff5ebce22ed2956",
+            "name": "Surprise Meal",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ6WBA8bOWOxARoNGrhdaC_lU",
+            "reference": "CmRgAAAAyyhj99dDO0P8P2hYQJyTAa5AhL8hvoycHi2KKwcxaUGVlpURwdl1OEgo4WPrVf_ro8i3QaeoXObT7jWiAeqr_DTfsVaHawYiCKn4sP0Tp2nGOkUZjAvqAfpltuEHEhThEhC0N6_Ri4YLfcGI_2nJRS0QGhQNzvhMAEZbzIV7DO_YI4wyufWP-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Iju, 5 Daddy Savage Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.622166,
+                    "lng": 3.500407
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "84f9d3b02bebc4435e02bba50039884e2252197c",
+            "name": "Lakee Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJS70egJ3uOxARItHSf2JLFUg",
+            "reference": "CnRhAAAAuIlGif9w3ptvb3zFMlU7TQ1SBmEOMyDuDGKKp9aSHBwSLRgUBT-MdiE2GxCXmPJYZnVTud2BKFdcTXPuzNVhxBrpHM9y2Cw55PYGBJ3q8xFTWwxQFnGa_SyC1Fs_GAOMx5Rbtf7mCGVQGdaJeAW5VBIQldiBma1YTVMQ_VAh2rT0VhoUEMrAlZrFcaP5-lsxGEBETP3kXtE",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "49, Lagos Benson, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.660345,
+                    "lng": 3.327311
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "bb2d3deefc48afe3a57d8a86dd34d5e944f708ee",
+            "name": "Chipsy",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJpfGgtrGWOxARSNB0wAhRmH4",
+            "reference": "CmRZAAAAP55OEpdV4j3JXC9-QsSOLec_EElz845pyAfNteoQMZvjuf3LbW-vCYfczlfP9unzRMlW3fRspBpfD1pb2ikvoQhJ0pT62Lq1UTB--yO5VeT8nqjEv1tiP_oyyuzY6t-6EhDQco4wTQp-o6dZHyYKbGP-GhT3CB5cWkKUTcGk-iFOwteXPQU9kw",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Block P2, Araromi Market, Ard Akite Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.559975,
+                    "lng": 3.370042
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1e6bea0ee6846d4d171a51a522e190d38009e1cc",
+            "name": "Mr. Mayas Refreshments",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ4-hEkYWNOxARlc-IUZKX4EA",
+            "reference": "CnRpAAAAE50q1pUIW3VHjkX0gdDCtAK8X1rEMtPqtXy3oTcAR5sM_lv5lGldjBdTUUsvJolQ5qeu4QRlzSuPsm8NeBzxap151J-GurpMtfde658wqB9JlTx30THTd_vvyuwX1Xy7v4bg-85UFmvClFUuYC3LPBIQFV_TCsRZpHzRhR7uDKSLTxoUN8FkCWcV_VPbmOTG8uh9a55P3yg",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "17 Olorunlogbon St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45194,
+                    "lng": 3.3945
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f02da9decdc315e2a812693051a336a824873f35",
+            "name": "Abby's Corner Shawama",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJXytULBeLOxAR6sspXSpJBqQ",
+            "reference": "CnRpAAAAeMUuy0sKKnCOpauxy1VGbV1t4NWWiw_4JdlQU0Xnhrz0rRxp0A7c8Z1NHT6aJhiyEy8qkkzpZOgTtAKc2nf9Hqc_SijmzXVcXiuN3NzoDKR6HT44csXdFThLGrQb8wBWj7ZtY30Xme00TpY-nNizQBIQVRwL7QyQxPa5Gpj_IZgq1BoUIJUiE1M9oiZXyv6CApMLuvCO7Jg",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "CMS, 25 Igbosere Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.554373,
+                    "lng": 3.330176
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "835783c5d06d7f5079cc9b89c06a3aa276cc933c",
+            "name": "Moyo",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJk4pxtg-OOxARssZ4wVGNZJI",
+            "reference": "CmRYAAAAK62s9lZADFOZv8F49KOTEyVgA52c178EtSmxyLOFUGWKPHRn5zffACsg1rBtdD-4wevZELigiJiMSF5diPagOqSopJhN_1sKlWnu7SgKK2HUWcRLlPt3nWx-BGj40RcfEhCGIsLJTg0uJRtjrGzqmRvPGhRef9bgkR9ijsQjhGwmj34sv47wsA",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Oshodi, Old Ewu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.529623,
+                    "lng": 3.345323
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c994c13ef951433cf4c87afe0af4a8b1e5c0a34b",
+            "name": "Vick",
+            "place_id": "ChIJb-x73tONOxARj8V5xIrE4KY",
+            "reference": "CmRYAAAAhu2ubQ3GBANX0WSGOmtFCZprKVbOcg6hqgFb6GZkR7kzItYFhkFyGSFmTBONQwSq3Rc_qlOQzTG62DIjkvHeRITvma9tFCHX5W4U9KDjzxotApcwn-eEE1feTkvIiSvXEhC74tMBI_L5_9vMZxSMiAtDGhTGLwrnPY86LEu-WmVjLSOHPr-wfg",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Isolo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.591078,
+                    "lng": 3.373825
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "15c641c493eb3ee99694b70c89f65aca659db4b3",
+            "name": "UAC Foods",
+            "place_id": "ChIJqUMMhFuSOxARL8N9ypZLHeI",
+            "reference": "CmRdAAAAwx-LgSFmAP0gMazxTYNOrI1cCRbXbScztX03-KZvAkU6cIAPavAqNbaM2nI6sL0cFuYOFWamYhIZVffivK_s8Tnowj34PN9aXBdetW-wnlzvWM_VdOj8VzFelK1EFF6mEhDUswAMYVjanNar7HpD94gIGhRk4NjUs8M-dnsnk_unVyx5MPuIFw",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Ojota, Kudirat Abiola Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.437338,
+                    "lng": 3.457783
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "352c80fa8be279e47f01910decd51c3d7426ca90",
+            "name": "Shawarma Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJCR_8NQD1OxART73EJtMVKXM",
+            "reference": "CnRiAAAA99LBCBzanAoPpE0EVGZVMvXj89047h81f1BrUk-hdRD72l2nJFo7QrcVBVEz5pNSdGOPKNCsBHgEnUeAtL1vCYEspgHOlM96n9CmTgvMN7PKLxeH_ZiJim4bkjJGA_tiTNH8ple83jPQuNwuQL-xWhIQ-rh9O51mkIgLh1-hkJCftBoU1spNLHGznuwCPJ8CDB1ZPMltl6U",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "01 Bisola Durosinmi Etti Dr"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.508994,
+                    "lng": 3.362955
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "2a43323f2b54338817ea1364d57d47782efd652c",
+            "name": "Wimps Bread & Snacks",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJAcZTtkaMOxAR3LwwwYgXzK0",
+            "reference": "CnRoAAAA1y0DpIuBiAZstYFE6jhVTXPAwIrp4PiKhXoOsP5B6hnjklrUaY0XwkbRguQCfUqvja1jpxITh0HY_2Y6gl1FeAIEnNtP1xACF7CQN_j9F6Fr-N0kdRQrvLMqPGvlHteEADo7zY8EpcTlSvGsKGPzwBIQagxlnvUxo1CwhhZz0xO7bRoUH0_cncyRx1vmnjNJg43C5raXW98",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Ojuelegba, 33 Western Avenue"
+        }
+    ],
+    "status": "OK"
+}

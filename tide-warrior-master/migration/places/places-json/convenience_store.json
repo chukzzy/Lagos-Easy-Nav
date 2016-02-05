@@ -1,0 +1,621 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_wAAABffl92QiKulur3D9c2GFWArKRUyEkZ18x0zIvXm-XR8_qcOfK2szEKYeGRZnUN1kioQ17kN5B_ylCYbGiTXR0WSRiYyxdRpXr-02KQeUFVDTIrbuaLylM2vs3T4l4vBXnYCX_XAc6y_aB2GmLhwMG2szcoE07t6ilMdf_KIlslVuJSeHmEIEa9icZucDrsElhcOAgFayLUJXJszqGGM1Bb5jeGAWyGRAwQWVFPrsjPwEcgzkd8CLG1g1R_7kSMrkEvfDDR2lFrv7rcQXEk2nw_AZTJVlrEQsut0P390XLF7WocJVmI8e4DxVKWpCuNBS313yLEAKTzLJ9ElVmTS8gcSELUOR3QZbjEtNZokSOJ4LawaFPyRNRdAYGQLh3WFjSej5T-vQnAt",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.5741,
+                    "lng": 3.372318
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d19e5ad99d37b4978bac1dec4be7e98cc7f951d6",
+            "name": "Kaines Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJnwEZunuSOxARV0YC6Wd3L2A",
+            "reference": "CnRiAAAAVYBP1sX8QCOf9UbqO6fzUyMluGFowrHheES0HQxJdYo3DJ6FeSOeFPN6WIsoZdugmn6d0enYxku39VwPdhcLaT4rBLLjptHlHM6llvhXuUujVgLPsn4DhRZO8zJfARb1qEccpM_MEbsWxynpGv-gVBIQUIcafhR5YuCBa9imi1E2DRoUeg6pEwfPIG8hWwrAkdxyO6S0fmo",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Shop 1, 49 Ajose Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444147,
+                    "lng": 3.425265
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "c17de349bc157d7246f4a89211940a88d1229a56",
+            "name": "Falomo Mothercare",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAKAbctYOE9AjbSFWQHReF6pSzvuP347ZOqKX4AIDxOxQ9arFKJKtBeuem2sOfjKicvWoTkLVXk3MEoRg3CwypE9JLD1UPiCV2RhH7EG7JVDcZ8oXk0oA30CA8NoVa-88v-qdLHoANG1LM5oUiWzq_R0W8OBrq1uG4jDzxF-vrK5QEhAceAuxd4iuKG00LYWtRc4tGhTTx-_m4FhdEtR7GYR6idGZ45NENw",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJ0z2Ystb0OxARFsFRS_zItHs",
+            "reference": "CnRkAAAAI1Rn9he8PY8Dd0Jvynii59O3q0YpNl-8XuFPodWb_VUDzNdHnnv18Hucf9Yjyl8Y9qEwYQU8OFQh-_07MG-3BJ0jf8bNfwOdAOIeJiuY3IAQPiGKCbsXdMD4tDnT0K71oKKSrEUFeIs9Y-OXT6PRLRIQaf7m-KPlbP00G6gxQ4q7WBoUn9oSytrjnzLw-OwqtMflbqdjU3A",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "202 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49017,
+                    "lng": 3.354952
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1fc574d0fce0b557741453b38e2f4d34cef7abdc",
+            "name": "Shop...For kids",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAObzPTSLjpV3JiA2Q5UNOcIeXDa_F3zsrJBaLyEGtPiCFUMWMpXvdmo3bKSpVFfm_eN6e4O7KqRlDfBnRV_uw72punmncj--iKHABhwPdwDLfnPlUICnMsF8AnRVg8E8zCxwFxJj6HCO08Kfc8x4BKPoIAaeZVCJCNNhFZ9HzjD4EhB5iqwPWmW5qnqq12NLbUARGhS5TPER5oLfirCF2d9fe11xCxUOUA",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJ4YNWyQ2MOxARcEzneYk5FoI",
+            "reference": "CnRjAAAA5sTLCeY3BY0pNm1CnM-2R8NMFm2ZWL5o0V2ubqBpOXuybqbk3Dq5TslBtRsl3tjYmO792okv4w3vN1o6PsqQmhrt9IEF8Dx-mtfHE9a5JSN6LQhmaSP90yxw18smlJj8g9q9cck84wIAKubw3GZSbRIQen4QszdDeeyo9NOfk6c_qxoUN1cLewbMCy2MyLYQgEGtUTwrNYc",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "61 Bode Thomas Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.644191,
+                    "lng": 3.366666
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "dad344b70679e1809b2abfc2e9ba848eb4815ac0",
+            "name": "A.Y Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJm2I8q4-TOxAR1_sgd4Y7ydE",
+            "reference": "CmRdAAAAMvuXny_7Sofi5hw5PpstZ9xz-n61IhRDfmwn7VDVVYLf50_hEJDfwYLkTiQqe6QXXVjm6t58gX77fRb6jjrQiewyatwwuK0paO87xTXa6zsMWvr3YVCOWxKquGp0lP-CEhC_RkLX-TxK83yA9Sa0IhBdGhT2CPX3pRxpe9l6ZmlRXJq1q4XV2Q",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "21,Shomibare, Ojodu Berger, Ojodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.534375,
+                    "lng": 3.344757
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "8cce1e0cc37e1cfda7a5168ffdece7a64e4c581e",
+            "name": "K.C Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1216,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAABQyOKL1ijt6wliKmN5RukkNMmVqTBwvfVSDZunABqzPY28Hu9H0A1E_RXkm8SffalTkmdySZoyH4OmeSxXnt8yegwa9cdLUFUdBX7UY5Pf18EO9p42aH8Cj0GqcODaubzc91CvwE5wIB6r07ufEN_xIQ2sbKx8ZRTZTDS-p_OX0vNBoUGw33ccW5jLnmReEc4maNH87MKek",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ5Xu6u9CNOxARzSRVgR_pG_I",
+            "reference": "CmRdAAAAxSjMu1V1-BlJCx5QwqTItELSMDVpEq4C8q5ysG5MgGmd7wdQxvYxujh4MqXQXD3cMrpIEmrTtt_jq9_gvUSapbbxOkUXrI-oZStuYy7wK1mFMpWacTM6FylFQDRZioynEhCbn04ZWrKsPllzruS0IClYGhQlYRCSPlI3tTqdrSPfBtQv7_F3Yw",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "10,Oremeji Street, Palm Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.510738,
+                    "lng": 3.319842
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f89d7c74e8cc645b65894cc02798b3f6c7f03b27",
+            "name": "Penlest Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1216,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA5AVCHYZoaJ7bQEwblsXFJgV-mjDWSPVSxex2Wx3LbMee-8nppwkbsiK-EOmr-CWMVtRuU7xOB20IAIhHCJu1OpL0WTmg1mGcK9Ns1BaeR5GWFBi4D7UKaLP8QQn50Ljo7kUf373T9pITnXMpD7IISBIQrswcWoaTd9Ezlw0dqScSpRoU_C4T4QD3ZgL9ojXi9gTdnQB2CfE",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJE_HYPJOOOxAReA3jKR-G6pI",
+            "reference": "CnRhAAAA3rCVTXkQae8UsJFm9TyRSYPH7irdIX70G5AaYFgNMOXyp5i08hxdr1MDEX4eqwP2NEf4XCbdoz39Edk03Ht-JtDk3kJ8mYH-9nAEeNAMU_PnWWEF7MsuIim6olAuo8K9u_Cw0Sc5PYOZK-ENUDaxhxIQNqBluJsLFyz85fg75TcCuhoUVCQEJkDAWuVlSblnNSWYeOZcJcI",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "25,Nwachukwu Street, Festac, Okota"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.510565,
+                    "lng": 3.31988
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "8c22642490cccdf54f9f7434c26bcf40519d64b9",
+            "name": "Santu Supermarket",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJQ9CwPZOOOxARrY8NUQDBOXM",
+            "reference": "CnRkAAAAXaqPrg5ofH-onhge7tfGGe1Q6Ue3COQ9xJkBADytLNCl7N-rfBZkdzC5ew_OvruGuk2d2nx8PDOlxXeagD7nmNgwpNqXwwmIPq2DcBsDa-Udw-fscfkBJcj95UW3krhAKUxKlxxRJwHgoOAbfzRhCxIQStBcHI6DP_MAHybvcAR0IRoUPcXUG-eSLu4d1Y7wGDy4vQqgZkc",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "29,Nwachukwu Street, Festac, Okota"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597901,
+                    "lng": 3.387882
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5e7b2768b20b2e6046ab8781d281c3f4c56a9729",
+            "name": "Sunny Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAJIToSWo9R7vwU8MDmVp21NaG0gr9WViLEygXv48fphoGQ7ntSkp4zVV9s8Qg2lSIso9yygoB65sTiAEqMdAsj_bGI-0bu7ThkrQu5vS9o0wLz6Ub6eOusTmTdMClP1mopPcHYQHr4fVREuFfHtAqvhIQKb-Owt_VtXGmqL12DGrb8RoUXqikj80d7ga2LmliXmVyTu6yMbM",
+                    "width": 1216
+                }
+            ],
+            "place_id": "ChIJFR95a_CSOxARe_HsL8ClXbw",
+            "reference": "CmRfAAAArwapFa0LalEW2pjhKfMv4tkvgWG7rAvFwwqAQFMe5X5cWQouPerPD7WPJlPcJ7CyT8Qn2W7kj4w8hcfK0pd5it6c6Zzh3QZ5L85baSxRYAQEWBBuv0n5jI46zOBgmiiGEhAFRbbnV1LW6UB_EFy2h2N9GhRNirPaiYnKEJ6P3bt4ROn6YS2EzA",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "71,Agboyi Road, Alapere"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.646005,
+                    "lng": 3.362184
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a80ce1851d789a6c1405eb239011f533292c7503",
+            "name": "Kemi Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAADTwczqbOi6R43pd5Cp_NSX1P4mbi9DArwbY_Ct8liI6ZXtk0_fQmRyy4n-1CDpFzGzqx2NIf_hRrMu1E_yCyuDItuvMT7jJSGoXJn7REj8l74wTbZpIWCiyNjy9h8s8ENXBehKDvk2cr2cWjG54ZVhIQSS8XwjFmh7nvabNZ7Xx8ThoUHYXzRj_D8_4uTD-4eLABY_Mnd9k",
+                    "width": 1216
+                }
+            ],
+            "place_id": "ChIJET-ZaIyTOxAR0tf3ftqWdmg",
+            "reference": "CmRdAAAAV2jAuWLm0HxkuPAgSmHwni89PWbZIZbRwjoHxvVZ9CdD2j0ZP8ngZIlJLahvInGDTwQyVmdu7c0po6iJtkK0LiU6i1YOXEqlSHTU6jhDlQ_G-U1Hz9POgBEXqW81TzR9EhCc0llt0trSgToFwM3hJ7ZKGhT335-nbsk3I-nGhmuOdDzPNTy9Pg",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Adebowale Street, Ojodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.55568,
+                    "lng": 3.352694
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "0f59cc61175d5373753f167939f7976e1ea91b0b",
+            "name": "Public Toilet",
+            "place_id": "ChIJ1bqdPe6NOxARttKiJfc7lA4",
+            "reference": "CmRgAAAAc_PtM47m5QDgRAY5akjJFPu0Hzg6heSjAcX64wJzyN4zT54_xddf2MHuIKbnwaPWE-Eyu7A1jxmQgneh8iWtv0hCNTrS441z4wVCY_w7EUTIcAyV43nT7_9tsGeqclHoEhDwdNsP9Ur-_yrfdPAglE9YGhThhYDlE7XEQsvUKLvGn3bP1FwV7w",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.644234,
+                    "lng": 3.363742
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "2127e0ec73baac6ccfd45ff58ac37383511f2408",
+            "name": "Avocado Stores",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1216,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA2uYeHs_8pWYsGaXoMSu3siClgGxmABpZ3CD3ljexOsze6hcMPI3n_nNgp_v58S9Loocp__En5jWBwf4OdVPiSTiz_bVQsVFZQInxiBQPTd7UlR3M-aqf3lPKSwQIy5h4zPB7k4bR4yZbtzSf6PhyaxIQT7ap-Kcqgh3dtunfP15f1xoUJWU2NMxrI6jB4kn23fFPuPDw9kM",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJIVCE042TOxARcrpA4_Orn58",
+            "reference": "CnRiAAAAHsuqHlmcvifFWXuHJLAiDipX2masuXPZ8oeA-9l-g9eF_lzVlKS97sSP4BnoUfL8vMQCNtUrQfdRpvkIMrf2dRBQ6BsyU661N7CRSUHeHQ3AUTlYAP8OPbSGdJv6aBFREtVMkjtcZEm0G9zVyiQQVxIQajgQumYdcCClfFykJ9hSSRoUH80TgYld2UQpXlqmqx5blbffqAk",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "74,Ayinna Street, Ojodu Berger, Ojodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.59973,
+                    "lng": 3.385371
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "2c59a5fbef900bcf3c83f2b394b54970d1131efd",
+            "name": "Chizzy Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA8_4OkFCzD2tjGO3sXdhnkGRGIXL9jpDBTyBOtdaR10uKdH0hnOSnB_XsqafhrM9wJjeqjvIwmGwsLY1P8PHbY7h4f_38N4RbOCPJyUEZXy0fOmONY9FxyId0WQbnf_OsGAKvFfmPR7ZckIHlGZKynBIQVXuVVZy1aT2OB6_lnJwxKxoUHfy3AWCFsyg94ATZeMwbfc51bYE",
+                    "width": 1216
+                }
+            ],
+            "place_id": "ChIJI8rwEvqSOxARArp7qiViqxI",
+            "reference": "CmRfAAAAUm6FUVLx2KdTXluKR72paexNKP9g1heZsU10MgAgvIvdJiG42s25n1gszsBgpJ4amVsDuaSCeF-EZHSH-2VCZRyF40SzTJu2kdGWMtA28g1Fm-i406_c8TnSSMFUtsykEhD6X9lXyfC6TZSSaHswR-ZRGhQNlOsZBxeaQBn6KCblE86oVXiIxA",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "convenience_store",
+                "food",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "18 Ikosi Rd, Ketu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.47844,
+                    "lng": 3.295933
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "04d35352972082495fa96ac9d9b0a413e0220f94",
+            "name": "Partsco Stores",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJY0ZfStSIOxARIbG154zifG4",
+            "reference": "CnRhAAAAqZef3CJqOBAtGS9AaUbYEbSbE4S1V_uCr8ty-kLKVPqdQpNgJzfjVjKaKO8Lmn5yOI_08dPLRC6j3GudpVqJ4u3HwvWQ8JW4fefCJ_k41pmaznMySuawBYfoPfwFad6rHqs77QWafMsK9MbQVHsSXhIQ809LjpJSb57Rz-eJkWOBuBoUvPJV4_GeIDHUsvH6k2j8UXwsemU",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "11 Road Opp B Close, Festac, Okota"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.588143,
+                    "lng": 3.379256
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "56a714dbda62a710da6683ac8709c12701c29547",
+            "name": "Divine Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1216,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAihx5LTgtH8sLsBoA2yPqKG9DQf8jZIHKHMdEKkBVGQtmAOYnp--IJ8Yw6oj8nnDNdluQapwpeLYWCXxH9Q_t3HNeLUbRSmBtBkX7n9APObh0iAirKt66OGE66TvHJ3SCGBDKPL5lp-2S9gbmB9YCqRIQZBiNpuUQMEL5kuGZIhMjrRoUIeRjRPrIGXff7JkUgXwXiBLQse4",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJJ6ljqoqSOxARJKaP-e44-to",
+            "reference": "CmRgAAAAeXpN9znIAkrEMH8_FjxDtqMCaQSSp0zUZaDEqwOvS2sNln4D1kNn4ROu3OaGhJIxg8Iw2N2OpN6lv8lbTwFZG0Wp9VENBWZFp8wqJFVTJnEqZOqoGm5bqv6ag3gBj7b1EhAJxhXK1ixnBUj0DQaQb4A1GhSsuzwobtQUKjjWTdnoj7NLGnLlUA",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "31 Aladelola St, Ketu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.641723,
+                    "lng": 3.366703
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b09194ab70562b0fdee27860fa3ad14425adbaf8",
+            "name": "God Grace Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ-QKcKpCTOxARm6Bq8BGztS0",
+            "reference": "CnRiAAAAx84S4MD6isb1X8f7Pe_0XCSmqefj9ck5sgQM4ufBPfhJxgURTWB7X72qeZclrI-KL1Al5ZTfQq-XVQC7lBRvv_8R6bpDPloWxwo1AaJmhPLQ-w2cK1QEDPay8B8s2EuENYfecvvnGDUR1EAlaQ9KRxIQ4x8xvbbKNLiSy0cRHuDewBoUtY6YcfnpBkHLn5mesX4T6F7Vxas",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "17,Obafolabi Street, Ojodu Berger, Ojodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.502953,
+                    "lng": 3.347544
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a4c237a43bc7b6a11d2f6656071e221e2d4087c7",
+            "name": "Gift Days",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAADDaNm8jfJm4OpXFLGLVTUppfxwK1Qvu8aHvXxxQOKCSY3AhKsz3DII59fTSy_XT2ooy_p-bm5xAG7Gp3t3fXGERaAGtaltIktAanwxf-q3EtdWbVBDtiR7p_DRL_zKBx53IAD9OyLe6-COwwmugv2WM1VJL8RyzSQ8EPqgYxoYdEhAcQVlAiEC69QARx6JcGLN-GhRf0PUAWUc-bfRqd4DdU8e2uHCk2w",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ322AcxiMOxARNpuKg1uMFM0",
+            "reference": "CmRdAAAAWJk9rORlW0UJxraGkDx9Ag2jNzDjR3KPJ6XO40mV5RpSKt0Zo2PE7BX-aK3r2V6MmeUOVUfVs0yOhmnnmt4uuFjA33AQkpzVB6O3PLs6M7nLpsffLQtlKM8R3zlcCVj5EhCQhNVc0CbZlgkr_ARDr3wkGhSFFNoqYDjzByc2eDIuotO7cr8LDg",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Adeniyi Adefioye Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.588993,
+                    "lng": 3.381242
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "09adb33ad457076091b8308dfc76b6ad9ee6cddf",
+            "name": "Donchichi Superstore",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1216,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAqPU7jkqDOyZ4-nfydt8hiXf5q_wAsQ416MSsOmy7bv9uAmyN0MX15y4_SWSAdMd9pxVCaNXxvF1EV_fGkDMPXNYoqUXiIdDnMORlV1YGtDdCrHP0mZoonvKFUJrKG_R2jT6l0HtsLU_wcstOrrW4ABIQHF1D507agVwgmoYb_hFKQBoU3MFEVCpnWD1zfodWXdkMN8VmqRw",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJj9p-JfWSOxARTJdj-xNMZQc",
+            "reference": "CnRnAAAAjT6GOLCJX3xYb7ws4bKSVxr5rG5mOqknZp2kIUI-OYOnJpUaJuTEoH_N6C8nVrm7Kj4j-nsJIeNKmNj4hZ2TfBSsWSECpgZjKoJYyGngE5g8QDTanSkMuWRFixnOdHi-kqXEc5WGD0fnrqwH0Wy0URIQiU164OP9qEMF6NrF1FvRfBoUxrhC_Z3CGysUaTh8p94usqSQ6eY",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "6,Ogudu Road, Kosofe, Ojota"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.602037,
+                    "lng": 3.382093
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "e12f9fac8a644e01092b139e5fa80082cb2b4769",
+            "name": "Opinion Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAHl9LBUkSpDLnPsnyajfPiY-CQbZxQlnLvcyJn8nZMe7DdHwj4-hk14C7-Uij0rto4_JYubL57xxY-vh4J0x4hc6m6LRYsmwKVECXbmcK7OTwLejnbzfnrC2fu5UG8zf4GDiUI0lWli32McPuPBT1URIQdM5wWrPrdbm8jBj2HLVUaxoUPLjaRKtTOrJQRB4_Vq-emRrkWJ8",
+                    "width": 1216
+                }
+            ],
+            "place_id": "ChIJR68TBPmSOxAROY1pKcHuHnQ",
+            "reference": "CmRgAAAAkE3MZyUqIOQHh53j4QEsJEePGdRR30H-UAe4689PZBfzfcecfeJcn6x1x5mUR5XOnCYGAh259VqBWkcBg1aNDQ7c60uWgUnDiRn5bJuo9Z-SzP6eLEzwoiOOLf3h837_EhDE__PUeb2GDiT1yK2IcJECGhS7_AzKiYsvvbZQKMJ_zr51ZH2rsQ",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "3,Dele Okuwa Street, Ikosi"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.602101,
+                    "lng": 3.382394
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3cdbffaca9e57d232cd6f8d2bb2882da7f110a86",
+            "name": "Igba Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1216,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA1V6Xn6p0MMUlNM120SYuXIB_nnGdSJHgRtr99ztmmVUD5jDyKkEqbkadN8K2tfxMyDoz-Oqzg1lJ9d4ZwmX7OF48mcH99fDJLMcIG6NuQZDRKeh-f1YZF2Tk1FGNcgrPtp6CBR-cszW6JJOFN_mnixIQDP7jbTlivHj6AITM1LvWWBoUxO_o3P1VUrXIh1-MrHxzboPy-lU",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ43p6D_mSOxARF4MhZnt8Esc",
+            "reference": "CmReAAAA1udq5Q6MuuXRiXdqDM2ExoNJ_6A_Dpm9NA9JnXLFqqcKKLrlJFNfiDhjhD-xHTBLOUklLwK7VyuvIyE9NoE2pqHA_QQ9zAWrs-RrehkXL2ZXxX3oe5_-Vi_gDVeyRXmfEhDd_soN9HS6oWieGzgSXG-WGhRtn84va3QRGD4CzvfpDz9RZtvIlQ",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "11,Oluyombo Street, Ikosi"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.459227,
+                    "lng": 3.413161
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7e2072943dd5cded3e7c5bbf40fb865af17807b6",
+            "name": "Anwads-Kot Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1197,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAHk1p1hnOIv6LeY7QU0m67GUHbCBydsk1qULlZJ8f3LLF10eG7WMu_lUmIkMlxKT5N0p-KrndLsFniSfkljyLOBQFzqSr7Je9DrKEF6qVjK3ITjxeoFW_fA8I6hy8UVZOlUY9TzE_3PWMbgNnwt_RjvE99WrpfYcCkw2hfURp6gEEhArVJOchMJVkFf1k2a_wjkmGhSi7_V0ZZaW8ahhYyoGrcxbS70hPg",
+                    "width": 672
+                }
+            ],
+            "place_id": "ChIJaxxtPjaLOxARu3qiWmBfCrQ",
+            "reference": "CnRmAAAAgvhHTOT5inDSfTCG9cuZjcrIfxh4CvrW4l_M41AUbtw-VhFeZGHhE7lY7Np6omSzlfCogsYGsfWPzbklPD3tGB5zKoynexG_YLXh92DMD39U36UV6gLxkFXLLt_QSHtr3WTR3slDFs9jjxqJe_zorRIQCktsL8GNrcw5CHQl-i4OXBoU0MGMf-5IOqgLwFMQziD5oPJJfMQ",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "grocery_or_supermarket",
+                "food",
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Dolphin Estate"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,87 @@
+    #map {
+ 	position: absolute;
+ 	top: 0;
+    bottom: 0;
+ 	width: 100%;
+}
+
+#footer {
+    background: transparent;
+}
+
+.top-bar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 90%;
+    max-width: 900px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.top-bar #search-result p {
+    top: 0;
+    right: 0;
+    width: 90%;
+    max-width: 900px;
+    padding: 10px;
+    display: inline-block;
+}
+
+
+.top-bar #search-result a {
+    top: 0;
+    right: 0;
+    width: 90%;
+    max-width: 900px;
+    padding: 10px;
+    display: inline-block;
+}
+
+
+#search-result #categories-result {
+    width: 111%
+}
+
+
+.button-for-closest-location {
+    position: absolute;
+    top: 10px;
+    max-width: 900px;
+    left: 0;
+
+}
+
+.input-pill {
+    position: absolute;
+    width: 50%;
+    left: 38%;
+    top: 13px;
+    height: 45px;
+}
+
+.input-pill .button {
+    max-width: 20%;
+}
+
+.dropdown {
+    max-width: 10%;
+    float: left;
+}
+
+
+#search-result {
+    background: rgba(0,0,0,.8);
+    width: 66.6%;
+}
+
+
+p.text-info {
+    color: #FFFFFF
+}
+
+.categories-result {
+    color: #FFFFFF
+}
+
+li.selected {background:yellow}

@@ -1,0 +1,585 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAAJEtonoCIWYv8gKaYlbPMCo86EkpK3hoEd7NDSQ59gpQDpWdrUXe8_fzzoZFMhbW30GTwQ7vmY9HAkgTFp8-n8Hdk3_GADSGkdk48wVCJBiCs2LB5DsvA3-N7vMsU5JuZWlPp1OQMDDhzlCJT_xgo_9rZVSdk9xG7shOLjrhEN7b7amENGQUGhtUcTM9LII_qlAgn0fKgEBp5h5aMIE3zOq9wz1CS6wB7iHiT4I_lWxFifXG1J5RicL526xaSx54DCItuw1t2p2NCY35wqo040CBTUIT8pkZfV9XLGbIPW5NZS-6l_GV97qbV36hec_Qp7f8Fm-HIsLkgaXKAZZAzzoSEBO0_0jKNdgGR2ViGGMETTIaFBTV4EWtIaJ6HsuU4qh2H0psUON2",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.539101,
+                    "lng": 3.284142
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "a4a2f9aaf8d4ea53c732f9b9a2e15e97b6b6a5bb",
+            "name": "Ozygud Wireworks",
+            "place_id": "ChIJS4DYj7uPOxAR_BGinShqgHI",
+            "reference": "CnRjAAAA_WgOgWzMNoXY4PSvpetXvreyFjjqVCFCzhYUX9kHH4vr4ffdPfTrL0xj2ABMWBThO2ppBPbMkx7fUV2weXLL1aQPVkIGRkPkjgAnRHdFPDa5jdF1ladd-TSr2cAg0-VcUkNqrT8bf9bzlRLUSYeA8hIQxaBiRt2VBZQVIQ9UpC75HhoUJ8UzcpgjeanKmGv3Jqv05zoKH8Q",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Jebutu Street, Off Cele Bus Stop, Ikotun Egbe Road, 5"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428236,
+                    "lng": 3.408347
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "3e90b4deca85479643a231d5b0a2de97961a4278",
+            "name": "Deinte Fine Jewelry",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 854,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA2qk16rLiGOaObb57ySDe7yhOEk2z4lwy0AMJfdzp4OZQQgXV8hIogbWK64LNEGq3f67DONiAnsjUi2xNLqZWxSQo5lA2keBm0CjLmWIbXrPMQIE-S0NODLWSwResE29EOYg9IPHr7ggS2HyOI-3GihIQs63HX3KfUapjndbIHKJx1BoUvSIqqIlAUm6dbkTVu1TjAaPnUdI",
+                    "width": 1282
+                }
+            ],
+            "place_id": "ChIJMRv_SsWKOxARt-9Ehn0zNPs",
+            "reference": "CnRnAAAA3ZK-nbD2QIRE5PHxjFUZPlThqdE9-P7VNjy5ZUbfAypCrnAbPFI8I79ISRUPcgEWVNsx1ibXlvt-sRaH8nqd_GGP-4syedMVVQjWr0thRktk8d2cTPrZB-__JwQLFVHGjAYyrINGPl48JVTkHFidURIQ_vlMxEoxFuaD4hE0RCuckhoUAwgkgUFdxw8k0Ok_Erhj9jCmT7k",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "133, Ahmadu Bello Way, 2nd Floor, Silverbird Galleria Mall, Victoria Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595897,
+                    "lng": 3.35113
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "3b9e772dfa35e3bf915cdc0d186d4b6c7d979597",
+            "name": "Yetty Jewelry & Bridal Consultancy",
+            "place_id": "ChIJLz5ZDzuSOxARKUd1HW2Sq54",
+            "reference": "CoQBdgAAAH1fITBqnyAtc7PJqbR_4ITBF3qw1uzimDn_iSCbPYi9j7V11LpvU3_ZN6FyM2olg8cusxAHMIKdAC2IEX72Tu1XKbeiabLQEDjXxdMiB2aCtbEnyoWW3W0lG64p9VGoThTIPxePpMZT-Vn9_RxfAHuoFjzzzPIOrsQrb7iNf2_uEhA_6GbXpernrFInCl7yu04wGhRHJAPBKlVDBtglvj0sg_tbeaziJQ",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "47 Toyin Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431879,
+                    "lng": 3.430886
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "f005d61b79a1ef9c028fba0417eb672f0a91aed4",
+            "name": "Marcol Jewelry",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAFfFWmlS4tjVsv7o04tZ1DOEvuMZhHEdp3vB6JpF5Lj1TpI_SCTY4uwjg5qzBut3mE36Tsx0za7J8Rf9RLxt1YriIKVpP799joZ-OjRyKDWSPfj6rfts9iRbNYTlc96jKGpeczu0Eb-vlLYhOaqidstIDYFmqdc_HMs56tmEcl6QEhAmv-Bry3haOndcYfoaur8xGhRDXLR_TEZhE1FORwg66tFAdMIdPQ",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJj6oGliX1OxARxfowjaEEaW4",
+            "reference": "CnRhAAAA_ybQF2UebfkBGwo9iJgvI7dP88tnjhEEGM6CCsUDxJYEe3d8TyXDhLPxfwm9_hr1_IEquU3LutAM-b0VuFsjmM15NNcrIPbtaKwdH5tXwWvSWDh-OTjc7U_jaOQlgbw39zDX5IeiaaOpjRiWu08D_hIQPmb3n2xSRkvjdkmLcBbrTRoUPW6F6MCwVjaC2ugIIUcV1pexF-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.459505,
+                    "lng": 3.413598
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3c5aa15f00a83880c933ee8b670cc1543a81921a",
+            "name": "Savvie Boutique",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAHgSFp-1dmnkb8g89fVEztgnPyPCdC-XVcEI8XXCrMjLSksbuRsya-xTC7aZ6x1v3aWyOa1r7mEkwP09L7TsUFE7zLiY9USqWXJdfjncna7uOw9Y_VbZYhwrzlUJIUVi-1Va0Y3z6-yl-uLfNIJAd1E9Md-b_K-oquhZaM07WU4VEhDVBrfq5sjJYmXTpEg2ukN9GhQerCb5oKt70dgRuHhqiiApf_BjOQ",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJgbHIEDaLOxARRzO8RLljpoQ",
+            "reference": "CnRjAAAAo38qcqcqfJn190qfQyf2KV5mzPPPoSG5ar1WlHfsBgghLaLQj57OXD1MjPaghczhZqzj6ni9HC7Z3tck-9ZRs3QOzPmB5yRoDnrVQHoha91CkLGNYyMN_J6rsiBt78hlHjJdyxBSxjrkYmi0RkNxYxIQi_A9XSghvNJdxbNPYNhf4xoUUETgwvrYrQq_SgeeUjD0NATqPxs",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "clothing_store",
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Dolphin Estate"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.607755,
+                    "lng": 3.357872
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "24328d9c633df05bee7491d1f30fb2f21708eab9",
+            "name": "Tojaine Jewelry",
+            "place_id": "ChIJNaWZcjWSOxARAYajVroJ4Ic",
+            "reference": "CnRjAAAAr5mBItmNup3Fr-QHFsnElRE6PEwd7DJPkK2iqNGG14jbVpwLxxQgl6slQv64FQIKJHbWSbVZ9n4Eb4SGGF-brWFgKicRC5skkUavg5sbIjXfRPZ2q-jnRROL1eHaGBeLdeUPj2vuHUGxWZliHsqKThIQ6wW-PH-fLVJR7z7KluhrDxoULOjG7Wr6a9Rp0G5AX9x2-Wd6oCs",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Kudirat Abiola Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.580873,
+                    "lng": 3.358604
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "4bf8ad5b6118f95513149cdaf5b8187e5f52bb40",
+            "name": "Cornucopia",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 857,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAGeLoea4csBjEMwqTeq92kM-SGGlfgeBkp0B4HAuFN1TncfjgdiRoGx2m5n1KJNCXRdbEf9ADg5yobMurzu4NreNOW54CHa8I6lYATCf-HHo7YOKTXSuxnT7DGlxur-hLptWqG457sZD4GXtxsA2FjFZag0d_KQ5w4TGEgXuztImEhA6bh23_BVRw-zJ-COwJLOBGhRgYehsG5YGlxcr1N7xp9cbjDStNA",
+                    "width": 857
+                }
+            ],
+            "place_id": "ChIJJV0oLBOSOxARoxncMJMvdEI",
+            "reference": "CmRdAAAANknQ_4qDaRIUwe2uPHPlR1ff6N1jQSLbB4tP6niz4XuOn2WufvTWXtCj2X0vG7hYJJb5DtlnlcDWZzC8xj1WEzDc74y95TjdL5LQ_BKtuavuWIjST96A5u28QrlxiNZrEhD74KXOSuhYJAxiGo8c1nM_GhT0nU_HQWoddASiNPS8eLZE4EnyCw",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 24, Isaac John Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.548824,
+                    "lng": 3.268465
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f0dbbf39af321f69fca8cecb04fe1ca68387352e",
+            "name": "Mercylanda Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 288,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA-tPZtP3NLBL73b_9P2LdvcxMCA3WQgE3bHuKS0FKDo0_Frc_HXOmmqOqi7GK7sID1VWFzN1kaAWYXcZVGS63hoeuKOxqMe_bm2Arjbsgzc3ZOri1i2w1HjqWr5d9YKAkpo-9gkXqPK9MAFHOo4eoLBIQreJOg13Q9r69iKUO6GtZkxoUQfwxPHfutKZJ5qnF-yCMyTixjKA",
+                    "width": 432
+                }
+            ],
+            "place_id": "ChIJ9ZQXfu2POxARU-plosGPNXs",
+            "reference": "CnRpAAAA7E3HQz2oAbd46RtZiCWls1FcIz21qvPYplxRNMH5EL4g8x6nQLf11jKPrR91mUkr2U6OVeopM9NeAsu-S2EFjPIgvZdd-IXjPRd0QAPUtuq6_46GnZhaqo2IDC0r3FzToYm_6CVImal1P0GlR46kuBIQw4NC1aE_pzvjXYkhajWFYRoUS2iaUMSvckk0Uu3RhSNMM5OFCBc",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "jewelry_store",
+                "hardware_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikotun, No. F 55, F 56, Jesus Line Upstairs, Ikotun Market, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.501801,
+                    "lng": 3.351463
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a3d16092e11af73123441f836ee91c20ddd50c18",
+            "name": "The Berry Place",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAipHTBvgRqwkpfhzYYqWlNceiLFrWCSChPH_AK1u7IfzfGLvYOXKX1zxwCvyEdfdVa4Y8kfVo_kH6Faxs0KHbWdLp_0-9hvtGSIxSMpcO8kqBQDW3RGdRAevvhczebQaPyAjOgXvNKgB6mhhaRj2LMBIQuNoDdXY1b5gLD85vucxmThoUUTrwfOtL0JvBmGZerQ5iT0B4HZ8",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJcWwutReMOxAR6-mn4hM1XFM",
+            "reference": "CnRiAAAAzF3M_BCTcrDdnt6pEEzyp5YYDww4INh4ZDkCv1d2B1fAQlviMFgm7ZMwBNucpBJHLJK_LX1XvHjLqqI4tlxlp_wOxmbxyDAdLvh48qH3ko-MtBeI1CkRtotLumSoRHf2WGuW9R7y7NC6itez7YKpqRIQFz7Al7HyO35iU1UPddERWBoUrBuQDjdhxd7cn6WkNquWIc4PimM",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "147 Ogunlana Drive"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.60025,
+                    "lng": 3.297903
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "ae54de1865e9fe3721e378bd4468023120b9f3d1",
+            "name": "La Porche House If Jade",
+            "place_id": "ChIJ52HHulKQOxAR2rVTn_GNc08",
+            "reference": "CnRqAAAAygYYFWerGoaAL4PB5LxUDpERXkNrww0YkdxEMlu0tdqJRbu-Y5mxH11nNDryrIlJ_aMAxiFMbWYjuYMpIomWPu_orwDxznsQWzmozIFe_R6b1k5ug8dUzC4gRwZl72-jrBNoj3gKbWGXdaeRFPMf1xIQe-Le03NHioR4I91WB6tTChoUQDV_nuETJ3wdsA9Hzf6ovSDTfQo",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "By Micom Bus Stop, Egbeda, 72 Akowonjo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.589712,
+                    "lng": 3.360836
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "31aa8cb0814dd68fb584644b974786d7824ef649",
+            "name": "K and Angel Boutique",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAmO0jNJgz3lhnZKzlAhK8zwoXUVYZpL58imlIqKHowJ48u1Nvl2Dj9i-B5iiBb1x9-Rm55Ee01kEPk1VXEteNwknkOSqAw8gIakxwq61CgWsb7MlJ8YfPe5dPvn1ePZ1HS6GgE_x_x7rjhL1PtWvHeBIQoaFxvXCecgzAEhHMVg4aGBoUU2iE546rUijnWWKubBQjBCuW86A",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ-48NOECSOxARfaSTZy8N0VA",
+            "reference": "CnRnAAAAgfF2ZWHwaJj7BNCTZCr6qBd_U8xkZDrgTwhi-FvSIZ07quNeYWaBWHQH6526dWPbRugRLKMIfiz_y_ugaV4lJhFNUFybOiXE1kE3SFGPyc_YIVfJDW_9fPc2-ShMUmFRxSPd5R-roVrGPs_Iz23fnxIQYjVyJUYjZmXFjDbjN8kwWRoULYQ9FugJo19GjW-wZs0cEiSE45U",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "48 Opebi Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.496824,
+                    "lng": 3.349478
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "c175a3bad4d823f9a9d7aacc548457c1edc199fe",
+            "name": "Proverbs Creations",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 606,
+                    "html_attributions": [],
+                    "photo_reference": "CnRqAAAAwfTj2YqslXeBuA8GG0uZGKMWWl55UiU9aXWXQ6TUUcOjwAFtD8HddV103Dx5Cui8yyZCN5t_YicZxCCB92kbNty8sumU49rifF8VilSgH7dBEyN4zXeisW1bUPYqylEcOrMa1RBa3lmXFAaOjNqF7RIQTJwQuY2-zwpiMWG0ybI9JBoUyRoICxhiJnUD6XyJi0bJGAxpt20",
+                    "width": 605
+                }
+            ],
+            "place_id": "ChIJaUoFoxCMOxARUYsnYb24X94",
+            "reference": "CnRmAAAAMXWeDf5R1Tdf1H4LdmZ6uKbteZz-Funhm5pwSEvx-Fnx9DBGdIUoUD8-v0236i4XYR23h791QjJwiBFJskSVC6Wqfz9qJsVJVvKAFFssRto4xBNnRjUauDvmEwEDPS_MB7Thtny7DTzgOK0kYvd3uxIQYAG8sP4LxR-yw_HCTNduUxoUAF8Z9z8FlPNQACYYX9Kdd9A8jiQ",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Adelabu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600955,
+                    "lng": 3.38098
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "721786d81d1f05bc1dafc2a0fa84c6b6984007fd",
+            "name": "True Blings",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ9w8yRfiSOxARy3MM08Y_qgI",
+            "reference": "CmReAAAASWFnFkC29gSpLwor18N6THaFUKv4BKk0DV03VzG5IyEN6p-BDNO4qVCgJt_aLvod7GmRzvGfcNDc_1m245AuZ0EEw0qHVBrkwKOM2mmJInUxqfmm1owsZp3hTpG8GlXnEhAxjTcgnLzDlXACjfISVwDbGhQg_e3JCqVx5S__fj2yDIx1kolVPQ",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikosi, Shop 2, 3, Leaders Plaza, 3 Aladelola St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606127,
+                    "lng": 3.350006
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "8c23f52d19d8e90a813142a791366ec6a61c7d55",
+            "name": "Glitters Craft And Fashion World",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAIF0KvoLX52Mm193gMXH1BBT_8G6g6bDVuSXxe9MlHDFUiQot6Wlr71PdReDQq0egqE1MUCEcOFPPUxzW7Pv9VgvU_rT1k_3-GHYQ_PebcJnbv6CjnX8FIrEDUiVM4qbskY9lkliXj4W8qeJOdNQInzUgK2CJ9FrnhxUu0pvdz79EhBiSV_iXqYAsISyiSAZuPM4GhSeQK1_IqdolTDeo25r-FnmtlOfMg",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJDw9TbjKSOxAR-FcATtB6X78",
+            "reference": "CoQBdAAAALiLVbW7zpdL7RBx9a28xbyIWtXuQ5AKr4NZu9QGPW5EEZFLDNTuffFWNyHhFOHXCJ9-pDJgsmkVbW6hm6sU7A36Md64UdzHyltQUWmf1ba5kjbP3r5CmJZ-FDNSYQ4mlwMJauCOJUMFSYIK0J-B431CjbGQIKtgNR-ARwz1LpJTEhA1CA3xAi5SP2q8LTbUphqaGhQhVVm9QlTVGvRWJReTpu4Ay-UKlg",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.457919,
+                    "lng": 3.386604
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "68349221b608be76e4e1dfd6fe18e2931bd73143",
+            "name": "Dehadzafashion",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBeAAAAOKI_Dc4Djgi-l0JKPCtoKCBUkzJAXh13ywIXtjVWsKYaRH1xbizTiDv_mK9HuUupzTk10iPdkN9qrkiPo9r5CcMED6J2xQ4yCtqv4v-gpun0J8X5sefUp4TMultREIbXrT-xV6Yne2L-_BbooJ4PEhCFfYPGESAtLKz3LZBrwWMEhA4mMO87I5yfXNmx90jf0GuGhSpsa91Hv4hDRm6yL9Lq3EJM4ZDaA",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJK9sH_wyLOxARW1b-HgzRP5k",
+            "reference": "CnRiAAAA8b_aSAVeFkQFqjbvcxKTURIltLbQ-eUDmVOk7gE6KdSWPRg50f2dAAyyrGrpUarG9QWvmbaUIWjSSKgvuyY6oUlaqPlKG_a2sTxDiUVGOqVSAlpBkrSz8Ft3CmKW1HYEUKcGY-0F-c3wWEKGrhVIQBIQV59gvMQIKb874HwiW9OjOxoUR_BsZEx73_ZJvX8EBec3uoYxnj0",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Martin Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606766,
+                    "lng": 3.379793
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "cfb0e11e1eb1fa72669d6a7a3d68bfea5688fd57",
+            "name": "Zelm Collections",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 320,
+                    "html_attributions": [],
+                    "photo_reference": "CnRrAAAARCYGQdgc_6pI1twIszqt8hcdOXWR7IzD68KUWKIW3l_WuKi0OTMq4P4pLes8aB2Tt0ZEIr6d58ALZB_HUPMoXgZj2ID4F9pjpm7I8X-Z8OBh0CVfVy3kFm0h9COvqBjNwYLMAm8NH2S241MI8nJahhIQTrj2Ur8q1sta45tUdF0KfxoUPHuiIOs1Fwut-yqGC_3-T-xhI2g",
+                    "width": 321
+                }
+            ],
+            "place_id": "ChIJOTnFef-SOxARaj44wEJrkIc",
+            "reference": "CnRkAAAAAcf7AtmJv7xtyUvrWG-mTk3kU5nbKp8ppkOGkymOUpC8RmwdVNHzfzJObtF1bP9tXrDYZD43qWJwFDUCISjcvY7ZglL-Yf3Oto_SFX_uF_PLQDhgWAT35woiKomPbCKkpJB43NypafGdMdSsLGJxYhIQ6onDbMRBhy9MDwbfawYlERoUQxh0-dY0Q8wlwJBkqx49hkuKgtU",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Love All Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.540796,
+                    "lng": 3.387245
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "34e7385066b9c1383af6fb0bd0ad488e2351abbe",
+            "name": "Maso Ventures",
+            "place_id": "ChIJEcn_0A2NOxAR-z0RQzICXcY",
+            "reference": "CnRhAAAAcmgkpDJye2LN2UAhA1luVAfYY2NKZEWPUlRY81Y_kiBJbbvyYOLB-UODAcmuOemfoznWkLdTF2iEMFxUMn_DX26GxDx4moOHRbtELCFrl_ReW6qSYjR_FXyjd_6Tq3WzXVD9ZTdcPTKQEqJORkoUXxIQHp1gGamxuGJDqhcrLHS5nRoUuUt-YERDKzuILa1YavU9t9Fqm6M",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Aduroshakin Street, By Apata Bus Stop, 2"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.605503,
+                    "lng": 3.347113
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "bf438064400e85b0febeaaeb42630e07e8e509c6",
+            "name": "Esocity",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 322,
+                    "html_attributions": [],
+                    "photo_reference": "CnRuAAAAcQkB92QKOoY4VrrDr-b8EbfxNTX6gTw9s3-w1T1kBTeAemcmZeuSXk4CF4WRUB7mlL-hccTGzmhm70gTiXbJolkSIOkdJRUEQXp0jAxNV-zUGsj_iR8Bc6FHbl0Lv8tqAuAEWMjqUgqxUoFafkjXbxIQvoZif-caAu7WuoKC6NpTzRoUojU2MNEPf098n84z7Xyd3T5MWDI",
+                    "width": 325
+                }
+            ],
+            "place_id": "ChIJBSH7xS2SOxARnhpKPR7OLig",
+            "reference": "CmRaAAAAuXhEqfLJhq_jhwHnVjgKVvak4LMPjXuQ-XISVZ_VyFg-ruQuGY7ARSyzfI60OZtOaNRdJSzY7GDPHoQ7jANl8s8TXM921IrU_qXLo3gNvY9XxDdFsjOTainLpQJMv2S3EhBzmkrO79OWDH5NaWhklEyYGhSWFyndeFnq_oPBYE8TsgxzCFIxhg",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "99 Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.510218,
+                    "lng": 3.364969
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "3fb0c445304757154ed0293b02be39ad5dcb7ad0",
+            "name": "Bruna Gold",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAFnG6rQpEly5fqFDZLF0MKpXUJEjZ0P0BONiJgrCqk5Btw8z6y1lWMKE3SLtTEvF_2bto5l-kCkyysNzioJYzQR3Q3mNOEsAkdtq8JEMu7Nkp94znP4-yyQwJgWtl0rrRWhSJ7okYew5qdymwgKgDE9kMmOL4cXRtqmEEsvsB5h-EhCXE4GqPUl6phsZbsUKM0LFGhR1a9GdyvTSKYTtxT-pq5kao35WtA",
+                    "width": 1208
+                }
+            ],
+            "place_id": "ChIJSyHsO0SMOxARaBV4rEtRJis",
+            "reference": "CmRdAAAA3GcIkmPhLWVZK15G9pGXCkqQQFVfQCYuEZ9nSujuOChn6CBiAbscQiqauAQk1Om2FnOVNDYCrDMk2ZhetlwkCFeCS4tk4eOXZ6KM6jXVbhjV5YqwbBP7pY-lRo8eKfEEEhCSIZhmCleDVbwN41RY3LV-GhRQj32GQAVPqrKmjHVCetwnOCSUGQ",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "72 Ojuelegba Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604129,
+                    "lng": 3.361505
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+            "id": "81706439f2099c0b75bef52fd04432bce8ae8958",
+            "name": "Oniyeti Jewelry Affair",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 737,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAHFJw4o1sy55M1jNxZ6DDzeQBBOyiyELCgOPqzW8C39yJd4Af-L1dpZt0oJiPA8pVWsjKcGgaGWo7ifmODH9jWaXybsvwutbpJyHJeCGVR_eYMDdgVWSwjD3JGvSCQeMfYo5wXMYo4-I8CDhj3JON0s_vSPxoHPTAlQuRfUK2dW6EhABsXj-5wZ7w_C6HeIRtFcmGhTkGZESppDnhAs4dTiFlbHABsuz0w",
+                    "width": 738
+                }
+            ],
+            "place_id": "ChIJw-HzgUmSOxARaYlRwTUPVwE",
+            "reference": "CnRpAAAA0rENUmaRPf7k-Xze2Ye8R34MPeB91BYOALIVctjKodSASp-KF3PWHR-VISvLm-wHCWxRWkVV9ac-_VwmGFnJLGYtg8RFl9hCndOF-YCt1i5XL1-WOXsMOLdfgTnjukXrR5H2xrdNbcP2izbuJQALDhIQOXc6pZKoa3HfM_szyCuNTBoUaN0N0t6wZsvw-rDSKiRPCKBAip0",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "1 OJE Imianvan / Kudirat Abiola Way, Julie Estate, Gate, Oregun Ikeja, Lagos, Oregun"
+        }
+    ],
+    "status": "OK"
+}

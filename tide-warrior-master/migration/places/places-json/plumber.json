@@ -1,0 +1,463 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAHhfOnfpSrJvMjAFDvQnzTz5va7vYdheOVVLBacSX8X8bk2bVUDoR2m6cw0B31Gt5IZfTQFeBCSZ53xvugAsa-jbH8XZpAkvHeb1gosJKJvHvaG6N5NqO4wmfMwOi5MAioXN4TXA3h7wXFxDKFK1Y79TXS4rE5RlQRuwP1sJ-ClJpGYdpG7RArxaS7krZ5R03_2TefoSCeztSzHLy3PRQZHYLgfiCH3COJ76ERYXPTv_j6oeUusNsff-TCD0JIQ6KtWi02o1skIkvCe3QIycFKwwWv0lqp_576SeARuSrhbRgdpNP35VIgZ1PxtGruEw3fvhADOIiJxFaTXYWCofeXQSEGyiTjY-y-ru-afzQ_g_kZMaFBRSlEe_ozPsaKKK8bAd2DpuFR6h",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.650695,
+                    "lng": 3.363705
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c51f914d7b8a9ee1329780c54204b222d109cbda",
+            "name": "Isotech Technical Company",
+            "place_id": "ChIJl0kUJIqTOxARP0bzNnJJJao",
+            "reference": "CnRtAAAAnTLdWSzn5TCAF9Ps73gAJBfy3Fl2F0ghG98D7ukFN10V88Cv7cU2FgmVdJNE_Xud2IgaA6ks-qELeqRAH71LtZ6ObFKVhBCVuWYxq0gni9IaD5Z8K2dQmajLMPPwsD6J6RTRtgOmDUZQvSaxcGMtMRIQP7JGyp0Ir58-9jFu8e73zBoUe1vyWtTo_RMia18SIphGkuZHnD0",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "No. 6, Yakoyo Road, Ojodu - Berger, Ojodu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503526,
+                    "lng": 3.306226
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b20d0cfcf28f51baaa499756d80de502025543b3",
+            "name": "Bocum Chris Plumbing Engineer",
+            "place_id": "ChIJ3dvnf92OOxAR767ZYKT6HSw",
+            "reference": "CnRwAAAAeH0UvdUB5vZNqGFZ7iA7cX41-VIwytYcmreq7pJRR5bMlrD7NmFRjs9wapWPB3UlaYNrdoxqkG2mz24oZKw9Ty62vuDBWkhkezKvzONnAdb2MyQRMFn5Z4db1HNUSwTw9B8W2VLZf01t1jH3zemWJBIQIn0sB8ya8rqkqz9kMg5KRBoUUKKqHq1yQOxU94Xk16aQ6Z7pL18",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "No. 96, Opposite Total Filling Station, By Lord B/STP, Okota, Ago Palace Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598624,
+                    "lng": 3.386428
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "35683547130ddbe2a74cdcfdf78e17f548582b7b",
+            "name": "Nifdar Projects And Services",
+            "place_id": "ChIJBWD5g_CSOxARjzpkwnMaEfk",
+            "reference": "CnRwAAAAQJrtV0Le-rph6GShYxeav4AkQWQijKpcTnnqr5UVxqmhsEYV-d-cxc3bDLVEdisyI_93hki5r3RRHN0ImLSxKv5FEPzcvRF90MlKQbHHULsvGGT7V7NK6uZZxCCbEYZf3zYWe3ODzrHp4jJeCce6TRIQawTy0SnLHQhbr1A7__gBGhoUa_AqOU7jJqE4bKxqE39zh4IHsjU",
+            "scope": "GOOGLE",
+            "types": [
+                "painter",
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "No. 525, Kosofe - Ketu, Ikorodu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.649851,
+                    "lng": 3.308163
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7158d51cb9a9a829e9a9b60167c8aa12c85479f8",
+            "name": "Aremytes",
+            "place_id": "ChIJA2DNnC2ROxAR2W6i8FhTCAg",
+            "reference": "CmRbAAAA33WkW42nrjsRowF0KJngZY65TTpxW8XGpULZQKwehyc1DR4txHKRY_W2MCxl4dasutDp5e4wGS6aSWi53ddDXac4mGwT1bGN2CAuGcmZCqtuF3CzeMSGsGbch7cp8V61EhDEa7OU6i341UXkbOvEEVSOGhSO8Iw_qr1k_Skod3IT2YmGZZ8JlQ",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "No. 5/ 7, Oja Oba, Abule Egba, Sanni Olabode Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.603898,
+                    "lng": 3.300301
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "abfa1347b4aef539c2082babaa9481dde40b565f",
+            "name": "Bassarg Engineering Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJSXSqkayROxAR4TekOCpFrZM",
+            "reference": "CnRrAAAAOLgT4yQpv9efKORxvD5F0fC5wuIO4vZpUPsLWgJA4Uj2YWdatG2WPUhxG2IrzbGGFtKcI03KCdeOuz2G7BGSE3m7oyuDXP0P5baglBxrPFE6kuo9Utra484eBATXKg5pUECVqhGEqGYoSUVL2YSdaRIQZaehSL67xUSRX47TKdfbZxoUYM01yaUlaCiNX6GsRcXKOFlLgOc",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "270 Ikorodu Road Service Lane"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.637318,
+                    "lng": 3.347972
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "007cdca031edd493abe58ab3fc32bca28eee2f15",
+            "name": "King David Asset Developers And Managers (KD-ADAM)",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 807,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdQAAAFMtpSXs4slCjffn5rHmFQKSAFnYN4LcxJh-s33VEOwkDkL6ikadEHQl6ZXvKxRMPUc4x8zvkAPHwqiVMXTG2nmrbvIgI4mwYJhq06jCICyOG9pD5AexdwsLz6t0Ilflo_LLinWBgEIV15Oy5bS8EynKt05SHj9DwX-lcWlc9p00EhDBZ3yoK0sOnasnqLT3wabBGhR7eeoWYFphmuBQ0p3ck4H9qtge7A",
+                    "width": 808
+                }
+            ],
+            "place_id": "ChIJrebE6OWTOxAR5VTi2pcxMPs",
+            "reference": "CpQBhwAAANq9yRhWT126OFcuQagafdpY0AKLoHIJymQ4-aQSMqa72EGE_oSIwyvHSDC6dwiqXJsWE9S4qT0G2cV1gZ7hp5IxXwJrfWQFoo_ck4jGEannnM7QMHgHxy09H1IdVawLlmnYDi-Ti0ZPTLRF7wXBfZ-9Ac_Ss3Ledf-y5ORkK4D4pQ5P96lUFeI-bhjC8ti2yxIQ78BBOSuteWFU33ouI5FLqxoUlmmy6Cboa-y3HW-vGs9aTseDf3I",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "electrician",
+                "real_estate_agency",
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.514672,
+                    "lng": 3.317036
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ccadae094925d0ec56bc5513a3031b5318d18d0d",
+            "name": "Jolly Engeering Plumbing",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJbTNXmvKOOxARWvl4OJ7rxok",
+            "reference": "CnRsAAAAVmOLGpjtefYiuB89SVq-gtoeeA7NWseTPmLXeD4zLFVcUz4rvT07HgYTLO21_MZGqWNkiTg4Cw6PiUsOcAMu5luvMn3orKZ_g4yhiEJ6_7bICuZmUNCwpjvfMc6Zt2Srfb4uvo2gYMTJ28bkk32BeRIQqEHa4QKC6KZc2iqrUiz_zBoUa5FdTTfLYYJNGFlrS57jUe3uBQo",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Okota, 14/16 Ago Palace Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441949,
+                    "lng": 3.332443
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "32dc938b77fb08ab05480332678d8c1e8a917c5b",
+            "name": "Aojwater Plumbing Limited",
+            "place_id": "ChIJp5EhlcL0OxARCuqSswUoq6M",
+            "reference": "CnRtAAAAIBZExGy-RcaRG6ek15nwTHBg8X1Gy5s1en2W83IaqjQgH8PpHjCfdE9yiXcNnlgT-9cwi_CKa0y23fV7MNMPLRiFQCkRQaZN0St-zM-c3VeCaOuEd25g66fN-amBIxn8hwTh8F4z6OkGf1eneApsahIQRkwkb_uKoKiSZcC3ifPEQxoUsWiADlRz5ntb9LoMBuA9cM-HOw0",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Ibafon Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.603033,
+                    "lng": 3.352442
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dac543830bc61fbaec64555ad816d5d48a0da438",
+            "name": "Akins Plumbering Service",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJCRyDFDGSOxARtOjDd5KgvVg",
+            "reference": "CnRrAAAAgUlZiZbeTHqvXqu_KfYSkLtdc_wRQN4pI5glv-Ag40FWNty6cGCjvWuf6qTfHOa22bEr_25XvEnnoLVT48YPsF1jsKY2P1xkoVNCqZMmp9lxNU2VcWqlEUFEU1baATjOSnhQK8xVfkfRiHyqTAhxahIQU1aDpvGdKShpL5Pjr7XSwBoUM010NmgqZbQb2T8oi6Sit7-U-2M",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "7 Adeboye Solanke Ave, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.572784,
+                    "lng": 3.371258
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "78bf1673bdb4c046371fa5b549b865b4e718092e",
+            "name": "N. S Plumber",
+            "place_id": "ChIJjSK_LnqSOxARjeZaljLV9uM",
+            "reference": "CmRgAAAACzKwQD_ZBd2yZvR6yGs_ClUl8PxECTeI7gmyViy0MMtigutHrt5bcZZNc2z6GysBBEktnwimGzrijEskKLNTjU2BHWzWjPx4aanLDKymUeNSytXXPThgzSS5M1tvCtE3EhC0_VcR4LnLVuKV_jAGuNSSGhS7gh5fVc76tFP3PTwygIKD0zuYYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Mende, 21 Abbi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.621106,
+                    "lng": 3.299128
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c2c5ff2ec7bcbf8140c18cd9c04f7590d760aa5e",
+            "name": "Ariyo Plumbing Works",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJZW44Uh2ROxARaOUSZyHYaq0",
+            "reference": "CnRoAAAACwu-XI3-pQlxd2rV38AeyxxGdekXFj_wYzfXMNbUrauSwV5mQ1lRo9uOh93rJKYdfMH6amgOFgDSIwirYBjhI6GQJUlMDyS6Fy_vzpaN8S8v075hlnk0WJfVRzdk1WJxnTh28s8iVtkuvXccOFGYEhIQy7QZhaXkOsdWBJA4VkE8pxoU-Ovp3O2ldmF6L6nU0_suENhQR0c",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "store",
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "IBTC Busn Stop, Megida Ayobo, Alimosho, 8 Adesokan Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.568721,
+                    "lng": 3.332753
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "576d389719ab05f9b5a61a17280b3409b7b2cd5f",
+            "name": "Gafola Technical Work",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJYTU1wP2ROxARGuJYAsyYayM",
+            "reference": "CnRoAAAArLL3g4TimRhwsYaPO3DAyj4H1i7jzTLMNvckUDo07X2YaIifznKInBvpXBgkViP13PcZz-i5beddws-koJGnvqw5gjj1aXsqAZEURbU6N2Fnd9XoiFfPXk9eHdFqzi7_xZIK_sbGZ4SuEJ74WFoe0xIQMjDpqY_CDD8nugXda24QGhoUM0NQ8MGPLuSIYlX4GIfDV5P6NQQ",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Off Adsatu Street, Oshodi, Mafoluku, 51 Oshudeyi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.590294,
+                    "lng": 3.400215
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ba7da21016e23f2c6230b134cbe6bccfdf9156e9",
+            "name": "Rasheed Aforlabi Plumbing Services",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJUx3vMMCSOxARyuBQvSdHZJ4",
+            "reference": "CoQBdgAAAIiadq0S3sM31CK4htVw81-kYto7hbM36Z1sLsK3o7JSbMr0rmN5Etqc3B4O1H78M17oecVP8oIc8TALBaij2GMe2-BtOz1XugCmQCHslBywRfx4Wk6quQO_6sVRtrfWwd8MvcAPAxecheMrS9ASk4EV3oiPFpw3xHpO7af_Z6ucEhAwG5IRG-sKO_PHVEGfSMAIGhSObB_yDnnbgCj12LMZRHMq0ci5Og",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Alapere, Ketu, 51 Agidi Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.477039,
+                    "lng": 3.346569
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "111722a2d73be980bdfa365404be24779a9c2892",
+            "name": "Muhideen",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJm2gvgvmLOxAREM2CCuNe3m4",
+            "reference": "CmRbAAAAAXZWIQUPSyvp3TMB1rBG9vNV25OAOP3GrqexUSY0X4Eq2AEeXvm9pYPQCduczo5I4yb18YyMqDKsTMBU_R1kNd0CDw3Aklh85x5Ceq325n5H5Ot2rZI7Yqhx-Q09kpRWEhBDEsDIzFATHef1lG0KYkAHGhQqtndFcp_ZX-BDwbcFpll_aIKeww",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Orile, 79 Sari - Iganmu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.548237,
+                    "lng": 3.332116
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "da19ab3d6c837ffcbbc1136c3f5c0376032f2ba2",
+            "name": "J. O. Ogun's",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJS03g8AyOOxARJMn20f8FvPE",
+            "reference": "CmRgAAAAJ9ePvgtILgYvVcEIc9yoStXSrevVNW2IpRgIgEO2KoVpeX0o0nH3WSBSWuAYWRATp8yltyHBsepfuXQyGrJXDFb1uRXtF-Hpc2lSW8k3Q7S12lowlr9lnGl9nU8GqR-iEhDt54qefQ2Fun6X7PZFEKqLGhR4lxMeyCUSTcTPfoZDp3KDBdQDGQ",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Isolo, 58 Awoniyi Elemo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.565752,
+                    "lng": 3.347447
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "052ecce0e5b6a43b49dd004414a60595f3c0274a",
+            "name": "Ehosa Venture",
+            "place_id": "ChIJFxOaQfiNOxARKMTfjDZzVjM",
+            "reference": "CmRgAAAA2knVB86fQDivt-B0tV85j5QXAyMNVUaafHTi4KkMQEiaYHW4jWdEGa6DB6SSFmoJnfePUdqewdIGXngx-sH4imfuqFlpx8qG0HCMx6HaqGCr3uNUdKChKAg1GzjoOA_EEhDnlpn0vCYk1_7lJ3qK0MHFGhSQ6kjtfhY4I4DrTelJ6XbHdTVAxQ",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Oshodi, Agege Motor Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.524218,
+                    "lng": 3.321829
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8832f450cd65dcfcb4f6086a0edbcd13d19b2d4a",
+            "name": "Abayomi De Master",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJJYqNeoqOOxAROr5ZIzyAag0",
+            "reference": "CnRkAAAAc1a8uC6EozzrSgoFoEpxsIWidu0-M_ptOp-pL-kMkh8z-cVHuNhY_5_8WhwPjNBNL80pRH8qd0tqetS1bTLuiemGY3rqG25yj8BgHlNEzk3Q7Pv1mDm1ezAiDWGmuWe9AdktWCVI3SOxHTnbq4-jBhIQRSNktDrulQ704d4LN-zUXRoURfxGDSiSvZllHTxa1k58YKVeTQU",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "St. Mary's Church, 36 /36 Ire Akari Estate Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599729,
+                    "lng": 3.387322
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b4b6e8cb06d5cd0b219c04aaca9b17c92a70209d",
+            "name": "Tolu Plumbing",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJhSPIj_qSOxARQLtTpm7AEo0",
+            "reference": "CnRhAAAAn3VMOqjduhwD15Vgh8hAbDNPGTyD_UVMxmGmwYagVHwuP6yzkWPUyf7vmSFnXDdJuzSnSXujpyblQl4GR1HfeYTOPVrBxBgifNPXR6GN7fSREgx8LWKei8-o08AYgHcsosQA0jPCBgsDt06T4GBKrxIQzxNX9Ai2o5helM9Lf2pK8hoUOXxoeeyiNh2h2AFjQQlPidDUTUo",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "477 Ikorodu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.549853,
+                    "lng": 3.330964
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2f72fde40b26608765a6692535a74cdb37d70439",
+            "name": "Hopatech Plumbing Works",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJIeFjtg2OOxARkLq7GO_hPwE",
+            "reference": "CnRqAAAAJC47a7kMQK5LD_4P9zygw1F0r1Q0Ju5W4I7a9FVck5XEHdKCavUvFj5RnIdsvDSizHqWROj5H_LRlgbKpik4x1OSW53MqtL7vaoLy87gP1GP4y1cga2_KR4i801iSR30iJbJOV_VmuLu1RMfygwH_BIQF4nrmJ9iFPfRxNXC65hCuxoU51Zzkzp0NZ2ldfcJHdfUyqULJEE",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Isolo, Awoniyi Elemo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.427691,
+                    "lng": 3.42696
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "509fbe5ccbf02daba0f265f50e7edb1ef5c7b2bc",
+            "name": "New Comex Trading Co. Nig. Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1579,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAIIqARj_2S6MIfmbcoqaAojddLNXxt2gQzVYd-E5V6qOBVakHwz6uliLjZLRr7FTo9CtMNmBMoyyX2Uc0KOgJOhv2dRzS2DqeEUpNSMsZfN_-69_KNwIUMoBgEab-5aeUEsliVqgfSURpsETYdv5894Qw5JFo-LPYSxdiUQloHJSEhDrS5pqJFZ0KrNsh9_ZEcL3GhTRaNtqnb9l-5p1mCSxedeT4EH5XQ",
+                    "width": 1534
+                }
+            ],
+            "place_id": "ChIJNUmn0zH1OxARP7fX7JDCz9Y",
+            "reference": "CoQBcgAAANf_CokDnIF0Uv55tBr4LIHKmU1y3732bL8MGLKx0FBJirEnR-_B6d2lsQmxS7p4s0IUX68agGbg1lnVZAHA413k5QoDdb1_CS1wbO7FTphLGus8StUqFez6noyOWCA1g-HZSQLMbHl9unFNbv-rjBTwMw0gRchp-Lf_RcUYyXovEhCl_y8z96sa6b1E37708joZGhRukG_1zBVpnKX-Bnxj1Jd-Cl_Y_A",
+            "scope": "GOOGLE",
+            "types": [
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "9 Olosa Street"
+        }
+    ],
+    "status": "OK"
+}

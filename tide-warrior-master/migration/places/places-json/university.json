@@ -1,0 +1,497 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAJmB14HU8vkRkCWXXKB0WNbai20zDwipPWlqkJRO3PnCbRDmWcRDHFZ5oOk7vhe_HS0sHQ4k9f3vmNGt1pelI3_-sbumbREsstXxmXywxCCyLBWX1H4-QelI3xbmdNjaRVwj1YANj8AwJTG5Eca2-ozCiJSNbt626OpN0wSZ-VOdEZUD29QI9YctsNxYkwqm_YafkOrlZxNaS7Fs3qEoB95v9es5QhkrhNsm5Xy2hXIOtEKoAcs_oeQWyKho2s2MEaomNQXaJTzoM-jhgAOd_Gj7J4aeHMtv_eLkTaPtNfgcVqACQ0Ah6PYo_1J_K1xsi3efy6YYeKB5xV5jgfVZioMSEJPQdfe2GEvi9JPLzxQE_GoaFLGjVvrAvh1JblaQTe-RD4weT1qu",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.522279,
+                    "lng": 3.38537
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "d0d2d42b2292bcde6705711b211becb615f130a6",
+            "name": "PHCN Station Unilag",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJhRYmMe-MOxARpCdW2uxKqOE",
+            "rating": 4.3,
+            "reference": "CnRnAAAAaRsBJsk-h5BdDVdwQff9nAMsoEDSkX26CRlvzPs-4ULu6XGdhJ4KkyGbUs08M4rYxjUSClJqpQ2bcC6D75DfHId-BCgoFn_A1k1v7cFoogZAVVnrQku_w2zOAdz8zRg1zyxUWUxO6Tqju_ViqjlKgxIQHvklgY5U2M6TL2BeRlNL_RoUrlsV-Kc9Dj4_ge3CSmcLiN-murM",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Dan Fodio Boulevard, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518417,
+                    "lng": 3.374795
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "ff921fbb8f08356c2ddd38438834aa1e9000953b",
+            "name": "Yaba College Of Technology",
+            "photos": [
+                {
+                    "height": 1149,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRwAAAAe3JBbYKnEDb4vYtoEpxHNDMa4mDNMqPtn7WGJNFObGnDglRIi8x07SAsB0TsWZ9ZfX2_jH5WR0W-dmNEqgbavL8dxFhhPOgT-ZV3kUIAYE7gQG5IS6gBM9eEL1Lc1psS13YB_Jv43D9mxTDQF94qURIQ1JtBoBSWu9GZ2gJnbs9aGBoUMyY_1lv2pXTO-mKLW0FUGnXlPZ8",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJM-DVUlGMOxARQqfbTAuFSYU",
+            "rating": 4.2,
+            "reference": "CnRuAAAA1GVGQCe_1VRXfYIM8rpgNwtwQmTVw74KZ5mM6hN1ujBIw14TtTTWZvagLYTaGUT-89b3-156USSM9ujwxCAcL3DcQZWuGP7hTBL9564tsy9xemxtE4L_PriIhEeY3I0AFrUulFervN1GI-bXeSW3ABIQG0Yu_jRjWhFqELuoBd3bOxoU96xTvmYgqPqvGPJ9Gnyz7NwOw98",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Herbert Macaulay Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.51924,
+                    "lng": 3.391757
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "6bd1760a7bca49e16e560fec68f6125c2440f5ca",
+            "name": "University Of Lagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAtgKuKRhXUSTztsBbgIw7Xh2Jk1rW2CkBOQR9ZokZSdDNvUgDfn-JKnjknTc1HZXud75v0MzuD0LcwPvcRVw60oKjzl6mVEsQZQRdKJANfwMku-JCIlbpG4fcbW8FAqPWKEtWjVv6ByxZXbH70zDRSxIQc7Uy6S7DdYJVW1E0gEX1FRoUluHnKGH9MSRoWXivSoAVb3KsgyU",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJi5nvgOSMOxARRiBHB-xDQ7k",
+            "rating": 4.8,
+            "reference": "CnRnAAAA_UPT57vwNi3pqOlKerbjfbctINRo5LIABLFYCYddzXdY9MuAdgbQCklDvo-GrSe4DjbCnqgc4WV_mtDYnNfaaG4-8kHwSpgglZdUmvUA2jaQuNtREfH6iAaPsPI7UnDSOdnGrfzm23ZcrEQvcVJYBBIQE2171CIZtqrSeCDu4gwVQxoU7C_Oi2MZ8hlSjc231zcxjxYWeq4",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "University Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.529086,
+                    "lng": 3.372274
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "c56906594e24725b2358761202cbcd205163cebf",
+            "name": "Igbobi College",
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRuAAAAvv6s13sgLSQJNLTV80dM4shAVoCEPDIczsNrVwHOew8DRMg2DidHHTT9k_9-3h6jIUe7d1BYu7p5iXCTmY0BKFrb6kTAKLnMOAX26yMqb1YUtkWKDmdUxPiJbXIeTPlIj7WcAY6d_N1TL1npI-IivBIQ9acpxuaHnPSo0fNvclgTiRoU5ToqsU2YLSXvS6ybHJ4u2XdXb1g",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJMwpKSqyNOxARPHdjoNChdQ0",
+            "rating": 4.2,
+            "reference": "CnRhAAAA1bx47B8tg_2kcffhxl_LS0TfAXBkdMq9QNYw631ZUlc3-e-t_UMTSYxKgaoaB4V-oEZp4j7scGAb-jrgB00CACs8iHQDXcHx9Cew39EJZPeIzwNSgITwxei00vM6Scd0xli4A6N86YZq-LW9V9srlhIQbTvGkO8jLq4EzMgzaDnXvxoUb7knVxJOSJwFieQQyS2IF-CgC-w",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Apata Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43732,
+                    "lng": 3.427989
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "736409946a0a6c7a6b335085ed05e054e7f7d591",
+            "name": "School of Media and Communication, Pan-Atlantic University",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1037,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAuXr6iLbX2m3L5e0RmC3XlvF2P_xq6YU-oCh3A_B662zNFDgMOH4Jo4AdzhLZQaVJxtld4ulCm4GQh_2QQPRaHRypeEeYOw2UmDpPuaxv3zL8kcJcvDcKsINH3JXXalxV_9h2XE2uuxYhNf92xibaMRIQGxfsGtRjmaTIYlnAJLle1hoUyzOMYTV1SN1zHF87jrtGposv13c",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJWdG5Rij1OxARqBlEfhefBLA",
+            "reference": "CpQBjwAAAFBMmEKdf_OIVtSOqTJFmi-pmAiAYsAR_Sgew4GR_YG2GYNUcPr70S0mSHmh0fxby4IHSbeN_41avglaNzmpBStipDkCdaEfneBnPKIRrOLj1mCh2W3V8qU6CKYX0mdwKKdekF4p22Uppe1C2im2Oj78VqZpiDu2-HAjdsRn7mQ_JUx1sc19sL0JhCyQatHiexIQ3X4TBH5ntuIn26wrP5kVwxoUKd8ysr1vqZ0U7Sx4B3M_yPuhtM0",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "school",
+                "establishment"
+            ],
+            "vicinity": "2 Ahmed Onibodu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434521,
+                    "lng": 3.409828
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "f5029bcb1e100f160f067724007027fb7df61d5f",
+            "name": "National Open University",
+            "place_id": "ChIJDaszWteKOxARuWF_5SniywA",
+            "reference": "CnRqAAAAs8V0DB-LPjfskqn592sF2OF4H5Jf5Kj_iiFAlYaJMTH-7TEPfqubs1Z3agAdJjWm6mgpcmoJTq10l9noIi6JfFnEaiZMDxfQH83gsN4oiWFO1beNj0Nz8cwdVRUPEpK9Yavl99-UugHfZGujkw4EyhIQMaxJm7XbC6BCLpmbYb-BmxoUKZcZfUJELnFBPtuGExlErbJWGsA",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Ahmadu Bello Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.502463,
+                    "lng": 3.374893
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "fbf497cfd0e85e256d5a0ea60c379b76b21cf635",
+            "name": "Lagos State Polytechnic (Surulere Campus)",
+            "place_id": "ChIJU9EHoX6OOxARsnnoC6ZEmo0",
+            "reference": "CoQBfQAAAElHqluWSXQmKSW0nmXaymoa9CBn6sSSV5kyK2AFubl2paILUM1nBi93lUPAwlxIlVSJbfSSM6ZQ2lQJxncQsaFxo69y3YP6Z4-dS4A0AOn-gb_hSkU5uXH7g6hTKg9B03z5HRHFh7we0on4fzoXdpjDNvFFmt17_wZWqMx_rdI9EhDnkhoRE5Cr3CdKW6sxe0kgGhQLZL8onic39A3DgWZUIT7jnx5G6w",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Murtala Muhammed Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447318,
+                    "lng": 3.41167
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "c37b9c49dff8f67c160bf1432da4fb02ef4939dd",
+            "name": "Old Students Association Secretariat - St. Gregory's College",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA8HteP6dCIuTMobn82F0alweP3LGb0cVxvjNWiiwNtsT0vosag2Fb5lqszEZgbM749O3fYfge3oaNOC4R8kdkvSxKPLEcVUVyq96Thx5Vv0eGoHemqD20uwhupy83Uc6E45Dxuo37UenfRj5oPghYCRIQxiboC9ObO3LzVH9En92U9RoUX4_yEhI5NU7uVDbbNdkQTSc8N-k",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJm1UDqi-LOxARfh-xt4eBe0I",
+            "rating": 4.6,
+            "reference": "CpQBkAAAAOukLRqKWbCTp_n0HP30-E8lz7RVgyWG3bvGPiKOpuiz2iTgg134sK4-v2R2x0HOQHL--Li2OQfY938ZSKVsW8Xs31gDdoz5QV3_486c77-Ojg4NaeGpyk-3xspRNCKhK9t2dZus3phIhnWvcyPCKTWmEco_VwQZA5cj6bFD-wkXXAPaeex5MDiy-lqomTgoJxIQSysVDZUuF0bAvnqrEJweohoUjeZ24a9rmSPbLwYHDwalnm3jSZ0",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Obalande, Toyan St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.563335,
+                    "lng": 3.367229
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "0e24789eea7ad901ee2e047cf9c1f0ab28af4d65",
+            "name": "Lagos State University",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAckTM3fEnIBZigxUw1NJguwdp3AL-IDtKho9SeRGI5G1xZckLmU3VhCLNZJjeNYrrL9gnJ4ysamHz_p3rKgTFk476JbzKxamYB2fE0Xy3suqtp-aCJNuc5-8mqE-epM3OzLj9VqPxqFqiZd9-tRtKHhIQCsahX1f4IKk4mXP-elOQBxoUjGri_TT509PbaonaG2na69WvF_g",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJb4YI6YiNOxARlveefeMF2A4",
+            "rating": 4.7,
+            "reference": "CnRpAAAA3ZrMDI2q8JC1zSOOU3_Bhc34hiaWUezcwYyo1k5Gan5QGKXoV6_aQGByOGVO4uTck7518uKVwbi11sx8qHxZeGw2LIXwuWc5qz1GH-YwKpkOUvz3Aj1WUIVQgjgJMNmy_nm_VvSIKMRl6NZ8A4JUNRIQaJqU3_6Se_W2zau-hw1mIRoU7rJCtBdnfQw_FMZldx3EUbRkgCI",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438781,
+                    "lng": 3.313044
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "5cac32e8cbc38398ba5ee3099cf218f026d95b2c",
+            "name": "Great Trinity College",
+            "place_id": "ChIJpyf6Q6eJOxARyp-tmNEEIpQ",
+            "reference": "CnRpAAAA_RAeIY2KGkf_VxWXXx6aWtdXFideLgTBlImepv5DoTTv_hLOhXQGFpRDxkI7ggCS0BQErpC7M5_5DfRjW4DVBwUWhy7xjp3dBf6SfW4hKgskTFAG-D1_itJn_ufKtHVXNFW_-5a3KQ50lETKlSe6shIQshIpEo2P7crfNxwMNDhePRoUDRguogHB1gJBluyRiWVixgcHTck",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.548618,
+                    "lng": 3.256123
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "654daecf9624a44a6eaf16604c3dd75b076345f6",
+            "name": "Cardinal College",
+            "place_id": "ChIJwZb1rV-FOxARpSvMboNk9as",
+            "reference": "CnRkAAAAVUWSjDlf4NBZZJ15GvvkdA6wWNUlptIP1DOiDp-c48wDZZx6R7yePKulTtN54uFhrVGgpRJGFlc2GOg6JGPV4_bNqjHKPoCESaVzXbLcKWmNp7dKQ71XDk4g9jq2Ul8bnVH3w9hKU58Dw66vVxGQ_xIQ6LsqoUkNIvDrVVw0FEcERhoUkrE0NGBrf_kNqlX_yKEQZRFlegc",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Onilu Village"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.56506,
+                    "lng": 3.282334
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "1f619f0aee383fa6b518e704288e222360106c85",
+            "name": "Josse Maria College",
+            "place_id": "ChIJOQt6IN-POxARxfYKAfQsioQ",
+            "reference": "CnRnAAAAwvER4BAC6_UlxyiHqj4PBUf5dO6OZAhujqW7AUgG5_rDTLK0Ofd_WMZv8OzohBco-2gsBfEBf-7xHULIAfsYe7vu3ox_Jy9vDd0e1fIrS9EJDJdWhNIj86RfZeW4-vnzr6SWVSNBAURkJLYAvzpHGBIQ_zgwdOKq8NxYE-n0Bs38vxoUnYewG9uhkNseOACvm8cG0Hw6tSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.516782,
+                    "lng": 3.385334
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "1e3b8d6940119cdf9e1c00a658094b3cf32eefc9",
+            "name": "Education Library",
+            "place_id": "ChIJl-wLyfuMOxARNUmNBEJrdVQ",
+            "reference": "CnRkAAAA1k83dG9czKEBOsYAUYUaeCnx0iH-AhxpRGnDmKPTp_WbRyj-noX_d79P16Lzpf9H75drln237DzOX_NtVA_ViuGar7vk-1s0pGOMtCZUDtHefM3h2gWUfqlUm0d-6ByyI6gDk-UVCyjsF0Fxb5d9lRIQRx0SErbZAfeUi2Y6UgpMYRoUzXJcScjDoF6Bg7iXps1swG9vGUM",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "library",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598246,
+                    "lng": 3.346482
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "8abd0306002e610d367b319bda5d7925cdd855bd",
+            "name": "Web Academy, Lagos, Nigeria",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJLSzPdyWSOxARYCr2hOWucnE",
+            "reference": "CnRuAAAAJRTSxkoLaRxn8-ZpyRbBlaXUNFUs3rqOd4bubvkSuXS_4Rr4du4ubTf4iiRqlFfg9qSykJYj3FhpIKzyTF02oOHJkMyOGWYB_CRq1bkClEaYh0Hb9QULELOA65Ic1QO4WrCBEExtX60cYrFXSzPIBRIQKd85TOydkz7KU9ZOTO2pGRoUWJ44vGxr6-uGrsmUTCNN9ZXAzXE",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "16, Yinusa Adeniji Street, by Muslim Avenue off Toyin Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.589866,
+                    "lng": 3.347708
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "7377c2244411725b60480d4422f7a2b495983da0",
+            "name": "Police College Ikeja(PCI)",
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CpQBgwAAAC6MO51Q-rGKu_Gu8FXDwNNqZgSs1POE_KVgBUpYE0FYL6QyuHS5Of_JMoapAo3JnZLV4UsEoX8ogHQ26qbyIRwp2s2snZQA83mMF3pkeRWi7FX5llYsY5om2Vo9CqISKOHL8EumhVmPssXKLd-Rrga6RWxPUuK5wAJyk0yXEsGgOe-zySQveLeFp2Nwx-Z8JxIQPCQIQ5cZkKJxS1q5LyEacxoUJagtG-5_kfCAIk3e2uGKcTPaKRk",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJWydwuiKSOxARJlQwOHBKuNk",
+            "reference": "CnRtAAAAGTnSI9TSYaS1Xklgu9yPIGEjY3UuFIUWTAcVO2kX380zmWFE232kJOaEKfOh4NUD_3zIziwl_jR1mepEpQtBeY8Z7M4J4cWBT6vUpnGO0O12jSpeYoBT8HdoE2MZ1u20F61b0hjmO5ZPbM2OU8ntNxIQQrSxBbYHX6fkG8NZFeGW8xoUAwuyrq0Idl_OpEe-afNzL2DMhHg",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606526,
+                    "lng": 3.349239
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "067e4f4be6a054368b608c8e3cb8827a14c71b31",
+            "name": "University of Suya",
+            "place_id": "ChIJzyVedzKSOxARYcc0ZHn8qzs",
+            "reference": "CnRlAAAA8WGzQ0qX87M-g6kekiZ6pOgs11QLY0PnvmXHdyYh5y4wU-PTNfv2VTimKArBcR4sc3-Su63TMN3PRrG4KNhQKYtOeYYvwVz18TyCTczQ8GWZyMKt1V1EmJ90cRje1mBwG_GwafQkc1UaxYE1zyJ24BIQoHNF_uNwoaeYvg3xj0mmTRoUkLfT__6StkBX9rdnRPNuHz30WyI",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "Allen Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.516148,
+                    "lng": 3.378182
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "a11a9d4247f9f0567c60f26e254fa7a13213dfbc",
+            "name": "Yaba College",
+            "place_id": "ChIJl5y8y1eMOxARpTIFA_pPxWs",
+            "reference": "CmRfAAAAmJ76YCOFPYi9wY83viBJovF3xR4O96pGD2ySJ70wGlnQ08tbyZgATrP3ZiyfH50rmqgoNtjvItUuKvDZai4bwKEjLid-tTLAhE1mMNnrDEfQb_zzVaXCN1uChxVxqI6YEhA0WwPuAIvRsffe7H1lwglkGhQumVE2n3_I3S-w273AfpD7mLnHMA",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Central Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594414,
+                    "lng": 3.336997
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "79bc9c015f930dc40782d5efa4ba276026f3f805",
+            "name": "Lagos City Polytechnic",
+            "place_id": "ChIJtQoEJIqROxAR53R31rPSRYg",
+            "reference": "CnRqAAAACpZ1n9Krrs-DBjcWNlOYz4BSrI457WiEXZzLmYISo3zFmbUFXiq0RHJiE9_Iovc1PUYOL4wJ6ALaXkrcKv_U9XhZtI_vNGcKrRS5ac8cjDYQcICKGvPLwWfVKUdITRFatDmOOWNqKyR-vgo705JdxxIQmTTFROxX4epwzAMjiLAJFxoUz5XCwAlggeyTnDOYbTUAAgE45uk",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Off Simbiat Abiola Road, 6/7 Bashiru Oweh Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.665119,
+                    "lng": 3.517857
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "f378299b7c8c226e7e1e3d0681c2c690fd02d62d",
+            "name": "Lagos State Polytechnic",
+            "photos": [
+                {
+                    "height": 1236,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAArUKVq_lebDWFJHHMRiPgPAHqtxrlVOYA5AaqCzk6Pi3KdsEOIr7DiFR7OYXpUCE4dLNYjE9OoT6bndlWuXbaSTfj1OX3YdvnXlJR69tUrGBkxxN_K58fPKDO0GJc7UuW7GfPGdwSrqaUDEHWWGiOphIQKpDf3Vl42_OD1Qa2kmvmJBoUpZh77_YPeWO7I6HuPDqGKoYOcuY",
+                    "width": 1648
+                }
+            ],
+            "place_id": "ChIJr3E2_EbpOxARBVaqTJocnLk",
+            "rating": 4.3,
+            "reference": "CnRrAAAAWZm8O8NnyGqzbWN5E_OyNEt0s0_L4z1aeePBYH2l2hjVbV3AyzgzZSuNz4r3GTpJJhIXbz_gonp5sBI4cf8eZDZUjJpBNmSyU_YX9mSEpLEof8Y3KoSiFxZ76aLFMUAOs8DKh8sm7Ngvl4YVmz6-JBIQ90vXwGUabRfMsblOPbjnbhoUGuaaoT9mIK-Ks-lHAG0FRG1FLME",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Lagos - Shagamu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428892,
+                    "lng": 3.466884
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "9c197d97c8107c2fb1fa037afbc5cf9064ff45f3",
+            "name": "Nicbest Educational Services",
+            "place_id": "ChIJPdvYca_1OxARI9e4lSk4eyg",
+            "reference": "CnRvAAAA6iIR8BjnoOHCyzBl0asz_Yexh1vQS_aFW9cLCYufHk850j-avdlptzweXTJJTVkwVX_84T_3sTcjTQ2gg-r2nAvAxbrAyum8CNhR5heh5RrMaEf1rDcTLIZmZktkd6-zDc7qAhEnInkm5USv2YVk7RIQinfGWx_Cx3qJX9767kUH9hoUyk8bQxNasdFXMHsO8ajS8rCtwIg",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "establishment"
+            ],
+            "vicinity": "Albesta Academy, Lekki - Lagos, Along Eleko Beach Road, Lagos"
+        }
+    ],
+    "status": "OK"
+}

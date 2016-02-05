@@ -1,0 +1,57 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.546724,
+                    "lng": 3.272789
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "443d826512d4411ccb659aed6bbea1396629af83",
+            "name": "The Synagogue Church of all Nations",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CpQBjAAAAH9guGsdbt1r78Bcv4upWqwAXPpoYUUMBV9babFdmLq3sZkXRRlfuKT7ZhkwkDMNMdTz-6rX27QCSiiI4-MNkjBf3w5xofR50CVz4SIu09AMZG-4jNRKafiE9DAiDXdsTXmRvQtyXeiet8BMEopSXrsG8cwaw9eOTJ3WFSnI0xn1d4J4GAFtVWXYns0rvh49VBIQ64xZk9sYtCtjKBXwNy7m2xoUH93SGB4NH23cHZFiRbL7nZTXEeg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJUxP4seyPOxAR8TQp5ZOeNrE",
+            "rating": 4.7,
+            "reference": "CoQBdwAAAE2AQ_SM3IcV3Qoe25gi12NHuStoxQTa7D41bjYGDN-W4pdcxB-A4a5qD59wSnP2s4ac6GoOUs8GINbYCzFY-gGrle7D8h8FDz5V2UtF05XB49Kk-vmlCslZZmEUTNChezjM1pA7fe_Syc-UGqQ4FsuDjeU43Ut4IwlEeHlRgbkfEhB29HQtSFFalABz7Rv1c-nOGhSAsq09HzYy9srsCjjSZrVAYW_MAA",
+            "scope": "GOOGLE",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "1, Segun Irefin Street, Ikotun - Egbe Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.601371,
+                    "lng": 3.307653
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+            "id": "6b4974985a152d534451b2a4b6e27a8cbcf4e5c1",
+            "name": "Community of Yahweh",
+            "place_id": "ChIJTabglq-ROxARAtM6SCd9W8k",
+            "reference": "CnRnAAAAEUjdw7HhXjVPeJ69Bag1r99Tu3moan1nP4a0c2cO7Ne-I0RShyzn-eZZDzTZfEhYreqgHyeMDfRqPgQKQg-z2uyfTxxzW50CUyca9GahNgO9_ug9lh0O73VkdxwMpAkw9ZYjWO5sWr8OQKkWo2VSYhIQuHGa9OPdGgpES-ctJ83AYRoUdfD732yNbgxXUpL6EHAC_rOfBLA",
+            "scope": "GOOGLE",
+            "types": [
+                "synagogue",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Olufemi Odeyemi Street, Ikeja"
+        }
+    ],
+    "status": "OK"
+}

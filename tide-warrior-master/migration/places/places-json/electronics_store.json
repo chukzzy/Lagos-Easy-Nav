@@ -1,0 +1,493 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_wAAAMo6hIEeetkbabE8GQLdAkED3Z47owI8VRLQFj56NzBGGZzDYbnEk--mhQRe0uMOy2VDm-7jv97Zi82_J41_L_vDXJ4PaoV1_CKLrg6sW0nCiPu8HV2tt4XqAp2ZuNVqjkiKuNtNxeDRYss51NU6_UfvNqQSfcz3R3b-Zjmy3NAnkDcnbYqnsFJvlS-3wrO93MgG4aYoY5Awp7hqDlzutQ3BR_z6iQ9gQMBnBkl3SvmxheHvSOA_-fTSobFDf-7yAug916fk0voCqDKW24dXe9O_JLLkkxw3uQe5i2Muvjs8fouTv_cFP9KYAMUknFTCqjXD4M8dmJgcHFTel90LoHgSEGSv8QWSRtaZSV-Z2j4X7y8aFJvSeDdo9DgxUgmtnWTOPfX5Zw2m",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597926,
+                    "lng": 3.353698
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "f69a14a2b6a3ab4bb0f14c19d0acf88fe3f1e62f",
+            "name": "CASH N CARRY",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ13SEGDqSOxARz5eMUb7UD-M",
+            "reference": "CmRgAAAAdJTgxwizzkPFWRwequeiTNBdjLJBdsIq3rr4G0dc6JUH0yaPqeoLrT9h8dD1TCpsYQ_68wJjEd8GWzbHwcAd-yJwElx4paepRIPaoMq2BRjgFlfPBrxhgUP9Qb7ZNBgZEhASgr9enklIEqoStESV9o7NGhQPGFM7XgtFo8kGB5TtSUi_sm1PEQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Allen Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428354,
+                    "lng": 3.429599
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "5ec2cab1791c43dcfbfdaeea80c59036083c3f28",
+            "name": "Slot",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 278,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA6x8-oJhGW6Cr3WeehT24DzWFTk3M4qqFH6Z9_OTyFfRVjTltp6UBBcfF_ki4WH47fw0E8QEfbb9OvhbHgj1Jhl7e_CMri6jUQw0ygkHQNsqL2WKszfS5EZlkWfzNMBGNNr8ePoYGcj8SZOVZbwbjOhIQ4kX-Bwfyw3N8SzlqtWhimxoU1e2CIC8qi-5OFfsNqwDNkqm7atw",
+                    "width": 645
+                }
+            ],
+            "place_id": "ChIJf_jUSs2KOxARSidq449wxTI",
+            "reference": "CmRXAAAAxrW9v4SE5TPAvX9DubV_MV2oAo6-DO8q1461gGoxpj1nJPEHN0hlJkl5UjFV31lFBUzqpwAl6FsHyNsaJL0oui3S-9zMWrDC2Pii-tJspsALNAXWnjcO14RNLl84dgjnEhDAPsSu7pe2YupbrZw3lKGlGhTzWuAFGTGggw0Yo2F9xJlI-vsi6A",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "13A Saka Tinubu St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.499333,
+                    "lng": 3.377604
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "a8dc8ab67704b577ad6424ecaaedd9a7f1db7f3e",
+            "name": "Datacomm Express",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ_-3T_l6MOxARXcerna2w2aE",
+            "reference": "CnRkAAAA8WMaruTqkRSWltK-EgZV5we8II8j-qs90WyE_LDa8Cn755n3DpFoGg4YWC_h0r_IGdDkC7ldVhzLeAd2yieqwOr4vewhr0pGpfYMhUeiOuWMIsmoF2YaPALy8bPBpWzX-_DUS0SjXygHHdOHyBnL-xIQPMISjaaHQykiHTmYiKrd5hoUwp5twGP4E5wADwOP08OrZtARocQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Olonode Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596246,
+                    "lng": 3.340466
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "7625722aff7e1aa033fe718d18c50ed471a2a2a5",
+            "name": "Blessing Computers Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 398,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBcwAAALiJMjLIXVhhzQFq69US6VeRkiSE_4nfWUqD3bLSwnRskE4hJRkmNCZ7EaFjbnu9Zt7aqhtrbT2d8KYBv5yEubw10IvBH9ELh5RmngwSnWr6r5LsYxtX2oi4tD2xiAW1L7TAsbsV-RTOhxpzmRaHwJkdAvy0oN7TxIwfJhpbOwLSEhAK5a78LDxAYOJijkwSh2OiGhTtcszFFn4-p-GXF2fEwHlf1Y-YHg",
+                    "width": 398
+                }
+            ],
+            "place_id": "ChIJe8aUJCeSOxARLN6l3V9uCKs",
+            "reference": "CnRuAAAADI7MHURDzjv5uBA-0DK6AA1runDssqbyRiiomIgbbdUPEgpVSy6bJ6Z6jOG881YuQf9T-6bEfqzDiNH7BGsb-e0aGwbl3BSJpTomIiklqtUis1OqUpH8Z_pedw36AJiHecDBTQHNanQ8fayIGHVoYhIQXysAVL2ekqP2HvuDm-WEyBoU1SW1Fc8boKJifxh-xwaAzRzez5U",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "5 ,Pepple, Idowu Lane, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.55346,
+                    "lng": 3.334281
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "795e7eb68adea60961cd194364412a25920b7c9e",
+            "name": "Revive Technology",
+            "place_id": "ChIJU5BZLgmOOxAR34JcIZSJ3Qk",
+            "reference": "CnRkAAAA6VfDz2fz_npqv9vjwbB_OA5nW-JCPDo4jlZPQlYcM5P24j0aUkmP14Up2DjpAhmKKY35egLKB1Dzr_B6j6Qb16nhepk_a6ek1xKk7GN9zACqWSIjU5E4R7OFWdPWpgVx_3G4-aoKVkzkLJXuvCTGORIQrM1Qwzqqv1V1092aYGn5vRoUtM6SpjWR5VzB4qHUYByoeS7-FOc",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No 23, Owolabi Street, Computer Village Ikeja, Lagos, Nigeria. Ariori Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439227,
+                    "lng": 3.526371
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "c48ce52103ac42b9febb71eb3be90750e36eebe5",
+            "name": "Pcgetz Limited",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1520,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAXygDUrE5wTEaMPhrz-uc5w0FWnXtv99gPw8sbJIFIUE033bq4JnXSsfsMmHbhJVn0G7CW2fuqybai8-d1Y-XubhGkbWDSC8YMScIf1mZEVZUMCr691XUC2N7RLnn0jTMhbGWZWuAWWeFQy7NAIMwWhIQaxMATROmypxDFmtgaltgkxoUJp-Q-HZlrj1pxqY-xLGfmCwoCKU",
+                    "width": 1520
+                }
+            ],
+            "place_id": "ChIJdbilFO_5OxARUupC9qnLBMw",
+            "reference": "CnRiAAAA7HJOqd69PNCIhb5yAcC3d9VHHV1FALrRflfdyO8gG94e5Oi8iyz7cI-F_IkhYoX_2wGYaGIQ7QwY7SYtLxgpqzgK_9Wv2Nsg7BqyeJNeRr9q3gFKkxjc4GJP0czCRbhjaP-Pn9TA2WomfS1IGuvhCxIQMOCW0lZREWWQRkkfH853UhoUqhqHNaHYXY2zwJwyBygUWpL0SsY",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ojomo Royal Market, New Road Bus Stop,Lekki, D9, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.453961,
+                    "lng": 3.390534
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "8b62bf6f812a0785b86a3d3ac98fc7f2722c2c48",
+            "name": "Us - Don Computers Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 262,
+                    "html_attributions": [],
+                    "photo_reference": "CnRoAAAAKJzjze1HB41olYeSEQ-QpSlkq88Jha50tNiGjqBzhtAstEyZdMnKCinPzsusqs_AfQxE14GeI2Pm6t2LAjcKql_zBl8xwXqXzRO9plLfvTwahMN7sNZtfbeRcnljH10ykfGlQ0GdrTLDr4BkZllbDxIQK3rscz4N5WqMmcvY9jGIkRoUoNDnbBTYkL_KFlveXfYJoUY6R5U",
+                    "width": 262
+                }
+            ],
+            "place_id": "ChIJeX2v7BGLOxARSFR5yLgO-IU",
+            "reference": "CnRuAAAAeUUusJbAvQEQ90f8ekFPkpQ4JP1B49xbjRfZty8dwM-ALKujODpIGisOCygCy5gnMVt_dlKqDnXXa3LZ8lodtdezPs45p1iBEp-zHTL8pS4nTRNavqyseze2mOIeNx6bypnj1OL7oltiWZMjukZaFRIQQgw0eXnGnYppwilFzTiCoBoURGJOnLqVTVHcVRIkZeVkaUXI-cw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Ali Street, Shop No. 3, Tinubu Square, Sawyer St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.460116,
+                    "lng": 3.333769
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "21443ff4f4637c72c99ad7ea672dc8a2f841e197",
+            "name": "Kelvik Communications",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ1aWZUmeJOxARuIb6I5wUje8",
+            "reference": "CnRpAAAA5NMNeZZ36udiW0XZx8Sk-edjmXhwTUXaFnjUNQmzFPF0y4zp3BJDjHPU1MvIktzUjmt4CJljNSci2XDfE5Vyyy2RPbvX_zt1fBxcFhFyufDSmA8IIxFoYclRloSsMmEonupBcJpgbtuzOGOJ_WA64hIQL3S-gEt5sISM1iX7iUCjghoUogXQjWKF7dbYptbS_pxZ-0XPxI4",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 36, Abuja Plaza, Ojo Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49308,
+                    "lng": 3.369936
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "d70eed92a6c4d982833835a3162279f8357e5a72",
+            "name": "Andy King Investment",
+            "place_id": "ChIJD0FzT2WMOxARi23oy1DcTIA",
+            "reference": "CnRoAAAAsH1-gI-lXX9ZLDDZcLC_pJ_EgiSNhYPqqEGL6ggCY2gMP8MLqciy9ntpVfVwODl-O4hpKiPlVdB2S0h_aHrpaGGajl2VFZKMeK3jN1uv6pSXb-Je2nBDVz7IUBk0woRbkg1vy1kwoCEcCsc1_Fb1HBIQO47ml0JYEsHsIuz5JELVvBoUdB-S2CbzBCxNfZcJ4G7U-4eypBo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "117 Nnamdi Azikiwe Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600447,
+                    "lng": 3.29224
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "867ef11c6197c1874c47bb12bef04f818ae04e6e",
+            "name": "Hadassah Peters Business Systems",
+            "place_id": "ChIJk05ewlGQOxARgsJ5m87hBqU",
+            "reference": "CoQBdAAAAHgg6p2zM_cC-ZAWUKyyjvJoUySPMgUX1R70y53L9wVGVEmsg-2vpMDLEuZ5xxKRevDuCzFH8kvOl5Yi9b99L5l2SqFUxd5LOMW1Hn5QmcbkC7gReHouXaSExJ3f53E4jIZcrwYHYK2DKUMBVh7y0EItS7Y0vqRqT5Knq0vP-0KoEhDify9IejrB2LHfUH9S-uGMGhS7Ioo5VGwt5HoZ5dxA5vw-XXjwfQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Adesoye Oduntan Street, Off Seliat Bus - Stop, Idimu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.553116,
+                    "lng": 3.335724
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "bf7cb11bb7db49d6647ac252a9d73503a7da1e9b",
+            "name": "AWD Electronics",
+            "place_id": "ChIJhwfUEQmOOxARttgKJAD0A1c",
+            "reference": "CnRiAAAAIwJhqssDh0Xg2BweQMhR4XWAjLVt7Tkf69hrvfXy_h0MM6IGpjr7lPjWwYoM7LPYWgWZ_BKmpPbDVN4qgWXozII6IBIwWtrfkUncmCVc8t7xcYFvd8fAYSQFdHnI4jBkz3_uuHYm68OJD6I388fldxIQaOQdDqNTdn29h1yniZP6nxoUEs_tn82W37DVyiT7KIL8rqjVNyE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Shop C239, ikota shopping complex , VGC,ajah lagos, Nigeria, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.59556,
+                    "lng": 3.338851
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "8369cf039857af102a5da1429cbdf5a8f8289273",
+            "name": "World Platinum Technology",
+            "place_id": "ChIJMZ72CieSOxARhq6FkkE2vH8",
+            "reference": "CnRsAAAAfTDIJ6WgMhkYmnbUVvwEB12gy0oyULUrK5MhcnZImHMSpISqe2EBfdxqcZtitrLE8wSkzJUZt7eltJrw4J0tu9ddvL25Bi4cKSpmI_3wfdiq3xXrwuI6CNCgLHrmXmjZLGkWYdAcc5KEcyi9yhixyxIQ3tIsH2XQvB_Pnuu26jbjzhoUan8ClK0TowmoA_7Ir-mkypIjtF0",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Powa Plaza, 30/31 Adepele Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.530407,
+                    "lng": 3.350173
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "f3b9afbfe7b0c836dba85981a7c898260fac622f",
+            "name": "Saint Michael Investment Company",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJF7rVcs6NOxAR6_ARml2iCCI",
+            "reference": "CoQBcwAAAFgxF5iFwz6STwT_sQuPmDG2uFqAehGbdA7AHudPi7AtBBOxYpxBvHTgmrDIGvti09wuXOWpbtis49ueXL5JBTEEOM_wCaSUhR0iTrSmw_gpkS_UnsyhibTDaiDTWJZV9sVBjO-nzVP2J-6NIlPAsE-BFDfATZ_p4t5ugMWDGhFZEhCzfEoN161sRcC2rTiyVwVIGhRxePSlkluz71lWhquhhV1OaecVGg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 12, Wey Street, Oguntoye Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.663942,
+                    "lng": 3.283112
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "5ccefb3f7d3f71e5315c272c9f321bc89efb8936",
+            "name": "Dependent Energy Sources Services",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAOBr5rQ58xiR-PMgowOyvsetRnWhpIuurFO1CXsDILppDFGPAfnj2klLQ1oRE-5PfMkTigbq8w28FYVXeMR_UGzENdniKhRqeUvthyXbMvehyns7a6uvrLq_Mzx2HZVr2XQhNuV9jkVEXNy1-UZ6CXRIQYNJ3QFMgnQBOlcrxqyVSzRoUWJQxVGHcuCLX-kKTUNWAkrwfRp0",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJC4Ry_DmXOxARZiWS7DeByt8",
+            "reference": "CoQBdQAAAEbJfdZ-Sm0sRToYogzSxByAZxVi6NeL4B6CBWZZ8zV8vIzMKp6dwO3HZQhDYhGjz-wiRKvSPBjcg9feC_4_evScvBRvRg-TaGye1euV4dZxpx2Ynj_yFj9psR3NVvrveZkqcczz3T4MD9fQrGndxV2j7j4OmuFizf6vWv4gWEG_EhArqPcRFfE7sAZThzkpRSfxGhQYTgSlmGKr7qF9rKI1urUVqrRfDA",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Abiodun Oshundiya Street, Meiran,, No. 46"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.658968,
+                    "lng": 3.332218
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "09987b2aa4f6b3d2bdb98f4ddf0ae80c59ae5877",
+            "name": "Perks Golden Heritage",
+            "place_id": "ChIJ175eka6WOxARbxSDmpD8iC4",
+            "reference": "CnRoAAAAmXZADp-pG3eYNMd3sj2LAMyEHMn_hxkvxokcqfTw747vWzXhjKp4yWyWydFhO2FiRfEAfwdQztcMcWVyGH1PimJSuIW-jdl-fmIDYqpjFK_7ApSfKi6AAh-i1wQpZXDKdHDJfnbssOhosGTarB0XZRIQZ4al9EjHl81URVtMv8nIRhoUQkFLge0Pj-nK-WOHf0r6EZOZpjo",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 100/ 102, Akute Road, Alagbole Akute, Adjacent To Sweet & Spicy Eatery, Martins Bus Stop, Alagbole, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43204,
+                    "lng": 3.435871
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "2b422075256cf08ac7a09045feb0befd2e98ba86",
+            "name": "Chrome Technologies Ltd",
+            "place_id": "ChIJ-YDglSP1OxARFjqToKOicWk",
+            "reference": "CnRqAAAA-F-RmodJ7KlJPOFRf8qQL2nMceHUTV0PThc1DLsh2MMVaPo4qVeyE1ucbMLQVXZ9yMe4d60aT0EQd7d_5GrNk4AHyA2fvqvQ-A85ulfLtg5aO9IQw1HfF-oJGdX7KDBbS52wwoxkzVt8nfhsF3-zuxIQVDFJ058i15ms3547NconHRoU7kwIOBGAuc38Thxh1ow9TXNi8rs",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 1, Muri Okunola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.46136,
+                    "lng": 3.333704
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "2832df80df98929c8f1d62f8f72dd11cf3ad70eb",
+            "name": "REAL COMMUNICATION",
+            "place_id": "ChIJe9gd_V2JOxAR1lg_TAwDCxI",
+            "reference": "CnRlAAAAzk5n7lB9muGGmOicRgFtF5uoxYrJI1ht4mPoX4d6-ymDYkr9Leexc_akLI0DvOYqaXS3wmaYahOAEHa27hbHJvmYx_d_IEkXBXxRHusnqH_BVrosd7mAw_FaA99dupIreWbsLzQnaYq9-rF3sQuWNBIQVPRcq8vHK_eSfpxABRu8gxoUHSXAWeIOXA_uuQwYFIuC-qAe0yg",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 10, College Road, Okokomaiko, Lagos, Nigeria., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.498698,
+                    "lng": 3.386796
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "77162d47d59ba67ab6d01db158eea522c9970b79",
+            "name": "Computer Engineer",
+            "place_id": "ChIJ2bepzI2MOxARwGx0lcJGiTg",
+            "reference": "CnRkAAAAnVCK0L7Nnm4JGcjQMeTZhBwGFgPP87Ng3cB2RxJqZ_RpsBM83dibSDQ7XQ9HA2uLEwV-nuQhbkC3N0tFxyeGTA3IdKbZB8BIM2Jjalz42UC4ije2a6RDsgpdr_UuH8H6tNDYkJ8nu_XlcLijV_T6yhIQqSH7Vhma0ahOasCmidJtEBoU3pu2fh-t-q7Embh09UZIZLVzPcw",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 40, Church Street, Off Brown Street, Bolade, Oshodi, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598017,
+                    "lng": 3.336156
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "f3d41e3dd1d4a56ceb8d97541d778fe5e12a4ee9",
+            "name": "Hybrid Mobile Technologies",
+            "place_id": "ChIJO3c-i4iROxARv0b-EmorRvY",
+            "reference": "CnRuAAAAjpDgs1nWTnlhkc9f1rGTr9Zjf4z-EyPYiXv8cseqaQb03O4A3XKlDjH5pkpSJSxUsXnVEg-ImCVvWdInBY1gHwMDm4CBmTwGEPui2XV43ZzBBk3lqlLl_2MiORcgrneePTlDGsHfTZPvNftOnbpLexIQQ9WLPJIk-ulh3oOBBU74tBoUURjEiBBHf-G6jQ0wa_7xBUfEq-M",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 2/ 4, Pepple Street, Computer Village, Abia, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596143,
+                    "lng": 3.340447
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "85b14b0fb128e56a74ce6ad7ca3dc78b0843a09b",
+            "name": "Parkway Computers Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRpAAAAeh7IRF_ljm0R7hdtBx2gLDpEKBLG4UwTAp3xX7ZPZ1KFuEbAu8MB-KcEENsYUfm22RoQVf2_FTQY_SDOpd05WbGmowYNk6yenkulgnANgf8oczwpMGo_o1Tjotz2Z_AXyMXrnWQWrd5DccK-kV5E8xIQAUyhZzntF9C2tzSernCb5hoU0-u48Efnz5SxiinkpcvEBwVt_P8",
+                    "width": 252
+                }
+            ],
+            "place_id": "ChIJPVQhDCeSOxARYPADerCUQj0",
+            "reference": "CnRsAAAAaIAcKPq-huyr1reJy-5_2GkTK1jZRtWjqmTSVsHw_5SYjAt0WU5-qp8eI0ULrxawoB3Ptbyzq2dkvSbqR1OFlf4QkD3Z5IOUCXwh4oLSGEE8LJ8BiHvfrST5x6qFNDmAH2nG9UZktBpK820nIV7n8BIQkV578nReSFfF7gmkaV-ZwBoURPzmvBkG5iGWsNELdNU8UuWfzLE",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "12 Idowu Lane, Ikeja"
+        }
+    ],
+    "status": "OK"
+}

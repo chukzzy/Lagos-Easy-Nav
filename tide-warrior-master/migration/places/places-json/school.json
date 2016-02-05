@@ -1,0 +1,472 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9AAAAOEPigvO0iy2NItvVJD3W2wvm-Z0eokrdzfyI06j-F-ZqEfdiT_SWXJdrrCIwnZ8tqqGh8RH21jFkclBUeaA5wvcHzsynGgB-gfc8rUyvxDqhf772U62Ondc1btsmTHLnDfnXTjNRWrFR-aCr5KlfrrG8eKiadjq1m-S2MwsFQT_H68MTp-JL2sPlNAPg6Vlmfj0E4mrPo7NO6cDKc8xov7AQ9GK7TlsH0DOngCQozgjbrYlajD9rjzLTc-NqrSq-JFCAVN2fo8YZcu8hf-zAaISxxOgLeHpGtpwtfOxQq4BQ3j8SYgpsbR1eHfyjjFHnzEmx1rsXR1uzcgXPn66i0MSEMRnOMd7y6O1zfo-kZbUnigaFHFYZf3rb60v7U169q8sVVgYsO-9",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.534638,
+                    "lng": 3.388344
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "167d7c6420a0455d2ba771980ead537cd2306752",
+            "name": "CMS Grammar School",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 300,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAs6aGUaasrbisV9JfpCOZ6IeVxEZhHCpyaUvU53VELU35MV8_7YheHaaIRnjzbeGbh1tpz4uw_u8T25_VGA4G2hjAis_APb0Sojs7yAqi6RY17kkFp0bJaF635k_bdo7vljXDPXSxr0uonsw_DWl8CxIQeE8Biw8JUdb44RyxTqbriBoUjdL5g7t4YBCiYWiiDDyiShvZnO4",
+                    "width": 300
+                }
+            ],
+            "place_id": "ChIJjYkbWgWNOxAR7WKOAFhvJko",
+            "reference": "CnRlAAAAl62IEyfOnExC9PJINgjEU9AHev8lfOX7tikXbCAuxAh3GGH_8b3DOq_5l9Jjos6j7w7wBeAU-UgBXy5sAyDDqLUXDo1uSEzspuHVPxkOl91ckCpjPkOft5u6RzJpMeUeCrKSNXrm2QmIy7oBEgR7whIQMCPgKjWJSfcHvi6LOoCmJxoU1Koh1jGjkyGexICQcZDhCLqGXgE",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Tijani Ashogbon Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43127,
+                    "lng": 3.462852
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f62aaed69b9ddaa218604ac0e747b767e435cd8e",
+            "name": "Caleb International School",
+            "place_id": "ChIJaQZ9_qX1OxARPXcHvwJxWLE",
+            "reference": "CnRuAAAAtVuWD1-M5I8-EPK7IO3QKSuWi7Hm-7cxCzS7SkeXDA4S-1S9uSOCCaZWCykMhmSGsO-pfnyzgEuhkDb-86mdEK7LTwHRxNvdFaA7KEGdvTxd3hjfK-_L8Wh_e9yphBl9Mq_wkXOzYSScCFKechWxdhIQT0-9STd-BwrOQKdragJO8RoUezUZcE-x6NXInFUi87tWTiouL4c",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43732,
+                    "lng": 3.427989
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "736409946a0a6c7a6b335085ed05e054e7f7d591",
+            "name": "School of Media and Communication, Pan-Atlantic University",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1037,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAR3Gu0L3SyNq9H8ZrKYWfV1ZS4j2vqjHV7IQGSNjLNSgoaCG_d5oPMKlt9_GYvYTzyFOhcXUX3y0y3NcAuRXQPj3W4YJ2bycv70tyapwO2TKMa113bGBub8wNFQzi3YuwJb20Ryt97RQr9cbp8lQdWxIQ2srU2KzaPKZks8Cy2p9gQxoUKfs08xvZLzI5w2EyWEtL17ll48E",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJWdG5Rij1OxARqBlEfhefBLA",
+            "reference": "CpQBjwAAAMCfdS_ANxuhv19HTgCseDtLYVlrH9WxR5IGpIwHLdr8j3njsWITpFYCjhXVvRWD9GtS0Ba03KD0uFATxYUGtBbB8SFTIx3lTrMFw8x1-DUmHgcSVvL3Rz34yW5KUkJvTLZYaj_6gdr9VqaL6OPeUEeIWPpkWX8dmIGifWm5KtIJ8uuePHm-8qHIpFCam9c20RIQw1qicIA2q-3LdJui8r_NeBoUFXPj00kz-AN4Y13uHnyCMEng1Do",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "school",
+                "establishment"
+            ],
+            "vicinity": "2 Ahmed Onibodu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449444,
+                    "lng": 3.263863
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1413bdb8a343a5a4055885764019e567d2e0e3d7",
+            "name": "The Learning Field School",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAFTcBToLBS7OK289tluEdUQBPZm_Dx-SkRfo0BEqMc6p_-EHAocZ3flf1Q1OBMKkQblKcQMY6s78_dcGHXmtyO3497cgxRkvojl1n10F5ZpvMLulWWNtpjibbkAnFMS6sRQr_Qna-RsBkU45CvdLHfhIQm2jyWREIE1TbY0DonJRNABoUgiVMotlimvfT8btf1d--wJn3adw",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJ-z-JooSIOxARxun0UFo33YA",
+            "reference": "CnRtAAAAQ2JPeHWjyHtGgMgH6XwSWbqIm3HLgH-oP5-Bt4jDeBooHDGeVnG19uvqlfiwgOceDAinFg7-4o0GnG5nY-2THuUbMmgaRawoUOVnCaAhJa-U81sWxAe4sPimkGY4rORCzlP7QSd3D0zuReey_qIENxIQ9hlkL4INKQ-UZhK_2N-vKhoU-wX6JY0pjdlWDlEl_F2EXMg9GBs",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455593,
+                    "lng": 3.415911
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "aa85e89442ab9731f474b6078be834008d9b5023",
+            "name": "Madonna International School",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJY368CDSLOxARqElyDK-l65o",
+            "reference": "CnRwAAAAfdETzdOSRULksOdmd5yjTnKiL0z_07FHqLFowKXMy8NBYDunuaDHs8_s8K7-_jtToay9vRSyDoJBPZDu6p-dRHtmfL4zQZ8LFTxiSXNa2PB9P4b4fujRz3ksubnNxwCpnUNjBNUCLR5JMhuLOO7TKxIQ-67GZsH8zBnKuPmNQQG-shoUi2jQ-mdeWJY-_qxlnxRdaAmUOMc",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "22 James George Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447318,
+                    "lng": 3.41167
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+            "id": "c37b9c49dff8f67c160bf1432da4fb02ef4939dd",
+            "name": "Old Students Association Secretariat - St. Gregory's College",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAApAN4b3HOkTaI4E36fqhGAqs-QxZ_AxIPoYz6shXGRGB1RYyuRnC00nUUqx0emTyTnsgmBQf3a0nelAbH-klBTkra7APZlf_haxbsuL3vyUTNuivOJF_wv-wVE2eooT9VhU38auJ4oBAHSv9oRyKLjxIQoI7ryVGcGeAotTuAXdohIRoUz6kEZeDxkQQJkDG-rGYxFXZ2TIY",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJm1UDqi-LOxARfh-xt4eBe0I",
+            "rating": 4.6,
+            "reference": "CpQBkAAAAH6655kV1bVTW-IH-KdGGr_uxtu_0ntdOw5N1pMc216qGMHaYa7_VWifsMfEE29iOHXO-CNdYvYWIhOw5kc8tCVOCwipp-_VfQnILXaRGenssnEuN5TFcWY16umff0iDK_XLpcUMrHBgP31u_Lp_7loV4yqqYzVRvjWtW2pYjFvSUG3nG9y3k5puUbvR5B5mmhIQiw4ABgQy0Wnr5kKSOEvXMRoU1a_w3AejkAjqr35ihJ5HKvaZ2tc",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Obalande, Toyan St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.553415,
+                    "lng": 3.267478
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "545114a06daa1d471e5af7a21646a41452248452",
+            "name": "Technical College Ikotun",
+            "place_id": "ChIJPxrVxvGPOxARqTqDhtB6byY",
+            "reference": "CnRrAAAAtrsg-iCH5boX2CHI6yVyB5bfMBx7AsIrwAICzmvjhMtwpnLuLx8_hSa6Uf8n0Ta0FbVhOTPXt4Gp7EZbZio9UmlQ0qzMX28yFJxYZCbhxlhXfyW7Sc5_uM8LAHwFyeYLt2o3GYkbE0ZWakgSXzGBGRIQfuIPh-twu8BfUU96NkQ6LxoU7gC2sr9Oe42nne-gvfTKNsL_Kxo",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443816,
+                    "lng": 3.311982
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cc7db7dcd724d352c15f405a5c1697f6f70fbbfe",
+            "name": "Doctor Lucas Memorial High School",
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAxHXWtnVqafmGBTlWxy2foGq6NRdvWNDG4vlANnnTIsP69_VKLwD6ItuaMLmd11qOTjE4GYXYXrZrlpCG3S2jrGffr6R7DPjiu0BOLZbFZ4jm8yUl5uuRr1flFv7UPgs7zzGYqzccjIUWymqVzpqSORIQcUg3i4rP9EgwN3rR9sbj-xoUXQY8i8thvkkQjeNw_b5juZdmEC4",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJrxVzPAmJOxAR8lTZBF4Ob4I",
+            "reference": "CoQBdQAAAKXQsnzm9on5JZLVJDtx_SNuAwy_Y4pUr4WwbJI2zE12oPGVaMcoRGuVsRieM_fdrMI0p5csRYv8lb7E-P1AAJRzXw9eGYSH1XkbfF1lRbzBqhbpGY97-l2gTfeBfMLxWrzB5fUcvtePt7O8Lx_M1S1lA6OVpUKlx44GImWw9c3KEhAODdeaJOJcM57TRcbjZ-2HGhRilgsv02Y9_rNmCiYG0KlB1YzM4A",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.487724,
+                    "lng": 3.361722
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "13dcf23462c36ffa3931aff98cbf9af90841f98a",
+            "name": "Iponri Estate High School",
+            "place_id": "ChIJd0u5g3OMOxARjQFnuVwyaSk",
+            "reference": "CnRsAAAAq1SGxABhqtFN5XQYYPCPrY2rs9nGmPptdXPmG-aL4nnQvF0aHNkA0Oe4szrQz7l-uiiVCwNVX-vdarWVJAHE4ffj0tjuXZ_Q-VcvsVyf2a0zOxCElFsvULouRu9AOD4VmIQ2tzeWnKlLjcMjb_hl9hIQAFw6srrGnsMFmNQ4tIVLGBoU9pSLzZ03ILoAcb2Pl1HQRfyErFA",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.474252,
+                    "lng": 3.271958
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f6b86ce3dd8d5640ac99789c1d3fbea5273b34f0",
+            "name": "Dr Soyemi Memorial Secondary School",
+            "place_id": "ChIJZ9At4bCIOxARS-Xc6T-3zVI",
+            "reference": "CoQBdgAAAHtaT42L5ERj6c8VNxWw3Yz6zdAeBZ-PO85xXc5Kbgig9Lvtozp7v5vlOQc0r-C3MKI1Uy0qr_o81iQOJBWKQLp91T67ZiD0PrjaLaRwaaSwf5nYU2evpXueB06IZXFfygP6lxvZCSE12DJ9sSDInj5MGsgq3AzhLZIJW6BBA_GDEhBfqnyOgciL4XoiNZ7TN27AGhSU3Sg34apjeBeQlPcQ1yLsQOLPqw",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Festac Town"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.588225,
+                    "lng": 3.303074
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2f61c2503502fe03aa914384883d20e16d569592",
+            "name": "Shasha Primary School",
+            "place_id": "ChIJo6NpBcqROxAR8qlmHwiZK98",
+            "reference": "CnRpAAAA2ULbJtem7FS2-pj9FTZN_sd6cYTETPAVCjQpCT9coIWA4-L-ZmPUrIQXT2fESFmtlDKHDx2JzjyHkU5G9eK9GkFjuDmN940ZtClE1PRq3xSppVq3Fjl_wrfiN8XaMa6HQK6s-iZnMnRGliZpWtZoWxIQ1HtUlZlTC1ENTpdDGUB23xoUGjIddqDs5jZLg5YU8ySCrHwje5o",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Odebunmi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.514441,
+                    "lng": 3.321579
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0236df63e3023cb5d392a7de6c728841f48d0316",
+            "name": "Okota High School",
+            "place_id": "ChIJW0Tyho2OOxARUVtibg7E9YE",
+            "reference": "CnRlAAAAWN-5zCur_YMaRYDC-ucSxrtD9yuc-tov3sm64wmV0adV2tSphF2hiAlciiP_TExfS6FA4pbXZ4OgHAxdwWQcZ8agg6A9nQNAoNw1_rjLlWc_0k_MyqMsrbt8_qcIw4q1MEPKh_Yi8AiLV9YJxjHCkxIQI-MbO4oE9sdaaDm1hoeVvxoUD5gTCmBDAo-6o2F2IgHcDo08dlY",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Dibor Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.457666,
+                    "lng": 3.284732
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "de918e9ca9e1403f2d2fbbc369235cbc52163f91",
+            "name": "Kuje Amuwo Secondary School",
+            "place_id": "ChIJjUhHEumIOxARWGyl_ZpFKtQ",
+            "reference": "CnRvAAAASScacvLgxiIpQ_yybay0krGr9D1Y7xX-uvWkHjeJvedaPl_zPCtxkxKzrDnd4X2qOlO4XNw1RfBSpT_O7JV9HiM7y0K7HcoE2hqlVrKJKl1rjq8Xv6s70o2yeq-rdaBt7uy_PlhLLB0u8KKhYKnlTxIQm-OfO99tFiohmKsjv5U54hoU7e-UrZ0AuBgrTvWPPs7nlMbI1Vg",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Old Ojo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.526847,
+                    "lng": 3.373321
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "634cf30e7bdd6b80d1f083f58ae2a674939b2902",
+            "name": "Igbobi Junior High School",
+            "place_id": "ChIJl5lziayNOxARHao8xnpcNjw",
+            "reference": "CnRsAAAADAYtEQctoXUHs220VzlbkE9xZ4WrDdz11aYCKytA8zmMG7IKQyxMdA_eWl0vFb39fajXjPDvDg-VYHm7CJCK5MCdVmi2FnqprvReIUz_s6v9jnuPvxRqws76NHO_0vAirOqaFXsLOe-ids55liTdSRIQRUk6PyFN3vlX8RaKGibxnhoUkYeZzB_UMtrISYX7N3wXn-4Uz_I",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Laiye Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.543902,
+                    "lng": 3.276755
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e01e7d953c758ca154d8e78fb200d8b3bbdbc1a1",
+            "name": "Local Government Primary School",
+            "place_id": "ChIJuyXiCJWPOxARIg6iCOt94ZM",
+            "reference": "CoQBcwAAAKlAsYkD1i48boezJ7LBSxh6UDXmxL_lTURVi8bg0a5c_QnyMWWAvxhuxe1e8HiXkbNmtM0mxl3UhyCfR1lneHNX-L1kIx3xj87swBVIYDitZIeG2qn_95ZVl5HSaApVcEhzIzyeanyY3HKglH-nWpoac0Ov9TEqJ6uNgLJqRiw5EhCfMV0o47LQGCvYPL8EzvL6GhR0Jdw2VrD2BC_DfebD-LFt3pkuTA",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.553167,
+                    "lng": 3.269688
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ee4fec73fd918071709caea9132c4fb5d0ec6050",
+            "name": "Ikotun Junior High School",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBfQAAABglsTtwtgZ_v4WueZtmlMTdNMq-QrWGL7tPaJuoOq9ESfPzZCgSDZlTleorEW2li98FdWjH6RVMeXSBP_oOwhPxITXwwKqpSn1-9C3qyCEb05B-G2qVnMkNrLYgkG-tf6Iuon-yxaJj6_gZJ-xFCBDG-UOBtyVbzUkTDz5PSex9EhDh8VPVQUbKxa1vdFrwvHJCGhR4188ar76jCyMmde2l977B283Skw",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJOcp1QO6POxARV7W26UaSKFg",
+            "reference": "CnRsAAAA7SgNdDj5JxiwSPevhAITRyPnSZrAHoEwyOdvv6y_XFregsfkY4znAG6k4vOMv3HxxIlYWxv3cWtUvjf9IdQAajuFFCkdLYE4yClxICBVLCMknXKswHAV5s-T2kCJAPlL2iIeKWb4R4oYTiHeTHsf3BIQFJz4bcs3G75y5NNxrOBiHRoUqBUXG7fE5fDHgmRY79Q0EWe2K0U",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Ikotun - Idimu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.609228,
+                    "lng": 3.292634
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "77df17aa0511a3ea3e21d03fa670e19eec2d5557",
+            "name": "State Senior High School",
+            "place_id": "ChIJz0doElaQOxAR7x6MfNf3Oak",
+            "reference": "CnRsAAAAHImZVdiLAda27EiApb9G2pxcb5ffzF-4eYsYfA9JcVm8r_YEZ7eQmqDzTZ1HUBmJIe35xTrN9rKXbm9VHLP8dbsqqGPTgFUK8e7EZ-d_vgouX6PE7mcDQ_-FK4DHPh75HNwLUpht1FSXpwImcQnVMxIQXn4XnKn3qdgGlALN6i0lSxoUY8DlCYT3MrFmEdbw8zv_7xbbuu0",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583781,
+                    "lng": 3.301068
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5c37effa45b5d073cd93604b2ac41ed3a5753535",
+            "name": "Sunbeam Secondary School",
+            "place_id": "ChIJd0jReMuROxARHW6rv7bIjGw",
+            "reference": "CnRrAAAARNr82zBkA8chMSm_KbRyq-ZobHCf7AX7gmMoy87zOhmiB038Ju2-3u--BwxNTHBauBSTmLfqFCTT6uTJtfjG4ovOewBnxP0LKARbtgcGapidmT83ajdP3fzWEj6-pP7ZhSU3qOaC84ELib0qWFKOABIQI9vYcVgylHzpe9mvc9QG0hoU7D8TvwocjgOrFyGKDT-4Q8-F840",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.55505,
+                    "lng": 3.354517
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "36962df3374713ebf789afd0cc1af836f63fa191",
+            "name": "Estate Senior Grammar School",
+            "place_id": "ChIJE7-s3e2NOxAR1H7U8tT8gig",
+            "reference": "CnRvAAAAlsuG9xpXF8v-Iyog_3R3gxyl4SNT9NNxzVLMgKn1dR8h47VAgA8IeADnc4vkpDdsEQ_PmQZkDq6vb2NTEkH7hoym7a_pJWG-8pZgVszncdnJhUfZMwFB6evGLjHlvVQGrmZKnPWWS-uar30_XmZNphIQy8v6YLqF1qF_6zO2kURfthoUyzpwGNgk1obB_E2wzeBXVqd-9sY",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Ilupeju Inustrial Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.531149,
+                    "lng": 3.33716
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7832ad2aeea18d98c3e9939b66848278e51ba6ca",
+            "name": "Ajumoni Junior and Senior Secondary School",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJpycLv3iOOxARgD6f2cIDe0U",
+            "reference": "CoQBfQAAAMRSdwIYyfwYW_WWAyN9AdP1vKhr6DSmLmjpYZYc0M6Amf-lB06G0LKlWfzCS5_REpPU85Yizz_0o_HX8KPTUMAU2xKtGwQC9qmLf_mnAA6IzjcEQHvD9ru9JxJEqGYAjORr1Gspr9LBuedeRqOWtqmbq8xyDiJKiZ3tY-W-31WJEhDC6v-KRWCn9YSM38O1CfywGhRtR5Htbh3FiyrEjlcFefSeP9omgA",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "establishment"
+            ],
+            "vicinity": "Isolo Road, Lagos"
+        }
+    ],
+    "status": "OK"
+}

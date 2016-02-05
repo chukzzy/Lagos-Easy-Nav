@@ -1,0 +1,231 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444236,
+                    "lng": 3.424792
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0b890c347536892910636aef1404a0c998c8628d",
+            "name": "Tinox Car Rentals",
+            "place_id": "ChIJ6UUtq9b0OxAR_TOxB4l82do",
+            "reference": "CnRlAAAAILRZBfbtZM2xuQ39bMWX0h5PFcotg5mT_rwIafXC8AJPrjIIZOD-rghT-9sTX0WWXbp3YF7sWc2SJIFQAdwE6gVHzUzYzxD6FuJ7D6MtaUtFtT5HpuJslm3hyI7A70REM7Y0v7S2MaMmKdDAuoAPqBIQHD4oIAo2rJib4kHdKgl70xoUoZEYRtZgSUchfaobw141vO-pIIE",
+            "scope": "GOOGLE",
+            "types": [
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "94 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.621726,
+                    "lng": 3.335839
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "82dea3ce5a269c70a7629951e5750841124d272e",
+            "name": "Adejimi Tolling Van",
+            "place_id": "ChIJVSQXI2OROxARIq9zBEABTiM",
+            "reference": "CnRmAAAAWq2rVgZ6i8jo0pIaoedetVdV09tXvQjpRdHtGfAnKMSqRtgz9JScFjXogAvVC6CagOGN0XfVgz7gX3_LOW7pl1fPxhgmfYHwUzXPzh5rydRUtlbUyLgp3Jgpgy47FO3u5w8PSiEU2ltF3PmD4zM8BhIQ0_EctyZxHGzVPM2Q8EEb9RoUsVptDCY7flpXP1Qli5aj0wDAUcE",
+            "scope": "GOOGLE",
+            "types": [
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "Off Akilo Road, Ogba, Ashaolu St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600693,
+                    "lng": 3.300757
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "4b673e4ad926fe80ae23819b63a8dac1cdb0bf4c",
+            "name": "Treasure Park Travels & Tour Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 630,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAANx3g9JXBASUhXjzsBgrTdLI8SVh4wzWfZdMdGcVE4_4QHs8GATRKfVFTACFYSFRnGQmHNx9O0A-xwHPX_ce5_SYoGWxBCK9DVcOrtKdKmZQAqABZyaGLL-3Xt6j-zrRqLH_rvjwiy7k3pwoIJhS2CRIQEA99N-wL5H59qjVEzQSixRoU8rOd2--JDd3nlLnRB9DZbFMKItE",
+                    "width": 959
+                }
+            ],
+            "place_id": "ChIJUz2UG06QOxAR3Kt6G8eVu18",
+            "reference": "CoQBdwAAAF-PUtj28j98crpASIzIGKJ4JfjbQntJ8HL_4q8ruzEsj6JvUDhm_LGvIfWzuXe8WVnjVgqComvf7kFOPbEIglCXJYA_1hRJ-MSz5WFny1BIaSyKiP5FUQhmJLimhizl2Sj6lqMzjGEcx0hGH3k2eTHNFcxmSVHc7e0eaMDSnpQQEhDI-A4X9PgMHNQ0Wi_F1sQJGhR5ccLwjaoUJ23vPCUS_i8Ps541Cw",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "airport",
+                "transit_station",
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.601529,
+                    "lng": 3.36338
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a78feb3cc1d51e476ca06764c02e3737f903e21f",
+            "name": "Sam Transport Services",
+            "place_id": "ChIJQ7XA2UiSOxARhKPAeG1lLSU",
+            "reference": "CnRpAAAAaCB2_lPUA89t8Jd3a15hAaWKepjdv1FstGjqQXByx9xnDygRQsEy7xP4F_AXX1JzqxbogixRegEf_JITINcR-CcjExA_89NWtnNcahYLFaApu2Cm2dzvCZFQr2muINWiDRGwiQn0wnfGOXcJnlb7xRIQI8CQamstLIsaLlp_ZLBoMhoUN7-HSafsupovceBioxW7CdLJhSg",
+            "scope": "GOOGLE",
+            "types": [
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "Oregun, 25 Lawal St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.550653,
+                    "lng": 3.33298
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "057a00d806345e586ca248b4480fe160dd1f15c6",
+            "name": "Exotic Car Hire",
+            "place_id": "ChIJ13ygEAyOOxARMZsAYq63Ccw",
+            "reference": "CnRjAAAA6XTx93ePkOIiKWt-ksnZHnkKR_dvF0mrzXG4K3DpOuAu3rDJWB5iZr9dwMh1dDSZ8sWZNg7czMXN4qU8sVt2V0b3wmujM0Wcd5Z3RhjTYPj32DZPc-oFeMRQ8XxhaFiDs7XIgwsT025F9UXF2v_WSRIQadZ5QBkIi8o9_kDONaDI7hoUTxKG0yw4Wm4OavjmlAkaJgNlbP4",
+            "scope": "GOOGLE",
+            "types": [
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "Murtala Muhammed Airport Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594517,
+                    "lng": 3.358119
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bef1370b36f0648591bffbf70ca3b86c186d3c95",
+            "name": "T- Comfort Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRqAAAAPPJr7G3m96a28LdTRmkYoITSsbLxDScckzwf-jhDLCQv343b4tg7ND3euoe0U5U3nnMMIVgSc99LkoQwBAnneC-NFT9E7I0d_aBMQrC2iV9Eik84Co4Am5WpLAeOalTCX4sOD4mnDm9DR5QI4jriwhIQyG3xw-lE0RsxqQB-nA2CchoUWTdPa680TkC929ZKXQ0zduUkjgA",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJsXccujiSOxARD5lhPjM6ImA",
+            "reference": "CnRlAAAA7tNZjNQJ8H8WAKcmoPp7fiYc2N5eB1NBdlv1uEy8KFgyCEIRNe0mayAtmfNNgf5l1dVhjFm3-o9iN5JTS_HOsIcFPz2veX54cGHWLPNmYA7bWy6BLA_ysJoKCIcUyICS3yncjvh--3vlWgHQ0mN6jRIQA_RpyGMvgRINMUjn6nkyIBoUdGcLi_xw6VUmCh7EYJzsVMNTXmI",
+            "scope": "GOOGLE",
+            "types": [
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "4 Agbaoku Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43732,
+                    "lng": 3.472019
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "505a8e864c5875fedf34f89eb992907ca5983278",
+            "name": "C and I Leasing PLC",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 180,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA3nLsRxs9FLM_hKPrZ-BbAkq60xSHlXyNRPy-KlTD8Js47fC6a3ziTMCdV4B5TVxJnumaeVLnoXGRWwSZgtv2rCYAMUBH2suudGHKWl1gwif7XjZSHRS5MV2XJ1ZVgEGTYxG_7RwI4k--oiOM2U_5YhIQqQHlQobeVY5PlDOBiWYpIBoUBxnZ_7Pn6zWvlV6H-Gb9HTBD-0c",
+                    "width": 180
+                }
+            ],
+            "place_id": "ChIJb5No3bL1OxARFHyJcUy8Tws",
+            "reference": "CnRmAAAAyjcZDv6hTDVPHmVzInTHXBBdbWTX-GSQobb2kQ6r_UVA2nLA4Gh6Em-XLW_iXfHmpCZlDpJBRVl740zBYD_c1uLF6m-7THwNsmrkRI2kyrJjAyes3H_MiNq2nYSKbnztbrCBgGR102slH4RyjolVOBIQkaydoYCkIyFjjUiL462C6xoUsfz9KVBNTdKqx5GyKYh8cdLr5Co",
+            "scope": "GOOGLE",
+            "types": [
+                "finance",
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "Leasing House, 2 Leasing Drive, Off Bisola Durosinmi Etti Drive, Off Lekki Phase1, Admiralty Way, Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.498698,
+                    "lng": 3.327392
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9bdd9064057c773b9fac1605b9237f6ddc54c22b",
+            "name": "Ajide Simon Co",
+            "place_id": "ChIJLYLLmbyOOxARvmeAuH35x4s",
+            "reference": "CnRiAAAA7p0n1VOb--5_WiOKLvgR_XYKjNItzVQOchduJKvVKSXcBf9_QWr1SXsBE12PYoxYbvESSVOuG9mZHCLUnrkCQv-oNnOcYfhwePTyqLmuifI4ZYyr943RTg7Orn9w5l4q9-AWujCDfxT4drYKPsfplxIQ0kPEdaRXIhaU25EgjDa9rRoU6nQH3E5gQ0Rtkw78XqkN4jPowO4",
+            "scope": "GOOGLE",
+            "types": [
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "Ijesha, 10 Jimoh Agunbiade Close"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.612809,
+                    "lng": 3.353963
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "49d51f164398f66cbf6c86edf0a7842026a22b5f",
+            "name": "Topland Autos Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 255,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAO4Kf7WAQAZyngFj2_tiCcF39gQQDqSum0qwT69BhdJltaZ3ACYZkDuj59EsTST3-pk1GhS2LNilDch_DgK-qKh8haX6ba6BLHhOTs6srTGSLaRpVDrkIGsA9zDo5AHYI_JLlZrr_4zfH-5-NwbvPCu-XXcjk6JaYeHFsk3mEatHEhAe-3OT_HxdRgN4ktF8XDM8GhRU2VQP7ez6Ij46gnH4D-o2AYFeag",
+                    "width": 254
+                }
+            ],
+            "place_id": "ChIJeZxNf8yTOxARgQxWuGlVljU",
+            "reference": "CnRoAAAAQjSJEFw40mCE_ZHPnrl8WV677l3Wf6KBlg7iy_ZuXDdO2EiQ5s8F7VIHp0PSwO4GLCkn8yQSaNADjCs-rK9pEQM75XfVP3eoolZYKEB8guICOCWNVUncIv8jCU2v0hSf3TOGVYp9QWXWboOOEkic3xIQ3KcJrZTbO0woLOclI1-1OxoUIQrF-yK_KKBx6ztAfe98A2Ndj9M",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "car_rental",
+                "establishment"
+            ],
+            "vicinity": "164 Obafemi Awolowo Way, Ikeja"
+        }
+    ],
+    "status": "OK"
+}

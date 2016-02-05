@@ -1,0 +1,491 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_AAAAIA983wZReB_7fXl8wGDFM-twq138fSR97lmjXF1HbYpwfHgU1WeQ4IbacODCey3EXAPJUlGYf8qWVmA9wX2v4rKPgMknUufjNyWx5Fq8DrjDEH9Clxdj3tX-qSF6e2cKt6kAsvaJsMza7YkvAPBxOTr6YQVnReKg81PxKkpmCtm-WeaLzxNOCrQHldjMcOWTCXomI-fEf9CATToJadOqbiTRT293bqblPRjBwotvdvZd3AcMYTLVDI-58iWrRPfwz8leYZCfqfosSIJF-V7d9KYeWwHsnWiHbystVXhMm_oHf2entKiDpNh3GxJGQijeswCk6DW8dr6c1cHXRKa48ISEE_qQo_2h9AKsl5qa7N56bEaFPUYYs3ELppS5-_PBIkeyyLj63mu",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44849,
+                    "lng": 3.476154
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "dee6dd2e33cd9c5c1e9644797af81e931a5a0424",
+            "name": "Lavish",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJS0DbvEj0OxARh59YciFhkS8",
+            "reference": "CmRZAAAAu2lg3A7RTz75y1-88YAggpRo0lAAgu9u2CSEh75coW5Gh-DSoAerfXHpPb8nVtuXACZHtb2XybRUiiK9h6Akxhpv-rVw1aJ2SzeWOmPkRnsKLsmfPThYZ5oqwU3x7TJuEhAq0JWCXB8ZLSkhnZlyPc6xGhSHtCJnkB5ag83sgLyiOUP4zb5uNg",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Niyi Okunubi Street, Off Admiralty Way, 1 B, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.445147,
+                    "lng": 3.458125
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7bd54a1f5e610bfaf55126b124512c712aad89f2",
+            "name": "Hedges & Smith Clothing & Accessories",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJUb1mT_n0OxAR4VfbNM-UCaI",
+            "reference": "CoQBeQAAAGvtBrbtO2H16XbW_jBqoaxYTgMyS22Xd6xQ59ZFjLxFlzBG243ZgEOfbUDVASk4WZId30xUm319Lo8SHmDSRfkXBNpCtQ46CYrE_dKSf3d111YYbBPx5vGu8DxBXz2lXDeGsLqLuyNRUboswyyc3vg_IfFyN-hGEYh4TOEH__n7EhAeU-x-RtYwDLh1TRK6jlv9GhS3Hdg2IIULdLGG5wA_pa6iS8Pfcw",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "beauty_salon",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lekki Phase 1, Edges & Smith Plaza, Admiralty Way (E), Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.460312,
+                    "lng": 3.387471
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3a2c89d22fa42ca8d82e3944f4ce815012f05961",
+            "name": "A & E Bridal Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJvVxNMg2LOxARl6zFdLlBL6w",
+            "reference": "CnRlAAAAbFb32tx4h46pXgPtAEL3pU2ne5Dq9yIK2SKgVuk62YHq7guj87SRYWNM7FBVxDbvTwKRN_1ilk7h-zGYwABoEZ6P1P6S66L7uW2okQY0J_aUZWCem6s-NzCyQBSwCfv7sqrtT3C_Q4YdYq6MYGgPxxIQmG6ulb7bGyg_gd5qXjE36xoUdLhH0ljxnCgUY0pQ3fs628DcoXc",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Idumota, Nnamdi Azikiwe St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503061,
+                    "lng": 3.376452
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d758a32e44b00f71e7bd8e06ab65f6636dba4f47",
+            "name": "Malizz World",
+            "place_id": "ChIJjVMQKl6MOxAR4LOBoDitF7Q",
+            "reference": "CmRgAAAAmIKUAdEmIaJjWeHaCr7h8iZUlIJ3z5gERWeCIzBVBQjkzyqQyr6tGmFyas5oET9hwXrYt52QggpB1-JxqqqmndZOKIYd3IiWLEL1q6wpIlF5QZIbfm5lyVx4I6CsYwXDEhDzUOaAGsh8CmpfZwhEMhHGGhQ1aJ26giB0KBYo52wa4ZArR0MQrQ",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "laundry",
+                "establishment"
+            ],
+            "vicinity": "Oyinlola, Ipaja, No. 5 Adams Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.470781,
+                    "lng": 3.283445
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "8c0e22ccb8efa6379cea2abaed234f716018bf49",
+            "name": "Vivienli Bridal Shop",
+            "place_id": "ChIJf_j0CcaIOxARDEVkyY8gBZw",
+            "reference": "CnRoAAAAqJe2mS_AXJa95XEoNRfsdb1Cd-yOaEU5N7EtkXrQ4_3WptC7_m_0y_AeMQbox8TIHAcBlOId5jJO2u2t3Zq9NqoG_L2jhupcVAyvUjUmXIXngu8uckSb_1GcrpsHgg54UHn5lvUV1d7HsRMd_Mj69hIQdLhxbdpHCCQ1-ezexjixhBoU2SQnCYq7dLQpwasFsXP7lH5X6tw",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "23 Road H Close, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454345,
+                    "lng": 3.384969
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3ffd41c0ce24ff6c31ad48f8af84e25413ed7434",
+            "name": "Hero International Fashion Outfit",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJCUXyug6LOxARKAkb774xwxc",
+            "reference": "CoQBdAAAAJH9sUoNrAMIFT0RBvvHHtzUq3iCgzWhm0nupdasFaJVJGPgp1tn1ANObUbj6BinD7uvKXpFlVqvcbYOuIlcx1yGgRIfACgIdQCIrtwi3g0yaWZDvGM_dG5bwiwXgrUPKqXjl7tmiSJyk3WCPNsUORRj3Nu7TZtdwtM3mlSHv4jQEhCiyOpjnYbBv9Ef0MosW-wnGhQDDX30qi2rBLnJLNylclFC2kz9hA",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Suite GA 49, Oluwole Urban Market, Ground Floor"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.528353,
+                    "lng": 3.357088
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "eed1aa517e30e7857127276ff49303dc58d38650",
+            "name": "Fashion",
+            "place_id": "ChIJt3uKSMqNOxARWwyHkXfF910",
+            "reference": "CmRaAAAAT5c6JZA2gY5ler02W8L2oxMD4mfSyWTjHjKwBr8fZKHf6tF9WhA0-3eIbJ8e_1q4xzhxkYWS6i5bJFruG3HJ5MtyXdcYDd78HOr32pb1ihR0S7oU3xNwCwp2ar2NmKvtEhBz9RiEyZyyGgF6eZ1Zw0lQGhTk_nY25BEX2PS0PcJM0yYDLakjKQ",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 9, Abolade Street, Olosha, Abiodun Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442067,
+                    "lng": 3.414654
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f341e23d1f48b36ce7a017c97cd143f1ecdb208e",
+            "name": "Pierre Cardin West Africa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRpAAAA1rOqksetzQ9DOvQL1ZwlYCF_DTrM6OhjHn-8D4B6KLM-DzrZTs_Yd5haTxAboDYXgl505lUmNMUoUdZ75cxx8xSFu9ueOcoxy3o59lYtiubSOT06KZ4ETuN2FxjqpPaJ_4MLsrnwHByxuMBab9KxAxIQAjaIOA-Zz-W0gNn8zpXXghoUzitQ0OMISDq2CvpGemuGiq8zJKo",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJr5PQ1SuLOxARW2EnwmnIQmA",
+            "reference": "CnRsAAAAms6c_0CKpNNi0HdkWx8yRUO3PR0e4GeDiTpKsYDyr5Iley1J6z-Z4KnJ-_k7MWrb7UlN5NoSHnq1DoQlofKRIe1Kip78OB3EtCtu07wBtdB4IssAnfoWYvWEzR6495LfObIh7B93c4rwkXdnNTf8PRIQS-yBScQDw5oVaUIo3F-9BxoUak1aTkkR5kf58FOa6rfFIu00rAU",
+            "scope": "GOOGLE",
+            "types": [
+                "shoe_store",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "62 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447417,
+                    "lng": 3.477186
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1f864f7896fb9a1cdedf867d2a6711c614dea995",
+            "name": "The Party Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 918,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAApRmgFkV1GVxpL7LUjHCRj8OcGU3nz13QCCfvzFTwpwcAYX3nvEzVsv9goHftFg7Bzw8VaEEI9zAlMed4-1_k24qvTvrFiJmM51gwu1eqIv0GPm5SucfyB_YG82Zu8UuwKLy_lkAwH1C5UcxBaHEocBIQQRcCUcPxITBLSbUTwr0gMhoUzcnl7vdws4x2LZ3LisN8ngBmhyI",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJZVYCOP_0OxAR9E9ToPSx2Us",
+            "reference": "CnRhAAAAQ8hthZ5Oiq5k0Z_6xu34kulg2K6rrZlZWlYLfQbvGNKrRU0z4bylLwip0ulVNs-pgnFZ0F8-fifv5ORy-HtelNUokmKOrJ0KPUBl6nirslv4_MYQ3NP_8qh9oTbhQ6Ge_PekJHcbrzVu4JAFmhFMsxIQ6FMx1BvgCUnbANwZSvXu7hoUqPiUlTlJVoJNl0JKLnimWWLQJrI",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "15 Admiralty Way, Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.502013,
+                    "lng": 3.361331
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "359de1327447e43fcec291d86c0587a40b314801",
+            "name": "Glam City",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJsVkLi2qMOxARN-tdECx-lDQ",
+            "reference": "CmRcAAAAIY-8RRwEoJPKWN5PoVBzD7V4XkGSMgSPtOdPFSi5KWwONjd_FU8HyVadXnvvYXocTJMIDyaKKjvgfsPDp5ATF9LBQrUsh0rS9UiGsnL6l8MRLVXxOwcaekcuBoJTyfr_EhDSSGsVVwH2Kv-xwOt8HvO0GhTzwZYk_RtMaA5VDOVQwnttOqSNqw",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 154, Opp Benson Street, Akerele Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506236,
+                    "lng": 3.374257
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7cd38e5f3569627bd1b299f8442694eda5d62031",
+            "name": "Charles Tyrwhitt Nigeria Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ-7SQgl6MOxARhATAWkAbDyI",
+            "reference": "CnRvAAAAxzj_sv3Kt6DpiGqW4no9PIf_ZMWpFWG5oqJJM1iQ43yrFipvuv06pnEMDJFCNDSfzy_W_pUb-Y9ZiJDcQYZejraHWjan3KFPZkidkjG4he62bGIcM1UC97qCW0HDVOnov5AkHVdFlaJTO6D9qjrVuRIQAqU0ZoTvXcFG03ZPQ-IVqRoUrPCSIRFKTzd4tTDHHmSfVFMDxmc",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "E - Centre, 3rd Floor, No. 1 - 11, Commercial Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.556561,
+                    "lng": 3.347526
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5bc050f4cd5b56ea67310a1de9502bef65877c5e",
+            "name": "Eric Laptops",
+            "place_id": "ChIJ57K9zPqNOxAR31r4RdoFVnM",
+            "reference": "CmRfAAAA8bFZ08PnolWBPLgeucLXY9SWJxeoCoGQTZpsVxV1wEZEtBmF-Ud7V9tI7n78y4NWP_AABB-5tSiy9f7OJZRELuhtJG60-nMw8T5-U9E4fELS13hPKgtpRR8oINWDxp8pEhDmuoqNlNS_MDdMsVaiom8TGhQDPvmzpm3oU1_fv75jhmNrCx8zGA",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 95, Oshodi Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.499602,
+                    "lng": 3.358701
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "fe4515c8085d9e320954812e5202c64e3ee058a7",
+            "name": "Maternity Unlimited @ Wear It Out",
+            "place_id": "ChIJKcotzxSMOxARt5GIBczYJMs",
+            "reference": "CoQBdQAAAPvy15Bvo3ePOEr5KsBSvzONGJa82d64abVlJK2IB5r1UHgs4q7YS8akZ45mDrXEGdFQBokG-Ss2ThJLtbtXzeN7BxfxKyg2nYAwxEoqsbRErVhh1NhZ4946EVRQM4JlBQ4hlYozQx_Ff0c-Z5eHugDldc7A1MkVw0mUBMNEvfjCEhBzJscnc0eXi5x_wL89NNIvGhSrTuRd0iTf0aOPhYeloxSiBv02cA",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Shitta Bus - Stop, Alhaji Masha Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.453135,
+                    "lng": 3.395462
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7eb52adabc05d4af9900b70138d3148d70dab7d8",
+            "name": "SOSELLMARCHANT",
+            "place_id": "ChIJ75fbwhaLOxARCGVcuEI0o4Y",
+            "reference": "CnRiAAAATDmSk8Ku9o7mXcUhTFiQb_2d-TuOpk4nU5HBqUjuDV0e0fsGh16qBWKfqRKfFb4FuYkJPXqpU20SfrnxSsEZhPhP_OdVc-2jGHxBrwa5tMzNgUV7K0meTXPlFJKj7Ee_TcWkC3kPGTMa3RY7LhLFWxIQXlKB_DlRbMOxrH3YCwooSBoUh_S49HXYGrFEX3tSp5sMCC6aVQY",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435513,
+                    "lng": 3.451461
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "c2ec30724a2d12b9fbab41b441ec17e38633cc3b",
+            "name": "Hugo Boss",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJe4tKGQP1OxARdRWBsMhgEIg",
+            "reference": "CmRdAAAAqpecb2Rg_uZ9dWrES7SvBXLYBWUzz6rknUW7ztHPN7kytmUvYEEPktj3u3-m4MYFZgaRPXasek-h1rnJYp6jrdpd6hWiYTbOQC6Jg4OheZW-_PVyyOPjTITNp3BryhE0EhDRv2lYuU6KizVdXYuXaf0NGhTlUwIUv6kQRvdsZS5ub4u2kgJ8yQ",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455465,
+                    "lng": 3.344202
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1871ee170b4a88935570b7cff54358edf5ac34bb",
+            "name": "Tush Baby Place",
+            "place_id": "ChIJ72-6ANyLOxARtQjvh9YQGE4",
+            "reference": "CnRiAAAAoJpqZGP9wQAgpMLl01kDwpc1EAeP03UM_bjXkI7PE1z3nx1OWrxQbxyIekZpIbNqXmAkVnXDHojxnnNldraobsV06X_ndmNuqbkOCrgTv5xKlIM3fODdSe3Hy9pVkPZdigSFpRB8a6eVeS2eXbkpzBIQZgfgGpPSz6T28_tFR4zxjxoUrcwUaqiJS_jXpyzOg1l4YpPDBTg",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 90, Orile Bus Stop, Baale Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593421,
+                    "lng": 3.296725
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5acc305a8a066e108d6a3e0c63c01b7c8db51603",
+            "name": "Miistique Clothing Company",
+            "photos": [
+                {
+                    "height": 344,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBfAAAAID8hObpAjOsM6i2vz_88SeusVyfaT4oMVffX9amOdakz_hdrHh1g4qIwPToWrI-8JcscQmNvoSY8AUuSnxygciy8XyVvg9AIog-qxbi3iwG3NQfVZlAPnLOzMt3MBI3pm1ID7tHt_amkM2rJdWFCy0fQS7DBnKRDSwqxfnbOpoUEhAQ-qjujgIOzae26qSCg4XoGhQaPe_Juzvn-Ic5X8K4VGPu8Xz4sg",
+                    "width": 345
+                }
+            ],
+            "place_id": "ChIJLXzYb0uQOxARBB94t8zTgBc",
+            "reference": "CnRtAAAAcFZa5uqKyQ2_OU2Hd0w4BWfKzmFe1DqBZDjWR7ziwfs99cSh1HZuuxESIk2FDjQ4VSj5eGlL63zX4ZTruTO-loLn75li64A0n2-cgtKYPKnzu_d2lSPYSW913CTVsoRlVWZrZWbfOVifW7ID54kRDxIQQoo3ov-XbR7YLfbMKbeyghoUfgpMD4tTZljqRX0NXnZJ2bcp_Os",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 2, Mustapha Adeleke Street, Seliat Bus Stop, Egbeda - Idimu, Alimisho"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506623,
+                    "lng": 3.39676
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "0761261ac1e0411f8210cb07c5e5122e5d28bb8c",
+            "name": "Fashion House",
+            "place_id": "ChIJQwtrs-uMOxARTARq47n0cBA",
+            "reference": "CmRgAAAApzkLsGT9yUdA0g1sjJrXz6oUfGWhY5ijdvu2bpoBXh3Yfabkg-6Gbt0JgCOnn4L-wfWpL7UoCBqETKsCWfaHR6ghuC_Lmnx3ktvtbMzSv8zZz7XTnXdcV3bUeZXfiYt9EhAalR_orIh-Rh6jeOald185GhQ0ltEBwuUAU3LNvcGdg30Sj2XWYA",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "High Rise Block C, Yaba, High Rise 'B' Close, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.625172,
+                    "lng": 3.331744
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "06b86513001610aa39571da66902e497aa975986",
+            "name": "Cici And Mae",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ3xOjMWSROxARSTq9JlXuu-A",
+            "reference": "CmRgAAAAUEMAq9CqYD5czj9fz2ciQ1bjw6Jz4aWwLN-nkfl9AvoOoAUVLSl5dUsK71D7kC1_ZkF21sJRYR6FjJaCAi4hiT5xD5t0pzXFRoNTRDmVsXRraJt4UUQ0qJu4XDL7WF7-EhDmmGnR3it3c6O-t1_x6CQNGhQnjaDyVzDBARDsDz80ZoNNDVR9lg",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 24, Bishop Hughes Street, Ifako, Ijaiye Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433394,
+                    "lng": 3.419969
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d65d939ae6e33fdba658b3f6d113dba660bba963",
+            "name": "Peggyz Place",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAFqvArhvJJakgWmmo0Etfk5C4x65RK6xkbNxTs2Q9HFmbtTRKhdeNOX1h7xGPAk3A71WWSQmliIhxHwxb8iM-meP0kIokbk0ZfehNZ9i1LL5H8cO20sh2OimM1ZhS7SZ638Gu9dDbwP30jOqvE6S_DYydA63eULpG96UgaXgeuCeEhDEgcTgetfhEn44ET8iBHeIGhRuTX9f9m6jJkTbJPnHdnjT7yx2iA",
+                    "width": 1226
+                }
+            ],
+            "place_id": "ChIJZ9_Oqyz1OxARIXwYUCbUfrM",
+            "reference": "CmRgAAAA2YIasc9CHs6DTsPWHB6v0jVcOmeb7lsnPddzea7arsjskvdzO8gS64gYzIIuodt4ks7C4Q6AbAdRr6YNmjPkXqSUtbRGoUuNNegScztr75AAuPleUq_Ydc-wlimBb_CwEhAHvy0mBIrf-oh_Qgk1brlZGhSTK8V2QD6xM57S316KpafuTCXeTw",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "21B Idowu Martins Street"
+        }
+    ],
+    "status": "OK"
+}

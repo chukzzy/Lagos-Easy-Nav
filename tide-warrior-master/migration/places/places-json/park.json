@@ -1,0 +1,467 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC8gAAAO37ZI4Drd8YPlPAFbwhHVz04GaKwthWMbLfnFvY4ISrVLVBcrr6SQIZa_2lONpkic6k4-iphQz79VWC7CpUaq3ryG5sOv3tifh8WwL6s5yu2FWPkVgzXq3X6RQ7E0eZr5DURA00GQV6CWcJ88LoEDwt_GPftnXK3qDAhl8q-By5AadSw01HwZpYoZ3YH5sFnvES-tVGtZlKpT2mP-EEMGH7oN9hAHy-QNnVRbDXuFpY3VRSPZ_kGyCN8iqawkNJB2bhW8BcM302pU9yN8vqe24fpq0mf-BLM0lYso9T9sbt5nb29hdKOv3KpPtPQoA5SKxv0yR2gn5-7BO9MYGa_-gSEJnDZanyhVQYpH6-VAVIc1kaFHWVgUI3ueVHXkmclsSzc4HT8ZtH",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44168,
+                    "lng": 3.535548
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3ac7616f4b8e6a069a34af35ef437ee541f8e39c",
+            "name": "Lekki conservation",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA8A7OkBqrcGtrZqtQwSmbyk8lxTG0tGph6Qow0vmMo83EHEvZf9cs2mlojrxyUZw_6nnquZiAroEl7DeHW-4nqakrKEQ0sfomfQMfdorTdGe186ychxS_xGMY4uqKw2iGKg69UIiKu243k4M6q8ofghIQlQqVacdAVg8H22lvzXDn0RoUIqKSAfqU925ABQVwTBt7AYTbArM",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJnfWgLfn2OxARZjghHw4IIMA",
+            "rating": 4.5,
+            "reference": "CnRmAAAAkXuQtzPexjNov_cjXnXCQRhRrwxecY2aZ9jS7oIK1_Tud_qN3wfbs9BKFh29ipFdMfsBHUJ8Lv4rDhz7miHlNejnDPaiUX3nHun7H_nRnr7jD-1m-vvK_0n56GLRjXDBqyQILklkCATizyg26hw2hxIQOqIDEf0C3FbZ-eTNUuJ5cxoUk0Tm8er5e68myYw1EqRxlATGNAc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Lekki Conservation Centre Road, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503946,
+                    "lng": 3.361328
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c96884c9312023e62a37e3945deadb14f21dfe59",
+            "name": "Love Garden",
+            "photos": [
+                {
+                    "height": 920,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAC9X5bxrzq8rdk-nRtLEablUvYEYO5oQ8u6XPJ5YKrYP2dgaUr7Brg1DZdUwFjM60tJFZRHEBaCHOdZdNKpYlZlAlyiryhF-KShyvz5BWuBiBe5pstM3Hg1JiyS05Vv9ETCWWjIEOrt3f3UJrt_hlThIQfbXbfslh1mQkivb2vvnfexoUAWvgfDhoWTv90kiWNWduj_dxFFQ",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJkbphMkCMOxARz49cJtjs_zI",
+            "reference": "CmReAAAAbDsN2MDJLjq8EaDXx8YbSEf03om0M4cDSM9bQiGjZVst4-blbFvBUF664HXPXFoetg4jzsgyRSMfzsFWCngKL9rchnsmYC1TAeoH7SKTGt1nFjTeTolJ0urItofK0nCqEhBYbjySDCQwDMpcf1Dl3lthGhQshklK4Jx3ICMA3rEgp0jJaoryew",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Iluseyi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.56375,
+                    "lng": 3.274119
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2d0d07cb42b5ca3a1c3acae3beadaed190ca53be",
+            "name": "Samkoll Motel And Garden",
+            "place_id": "ChIJlSsOaOGPOxAR-5pJ6z3RQBo",
+            "reference": "CnRrAAAA1m_WWyedXndak9VxaVQT_q-oqTnNysIkJK09NxGf8gRqEZFVvhsqA9Jt-bNqU05rKmSn7eHZBR0D-hwsD0KJ333hNQKXdNfOyXidebS9pwV6hbJ6S78h2VFzftsf8bQJ9jPXF5HybcRUlabVYiRLnBIQ1xXgeEhe83Iz4QOGdXQhWhoUpUxTPln57UzRnVyzfNNl4Ujw6x4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Onilu Village"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44855,
+                    "lng": 3.396474
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "45e2f157d5982a099f04fd30d361fadd39a294f3",
+            "name": "Freedom Park Lagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBcwAAAIECQJLgk3Lw2a9br3-typBwMZZE3HzqZ9MQF3XFbykvFe7paZ_5DNjXHsVVGj3Cwua1iUrUvzKovbzRLfI_Tp7v-ZeONrx4VzR5bUQVjbZHYikUHv2eosxNHXmjl70_WomB0Efd2mCunrtA_xLG-OIHUf42hrR1oONfirZlA2O4EhAbP96Mgh0z3t-3KuxPbXfZGhRk6285iWL4zSjJlxHf_90HLanbAQ",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJaaKZyRmLOxARR-nEcxQBEQ4",
+            "reference": "CnRlAAAAM4d6xR9jGooEg2nZE2DtOUYFfxArGaQzIHQ3-2biBlMntu8PXcfSIQtu5mlSOeilZVbyUuncfzC3ravF-7-60ELcSgO6waCdkzE6TV0nFlvduTMJQcOTSlVnLg5m3vkS38uXoQABEqCS8Bza4vDG3BIQJ4c6GqtctCBwE39VbspD6xoUMMlH7raM6b_IJI2nMhcWMo58IEE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "natural_feature",
+                "establishment"
+            ],
+            "vicinity": "Hospital Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.547734,
+                    "lng": 3.409173
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a51140edf847a97a0c1e529d3848af86e09291eb",
+            "name": "Nustreams Conference & Culture Centre",
+            "place_id": "ChIJs6HKasUaRBARzJt1juNz_8w",
+            "reference": "CoQBeQAAAI9hgUcpFmxMqWf1GHXKsJkdcbTauwOQMY0rjdR7n6gZhO8Hb4L6-7wGG6Ubji4rn3oI96HurYRcWYO48pl8WnSePU_mWsdxb5_-Xxc8i38Ly8iraH7NzDz0vbHwOMoq1s69Deqx1DRKEOWNMpic-cWkP4nYm4QJtduS4TWuJS1yEhBoT1kYBK_3E4exy0SWONwGGhRizTDFFQiro9I7wjNH0L_PWjmJnQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Abeokuta Road, Ibadan"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448894,
+                    "lng": 3.396452
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dfd17c4d3498b7002f488d70089d3a46ba4e647c",
+            "name": "Freedom Park",
+            "place_id": "ChIJEyPW0RmLOxAR536Uvjv12wI",
+            "reference": "CmRfAAAAK9HErTl2ebRdbXwzlq-zbventrA3pSsCOsGXou4yvA4adUCPazUW7YCqOhJ7hPzt8e_bAGSjxzJW8e3iUOG7TvgOomER92eOd5S71MYkhr-1uC0soq0yrLs0ZiyoRT-wEhAg-fJVIKmajPudwxunb5p_GhTy8KR_zB83SwvLCeLXeFL4WCxgug",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Brooke St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.625234,
+                    "lng": 3.304666
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "05f718b54196bb05bb9ce5f2ac01799c7818b706",
+            "name": "NYSC Camp",
+            "photos": [
+                {
+                    "height": 551,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAASrKwhXbGUVV7dpbSePbO1f21bICLA7TdwYP-WZQ93CYx4IyPMblpRLzFJ1V3QcBQ-Qok5_uLv9fj-hMO3CFgvoOJAFPXtXilYTVa-bMhDKJgMEQrT2iQ4PjVgVHrHq8_gKiNl-b12PoaYgZzA-BBuxIQ_AVkLAsJi3510jzlBzaJxhoUR1FsklCMWpt1N6JmCTH1SIklvcI",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJqdoN6huROxAR3RMEWy0pYt0",
+            "rating": 4.2,
+            "reference": "CmRdAAAAmxRrHZKNWT04reZTlO2jN0vtZ_utoHe5hpshFOEEs6WOA8GqewC0WBO6IRkiEEogppvfoTt54kFFMSnyIoPqeQU7jqr3pv89dwRBbu8bhZV_VnFo-qIy4kdJ22d4jydlEhB3FA_GAX9mDSaBowZEyzP4GhQUcnucqV7W70FgNSw2hiQDI1YHTA",
+            "scope": "GOOGLE",
+            "types": [
+                "campground",
+                "park",
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Ipaja Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438088,
+                    "lng": 3.425072
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d0c586fd8ae7eda32352a632ea464382edeeddc4",
+            "name": "Muri Okunola Park",
+            "photos": [
+                {
+                    "height": 612,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAzqwh1PyEQVmRsAIdWVxXtwXBhbt-Lg-r0hwd9JPSxoNkVwyVJF2VkRoe7DUdb2BsHF-oeiJbcfy-dJa523SrYEAXi-L4RYBBC_6J-h9RX8bb-FHnQyAKjeEXwKh5uLTZY5KmDwKtffG5FynymZRDtBIQBUIJW4Gj8TBCARPXvxbBDxoU6pXhMlpDnIcMJviF1ktCRoRQKjM",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJfV28jCn1OxARXa1gJk-WRAw",
+            "reference": "CnRkAAAAT0z01uf9Eg1cQDPkuTPxn5YoTZUjUa-9xLmC5BSyCddn_pK0tk5I3Q41Ojx2E5ED-s2eijpwY14ABrxVxQbQzrB_xmse7OOqqKsE7JmXwlm46sia-rYHoERUfhTzA44wK5xcG3N4kbsUgIM1tsm9HxIQlti1eWz3GpAP2yTC1oakZBoUPnpvpJj3QEhvgxHFVrscEnwUr3w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Adeyemo Alakija"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.585734,
+                    "lng": 3.362436
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d9ceec235030bc0ce389620c31d54a70c1aa7fb2",
+            "name": "Opebi Valley",
+            "place_id": "ChIJH0FIs2uSOxARqrObzV1vDJQ",
+            "reference": "CmRgAAAAyaWm-OqFRztDo1ApAVwgcUvUN_CA6OFhQsaNa4HwnFPJZ-Aj217-Yb36Ah7Zwc6abOc9b2pH8pIVhW77OwK4lwhMubFwlGviILvDQzx6_wjMbbF7Ge4Ab3TUQ1n2K9m5EhCnBoSaXhpvRIaKo95GrsS5GhTUmk3Y1iJM_vJDEjDYaiB-0DWTUw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Opebi Link Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435007,
+                    "lng": 3.443598
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5e9e3fc03f364692ee145051e8f00fda3fccb3ab",
+            "name": "Oniru Park",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAwZJJ_vX9vVll3H_uvmN8EIRbx6B8Sa4R-Tjm8LwpQQNKRfL26jxcKw6fvYNgg7oxppLmJNIHW9GLHUbFXVZryRE9_WZR71R5Dx1jyvf7eHHtLQzMxthnVPmSplBAO1VcUrYuZRV-CDsfTW3KBK1kxxIQww9paeymCYdGul4zdKm_vhoUPtnTG82Oa9BnFfU5aEAWAlCsTfk",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJIxPdlB71OxARBJViuSEdSKo",
+            "reference": "CmReAAAAhg9gsxJEriKJzD19RmKkwl6FBHsoCphQ_Pqr6Ujz3D8Mexv8Dn9KhsUSmSx5D_GPyPjJSQkKiWIug6LXOMxSy9F-AI1xKilKROM-yw8faj_rcPslGs2xSswK5oFn0qjPEhDUhUigIMtWGb9Pa7640w8mGhSGN1JmMJLjbv32tz78FqWLtU1j5w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Lekki - Epe Express Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.625984,
+                    "lng": 3.335195
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "919d6c0a3b94250da8fa14345df616edfc8b07f2",
+            "name": "Ashton Gardens and Events Centre",
+            "place_id": "ChIJPdSFYGGROxARJMciT9WgI18",
+            "reference": "CoQBcwAAAPbVjdaLZ1lkra72TCZuvZ1M8HaLxKtczZ0foC_Tym5ow1hQHaJ0NrI7NPLALE-KQNw4SqBQ6CJydBAXC7eoOGaU3UbKGR4ZPTeAuTPgslB5GisstTGtocA9tbzW_M3XMBZEWWXjkHtmRmP591vAjlMsyJP4unsuLkXb8cDe6cbJEhDOKYVVFBZb4DxD7vY89jhDGhRGFaUBPPcWJHevKPlMABWs2Dq2Zw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "1 Ijaiye Road, Ogba, Ijaiye Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.520113,
+                    "lng": 3.400821
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "73a68131e331321399c0f52e2b99c9e19c88cf69",
+            "name": "Lagoon Front",
+            "place_id": "ChIJY4VQat6MOxARiXAzFoj3SD8",
+            "reference": "CmRfAAAAHW2E0JMCYwsUG0qsQAeeRSO8LK20C4tTo-X3ECghXGFCzzNBkLCVYYiw2-zFucKuHXHqkgtbI9FogK3WYpNzzOepGS2g3HnqkjlkQs-JChZUdQaO8LIaxKXAIVFD0RJ3EhBtoN5NfVhW7-GaGdfzE6ZNGhQqLb-dvIICl0hjrbUSGpjTFRNIqw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "University of Lagos, Akoka Sapara Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.58968,
+                    "lng": 3.337161
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1a94b61a337ede70d5b0927113c9fd1f0b229f0f",
+            "name": "Eko o ni baje Garden",
+            "place_id": "ChIJ-9ufw4qROxARretNC_fZm-4",
+            "reference": "CnRoAAAAmfo_5ivGXZgrseuxReaedsFlo4OfreoA8POE97VEYt9ANy3de_Nqym4gXoUsJXFoE3ucrAWEvJd7ABNaXpWar5PmSB2iLvWOfTqBG06vqAEnaSM-5qT6jPpFllDVByJrboN6Y0m3irmea2HEn6fsShIQ5cJc1-3tatxTdMJcRHUM8BoUt5AV5QtpKnknnOJjETBVnSb3GtI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.517844,
+                    "lng": 3.38598
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d0c72b4b47519f5741970fce6ec244e3d20c7b64",
+            "name": "UBA UNILAG Park",
+            "place_id": "ChIJwx_MlvuMOxARg5J7a__Gvww",
+            "reference": "CnRiAAAATYy52wK7RD9AfRyHlDXEiveLiWII5k1cTkSipwzDC64khjqbI6fCqv6U0EBhcooSP9rXMQVAqisT74465DfhHWn_fcPEtzwdFAEvVmw8XvuS0DE5vvu9xwHSf6kXPNHqth83-F-bThUC4Vn0Hd5_ERIQxPP_RGJ1zf57vUPp8R8_nBoUwfNPvvod7aR6Kd6tCEe_5uCmc1w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Dan Fodio Boulevard, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.590201,
+                    "lng": 3.371634
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "32d9ae41aea53b8799dd9ad64ff39177e2aee04d",
+            "name": "Alfred Garden Estate",
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA819Jka9nYQFFZ7tXhYy9V8Y4l6sWaF2vHkJQXUWluV1LCI0J37bHIquzCXBxqWNc05ywapK0zeN-xhoFqEzwWT1oEfbAHi0ZCH6pWV-L5uK5eBpBYxRZQnNkcIcLMuwrU3UA1CL5J8akE3rNxn99lhIQhTa70KbuRev80DApYykUoBoUSk0x3pNc_50IeL4U6QHhdnJjfDw",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJLZIvqV2SOxARPBAkIrzWEhg",
+            "rating": 4.8,
+            "reference": "CnRnAAAA3rTDulx8m7qnI8YrBKzconC5kDIGSnxNaTcFlos6s2R064CBH83jQTpuoKUjTq9_Bpvpxd5pHgosPm8JtjgD5xADd0FPvdpVDljpZbjv_yToFYmim2PCDpQBACaRjely-i6t0lRFxfC-q9YZI5BATBIQW32OrXy1Fd7Qs6G1Q7wRYhoUqgl6nLcIyVbSAG3C3JttXC1q3sg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Kudirat Abiola Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.527378,
+                    "lng": 3.383955
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d4d6bbfe61114f460dd1a268daceae9fe0e3dfd9",
+            "name": "Ojo Square",
+            "place_id": "ChIJ78UFfAGNOxARKz7a-BdWktM",
+            "reference": "CmReAAAA4ndxFmAV5F9yWY8uysb5DLHX8Ai-VOSOgo4kdZnLd_GXFJulfVIJ3wh0ZF-qV69RtfVTt3VouQKVTP5XgTpOrUXcRPA2KytSoocdDf-aajrDXcSpanpLmtWPFUM6m4zjEhAPOt4UprcWn-Dl268hGjJIGhQc2lhseTe32K2mD4Ue8oL9uhV2ww",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Ayinke Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.507322,
+                    "lng": 3.363592
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c371fac74601ab86c39bbef8f0e60eee2a049d19",
+            "name": "Peace Park",
+            "place_id": "ChIJWxgHXUGMOxAR4qhJzP86IYg",
+            "reference": "CmReAAAAbmYGcmjA0b19a6F5iYbgrFsyjQZ0SaXLObvM5CfAdIMSXDuxxN-rl0EM3SS2fLZs2kD6sRe1C26UntEryABUJP437z_C2z1ytDTCfyokJhWlCZhNd9SMdNQrOn_EuV3NEhDGTiJL_lf5IZx_w_dhkneUGhRUoZhTdH8_-o37uoga7N_-ttr8LA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Funsho Williams Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518016,
+                    "lng": 3.39977
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6a6d3e59737d318b2dd3df86eccf7ae6d7052ddd",
+            "name": "Civil Relaxation Shed",
+            "place_id": "ChIJVYoV8d2MOxARgd6mJgzWS30",
+            "reference": "CnRoAAAAsU1hKbraT3sriOpO00vksfuQ5SYDRqoxQKJGrzh8n_H_Vfc8tt3W0_z9VPVE6THaPjryhV9LAIht8oAa4-PjWIDIcHPNAigIY_VOs5Vb7hnlj3lelN2vuYJDJH7VP2cI-TEVSYlSGuLSbpse061jrhIQk9dk5yPTDyjHEbBD4umnYRoUQej8PhAO--SrFOfbXO3-9DmW8vg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Sapara Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.571202,
+                    "lng": 3.298296
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/camping-71.png",
+            "id": "d705a42fcae20c75be6c75bd0db60002a62ba671",
+            "name": "Four Square Camp",
+            "place_id": "ChIJIYBTNyuQOxARP9XQz9Wo9P0",
+            "reference": "CnRkAAAAa3Fe--6bjV7qSa_aAkrBxNw4_oNnosKAc7csOLEB6orQs7HgKNHQlVm1pIrLy79Expgkd7XAcCLXvkT1ripziOhqyf3Rv0RJ9DSe80AnrhRYHZB7MkWbJghWheSS5pfmNoCDFKqJq6oca82NvgY4sxIQcbTHnlviqcgYKYOpsfxYvBoUYIK-q7h0_WTDc953ksOFGnVWXr4",
+            "scope": "GOOGLE",
+            "types": [
+                "campground",
+                "park",
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Ogunrombi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.51727,
+                    "lng": 3.385302
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "00ea110d07c9c0d43ff99bc2c8bb450083ee54c0",
+            "name": "Car Park",
+            "place_id": "ChIJ27jNxvuMOxARATdTUxbL1GY",
+            "reference": "CmRbAAAAzeUzWUPjh86nL1XBuVo18TaW_uAef2CoJOOL9WQ3xgOxAIocGvMF6PaySX7tDHR5nfN3pUjsQrQfb05NZhYsm66Xgive4HgQz6_RvTsHGXim1GzPr7yCKGjfRSWpVIbNEhAPkAfeCOoBCU1rnBRmOM2PGhSG3sOXREfBhYV9C1PiRpRy9J62-A",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "establishment"
+            ],
+            "vicinity": "Eyo Ita Crescent, Lagos"
+        }
+    ],
+    "status": "OK"
+}

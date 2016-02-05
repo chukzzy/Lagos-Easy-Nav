@@ -1,0 +1,431 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9AAAAD-DAB1GMmxt3J7bgm4yC2xGUo6sghrOOQr9cdDzyhntSlS8vT1tY-wBbH_gef_tl2Yw694kziprU3hqZlFJM-IUc6c4HtIff6VvUZFOyYf5L0imeojRFNnS7L__dOqW-l7jmq8qRvCSWIcm6uLWnJQfuSROhc_kFjkXIsl3Us-v6iApEBv2YlBnQt5nla-FN_CIeuQydQFG01LgWbfn2ttLIghCxjRKp6UaKvgUBy4TP_wRQgEM6XVy7zPflBI1HWtBYwHpZV5xXeNJTYjPnt7vW4MPrsFVFw5AfBPrPtpz4yW6JU6eN2T2zByO8_DMUsXwcnags2NNQaY-ctgZj94SEGlJtruIzrYTVJBlYZjWncIaFKP9fXJ70k8Ul8A5WYk3BJ48eHrL",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.456136,
+                    "lng": 3.38929
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "fd80e8138119b278a87f751e9d1df06ddba90995",
+            "name": "Central Mosque",
+            "place_id": "ChIJd99onw2LOxARzB-2GGhyse8",
+            "reference": "CnRiAAAA5gtjSFXRulJ582nkMDh-3uQrR4-6HwB0_cNJ51fbtw7xWGacoPihH5torxmM-QLOLHYlV_82bMuDtmkdaRKP2DpHC9BM7LeTbBCLGVZYiW8vhyVyK6m23nGzAO9V-3RkC-iTEzDv82VDP62_nKlKWBIQqdrEZ1ztXQxa7evonWaIZxoUBnyy165khyBKYCwL_YpFKZrtguI",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.591876,
+                    "lng": 3.305315
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "e0987b3c98fd588e3ab7913b9d0b0abf8676ccb7",
+            "name": "Shasha Central Mosque",
+            "place_id": "ChIJgdA98baROxAR4dqLJv8lSBA",
+            "reference": "CnRoAAAACRkPJ3woecS1qR9CkTdteOXHcg2IPYoHSa1EbLn6Tthca2wI4c5eE4HUig31kQlcRleR4s7fkAmBBEZg52sB0Pj3cDerVsrRmD7GD5fdNVtXdPlxzpUzGBu8eXmZjNYaMX49yFWVnHhuXOBxysY3shIQtyQ5iB65LovWDPyGz0hvIBoUCo0aIXgHQKHCzY9-OZ0gaTlqgoM",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488339,
+                    "lng": 3.361667
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "29dd4c46c5e0fb00c2e45946bc0fec94551196f8",
+            "name": "Iponri Housing Estate Mosque",
+            "place_id": "ChIJaXfKn3OMOxAR6SHzEC04ZLQ",
+            "reference": "CnRwAAAAhYQ3-3CUp6lpZDQufANs9jRpq8PQfjgT04agIUymM7K-XPLXrNFoQvyy-jrgZJnB7wEy6ebHJ2IRIUdW3Tl5fAqUE_qFnEIDPBsklV1Pf6pXN6fy5G6xfo4PryaEVUJTN60ZV9ksfJx0N43FM4bVLBIQ4LOiRuhLoYrEgfTqDP4fBxoUIfmdIZUnA8m-BAHolqLxqgKwLhg",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Bode Thomas Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455269,
+                    "lng": 3.287913
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "af30df60a9e75b333edefcd811c6a02a589c5363",
+            "name": "Kaosarat Mosque",
+            "place_id": "ChIJi-HXT--IOxARVo3he9qcVq0",
+            "reference": "CnRjAAAAwUXq7AaTmtOvEaGlOx45o8rY2yoaWLwBX8JL3VwsWwr6KgGiJHrTpznvVplhPbddfkmdktes_mWDAUelKaOVEYu9fUkYw8x-incqDlQUIkazuehTYxqi8wenk9F5A67jXYzrNtjHLhIFpCVTOWfxohIQhQdlb9-PyPwQvC3yKo23XRoUHx9U6BpFoxXU4zmRQqMEeUlgF2g",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Oremeji Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.457793,
+                    "lng": 3.286889
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "1df014834dfd288b97918c998818c65da87710e9",
+            "name": "Ifelodun Central Mosque",
+            "place_id": "ChIJ3XPX8eiIOxAR3E2k_0_ezks",
+            "reference": "CnRqAAAABBW4csdGihQPNwqsXtBFH65Or-_E7i9jjFOF9_KCM9I3V-15u8oL8HA6rvaIIQAGywkPiy-8Z3K-wAJvtL3mF4b4p9l2lkKKBxO0FZRa2zmRZKnUrPeaTO6mAbW76VyMHkW7HuB1AhUoHbdxgvQ1hhIQdt8y8PvhK3qU-THrhwMGSBoUsDbwRqnmhXR2AWaTuBnyD5Fzb0o",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Bale Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.576839,
+                    "lng": 3.34288
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "5686775a98aa254b3480625a551bddc914b9f14c",
+            "name": "Shogunle Central Mosque",
+            "place_id": "ChIJgXE8QQOSOxARNecY9UNarQ8",
+            "reference": "CnRqAAAAVhJcg_JArkqbYu_S3AZme15HAuaC47QPUKuL27FqKmcLHgcGT1udnP4XMaEBR8_BCwmdvGRVi4S80aJ1lDXObWs-Awyp__6EEF1rpsZ2DsQEw6ydfD83Fc92m7q73LMCqVCRnaYSZBOx6UB3uGTQKBIQmrLHCCPFXeFGl4rocgVg6RoUj6NeO7Tjabec-WeK3Vulyg26QbY",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.573151,
+                    "lng": 3.283479
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "afce8a3e0ffb59da21341aca2db89db34acd6eb0",
+            "name": "Idimu Central Mosque",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJDairryaQOxARocBLWP6y2DE",
+            "reference": "CnRnAAAA6RAekMjCCUklLiXAuQV0qYUKznJ9m24NCHX3VJcvX9ie6dAiGE9UjutKQlHviz7_D68Yi1z6bCKxPPUZRXonMuSEYgYGVxpbnxJ8lHvWd8JE23CpKwqsGhZJMjBlfgsDAMmK_K3g0JLyqafi7Ea9OBIQuKn03mxNInbLz9ZZjMQighoUHetcDKdikJIvi5FLEQ2Aq3xLub0",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Idimu Bus Stop, Ikotun - Idimu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593868,
+                    "lng": 3.298135
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "8220daa85f723105fd5011c9b3873c1460aeab4f",
+            "name": "Central Mosque Ajisebi",
+            "place_id": "ChIJ-yDUVkuQOxARCq4RNf7tzDU",
+            "reference": "CnRpAAAAToI8niDNZgAGmZh1PK9yCMWmtYElJmINjr1z_JojEU_-RCJRg8qgcegv0U9ysIZLJgfO3mYbyGippCr4OVqPBEhXOfHGYdZcNO6boq3seh2b0ftb9nbTPU-45gDOqEe5sZmn5lTSLT6-UMSWKzINZRIQc_xk35AyffbkaDwyKiFETBoUdo0WsHfREYrmcNUMR6xCmQhando",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Ifeloju Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45023,
+                    "lng": 3.267747
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "ff0af7cd3ce52ae37180de08168354408f926aa2",
+            "name": "Satellite Town Community Mosque",
+            "place_id": "ChIJibzlTYWIOxARPpRndyTK2w4",
+            "reference": "CoQBcgAAACVmPn4ZaCQBla1bn93ST8OK-DKqu2LBABLrx5A4zLQAxu53rBtBwSaB6iQPHo6iTu13PvkR5DU8oJh9ABC43_eyVs2Z1MOu49VB0JSSlIrg8UgV60ADCBtZcLgeRpASho3eC6tdNhF5xjSaso0kW3KPfgXsM3-0Jce9kZHQKblgEhCuM5L3EcWDUbi_Zm83gLEaGhTmLV8rGVSLbd1IPhALaown9XwrZQ",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Assembly Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444802,
+                    "lng": 3.41785
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "c7f977c8598068893c619e06c8a509ef46674df8",
+            "name": "Syrian Mosque",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAlAXjj0n5uc2wvOmyyo8ytM6ZFHP8aMKp7CVYFsWMnshqrSpIEnVNlEBQqUxMH7Zo2kbf2fqC1hDKYBXHWNaiQrByseEeuf72htPItxdm7lvm560aHI8cM3u4oJ8TcUShyvKzibEiYFL_Ax9_e-ABJBIQIw5D-_9FTqnWI6B99FzX3hoUylMSIT8Mc6kru3jGaspjv0_FSl4",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJw9AQmyyLOxARPFcxTaTqu48",
+            "reference": "CnRhAAAAjC_oCcU13xZY7VqQ-UJN9m_UO4xso_oS4u2w8VM7nJnfYiTwtqVE95wgysiRc4TlDeicCNY4R9tpR5N6YPkeGsV9EWop5GlOsA8ALblh4K_j0_RINy0imujIK4v_GvSlfEwPtfad9sx-OZ0EVSlj2hIQWwUDgPzMa9NnqllGhe0pihoUAlIN0NVKFXSReGGm6VGHd3ZHB1U",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "13 Ribadu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438538,
+                    "lng": 3.475
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "29a1f2dfd9bd977bb1ebf1bb70a74c2da070c037",
+            "name": "Lekki Central Mosque",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA3yDXHdDWj0zgT3mK_S5IY4xj_V1QVGlWEy72sOphlSo-yAmi6opUpLp_g770btzwluQ4oDJV0iyYF8AaFMyuzZDORDdXWj-5KF-OiJ3SfIWTDLhs2i67IrxBBtvzNFEAJevPNaDPNKIMxnQuEYvskhIQScr9qj1vKe_J34lQGpmuShoUdG-SQKwtQvkqpc8Qpwn3fq6cGKI",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJWRY4VbP1OxARZDCvbcd9-Rs",
+            "reference": "CnRnAAAAn54An_JojrSdiY80k6_fX49DFKvSq52wJf0oLpCWY_G-4h5x_0x3t2nyaOkR1xFxyFC25jArdr4rQZ_Zlw01gUPxqv_pEfrYgwmxOcPWt4X9wYFolElYP7UBZVv6920rzI7IpVtkumM9XAd0gn8F5RIQ7mSpg5RZtStaIH4ECRwwTBoUzwPttBbiHne52k8DrWubaDu_IjY",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Mohammed Marwa Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.530591,
+                    "lng": 3.343229
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "6236b3297512bafce04ed2001c0cbee28597a8b7",
+            "name": "Ogo Oluwa Central Mosque",
+            "place_id": "ChIJSaG0utaNOxARM3jLuHS2Yq0",
+            "reference": "CnRsAAAA9vKv7xZyNUazJ19fCoUcIV8Ay0vfeoCRlIsdDQzMmSTXzNv6h1_sH4qgE7cLI6a9EsJA74AsN5eK2Sot-mLRyimzLg1PbDFYzYjkq2H8bd3Ntn2k7FwBiGrtGRET8Xwri0Yb3fEWY5AxksgQJACI3hIQYmUtaKHjbSGTd33HLJAI-BoUJeOz6YAxUD2oIB6DHwYzpXxk6OI",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Isolo Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.618038,
+                    "lng": 3.357263
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "96c6be11758651ba223f079d73c2da6d97d4e08e",
+            "name": "Lagos State Secretariat Mosque",
+            "place_id": "ChIJGwC5TciTOxARuiunzbQt0kg",
+            "reference": "CoQBcQAAALLlWHGc4o9HTvfr7GPlilU9lw2-LGqtoIMfsgtVSYe1_CV3ZPFLG-KJpIBtZ64r1BuoN1D6rs5U-JPhWAmcXra2a_7GNn-DRj7u2ix89kWqUrAJwsIN1fQ0IwL7W9I-dIMCD0HaYoF1jvnkvbf0B4rPAUtx0MH4LcqSaRV90RGaEhD2BxJkTxpNZU2HljTsWPY5GhQbnjrhTg9TgkYy0xBWOAy6UsJ_Xw",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598333,
+                    "lng": 3.346563
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "a3201ebe6e6fedeff1bc4c4073fade945cf97eed",
+            "name": "Rahmat Islamiyya Association Of Nigeria",
+            "place_id": "ChIJG-5PdiWSOxARfdbSIRK11k4",
+            "reference": "CoQBegAAAHrCa2JhNQieWNR8oh2jhGVlFltIwpGIbFVlWUCIcw-tbpZVaMpj2fdMcYP0niRfzHw0iLdqoyXLemvWDV6lDeRQ2h8KP6uEDfX2aBiNOnOEVG2gPyR4n_41vKLOOum7tV4KJMMGsHbocQ3hFECcNFau-MT2jUXPQ1Rz0Px0sZLrEhDP8ETlsSz6MVrbj4qh18HiGhQdEpSywOM-oDwE71JRdwz2_whLlw",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598022,
+                    "lng": 3.34715
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "3e9c1216387607d56c6e048183fbe406191e5c1e",
+            "name": "Rahmat Islamiya Association Of Nigeria",
+            "place_id": "ChIJQeR0bSWSOxARisAzoT2Z5yI",
+            "reference": "CoQBeQAAAMwk2bALmkBM1kGd-66fLBLvtdP_JSgFRMm5ArID0OxWzoinvKc7-HB7WFLeFuO9v7ng4reab1nwgcTzQmG232VV_jmd15R_GCRzXIiAsmmiQ3G1LK2gq2KUWT9ZEYCf70SyH2rbveyxee7OEz9nwZOhkwU0FkomHTAFm8BMPPSKEhA8HX_uGUyltAAtyP_rVmILGhQsvZ-W7N-K7wjOE1lRX-AedR3rMw",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Off unity Road, 3 Muslim Ave, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598581,
+                    "lng": 3.346397
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "de319685e6a82dac29cee8080badbc29bc8e7f45",
+            "name": "Rahmat Islamiyya Association Of Nigeria",
+            "place_id": "ChIJl3i6giWSOxARarLIRJNIreo",
+            "reference": "CoQBewAAAC95BdGw34h6LaiDvjY8YWdltIXA3-O6b8yFjzZ80BfriKS_J4PuA3_mb699xAR4c1k7VJicOjAxLrqcZORU2x89eqnOEOMkztX1GIaw9znBFWrrt3C0Am8xOugSrUYyAxGUl1y9ClyeQBL4oEdTCjDe3BBRDPzIKGPwoLdB_vE-EhBftpXksLKnWLDd2U9gsFKrGhTAPtUjxGfiY8ODpvPLFaYcJqMfFQ",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Off Unity Road, 3 Muslim Ave, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597742,
+                    "lng": 3.347131
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "a35b21eef83134e73e59ab9c6df90e8675d8e182",
+            "name": "Rahmat Islamiyya Association Of Nigeria",
+            "place_id": "ChIJ4yOOEiWSOxAREnpwh-PKl-8",
+            "reference": "CoQBewAAAFJhihu-KK6nGedAgNWoMNFTHNt6Xinc0dZVyEgJ23a8uFvPA9lqmuYKc3-i4i_hncTr02Z1sLbQz7rPAf5TA_nVVMthI9yhrw6eEyDB05Yzg4wts_ZfBSAi-QaBGaGWAVuY39PuXfO9m8UrYxYvG9NX7M47RZCifZDZ4iFyjtHaEhCu9YitHJy69KLE9Gyvh6bgGhTT2tBO1rO2y7DvYPQSABuTP9Vjug",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Off Unity Street, 3 Muslim Ave, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.463844,
+                    "lng": 3.312362
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "1f71cb0b6bc89d949d1bb4b423037d9a90ad4c22",
+            "name": "Central Mosque",
+            "place_id": "ChIJc8NANzyJOxARuXTnP-8zZEI",
+            "reference": "CnRhAAAAtB_CqAN6hrJoq0IDiiSHufVp5iKNnaLREgTaQu-eieqyKayLzpfSbKKdq2A1dPsgxSohKvIprGAp5QaJ5qi5z3GZ2EsgBjkAZ-RWFjrLk6CtfpDOsoFzsQjH8HnHd0atpKC0WPyy75htZmSupKmIIBIQJp72oL_xQCIensWsNbtI7RoUET-rYuFamvfzr61EQ5KiPknUrUI",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.457367,
+                    "lng": 3.38795
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "665f923c0aaae84c62d49165d00a0447ab4b0b02",
+            "name": "Central Mosque",
+            "place_id": "ChIJd99onw2LOxARzTZq1z6oVSw",
+            "reference": "CnRhAAAAftE4X197102c-oMiuGE9JFhH9OEClhi9CmSHunMESBtqdy4qOo7_37Xbdy2_X6-Tj5J3gbptuKaeH9qfFEmxsLSN0x-r8Rjmlc789sVYPlH2LMXPiUnko_5dDfEy6qMe9UFTt7aVEPYMxMygcijiZRIQTZSCKjpUgynRPgN3pCVRbBoU1BAlDJmgn9nHy-09sZAsXng7WSo",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Folawiyo St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454359,
+                    "lng": 3.35768
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+            "id": "1edf8d946d42909719f30fc7ab4ac32c1dc993f6",
+            "name": "Central Mosque",
+            "place_id": "ChIJORfPOMeLOxAR7GOWOYUKJNQ",
+            "reference": "CnRiAAAA-Cq1740BAchXCqIxcrM6vKwvDBzMz4amyix54ibMFxUeQ_LXT5uOWjIqPTXjfwASc7gLh4Bu8-92MCR2SqtX0LCmZdTrKeeWXpl8Lbzx-iMmi5ryDxqaiyEHjTSqgF6fhW0xiMes1YguvXNg81YYRhIQ-DGzLhLlD_cuE-HgsCoywRoUNXFn98v-m4M6Z-EqdZ9P0PYTx9s",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "place_of_worship",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        }
+    ],
+    "status": "OK"
+}

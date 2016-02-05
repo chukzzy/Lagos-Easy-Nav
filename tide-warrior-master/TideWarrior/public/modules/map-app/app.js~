@@ -1,0 +1,7 @@
+/* Same idea as the main app
+ * Just a way to organize the files so
+ * it is more modular
+ */
+var app = angular.module('mapApp', []);
+
+angular.module('com.htmlxprs.autocomplete',['com.htmlxprs.autocomplete.directives','com.htmlxprs.autocomplete.controllers']);

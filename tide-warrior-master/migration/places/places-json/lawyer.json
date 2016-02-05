@@ -1,0 +1,484 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9AAAADUckBzzu8HxfNGWCCP8anY7txAWIdiGsJupHcseXBU444PCfijfFeOpr0s6q9INBj3Zx8gAlYdIcJ1pg7civ1rKuU8WYeBm4zgs8w_3RInwz2_mJjjmoTqZsInkKEO-bTh878UTWdVYb13wF_1mnqPE0AY2bYukI4FbX4iXdwROkpqUF38Pw-gvuoANSwGJgabuLqrIaJv_Cnno-xOQzdCdMm7rAgG-r8OsX5Y1QOPMlmXCblVtIyRzqf68tTkTmCKC1KH66toQ2HruzXCAK-R8Gd0Oo6fPYZ-ZbGLJSz-XMn9Nd4vqgzdEqBj2lsVeapWT_U9veULf9t8hVWv8OA0SEHwzwbFxjSEbWjx3aM2dtzsaFBj3B26OmbIhROPz36LUmivbv1H3",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447938,
+                    "lng": 3.471551
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ff180b161ae74fd993a6bc1259a54bd87dcbf2ad",
+            "name": "Platform Attorneys",
+            "place_id": "ChIJl-PzlU_0OxARW1Caqov2TNA",
+            "reference": "CnRmAAAACIGtgdxQQvwEuuibdBp4kUV0qpaxkRV_trn0XVVFT_KQu60p8rrZ0PudZTfd_fN6iYiO8WVTCraYYEAucXBYw9Bo0Wq3yfp8zKqJhc-nzGOZeYC_-dUqnnyTywUDR_6ek7LLW3XpIJNcrU7d9M0lfRIQIGPUb4yS52_qzcOYASv2ExoUvEMRIeltluQL2t-cXZ0YvXJwPF4",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Admiralty Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.437299,
+                    "lng": 3.427847
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "79969789bc79ffd40966ba1a785d2859b2f704f8",
+            "name": "Afri-Juris (Legal Consultants)",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJy3kGRij1OxARCl0N9cRk_HM",
+            "reference": "CoQBcQAAALluEWmOYCfFlVDSDqGMWvBotU8VxaGscf6Sco-69MfAiT9F6nENOUIzQs_jonzB-RRgFuPdhuJRfkdpk5uFVyJIP1y3ISWYdkpb8UP6X0u3FcVd3ICcTLBvZSMfvf8IFDLLM3w4CK1qf8yq72Ida9F3epoQOOOjVXkNAVdk5QU9EhBquvZcJ9sNI3-mmOpKtxBOGhQADBTnObW24s5kqwp7dJfQGeQHtQ",
+            "scope": "GOOGLE",
+            "types": [
+                "accounting",
+                "finance",
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Ahmed Onibudo, Eti-Osa, Lagos, 17 Ahmed Onibudo Street, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43723,
+                    "lng": 3.42771
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8663a1efe8f1d7a00776a649d1d1f13a0bdd9f20",
+            "name": "Babalakin and Co",
+            "place_id": "ChIJx3BNTyj1OxARmOgXe0hblUU",
+            "reference": "CnRjAAAA6e4KmFEzKGaPts1MnLqwAOClUmGgr_ByYiIyw5Ce9wMTJUkHXt6cYywJo_BJkBj_rHX-2Wg7xJiwWKr40lOGPnorq7PKEEvnJ1m2yx5gR-pFh_9cS6kxb5x-Xq2bcjsLn-k65oWuamU3C-mJ3eCE0BIQP2ntXTpJFTtuEnPPZiVgBBoUmTmA1wcDwaEnIpAOSH04Vb6UDZk",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "9th 12th Floor, 43A, Afribank Street, VICTORIA ISLAND, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.582833,
+                    "lng": 3.358905
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "b265ddaf26a1497d54a01c6ebac6428039fb0659",
+            "name": "ENNYDANIELS GROUP LIMITED",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 369,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAjL7H1UPA-RYhvaRLO4nGd42fztqAQb4B7pJMtKsimp5P84YAox9aVrE0_VfySgacj3cCdLjEwnojY4tHB48ejMcnp9qwyFVLXG8JBb4rFKLdbfJVbLEtCs74oOEGNIIr43wyKzVkrbfdHzpFjMNnVBIQBtAl3lymTKSsBGPTFpn8mhoUUWkraxJoy-g-9FFwTX6CfbDGFYs",
+                    "width": 372
+                }
+            ],
+            "place_id": "ChIJHSDSDBWSOxARcdf-BIpoej0",
+            "reference": "CnRsAAAAgDsseRNhVI-5E85euPpKD15BFk6YD8PlovBCddtuGLraXNYIrc0jxjbWeTLYC-dJVwdwc8XTqH2mclF-ccxxKrhdhD4XgQ6qqZ3xT9vTEsFzGR8d4d1UpMiykAroGBW4te38l4Wp7G2bLgpORlcsrxIQh_ve2rTgYk-F5jQan67zQhoUUqqVTAFEW9heeeEgymWEjoC7NpU",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "insurance_agency",
+                "lawyer",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Mobolaji Bank Anthony Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.603245,
+                    "lng": 3.351449
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "546c30de67a81b9cbfee57ae60ae95ddbf55d2e4",
+            "name": "Pukka Logistics & Support Services Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1345,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA1lEUOl0sl18pKoQsKpEerx1CIU7Wo1kOrS12R2wB4S4mApoNAEVF6_HaCPZFtfdu81DxacJ0aoELSCQEA_4o47MW63ADGBaeYGTRJ93RAjSOGausWAdMAkFgrfM4e6oKSqXQzx_S-CND0BNxmC5b2xIQ4gy7tBwTXkzGMMB8y2MXpRoUQ2IzcUd6NFVV4x9m66wcH401_LQ",
+                    "width": 1400
+                }
+            ],
+            "place_id": "ChIJTd55PkeSOxARX9KQR1SvJMU",
+            "reference": "CoQBfgAAANGnfK6YijDll2myTTyUAz1lJHIWXUSyF7DDFio2JKSIL3UJzPnZVUn-ufSmgj10jp8fcJ7SPDgtadtriGvt3LS17afYNe3Rbt5afWLG7Uc_9hWQPbzjaprobib9TCZANh2SVApUdMBaEcwMkaD5zSzG2SKRICQ8QxGAGR0HwITXEhBW5pHSoecI8P7tS5A24mTMGhQKCK7NuQ5XTD_4njEwOaujqT-FVg",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "71 Allen Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449886,
+                    "lng": 3.402755
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d32b054dbd423e229ea41f33aa674708c73dc254",
+            "name": "Inner Temple Chambers",
+            "place_id": "ChIJD15ezDyLOxARkMbqhWLHwP8",
+            "reference": "CnRpAAAAuOOeQbe33E4U-Ufi7GWN_wwrUzUpEBjc-yyJzcY6N4gn-tBdH06-al_5bcUMgqJkmCVAgwYrITF35cW1PzABLzQ_qSN1oGgSQowwO6vYlA7iZhZ3Jk1wPsmn7jx6mqNCHl2mHZ3z8MofGLPDhL9yYRIQJc00J2T6gcfWW5C0N7cftBoUoUh13DG5iEIC2xG5NdSAibZp564",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "207, Igbosere Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.524785,
+                    "lng": 3.370673
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6491ca4e90f54c7f110e7c476fd27e0a25cc5c56",
+            "name": "A. Olaoye & Co",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ9T2pNq2NOxARsaDzpKxvyeI",
+            "reference": "CnRiAAAAbI22gA5-bcxep2z3kv880WYsyy1HJIfMyGbULL9y3IJs8fjp3HnfBpdvb6iyXHHVZf7Zsck9GxkqtJG6-p5ESA336S-VGZnnGepDsK4FQt_y9YHRAK_sMUxx3IXQYy9THXMvu9sbHPT2iMeqMaZGlhIQgBzhhdNujoIvkOzVYyntlxoUEtqKSTcriOHTwjZXwLO9goufjQk",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "46 Akinsoji Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.56768,
+                    "lng": 3.36703
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1c5d8eb01e4d34abf4213b442e29e651ea112f89",
+            "name": "Southwest Pacific Solicitors",
+            "place_id": "ChIJO0PG0XeSOxARkmIHlsp5LQM",
+            "reference": "CnRvAAAALS2xbcnIJ3DLlvv9vWm0UyMmUS28KCJmq4UZVG9Fscb_toRmDFCpRiXuxoJ2xxAf-thDQYVLUtYETxxj9zxHw6OS63SWO6gjezKc3CSGAZ8522lkOzonyrmNe_QZn1Dzn_LdKTHkpeDMJEya5ZK8ChIQRwzKUriX_fjdOojQpkhD-xoUOj-DDIile24Scn-7xW_umlzorNo",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Suite BA, 13A, Maryland Business Plaza, 350-360, Ikorodu Road, Maryland, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.58773,
+                    "lng": 3.351
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "id": "b91c2eff7515eb0056ae897e97a38b5e386e2665",
+            "name": "ENNYDANIELS GROUP LIMITED",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 369,
+                    "html_attributions": [],
+                    "photo_reference": "CnRrAAAAPmdISyalgI8nw5ErpKPwNlqMg35llEgfJLWNzoOgarPHmVO2N_7WavFHvMKK7Ldx3HOCJlURwZGJvncOc3oFA_2SaYFGDySq5Gcux_esYS7Z5rF0ZZAz9g7jMT3pHh9h0XrxL98kwWio0Gr34odwmRIQz1OZQELCrAuyYu_17jfEEBoUWY9VUyNaBFN9YOkYPbpiob6zrFk",
+                    "width": 370
+                }
+            ],
+            "place_id": "ChIJFUuyzxeSOxARYkvPnd2RPfM",
+            "reference": "CnRtAAAAlTY1HBPCCcpns5BmXzQT5j0tBrZ-0UqbHAJYVTmYn_aKatCq4krzKdQ4WbR0UdOWajkWc8bDe3XMHbK4_hWTX_Ydc7kWVYVyi0lAX9zz2llYIpBWHS6tHs3jBHytbJG_kzcz5jNxSmg3h2tBstZD7xIQWhhdLCS7B4jnmazUzjGwfBoU3d9cs51LBV4DF3PtT8qTPjVN1Ok",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "insurance_agency",
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Harold Shodipo Crescent, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.493709,
+                    "lng": 3.34478
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "72b7a5a50018566c5176dff12eb2590d3a469127",
+            "name": "FERGUSON & FERGUSON ASSOCIATES",
+            "place_id": "ChIJMX9gRBuMOxARW0t2geTAY7E",
+            "reference": "CoQBcgAAAHnDgb4YZ_kfQUFgqyu4T8Zx6d7m4EJkBiS08z_VXw0kRIOy3QOjWp4vbGq6I63qFexZdJMBGFIRYbPpUchXFLq1o3XrYyA_wXSRfqWFgCU0KkBeaNizNboXNoUKFo0ogUBrlCalZFAW50ct9Jee_Tfv2nfgmHCiS9YAoAABUAqCEhCvqMpERHY3YbuJLt8BDZpUGhTQxEtpB1TC6p2yVZvqFAilUZbssw",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "1 Aiyetoro Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44669,
+                    "lng": 3.40988
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d730d8f48a4fe72bc1d65ac48c714c07b058b2ff",
+            "name": "Chapitre LLP Solicitors and Advocates",
+            "place_id": "ChIJNxFkeS-LOxARjhTkFOALDMg",
+            "reference": "CoQBeQAAAP0CoHViaLDoHh7GidCpA9tThq0AOoLP_lBFNyNFwUgJj1Wten7I78-JUyag4rpx_fiErPhAnAiQ2MANiDsPdJ-FvPfk1pbRRwXQmQHz4AwxyemDLM3zHUs4cNnZWRLpmaMGWx2Lpokd0BTnMweTwpd2cBfGBXTjzj4ZSaCJh7KSEhBaMvW6abks5w4rb0lJUxRoGhQJkl-s56Gpe4P6PN3bU1gHdcHd3w",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "110B, Eti-Osa Street, Dolphin Estate, Ikoyi, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447879,
+                    "lng": 3.397898
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e7e566c65fd0a39ca21aa734b8ae9f24f94bfb65",
+            "name": "Loken Law Office",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAHwDNn2yrInvSsqAOZbHcsaJ9w-GWdCwVp7S1q7m_rhTL6AI3H_YjCqhCUOuRGc9UY5CDohurW7sjCjh44vMhoZKzrTbqF_i2mZuIOa23nNIcSAqISRStN-UFWCX3ZnSAn9IBbmspt8l_qLFkuDb_2QPMMZ8S5cjnqKI64H7com9EhAxhMfSAT9O17qPH03oDVpGGhQT7FmJjGBquiGu3BpcJFJq64-ZxA",
+                    "width": 1238
+                }
+            ],
+            "place_id": "ChIJOYIOQxiLOxARyrf6M6ZiVwY",
+            "reference": "CnRjAAAAVzAgbZ4oFIdRPthL0vY5rfr_nUjfkg-uGJPsr4FCnuD57k2Bxq0Smd4bfnUkhoUiCXQsDmVzG2-o8aF8kGMyE3fzbg8gcd2tFjUMuAUyvPpVPZVvAxW1q3ATRxnPIfgqg83pyfLCl0pgsoI-4FV1_BIQ0d4oxrq9mBy_NjQg2mmhixoUYOTb8bgtL8rZ19fpxiBx4ZydZF8",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Western House, Broad Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.437778,
+                    "lng": 3.45631
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "acaf9139ab1cd08305c16a1bc05b8f8c978a72c5",
+            "name": "Dornim Solicitors and Legal Consultants",
+            "place_id": "ChIJu2t1wgH1OxARIMfwrULpFVA",
+            "reference": "CoQBegAAAFLsq_6SMOvnzdu4w2HJLXOxsnR1Tq5C3vMwHeTIZ3dfhm1Wizfi2lNczyDSA18dkEztiM6UJkMPzt-0EpdNav4x6_8PwQSyBzmW1pNy5zwlbuadn8gjeiqopNyypGi-7KUqCags72BQHpeHqzmHJzFdpF9pt9lpBt2bBXNh9a9hEhADwJvA5qnEd-QMuGG20PRPGhTHtSB-YflUSJIiG3AqoBOS-XC_qQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Admiralty Way (S)"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.588056,
+                    "lng": 3.383092
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ef1555e393e0b457c55049f1bb67fd943589b9e3",
+            "name": "DF Solicitors",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJbx1HSouSOxARB_ioVbA9MSA",
+            "reference": "CmRgAAAA_OHWPmZhkkDYt9kKwE6kIQ-teL0U-xltY1u7_Dgw9VBWMmy8RtCoT6vP0UoS2I_XS7OhstaU_37UOrgoXWQiis_F42rYB6QfYdJAXxL4H87BYI-BBXk7s8QrBAD_ZIYLEhDX9uju0U8A1ksAsZKM7Qi5GhTkncmJ7b5ET9t1Q2GEymvmuBqsUg",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 7, Block B, Binukomu Ultra Modern Market, Ogudu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596858,
+                    "lng": 3.340202
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "fe4eeeaf327a681c4d075a2034bf72278bb35dbe",
+            "name": "Olu'babalola Law Firm",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJG-fuoSeSOxARy_e2XrXsa0Q",
+            "reference": "CnRoAAAAL0KA6uOB7IqejJ9z8jiZEFlOyniJYA5Du5o11pObBjVzM_vMpo9zCpOEc1EZpdzAC7DMa8aWSdZ-rgiZqHfblLPjWu4mWGJHUIaWAJ5NhJy4Y8HFIIdnupj-6whR2dPRGh0Ls2b91h0oPA9wdpM_vhIQNUdSx7lUiGVGrK8EfpvP1BoUBLDOwoq4N_WnKL4bvX-YQoRyKiM",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "29/31 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597653,
+                    "lng": 3.344768
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8c3d064e1071bbbccc4c91444bd5a2cb804dce85",
+            "name": "Global Alternative Asham Investment Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ9Xq8wyWSOxARB_c4cYoXD4M",
+            "reference": "CoQBewAAABKyyC_HmVXmrzdehUoivy0y4L500UA4Sy-j2cGtgi5M_eFx5r3lI5_57_4KAs2zf3DdPyql2rWUKJqCFLva8u3SjUbQWsFjs5S2H1nxmKFfRlxj9EUrRV_ARDpSJAFRtY-DsmiyWy-CXr1OZ5w9-arZfcvGS8e2rlFIfcxhU-hMEhB6kXyK_j8QekT4w_5j-JU_GhS-sIL-RFd5-y0FOAQXpS8WEkgitw",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "19 Seidu Ajibowu Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446597,
+                    "lng": 3.400596
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "538d713b71fc0169f02fd8db28d094314cd13d58",
+            "name": "Vyna Mma Agbagha & Co",
+            "place_id": "ChIJaXVwZyKLOxAR-_WNaTI6Joo",
+            "reference": "CnRpAAAACDEoHsBUGR8FuVvjbqtEqq-poEThsIxkJXf5Z4r38_vSxBFNs7qa48mKGJYtfHnmxdDHpz73HxA249oLh9Rg1DAMAOUvYbd1Fdqz0R8RvpXegyuFterWG9MELa16NDOPP6Xm4urZVdBHeq3KSq-ehxIQmJpcL7uqJx4QGZLlNf_wAhoUfoGrBmscToZgX5BJS1l3C6cT4vs",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "TBS, 2nd Floor, WW 22 Tafawa Balewa Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.586787,
+                    "lng": 3.381167
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "138f9073db93c75911d65ae0b3f09c4fd51e1974",
+            "name": "Mercy And Grace Law Firm",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJcXo25oqSOxAR1fHjMZoInZY",
+            "reference": "CnRsAAAAauhzAop6JFcyQFpuZAqBRbhYNG3A04rKNmQObL-c_aWCTFfRy12Y7T4_ijl2-jIRD8FVNX16LM9LqH2Gy4aaFY932-BA6J_VRhi1V0faZy3DzskyOSnjKcNx_lQNX8LX8FwCkimukJaURj4EE09ZABIQtxlr_XOXq6i-p2IuBW6ZpxoUfarffe-LGNxCI__r_FZQJBEXU8w",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Ikeja, Gbadebo St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.640168,
+                    "lng": 3.33498
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9b110d794f702d36c3aed2dd0a7d8f03e31b9f3f",
+            "name": "Law Office",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJsz9allmROxARjfGEr-m3m9k",
+            "reference": "CmReAAAANBZ6XeEeCIHHRqoezPX89mEFA1j-Rdo5TOJKWEY3d3Wf1gZB5_Yz80NsZ45LVY48_wyprAzBq_WhdLlOdqheYY3GHrD80r-HS7XWdPkNJ2ZAzyjbAJNMeRyXsyo8G4KJEhCyQTmDudkyAPq9N2w4ooD5GhThINi0MC4RwdRzsf6AUIkML0JFXA",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Amoo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596507,
+                    "lng": 3.341556
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ba42cd951b65261eafb1e15f7960db21b0256567",
+            "name": "Kemisola Oyetayo & Co",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdAAAAL_bF4RBkTRvgkdDSXYswNw7ymLtwpq_LaN46zBTNz_Y-5c8-RyWDjxFAz_D09XL54DJCK4KPAb4MML36L3TR-7ikQJlQNPty-yI143uq3INdbUsY-x76J9bmMKu2lEfG9vmxAWpyh-pcM3n39OnSRoSc4Gbt_Jh_mR4sx5RJTnuEhCH6n1a9o-emSyndSQsqqwQGhTvmRtX1wScUGyGf75-jN0eUZnqsQ",
+                    "width": 1203
+                }
+            ],
+            "place_id": "ChIJeYWe_yaSOxARCuYs-_GwZ8E",
+            "reference": "CnRpAAAAixcofpE_7thAfp6gUVzoc_cdAgfsmVxRMC4fyAK9xRXXSyMyHu4_TYjfS9rbhq6WWpTCaY-iq7I_znndCKtWSnBsc960kbuhTEj-XzW94-KxnhIL8clkiIA4-iO3gmAiZTTvUqHw2ptxZloVaffNXhIQXrsZB2mRHg-YG4wbxtxpIRoUtd19v8k8rKtG8YbKF1RzfoS-bAI",
+            "scope": "GOOGLE",
+            "types": [
+                "lawyer",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        }
+    ],
+    "status": "OK"
+}

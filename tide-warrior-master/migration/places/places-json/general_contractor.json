@@ -1,0 +1,488 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQCAAEAAPnvTRpumdUr9ZWlhWxb5VKZYjxF6XRvltTtBdNVCOJ3KgSoF2mQKagxIJ1yJU0RyDTVLEDBHrkij1LOheH75aQhiM_CVMOJzT7cWVBsM-RmTtVikBjneJ6048jjCRSoVl_idX0BazJUsa7VQlY1d-JUitTnT1fyPvFDgslQm5nUjTTbChwDZuqdMvhGWEi8AfqrKVZz4B3-oWbiS9AMo09WP3zXY2qDhO-bszaGQcEPk-kQmtYEB2QvnehrZqq9wyKMQOIN3hfpROZoh7JL6fTWfkEG3hxOqzsQdedEhPtLokcgaqrPOpcJQcKOtn9njS3MQrUYzrNOqVopq1HkcTUSEOB3sVjhSot9QoXfuOeDC_caFKzQ05ZSN9lw7uZMf5YrhECNm-JM",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.528619,
+                    "lng": 3.37608
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2acf3a7180e03ab1441190e29defa8e4b491cc90",
+            "name": "Ena Global Nig Ltd",
+            "place_id": "ChIJE8GbyKuNOxARITCnJJ9zdZw",
+            "reference": "CnRmAAAA8ZsNZJ2XwH9wl1TZztsz7Roaf_50tER4k0nj3c7aSHSY1uXDiuKqXPlirgW0WpLOtzwBs686-8jT5sPhRhIH1mPyMyIsaarzrUgUH71mUVksORLmzVetK-KE52YseQPRFYsG80YB9USemQDIeAZ3QBIQgzsfDo1w-hN5KMSDaR_CMRoU7lM2SE0nL_0LEGV48MPfNONkHHE",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 20, Ebunoluwa Street, Off Adeshin Bus Stop, Bajulaye Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.664916,
+                    "lng": 3.310213
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7e21bd1f5d0a33dd6de97549eb9db0ac267579fa",
+            "name": "Zurich Gates Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJJeCFFMWWOxARHHUDCWjZVLE",
+            "reference": "CnRwAAAAy8CSyhfG2WA7zWevAEVp9oU-5TYf7knuufctDFnMxftRHRLLfQ2KUEnVsmPPgGfIqMhf9mwzdQ9HiA30q4WVgeoZdY7m203NlqL3Gyxs1ZDWaNK4UG1mR9sjjrxj15A35G-TZ54QPG7257Mq5LMKcxIQWNcdO9Oabiu_NaYsCYrndRoUdQ9YEdK43rKJNxxhqzCVpp0afnk",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 13, New Oko - Oba, Agege,, Ajoke Lewis Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.548051,
+                    "lng": 3.389157
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e91121c8960b95d514c507ba9ddd3a0e57e80778",
+            "name": "Transez Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 995,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAgbzXu4ufz4NtEtEHCJahtjW0Q4BEhmCK9NGHuGviwrYHsGENIx1aPAF642PUq7V8L_KcXBbodExfqzKzQsXzxN8Iq5DYI-ra1AgLvr7Uft-M0HVPHkaH0a0jyceEC7EisajYYPOGCxNvrjQ_XM9FDRIQr4BlhIWoItBaTQuM0lJtYxoUzBLTPQyWN6HvK5QmfaQHih9zVlM",
+                    "width": 747
+                }
+            ],
+            "place_id": "ChIJ-VDUDiWSOxARyXMTPnuLQB0",
+            "reference": "CnRqAAAAhDWGbYQS8o8zL_KAvyL4BCE8nBQQtyHpjLVL1-1kMGmK16KWryyxFyRQINl2JoBEX9yu0_pJJ0gy3e0TpCBHLgoieh854h6AgQdsZ7nXQhxtlwSx0DXhPxGdYkqlrZ2G3V159QlEeBXVKISSjEA1ERIQAXO_-YPra_K-Lnh34nUIIxoUkjmIeWsw59-jK10wmrXAGh5LpdM",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "Ibusa House, 2nd Floor,, 5 Chief Sunday Ogunyade Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442432,
+                    "lng": 3.416916
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e5d250bd0c32003e969cb7e9beaedcf3974d171e",
+            "name": "Lafam Facility Management Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 539,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdAAAAFazbPH-Izqj_PkKtFmo9-ErFZGvzd0fbuL80KCszcKyEJjxyZpZlCw7YH1qM_kmFnMctl2TBuEQY4DnEJ6_6XYg0d5TjW8N5th0WgutR48uIiUckPnaP6uYIwWRlkUTocvPzUb3pEyGre9CWKhWUVUNQlwwr5gR8j97w_njvSzsEhBkGZtGHHMOXrcVyuXXpcApGhSZaJM9vFKbYFF1lSbGfx1-dKe5sg",
+                    "width": 538
+                }
+            ],
+            "place_id": "ChIJh3WlpyuLOxAR5UH3O8BMyGM",
+            "reference": "CoQBdAAAAHnOWB9vqwzlpfpUrE80asl0QVM_VnKFjqaK55KwkNzRA7zy2fGr7kjaMaQ0E-jT1tSESfjsVvUIZphesrvclKtUWA7RBCW5Y5M6zLufMCXuTMked6FKlH9wltoGXJoIrrLiRw6VhZSLtHqPsx3PzYd-Sx8MmoKbG4jf6KEl7oHHEhCMVWr4OnDL_N9GB7OxcgDpGhRMgtIR0-K-nVDnbewAhV5xTMkOMA",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "32 Norman Williams Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488307,
+                    "lng": 3.364185
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "21475c3769c637bbc2dbab35f8954ff141833ee3",
+            "name": "African State Tech Nig",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAwln-xGa0vzJnKQm4vkq6ItVihTHVSrbRjzHCGwEDWpIs-epYg4m1gn10YUEBPRnXHm6b_Iwjl_ZOrb-kZ7IlNrIZfBoYgdMIUbZPCOSJ-vIKZLps5swuyZMbs05U1PmqVYblCzybtLvQ3u3Br_9ywhIQnGp_WKK6_HlTFVPYgcAfcxoUrqg0F-S-IktNCU8ddZShCwJ0njQ",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJ26QWX3GMOxARPldSGhpF67I",
+            "reference": "CnRqAAAAPE920sa-nEnGkdkVGIy8gKJzukQoDRrTnEcVsVfaeTdW2ph-dafSG0yaf_wY5G8w393SuMer3bQ7YxkdbEdu5giNIixv_XaA1EOT7vFSTfCFuBMjY-I7QKn0YgJZ0bctTuf2ErZwkPg_K2-6ew32HhIQfdOKxcJuitNov0vGqbcu7xoUCVGgBneeT1Xud_DbahPEUGGTmrY",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "Funsho Williams Avenue, Iponri Costain, 104, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441158,
+                    "lng": 3.417977
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ad268dd400eac7f2e53c2d94392570b15a8a1376",
+            "name": "GRAND CONCEPT LIMITED",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 410,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAEXat7R5mg_73b4I3Rz5v91-4XHt3Uo8hI-D2dIXxj9hjvd8-jW4OxTwFP94uFBuHp34JogB3BXta7McYJJHZvTsgAOcTm_ix670h3rqdtV3yfsAQz3K4rQyVzGD--AdWHv0vTXTSV8QHfHOXzfsnJBIQqTH7cKe21FZptMb0d9xL6RoUNIrY_vInpkJSTYcJE5A9N0pRtyc",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJs1u4q0SJOxARCgBvt1GjCRY",
+            "reference": "CnRoAAAA0EtGUyYZaKrKTpdfRtuRy51BIbznrIOUOK0uMlJ8tY9SKdhTEdykc4HnB_mtWhrsqi-lDaYA5vEF3bg7ifuoWmAurVNyyeC5JEcWrfndfdb_OVDd_GSCW6lsy8uzz3SqQUmip3k8aoowYF8-qLmQLxIQduEDqF8_ThdRsLfkaqLvHRoUItkdHzJqF80UE3En3nTy9zOmEso",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Block 8 Shop 14 Agric Compound Odunade, Bustop Coker, Orile"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.665034,
+                    "lng": 3.287659
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ab0ca7e2e201c408215e42eb26703e2299b7af52",
+            "name": "De'Lash Ventures",
+            "place_id": "ChIJV1BHxzqXOxARCymBVziZIdg",
+            "reference": "CnRkAAAA1fQWTnYW16jHt4HUqXk_yItVOwjzVZKGQ8asj0esFmZawjbIzZuXV2YecWfP3ZIbayKxlv6gihRN2owrvalxAKubuvUrtFCtvs6eoFLwBfpprlGxOsfbQ8QkoRUo52lAPkXzZMZusAu1xHwUC8LMERIQhTMujgvPURPURuV2V4IRzxoUsLYN2xzlh_Ggb8aN798JHqkhMKI",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 8, Ikereku Street, Adetola Bustop, Agbado, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.456848,
+                    "lng": 3.385854
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ff8187d2d19b93bd5b444b51275caab9e1397bb6",
+            "name": "De - Rankins Integrated Services",
+            "place_id": "ChIJt6UPRAyLOxARqahYCTtD3V8",
+            "reference": "CoQBcwAAAGJSguASuLCBGT1Un2BFn9tZKCRm4plluLVFzoSS-SOwq29rGdZD50ReL4PXI72KD_YW0lgshCpff2hm3YAHBTx4XHt-OExzWVdeuyrNa9Xi3D1emEU42N7ZI0VCthBPwHh0TFBLR1ZsQFzAx2WVWujCL3CfCA75vrITPpR5wyeCEhBoVtz2aF2bVGO_br1adRs9GhS1exarMltJrcsFcxUjIZN5bxZwyw",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Martins Close, Victorious Estate, Ojodu - Berger, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.445266,
+                    "lng": 3.325598
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1d73257c003f9d5c89d150350f947f7f8e08f9b0",
+            "name": "Prinz & Prinzxx Amalgamated Nigeria (Commerce Agglomeration)",
+            "place_id": "ChIJ91cdLnGJOxAROOjY4PxnXPE",
+            "reference": "CqQBkQAAAOwVU-rxd_90-d1yANKTC-_0fLzrCLaUTJfuyMLip3wRjbRcOOJVCdGnLFGlFHmXyodaVfENa30zwTOXC0x6FNZIBV9ejmXbJwCXryzt577Is5P04vXivki8fopFaIX2rQiOxTT4JB8JSv2YDm7ta6Hldph54GKgxWu4iPAR9PG2KdHlWzsvWfmC76TfM7QR7Ru3nAKg1KiTWLmRWwjTyoUSECfxfgZkGFjJ5OBJA5rL66YaFHH0Tywr7dq1TgEtP5SYkvPmLYQP",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 21 / 23, Olodi Apapa, Sunrise, Ladipo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.562893,
+                    "lng": 3.338916
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4164ad21dd7e8f62aa9999e9a62eac37fb97e48c",
+            "name": "Bantomy Enterprises",
+            "place_id": "ChIJqz7bHf6NOxARnihJqN4xzv8",
+            "reference": "CnRnAAAAe8OPgW9u5Dagkq4D_3DDgxGvZTrsuMSLmK5DwQwfw6JE9U7ropSI5ikpyqThH4jldqacWfPvGDC_3oej1e9x26ErP-vzmN0A25YWB9BhRaDZcn1GeC-Dz0o99erzotfSK73x9UnF0CjSqFHc61RZUhIQnuhvS6UOJWl_NoXuSnQFzxoUZMv8h-DEJOMYYHczagNRb3ICDzM",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "44 Raji Abayomi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447812,
+                    "lng": 3.447464
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "71c1f962c78c90e0911787b84e97915ba9449d80",
+            "name": "BIZ Notion Spesialista (BNS)",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 451,
+                    "html_attributions": [],
+                    "photo_reference": "CnRqAAAAUkdkN1qL1av-u6WOm6mFv8L7SkOO4ojph05NJ5NWOoTNmHOIsOsqktsks8jam8f-eEP_Pid_pjf4rWvU1UI7Wj03-OAMEN-XREzrct2cgSkocYBKJQSnDCvBVVSOBRxyGr1i0HwwHJS_HF-BTgRnixIQ3DesjBKLrPJAV05Zp3m4-RoU9RrCG3nZkHZthltPIL4_19xAJr8",
+                    "width": 451
+                }
+            ],
+            "place_id": "ChIJC5A0CuX0OxARQWJIXWmVsC8",
+            "reference": "CnRvAAAA1R3BfQfDFDIOj0k7fyk2vTDaaof22vj8Izc9bpCqYMAko85goC-styWbfmrCVKhs1sMlkaU7sYwxC_ySRxj-mrK_Iq2EPbF0DnBTPIA8hSaqjqqXK2vbSl5W_sAGkxoH0CK2OChk-gNfXDZyjRDfJhIQWWjmzuDPioK1QbIL5DnClRoU4jh4F6_et74hZKxQ7BKZaa2s_eQ",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "Milverton Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.507313,
+                    "lng": 3.350108
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4ddba0ba3c07f9700c9a3c4a5adc8bb8903c365f",
+            "name": "Elvika & Sons (Nigeria) Enterprises",
+            "place_id": "ChIJhw53vzyMOxARcf2u988cqKw",
+            "reference": "CoQBdwAAAAELj9ZKN8O_kLk5MTHlC7WCojAan-Wska0b6gID3Gjhy_onD1h3hdeIet_gWKrt0tzYAQeHVVL8OAjWDLCY_LqOdRaVQtBfUeRfpEa8z0ArCkqb2NIs-Onk159PGnOy2sa8IHg2RR270FXT_-RNIMFc9Qp2Sgnpx2I4wrEf85BNEhD3rwXZbEQ1HitGBtYgbtDGGhS2FBO9IGlBcQ_a1KbijKcy-t6I6g",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 22, Off Ogunlana Drive, Simisola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593735,
+                    "lng": 3.340048
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+            "id": "e2ae92986648d60ebbeadf3dda4ba2df36b2ede5",
+            "name": "Mastertouch Technologies Ltd.",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 902,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAOFuW3XkYO8Kgqk_3tZMcWBO9O0BM-J_rU-0vtXD10J-5x_9-FqKBqVigP9pSBmM-ProyQ0n0ML6C3fWtXu3MqggrBJAF8iEwh-euGTZKxsVCj7tAy9ecS2uZnKczZYyMh8jXyagctDXebxS4oZImEt3_P0_5U_fCNiG5z4sPOoUEhASJ9eZzCLx64UR1QLinQxhGhT231oFPEnElwThSo1jIvO-KE8XhA",
+                    "width": 902
+                }
+            ],
+            "place_id": "ChIJNZrAtSCSOxARb_U7_Tb-EOE",
+            "reference": "CoQBcQAAAGEW6zkcV2x2mMtcGxeTNUSq5tFNfwxgN2dIX7ISuAcSR0sGOAQ8CTJf8uDU1xJW0AAI9dX-64WXW_su2OpcvnfjeFjtN5s8ldS7a6HY_xe3nF_TQe6562mDEEzb4pFtkd3fmkAzTr65Z8XEkT4YPbq_7usQSHA-6mO8lBFgNLgiEhBLJCCNrEXkwa3Lk0dIrR7rGhS93Ewc_c8XhIoxNE5fqY1QGrU2fg",
+            "scope": "GOOGLE",
+            "types": [
+                "hardware_store",
+                "general_contractor",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Francis Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.501731,
+                    "lng": 3.306032
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b2e8fa792e475b08a7717801cce7b62806af5d20",
+            "name": "Jarita Ventures",
+            "place_id": "ChIJf34Hp92OOxAR-dSTcdWXAgI",
+            "reference": "CnRiAAAAqz8IBv4O7YhevIzmeyOJbUEv546M5-7FKA-GIJVFYCYX9Wk9DTlmBBo0heIrjS4Af42Zb3BEVe_I_J4hW9wx4592srBXfuiNpCW9AsZsMqSRGIPBRi2Wi9gqFSw4s45fkZRIDZvXldrY2zisHw1YUBIQPI56Gej6vFZgdC2vSozwThoU5lI3v6SzSfLymQCBHhtaxcjIfKQ",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 7, Hakeem Dosumu Avenue, Ago, Okota, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450019,
+                    "lng": 3.405411
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "71f248a41b20c3878844df3784a3ef5ee872b48f",
+            "name": "Immeasurable Company Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJEfvzSzuLOxARNNJcUnUIpcc",
+            "reference": "CnRwAAAARsPPC8VypQHcsenUG_rf7fvEWaDlLro6hme1n8KEoNyO7GOhuCPN4xhkZ4c5bC2W8AWxdfONGfk1g-f37jWUZkjChgJ1XtfOEci1mnVGhdFPkOAF1VIYq3EP8HOH4kjhMv-mpO_MfBxzN07xu-8dUxIQ5skDtcTpac7UKsnlZy1z_hoU9vPjbn32WJPZliNRLz7XODQjGlU",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 15, Lewis Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.515632,
+                    "lng": 3.330918
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "36ab5c484d42c903ac0641a864390b620951f581",
+            "name": "Diamond Top Hedges Resources Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJib1veoWOOxARitEwJcjWA5g",
+            "reference": "CoQBeAAAANOh5S9FQknwbiKzdrVi8cNTpr1hvs_wbclSzeXLde3Xw_H8nET2sas92nga0Sp9NFczfXKzAgkCoQJT6jZGvppCW2mOvtwFCnH6smDGr6pff_pumYMi8nKfM-CLOyM_d9vm53IinoZIZVuGCdbWy9p3fHEWyN05yvT8EXRSLWpCEhAv_2U1Or3CLUQfcFCiu8weGhSWqf4KpCtHLiqDutShve2_Te0-Xg",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "Ilasamaja, Isolo, 10 Abeokuta St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.426965,
+                    "lng": 3.417844
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+            "id": "c042e56a09a45a6c8052f1366ca6356663e9038b",
+            "name": "Kennomeji Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJp2wvE82KOxARpMYmG7dyzn8",
+            "reference": "CnRiAAAASTam_qQPJDzYpVjp63TN9cx_VYaM5kiQ4DoE7ZjAiVz9xelelqokWtDjKa9Ow-Hp2eJmMxKRWG6jiK7DwExVmCopz8sbmWILaASmhgewAGD7TfK5Vkty2PdLz9ZHM0Qut-GbLdwObPRxKWUT1M95WRIQ5E9yWX4w6siGeSscLZD1ChoUhc4C5iO4r5jgdaR3OcEOu00XIvc",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "electronics_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Suite No. A15, GSM Plaza, 12 Saka Tinubu St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583028,
+                    "lng": 3.33273
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6bacdc3037caabe4ba3723f58c7e3fd2edf39dd5",
+            "name": "Jovares",
+            "place_id": "ChIJQRBkXvGROxARrZ-cmsqEeLg",
+            "reference": "CmRbAAAAtU5RyH8AsQLLN2DPcl0AkmrYCBkPjYRkW6fcfcqPuUbOf-q9KYYngQY_nypCs_lYW9XZ01OsdnUzytZwREjbHG4ic6I1Kii93uHz1hQw19wEhUUdzleN4EpbHVRdpW6GEhDRM8oOYoaH8MXQpqUuuUiXGhSXo08Ks3BAT9JdoK8HYKXN4OaUbQ",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "Block B, Suit No.17, Gsm Village, Airport Bus-stop, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441107,
+                    "lng": 3.365981
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2225daf4a2daacf297dba9cecf412ca0b84a2a80",
+            "name": "Tomay Nigeria Ltd",
+            "place_id": "ChIJbyQOELOLOxARpZhBs6-PpwM",
+            "reference": "CnRkAAAAXAyAs1Knk3m3kgLEK-LABYExuRb2z7MJVDG4VLWh5GkLSaSjAiJLJb__34NR7zc6tBctjqUVGqobLe7No7dFWn0KqeoWolzSoUhsiZ10fbxEUlkXm4pNivhcXDSdLfn6gr-k9kkSwe3UjHw5wQ0fehIQwiyfiYwQdR0D2pv1SMeWlBoUsRZZDYbYIoNV-caofESkgx9zaT0",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 30, Bombay Cr, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597363,
+                    "lng": 3.345856
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "bd9b4893efa3da021293d33c7ea748fc7bc25942",
+            "name": "De - Fitting Global Concept",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJQZsopSWSOxARZ5A54GMBR3M",
+            "reference": "CnRuAAAAmLFsVI0sB24PHqAP3fB6uLcDP-ksmyUv9E8pB1RISm0EimG2sDi6Fa7Qi7h709k_a8Ev2eBpYKdl0xFRyBMyWrJPJbYfZzeL11EUnxYqdJpwwivBNvzGXxuyDRgFuMYjLmXh6mG4xzKyDPOcT3H1HRIQ5uT2WwoUvOkywxsnLLCArRoU0Ux1YOEo_FIdcWijU0VeYDGwpA4",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Toyin Street, 21 Unity Rd, Ikeja"
+        }
+    ],
+    "status": "OK"
+}

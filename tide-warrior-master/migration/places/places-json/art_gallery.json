@@ -1,0 +1,483 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-QAAAATfnKKSL9DZhd5gy9YlEos9puuFRK4VaZRWCq6w2mV1RrwW_joSSG6O767uZVHsOBl1YKQQ5HWTpgzTKu2tvQLatntBz60Uzm1zK8hdIcl01RbOi-gfG6ER4MYNYCgTSORnJA2NLA46h-TqtM9SmVa58TchEZoTKnp7YxL1VwrRuYzGwp2F2MeNLdRXx2zhjw-q_2g5CAGrlTrE4y3JSbt4jSrsQUaBBu6LpXGbTz4nW3IA03kD4G2LTfFwgY4amQbsx6ecelQv5nQVZoUA_09dKq78y1yWIanBpg8Nyj6_YFotTG9DghrxHneaMl0KwtT6PjNwtkehufSwU1ksD0ASEP2DH7Y-94JL7Or9HmXMr74aFDOUKFTziBMhZQk_uXDTx7DYj2k2",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432297,
+                    "lng": 3.42378
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "344afea51beb405419bbc892294bc380b7594278",
+            "name": "Didi Museum",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 325,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAMRqlyC2cdh44LqLv0IX-D-wIDsU1EMBFP1ODvVuHO4Jq_QwvZDsWvD_ER61H1e382BcHwkT035c-aNekLE1UCGQ_QjbgWtiB40dyhymMNXmbCoFKAFZMdhIHuRkV4zrCzDSEEpsHiMWYuiSQt9XtOWECxEHh7nXOMlUIYPNRzwVEhAG2dlT2XMUZm9qzcimaJ0vGhRstUWZSVLCsIv4Y8vauo_JS83jbg",
+                    "width": 325
+                }
+            ],
+            "place_id": "ChIJmxQcFiz1OxARkLf8Fwaki6c",
+            "reference": "CmRfAAAAvIWn3qVYgwWHcBmlADP3tLD7Gm-w6pzMAU6urEUpLMr-YA88UFl2na7YyjW-LgbtL9xWil82t_aka1LXr8uyW7LzA8DWzxdXnQ8d0ucYU6FtrjEQaZ1-iN1PIwgY4X8qEhC9SIyCiRR8GMinvjVEw-FwGhSz34t0DfVaI4KKMO_tNhPSMIuGkQ",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "175 Akin Adesola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448483,
+                    "lng": 3.414813
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "1aab825f34143077755d7fa3706986685259582e",
+            "name": "Monsoon Gallery Of Art",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJCYAr4S2LOxARhgh4pUsQjgM",
+            "reference": "CnRpAAAAuXYhEUND21WfFaqQJsnR1EtklpZhLPMeu9AUnQaXyNhBoOobTVtfijh9h-5DEQDLk9VWmjYesQjEPNyiX2R8Wzvpz-g4VhFHfGgXS3TEBuuoINeppkY3JdMkgoO1y0euEdjQ2_N15cVv7FEyaPIcshIQrWSTrkjj6d1CUZ6SijHDhRoUihIkZjb5qBWrYsyFl2tpJLuygyM",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Off Keffi Street, 78 Eleshin Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.42515,
+                    "lng": 3.475682
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "41cb3dd330dbf4b35016741abc98774308efc3e3",
+            "name": "Uwa Art Gallery",
+            "place_id": "ChIJhbQveLn1OxARElgGOqvaAXQ",
+            "reference": "CnRiAAAABhr-mvUXTRX4dMMY384osoYhQb0sjaMw3Hepv3_dSgQ6-1pPv44cSJz1tAIn_9llOSozFaduRvswwexgNcrZEgzph7AK4gtNv1jOhIWMhHvJryFnvM8M894jt0dbeRdh37EqRay3ZN6q5dh3GRjZsBIQBcoSeFgqUTIUTc_tJmsjfBoUAPF8s8o1lGJ7pwzhHAUyPT6SfNY",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Shop No. F 21, Oba Elegunshi International Market, Lekki, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.492464,
+                    "lng": 3.356775
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "bc566cd6d371f0fc5113cb4472129ce196c19645",
+            "name": "Negro Art Gallery",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 309,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBcQAAAMGlKy7CMIynD0WBGkkDezdg0kP3BrM0f15vE9d2gAFJhwrv3GEVyAcWL0ztNG4meehYrT26a7e06fW8jGQJ-rp_5SnnAtf2K285RM1Unl9-rb3nYrb81Lw2Q87LI_t8rEbUFU-VtsZfu_9J7jKMqnJlMmhDnlr1LehoiLUzejuAEhDlmR_W7N9RbT3lz1dMmkNYGhQfwdnB6pGs3O5PmSqrhvX7yf_i8w",
+                    "width": 309
+                }
+            ],
+            "place_id": "ChIJ2eZofg2MOxARAR346zQYhMk",
+            "reference": "CnRlAAAAFQbASrK3wyD62yESAbuRQNja9lMhHj0WMnfqi6Tzy9uhEXnRElpZU3_XN5krL8pXiFA-t9FsqzYSBNikPXS0KlqC1vSjJ6KuXqH7LdVdnLyCU5MtuOTZyKNG5EX7_Grg7m-omVAOAvd2rLlRNonIRBIQJUWn2GpyIR-J5_4SAp10pBoUhG6M9YpSGx7-9a8GwZYkRYem9ps",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "77 Adeniran Ogunsanya Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.452698,
+                    "lng": 3.521843
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "b3bfc71f865a1a413e011e18b00d3368379b5f2c",
+            "name": "Tents Gallery",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJw3NIxp0MThARIUaqFp5K4tA",
+            "reference": "CnRhAAAAWC5caQVq4xDHKAEHrWqL46L6x2fYuGvz01JBbv4twvgtALfqx9Qt3Z-YKmZD2kMEZHHt_wRd5Uj9zRL81tDria64O_uN4uL2v3tGP7SMeWoYmtKK7J8YhE61oyf2a9YSMmeRtqwD5nNfqXcaGIFxZBIQ_A6NzIKHF_qZCSenZAk7whoU-QUdvI0oQy3gQdiC74sIBgLRoE4",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Agungi, Lekki, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.573456,
+                    "lng": 3.391087
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "190568107a814bbb0896b7edd480886214ebb846",
+            "name": "Exotic Strokes Galleria",
+            "place_id": "ChIJf5INbZuSOxARY66Mpmnq4lQ",
+            "reference": "CnRqAAAACkwvPv8zR75rcahvVCqgQjV67By_752cFB6dT4WF1kCQBn2jt1Gj4mr98fe8dcHqjITjjPTUQmpzfBpjpNQb6pM-l3Abm0MIPBo52kNrVWB4EW-1v1ImN44Pc0ULTHW4Zue9BQi-jCo_YNqFbe_g1xIQ-fE94DJdg3so8RfAI6HgfxoU0rOdT57YZBJRFcZIhFyL78cUBjo",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Prince Oyewunmi Street, Ogudu Orioke, Ketu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.554704,
+                    "lng": 3.341069
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "967e9e49b60520ae8308d0030248e439775e795b",
+            "name": "Miss Precious",
+            "place_id": "ChIJndub5OKNOxARZhYhAgWtJYw",
+            "reference": "CnRhAAAAwQvpCgs5DIE8tAl5kDkBGpGPZfHCwgDzHddFlcXhvJuJQJJN893dzt7hZd3DjWRH-LPVzEqlPf2pJDIL6_7pC_khXx3OQ0uujPF2k1scsxxXZGduohVLgsTks0A84odiC0dOiFMvekbIYAHGBLY6qRIQt8oUtRsAVqP48b3cfMgdFRoUniQIiYjRhE0FdnfZWIMsjnmgHXY",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "21, Curtis St, Adeniran Ogunsanya Agbalaya Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.530096,
+                    "lng": 3.344346
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "16df92234e58cf0fbd0346a3abc99b7fedea51ca",
+            "name": "Carlos Concept",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1436,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAA0nKWqxNc2rXtAkS32RayVFD7hpvlOm3fplc3nhZJDgoCdIc97hOKBznqq4RnYgv2otim615ol4caLabsPHykKvVUrusovcNek9PTmA-QkljnV55newnMK1f_k5ZUca670exP10Vaj5jUS5R2UxaXBIQVhuJtTvQek1XU6dI8BwobhoUKAQCVTyi4x7ogo0P3X_kBWGBL0Y",
+                    "width": 1915
+                }
+            ],
+            "place_id": "ChIJlUNcVtGNOxARMekGA7HMUxk",
+            "reference": "CnRhAAAAb-OlySHlIWUmRJSqfXZfsGnfXseLdC_Z-7qeDz4Ep83Cw5iNnGhkHZtVprMYTG9DgW5Zvl5OnBGE1ZzA_qWVcrK7DTLPs6usoUhZN6PNxe9NyC90VYQx7Pyqkyx6GJxT11yfHsfSQUzjiJjGexsOShIQokeXacBdHJjSSBX2YRDm5BoU8nHZasczAfoGw6ZlwbYcVERqJoM",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Alafia Street, GLO House, 6 Isolo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44406,
+                    "lng": 3.42292
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "eca99ef4d9f85a3984aaa224dfa0500e0c0d210f",
+            "name": "The Hour Glass Gallery",
+            "place_id": "ChIJAUPxdtT0OxAR72i9sLs1q9I",
+            "reference": "CnRqAAAA_ilD0bud3fuRd2mPv1oMUIM5uy4wSrMa2Ku57lH-9CsoNWf-9dxVBQNRuqk3t4mTfnkxgnPlFq3teVYJXro6gkSQOcbbErTWj8mAt6lPoMWGMVuYJrFvZ1tIkSyj08Ss80LNfzMkDM3XEEDEaFtRQRIQGFmi9n8aDERQcQr6p9YeihoUxKfvNHZWU5JB9ARNdnD1bxwfDgI",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "5, Biaduo Street, Off Keffi Street, South West, Ikoyi, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44422,
+                    "lng": 3.42303
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "85ae913df20adb82569aa705ea3473143b7dbfc8",
+            "name": "Signature",
+            "place_id": "ChIJk6n9ddT0OxAR0zAI52QmVTk",
+            "reference": "CmRcAAAA8VIv8vZt3B2ccOkkrZi-ObdW8g3n7f5ltNdCmgjYFm8Y4Fn7eivHUfJf3UPV5xPUubxw7k-EsXow2B-4Xpj4XurHW9CfKvvM6IIfj3p6XQEYNh0JBEB436bVwYydL5C-EhA29BasEnw2XknNaeH6OID9GhRb8rVoIgqcFdOoIABV4aJ2D-7JTg",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "107, Awolowo Road, Ikoyi, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.463362,
+                    "lng": 3.290378
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "c971be691a267a2a38120bd23068f4d14a4991a4",
+            "name": "Rhymovator",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJX79EG92IOxARQyvd0eQYesk",
+            "reference": "CmReAAAAFy6Il-m9W1FtS94Ey9CAnOE4szXpdXSA2_lbvtHXka2Fqjy00vMa1vX2JNM9XPAYv1N7NtEkW1Ebzb98KHXqBeePFk5BI_4u1RctEV6QMPjZztvNy9Nf_v7j6C2QJNkGEhAib6OVNxfX1l13icUEOdweGhRy9zxEKKHZz_FQ1_1VjnFX6DJYcA",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Festac Town, 3rd Avenue , No. 311 Road, C Close, Block 4, Flat No. 7, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44206,
+                    "lng": 3.41897
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "147a98cca7eb23e9953096be67c59d8043ee9009",
+            "name": "Arthouse Contemporary Ltd",
+            "place_id": "ChIJqRhvLyuLOxAR2REbMF_0pR4",
+            "reference": "CnRsAAAAUhoEBC7NB78Pksv9TVGYWsdpzdx0m5HOM2aPj6wTTqe3CUmMb3DiBc6IvJuMtxgBnn1GL5IIhiajHzYKIZ2wsHMIuthSb3Bwdd2gmIy5nBCegKiuNs-V_8tUhfng8IjfMBE9KjooxtyRRJVdbiyWFxIQHk_WAUSfOP5hbAzyCczO8RoUBxppZEdynpEyEXfL2Cik4NUZnmU",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Penthouse Floor, Foreshore Towers, 2A, Oshore Road, Ikoyi, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444313,
+                    "lng": 3.4178
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "422e9b2798bbb8fcce90c0f8d806d4b7755aac6f",
+            "name": "Mydrim Gallery",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAACPxW-UjGQgJfwQJdwqbHn2AT5SZlQN6VX-0eKDzN4CTEI8ZxFLTaMx0UHLLOToFCfyFVBynrNgbUGLF3vc_dLCwworARYSmh22FN2cn5xPACotAIKVLx7BClAWJrcVmVefliAD2IqravIg5ueJLFxYy5hai-t4J7E5wli8dlzYEEhDpHP2H2gEAhYYxbIaiNrshGhRss0rbQFeEKF8HKNgle1KA9LxmaQ",
+                    "width": 1216
+                }
+            ],
+            "place_id": "ChIJA2R5nSyLOxARfQqxl9Liulc",
+            "reference": "CnRhAAAA1RwToAQoTRyeXK8vItLTuL1zH1kb_UZuME-fQZhyetVSQ02r63LMGftdS7LUvfC5yQsNMz_tBsWYkGWrJNP2fmygD1daCgr-q4TWBPSCPM3TFtNtUCl_qCrtlw9YjpmI-vpbDRcGLEaZ4HkHgzbg5RIQCk4ak_ueYihnR8bB-IkFGRoU-_Wnkt66qV0G_qOfIUVomHGeToQ",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "74B Norman Williams Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435038,
+                    "lng": 3.459787
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "72480e2044ae9331bd31e8906a4fb7de82405cbd",
+            "name": "Afric Artistry Gallery",
+            "place_id": "ChIJQa7VnQD1OxARfpi-loMrgWY",
+            "reference": "CnRpAAAA1RfcFTXJtLcBZayMj2WMJzbCHhyWGsSnu6XKN_85cJZqHkoraRCaDyKOm5Lly59sjpCpG7LAMybveWcB6kFuGyUnYNVrWTHSktIrIp9jTGenWVEqbSGtQc4MzzK4FFK0ZuBE0pUMi73PSo3deFgY9RIQ0qJGdiWc0Q5tACEpvipBhRoUSgUeeVB998J9vsDLK1PtzhfLG-8",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "No. 5, Eyin - iga Close, Off Makarious Street, Off Addo Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.623032,
+                    "lng": 3.378113
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "597a1d0f38efcbbbad07caea26dabb35a9ebe336",
+            "name": "Art Gallery",
+            "place_id": "ChIJBftzdaeTOxARAu-5-T3EJtU",
+            "reference": "CmRfAAAADiiF3mkLZFrqytsvqgfwAx1Ux-HmVzivu-GPDa_KevzboN_wklA1YcXYfDCgu85epmXx19VchQ5V0AyjywGIlPxtPgc_gEGlyjLM2k7lmPP4f__Y_TSzEi9eVd-w8XKPEhDek7N3xU_CBMAReffeNrilGhTkNYUV85P1XvmbXZiuUj_WiQEz1g",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Bahiru Shittu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.590256,
+                    "lng": 3.362152
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "4c8af11e1554a98121787ce48329d4eed4504ba7",
+            "name": "Eden Culture Art Gallery",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAABZQZ4NXILmscHk5NgNyrQx02Tam7TtrHfkYjYcyyBTxEyfTx588hCjS15nDp4Yk8OllYLyzI52aGQplW8hLvjmg0aV4xPKq-WxyXVEvQQSzLZG8SCtSrGK7-YU4CYcR_CTPZU0s32a5tXHZ9Z6kvTcdwLQ_DV7n0aiVTEcFshYpEhDFab8WNirtuWqKXTIfVKatGhRjK9MDhq7pNbBboWynoeroDo29Gg",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ0x02sEGSOxARnqn8y8yWxsk",
+            "reference": "CnRsAAAAq1ecu38ZOOcRyPwUd0Or1ubI5H9BA_LdN-L8KxvB3vydsNV86-GiTnoN3TIomSFUgby_Hod6spFjXY6ICOPjO0-oOl6vJqs-k6Ha905yLgTXgRkoHx3KMozDsMJD-Ttr7YDiQdfh47YonjoK1aKW_BIQHpl6yxYkdJa-quzIAusgbRoUV1ApNr2hXbZ5eEWH-csACT76Ky8",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Salvation Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431285,
+                    "lng": 3.420439
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "3777eb3eb83dc7230ce6803efa810115284b3bdd",
+            "name": "Alexis Galleries Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAP1Q6YXqjPPeJR4AKYSlZFBglLybtfVTkTNIWTmGFuVZx8enNpqz-nHEpN2KW36MVhKpyZUk_BxRoiOI5bBv1p_C0qgNzIKjIcWzFJZb_Q39JVgazd19KsektVLh2uQbGp4dzZLx4xfplNC1CyyX3pN94wPhJRDl-asu9lpbREzbEhAzhQIDvhEVrLODy_qm93s4GhTkEcC0tD1fufSEYBdt5LASRpqJNQ",
+                    "width": 483
+                }
+            ],
+            "place_id": "ChIJ5aNY2Sz1OxARRobtUfVJWEU",
+            "reference": "CnRrAAAACusYVIGMylki529VmuIFj_HWCdYb9qwJXKU9tNDiGojauwdCkB312duHR0RtW3OGQ4cheMSeGfp9ShwVPTPP21GghO95crseJEc6pdVOnMBBhsBqUfd2gQwoOAG0HouLF7FXylPq9pfoR4mRY5PgphIQJfj96duf7tLsBF0mId3o8BoUkj94LqsNk4mt91CHu9frG6kWILE",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "282 Akin Olugbade Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62785,
+                    "lng": 3.322578
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "d749078e56ab7d825d07bfa03f481ae419bedd4a",
+            "name": "Adewura Art Concept",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJu792x2uROxARVvZKLNnIOAs",
+            "reference": "CnRmAAAALH1jPOM9gjIwAXgpitaU5zPIq77K5t7ey8XHKvmT8seN5Ks0e5sU0hV42H8P9-uluZlKrit6CtQ-ZVn0VGIX9hhDdwGFL1MDP70UItswW-RnMEpwSL-bvtPQpp1RGA5v3eubz6WeRJCHQQRPZwITtRIQiOfTNaW8nVL9GdArIu88zRoUW6aLlM7UCW2b9jXrBiC4jr-rdqA",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Pen Cinema, 267 Old Abeokuta Motor Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.550614,
+                    "lng": 3.331713
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "07b3cf3685e1bf485d2c0c0efff949c4ccbbf4e7",
+            "name": "Ebony Art Studio",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJc9DoMQyOOxARW_Fr-Lr1eS4",
+            "reference": "CnRjAAAAhINd1spEi2D_wjqOWHKWNxW6-9Xq8xbBUIso6xneF2mBpKfbNndh2yskNLsz8rYCb8tYKIqw1glHBzOAZ55CmmYMiuSQaUPQRN74trQrqtrPLG1DLNvrUfY7flm71ypDg5U2ShYpYtecvW14Y3PoXhIQT1GKx8HGSRp5qUaBibdfzhoUSVDIxdrdsQaldu_4RNk8K_iA5cg",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Ajao Estate, 9 / 11 Osolo Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.603699,
+                    "lng": 3.296835
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+            "id": "41bc029f72d44dbf63147a92474443ced9213dff",
+            "name": "DD Galaxy Wire & Art Work",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJVSEIbVOQOxARmO8hVBQykwc",
+            "reference": "CnRsAAAAJkjjGiBS0VplpuCuGWBEcJhk0pj_pU8bKEukmqzebnli3liPcKYfgtZ2CnWdYq6JEkRcldox8VO9G6pGLIyDt5EqXb3Kz9h3nwEkQdFy6Ri4ZHu4ieFXi4rdfUf_SiDsqiBSJQpcqxfNZXOTIdhDtRIQYesNRf5STXioGM_Nq4Xq5xoUQcIz9Ubtr2sMgJWduWz6gHCSbDo",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "establishment"
+            ],
+            "vicinity": "Egbeda, 31 Fajumobi St"
+        }
+    ],
+    "status": "OK"
+}

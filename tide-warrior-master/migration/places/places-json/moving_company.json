@@ -1,0 +1,477 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_AAAAHAmXr48fG_eK06kNZu6k61zxFhvIMuOzIY9tWglhPaqae-JU4Md-igucdrN-0bvB5Qgy9nuTxk5P8S1aosB0Yr2GDlW6yWuNSHSe7DcxDD4r1fLyk8IwTCz7kbSWQfFDjqlQM4mozFZkox_24vjvpyBgD1gZ2paA5H4dpWD5OApQX99Ela_rBhkeANtd0jkvaamc8IvUdKxAgBHwhnCrikUQRDizZhTEeUG1KQv2mcWr_6Vy5b2etA6gO0Q3VJnfbaJ7Jxv4yVRTfXE8GYZgWQZe5jbJ06cFwmci9r-iRmnW1fcKX35YeZ_qjiglGLbGZqyxJs2wFG_MFaVJtyIeiYSECdARK6cVlGqf9D-LoQ2004aFFf6vZL77MnuGJr8oQNlyNPNPdK7",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49903,
+                    "lng": 3.321109
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "9c6d727d68d6cd1bb700c13f2d525edf6f40699b",
+            "name": "Richbon Nigeria Limited",
+            "place_id": "ChIJLQF4J7-OOxARfe_uUFgSnUo",
+            "reference": "CnRqAAAANtrChOHZMTcY9KTXKRWgRr0_9PYhFy3wSkyyu-SH1FFXUAogtpTBw0MJtjR4IgiSL7JahgndNXUfaVUiFSr4eSk-gcD4SfHtmm9BIERpymIgkXmiOSPVh5IPKs23VHkLm3feBaby0G4yFaFVzlNasBIQtW1A_6Wa2StAbYZ7-jn2RhoUcHYYVhekozy3ji6EF_RWKoZfOO0",
+            "scope": "GOOGLE",
+            "types": [
+                "car_repair",
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Plot 242, Oshodi Apapa Expressway, Odo-Olowu Bus Stop, Lagos, Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458842,
+                    "lng": 3.303323
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "defb9344bc17fa99ce6f443cb3894442e0ad3ef1",
+            "name": "CCN Engineering Company Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJpbt_Lh-JOxARmCx76rJipMI",
+            "reference": "CoQBcwAAADtPy5Ir3J4MTPow03ggmuV5zMIdtzbREk2cKsXlFSBFHpHNCCrO3kwQJ-ITD9p-U6xVdEinGxrC7eQ675Gj7QvcXr67kzYXD6OS7JJQZUEnrQjrIG52y-kqmUChdeAn59ZYIseEgKVf9s3D50gS2xUAGy16Odu5zAYWzFoMmtaqEhCwie720AcGPnUYp_Mx8qJ2GhTJNdbDbKYqc3kJ0U07YSLELWVf-A",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 31, Old Ojo Road, Maza - Maza, Festac Town, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446334,
+                    "lng": 3.418916
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b58d4ca01cd603339c4df0d0e6fb4a54d341c88e",
+            "name": "Soa Hallmark",
+            "place_id": "ChIJnbKu2iyLOxARCmamv3wg2Xo",
+            "reference": "CmRfAAAA-L9q5GKTtEe0U9G-smMfxZj5mLyWL6ljevvRL6apCZBN-hQGxCXlsvqLByCPDWDdLZgo2SnloeW2emBrSg-egW_SteT9-EKY0dUgqSkOfBSonxO-c9PuHYDZn--2n4GoEhBIUHv-GchsjPQc3sP3PszkGhSn6sysvlUl_0RcgDZjLJ3U3I0FfQ",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 1 C, Off Ribadu Road, Polo Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43579,
+                    "lng": 3.35458
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ce552ce695608d7ef63b65bb99f9a03303ae2483",
+            "name": "Deopherm International Ltd",
+            "place_id": "ChIJlUzpcTSKOxARyToGXDMjhac",
+            "reference": "CnRuAAAAUZeIRuPghmjAG7Q1yut9uAoRdDIRPvIhCEaYhLLlO7J63ApHNFKQjQE5xgPULGWUlKlFIEhVkb5a3hmY7nFWrmRBjaVQcpCdwNLXD9J5bkzgCMTNOiNVqGkLyfk53BRrGjv7DTfFVizsoS6wpzyAcRIQvNWs8iooHdKE-H5lttSIPBoUJT-73cPM5aUeAhDf26W3R8SP1Wo",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "No. 101, N.P.A Commercial Complex, Tincan, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.619636,
+                    "lng": 3.339093
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d4bf5e737f732950daa709d05904e26a0f31d546",
+            "name": "Bloom - Hills Ltd",
+            "place_id": "ChIJYWzF49eTOxARkqs6Yx07nWs",
+            "reference": "CnRkAAAAN95bM1prL6QfMFckiRm7ZNR6nO_oafDz7Kb8U5-t77gwVFC6BowXOledqqwGS_PGMMkfff2JMLYQ3iEKSOuEhZh-GOTss685VsCevpzRj6lB34bSdSa8YFpTsl7myaL6a65g_TeFIL3rl_WgzRsX2RIQEKeHr2eg88Mh0G0FIEIbmRoUKxZoewuDHieW5b1RbiUt6b4dSrU",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Plot No. 4, Bay 3, Cocoa Industrial Road, Ogba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.497275,
+                    "lng": 3.358201
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "03a8c11f8a80c84f8a1117f44add75817d39765f",
+            "name": "Konek Group",
+            "place_id": "ChIJaRc6WxOMOxARO7z25Ms2VQ0",
+            "reference": "CmReAAAAawjUuNsvGde09IeV8EsxWXihlwHv9ER9Uk6o_grb2v60_KnF_whu3-tB7ByOHFeNgPalzgeEGU2-dkiIAvHBtgW76moahSvH-DGT9I5BvHouyhOuOO5k1SDBbC47xI9nEhD1rpIArBdR1G9MoqLrs7ssGhQCuIHKP3gHuQfP0jOTxd7j9Xg4bA",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 68, Adeniran Ogunsanya Surulere"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.551283,
+                    "lng": 3.331668
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "44eda7469f9c9e72cedd5c93bd20d84a89068b91",
+            "name": "K. J. O Nigeria Limited",
+            "place_id": "ChIJITj3KQyOOxARzw8nqAbIboE",
+            "reference": "CnRrAAAATQiYsJ1sgECg1Vaa_qHlzpU_G4nIEfrIjin6BexmmSLY7jzUUQoBay54SF7CCytIOJ3AIQZBLUGGUv1D9Je8_gBL4kou3W744WMRblBTXADkoSmhzD3HSoeb9qyZKs1xyKovG6pwZvmy4spNjO5hTRIQAPhtK3j0EnfpO__u3jdH8BoUSuBkSp34R253YGY6Ou4MRdUJ9J8",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 28, Room No. 1, 7/ 8 Bus Stop, Murtala Muhammed Airport Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.451745,
+                    "lng": 3.316225
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3492964402972a94677a89b28f090e2565b0edef",
+            "name": "Trans - Fleet Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJtXwYixKJOxARwWxHu_oehFA",
+            "reference": "CnRoAAAAPkPVXVpP5Ur5W2TfRuvz_cxcX4ZXGu2Ac-2DjwZqkcnCMclNoLlyP9d7bsTfUR9rXOhdpGuMLlDWD3JHPknp0qw97rJRVUFQMBc_FIXoZXyC_SG7OMKKB9BcZrni0h4IkiBUpDXK4aA0iwvF4fJFLxIQoPxTAdL5H_2sXOnH6GpelBoUqCxgKg7wn9LzcT0zggBhIbiuIVw",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Oshodi/ Tin Can Expressway, By Ap Petrol Station, Vanguard Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.673574,
+                    "lng": 3.258521
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "2c51fa3aa3246b50c32244d004f529c89b0304ab",
+            "name": "Jostinade Company Limited",
+            "place_id": "ChIJG_fV9V-XOxARe4VUdQcJLwg",
+            "reference": "CnRsAAAAYHP1i6SNxz103ONUrrMHlAFRnYlgFNP6viRkAS0YdLOq5aiQwZ3pm3Ia8KEshfIfmNHLyX2TJ1eW-sHfyWj1ycN0zrZjDOPm_4w-EnKqtuc3AQE9R7LwS2IF5wCFsjL6eFsN-3shlMnn7lZ0V58_bxIQtBFjUAkstCWTTEO28tQwORoUwWCqZi9TSgz64UwgF3NVi4wRkDc",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Adeogun House, Off Cele - Ota Road, Moshalashi Bus Stop, K. M No.32, Lagos - Abeokuta Expressway, Alagbado, 22 Awolumate Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.626979,
+                    "lng": 3.324118
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4a4e54eeac57e1335cb7ce1dec974022114ada80",
+            "name": "Friedelander International Nig Ltd",
+            "place_id": "ChIJM6nkW2mROxARd7WRWTcRjuo",
+            "reference": "CoQBdgAAAOM_aqTqJh2H3TMFmM0CjUJaiyKsic0RcOZEHgbbhYyeVr2uuwusPuekt04RVXU2zjWY1ohrz6Nr1JincpK-Wb1GWXETOuRvY3KsE8c8pDpoNs8dBzLHLMPREqU-hhmNHGJxd-eTR0xi1FSKaiWsi3ZSng7xEm7kszb9XGjyYCuFEhC5CRF8Gpvh9odrfFMPbdHsGhT1b9OjA8AMgaqczlvj2PqmcoVISw",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 5, Adebayo Close, New Oko - Oba, Agege/ Ifako lg, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438676,
+                    "lng": 3.365365
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "8e1eeef97c9f2670de123884df1c16d20cc64c71",
+            "name": "Frenka Resources Limited",
+            "place_id": "ChIJ03AEyEyKOxARmeq9ynzBMCg",
+            "reference": "CnRrAAAAGHbkaIHM3AsIEtEpWcdhn4TWtTvFHep3EJ-FpiPYnf9-h3KZwEr_sEsNFIDWTHCvL6zuREcWzHMwPaLEMBoAdUpu9e0cBargN9YlOmucDrynnXAWajn2Ll61wVz1XG-hpkAnh50NI1aS6SivNukkTxIQJN3VwN94Aargj23l0Pu-UBoU_epwm4X80FhsTPj3i1ohK-onUDA",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Yala Close, 8"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.505516,
+                    "lng": 3.356163
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d5ab89129e39a83be693e71cd955738c9fda466a",
+            "name": "Odyssey And Company Nigeria",
+            "place_id": "ChIJl_pYUT6MOxARIskaY_lu5s8",
+            "reference": "CnRvAAAAA740G5w5OiBT-IUj-o8vpPJPMMCne8vQOJGXzS724lCPUjih5A7hsYhCfpf_wz8Q9vCDreszHk9xR1NFTJSEQ0sauIinArba022p8CcH_7BbGNsAksvnX3FzYV8zMQ02aCOYfip3HSED5iIuuHD3exIQq1KS4dTaBnVVPbjXyZcdgRoUJYJaKnQaedFP-LHOYYcGSXTKVWw",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 105, Randle Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.538887,
+                    "lng": 3.302178
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "51d8cad825a8e56bda4d5c075dbcd0f27e2c7e14",
+            "name": "Bus For Hire",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJPYwmRkyOOxARbZOefJk9GVE",
+            "reference": "CmRfAAAAX2NFIROmFyNWF-TzV9Va5mLKSEN0zzEZCFM_4T3-D-fngSoDx_CGMsO5aJLXlfwKCNSONbc9IWap5keksG_dJD8prKWtP2uBF84UK-NLdzclSLFm86efZunGgk1ghxgPEhDZwIiL6wh7LbCSb-qvdAZeGhQA1ZPtsU1H3BxGBBr8rt_pMQ5cgw",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ejigbo, Block No. M 23, Flat No. 6, Jakande Estate, Nepa Bus Stop, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.560037,
+                    "lng": 3.281266
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f478556bcb093b39004e12fb4e0c24da7f45d243",
+            "name": "Olushola Ventures",
+            "place_id": "ChIJd6_vU9yPOxARFPGzuYJ6Ikw",
+            "reference": "CnRkAAAAF0DSiB9qdUzaPaQtF_c1FiRhjltsUE42XI4tp8QOVBJw9CsvnrzXpZoBESpoGlpbDpnzER6BRakbfPvCFQkklSHxaLXoLgAw51Gr5XGLwhK_WOPzMCNVjF9lzvNCwdQcKWO27UUhhcYLyFgHNekE8BIQ90K0D1w1AZLeqRWOAOvlJxoUZdnxxek54JPu3HQccXARyxvNIn0",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Ajala Bus Stop, Idimu, 92 Liasu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.549829,
+                    "lng": 3.329169
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "54d585365824b2123bc09ccef7e1212b32b3e278",
+            "name": "Thochaj Ventures Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ-aR8jA2OOxARD9wKv20VnmI",
+            "reference": "CnRrAAAAlgQtp65JKffvVfUuM3RmE8cPI6A16kO4o4RwGf5Pwg6HYLGunD0EW7MW5ENQ5004zshLkBfClttOnY25vTEcL957IepJidR5vdDj_YIesZFpdWVlNuUq-53iODCkjRK5qf031yaNA0YAEeBvwnO31BIQDY44j3JyGkXfTvRNNZ9B-RoU0cThi_7LgC8ouPThtaoy9SqqJsc",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Isolo, CPM Church, Ajao Estate, 22 Lateef Salami Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45186,
+                    "lng": 3.309979
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d1aa79b64538c50f3aaf174f667d2e25a9556640",
+            "name": "MPZ Trucking Company Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJoSfFQRCJOxARHtslrBBYZ6w",
+            "reference": "CnRwAAAABY3aa2Z9QNy9-7PDNPbQpNXycms2Txiy6UAeEADntq-Ta0AdqxkXC-LdW6QNwbkfOB5Con8MjGSV0DK2k6BE2kLQxeBPGNxf7G_8J5oDXb6z4N-bxykgc6HP6h5_f_1tuLOqGKkIPhHIYvKBWoJ9CxIQiRxeZbmdj2lYBK0n9nKSCxoUW6ed0Dlq3Ya8AYl4OEVa8DLJeQY",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.575052,
+                    "lng": 3.391704
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1e2a3ee276c8e0fae805d5d7fec150a496499eb1",
+            "name": "Nosak Group",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 795,
+                    "html_attributions": [],
+                    "photo_reference": "CnRtAAAA5VvqN0fZT9lt5mD80lr7H-hgTllA6jhXKfcjrzTfWL-gnoPKwNrvZQMr9_UR5UurVimep68Ou5IAmG34PGeQUa4ERWMwm3F3c5yC1GrWEotV2I0WHzgXO5LCHLGf-ss4vEODPj8k__MI7FGvTHRMlxIQI8OqFkR9KRml9ZqzRTECAhoUhfQHokLfQjT1aNQSmA9L9Ufv4pY",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJKTak_5qSOxARcsGCj3cDoeM",
+            "reference": "CmRfAAAAVIytj7TNOZULPdsOseBPXL3m_vSw9tQGbeslDI1-J5EPCJk5QWsuR7KBnOSUsnxgb8bWDSEX99e4fkOOntrdXHM7GmD7jAz-loORv4klrqpqptoz_pO1qMngUuwYgA6xEhCdWFA1TfdNuPAlYyZDsHSDGhSPDZKdZKASk5iUTyfhT9qyFOP9sQ",
+            "scope": "GOOGLE",
+            "types": [
+                "finance",
+                "grocery_or_supermarket",
+                "food",
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "2 Ramat Crescent, Ogudu GRA, Ogudu, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599958,
+                    "lng": 3.343824
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ab3465537d5227a14f3e395e0e8507a771ecd79d",
+            "name": "Crispcam Communications Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJA7mTsiiSOxAR1Z3cxsawzao",
+            "reference": "CnRvAAAAHYDUq90oPAqXNLAlc4bUFjZfQKVIOwHPbm02XEEh6fkH_b1My1MwdfL3nEJt_SyObTGUKDNFhNvs35IKEy9TVOKziX0HmsykI3WQYTEQaVP5J175HjrCyf6sr2vxglhgREZt0-z89sINIR_QS0AehBIQE1jcO91pe1w40xwfBvIfyxoUsOA3E49c7ngu3Z5u4epxaBtWiaE",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Toyin Street, 3 Adeola Adeoye Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.563569,
+                    "lng": 3.347306
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4e7cf8de33e3b35f6cb0c9cab21fd0ec37d8f045",
+            "name": "Partroclus Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJnXuLu_mNOxARnpZb50FNFBM",
+            "reference": "CnRtAAAA-O7GshCfIqnbq049La00XHDy3QvfI-Yh8bKpfIbbwoaGDRoNMf9-78zRqZqqruVnIsSUu_YL16Hou3UdSQvoGINjzmUPCdEojqubyR43yNqBZBIT4AOeyoN7WzuMJ3EIcKQgg5b_bSWCqgpq3guAZxIQvuNczlImKGzsqjzFtw9AoBoUCw--4X5a12nc6Fnd-uv4NdrpMiw",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Container Office, Tin Can Island, Apapa, Oshodi, C8, Oyetayo Street, Oshodi"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599811,
+                    "lng": 3.29264
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "83e998133933888973e49a4c31e445ec68a2c85d",
+            "name": "Blessing Maxidile",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJi97f41GQOxARmYAUSbV8gLE",
+            "reference": "CnRlAAAAd03YWiCdA41wPZ3osEQS2Vdb9KYDaXb6EQzgOOqRZ5QffZZX3gkmiwuamFmUuAB7lY8xigDAbrWBhCp1YfS66wTH3GP-5dzcLoQPmnn5neIRtEu8fdj8dYVKzm7DQbmpOLf7GAOp-zloiIVyk2hroBIQ47D8NcZgDtNG5IOuLF55JBoUUV8b8_AJw7tNq0cRU9WKFSgXC5U",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Falarin Street, 3 Ibukun Omosehin Street"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,43 @@
+<!-- FIXME: Heavily refactor events.html -->
+<div class="container">
+
+	<div class="input-group">
+        <input type="text" class="form-control" id="search-field" placeholder="Search" ng-model="query">
+    </div>
+
+    <!-- Only show this if theres an error -->
+	<div class="error" ng-show="error">
+		<p class="text-danger">Server says: {{ errorMessage }}</p>
+	</div>
+
+	<div id="search-result">
+		<!-- The categories results -->
+		<div id="categories-result" ng-show="!events || !events.length">
+			<ul>
+				<li ng-repeat="category in filteredCategories = (categories | filter:query)">
+						<a href="" ng-click="getEventsForCategory(category.categoryId)">
+							{{ category.categoryName }}
+						</a>
+				</li>
+			</ul>
+		</div>
+		<!-- The events results -->
+		<div id="events-result">
+			<ul>
+				<li ng-repeat="event in filteredEvents = (events | filter:query)">
+						<a href="/map/direction-to/{{ getCoordinates(event.points).join('/') }}">
+							{{ event.name }}
+						</a>
+				</li>
+			</ul>
+		</div>
+		<!-- Only show this if the search result is empty -->
+		<div id="empty-category" ng-show="!error && !filteredCategories.length && (!events || !events.length)">
+			<p class="text-info">No category matches your search</p>
+		</div>
+		<div id="empty-event" ng-show="!error && !filteredEvents.length && (!categories || !categories.length)">
+			<p class="text-info">No event matches your search</p>
+		</div>
+	</div>
+
+</div>

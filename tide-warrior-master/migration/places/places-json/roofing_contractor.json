@@ -1,0 +1,287 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.607673,
+                    "lng": 3.407559
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+            "id": "1cf9b0ee071eb4346bf2a8e0ba3054dc4c7e4761",
+            "name": "Pidna Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAdyZG_ZO27nejsZ92woa34qRbehs6e-kLt3oCVrK6nJQVSnCwa7opO-yuOn2VonsamcT91hJpUb-gNYuWVkm77YMfaotdGwgXBAVp3_eXpb3if4QFY5SwU66Zj6M8vfEqTuEasl2ZA7guB6dY8UdYfRIQOzhHDuoYALmeq8IH4jU0XBoU9apWQABDBIQQHLjxa5hj63KOMjs",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJxUIyW9iSOxARmaefJ0L5_H4",
+            "reference": "CnRoAAAAjzZyALPh1nUQxsB7EXr113-yGoxUmZahMWpxDxqefOtNGcRCJIUfmSydXYQfgH1vP2T3TGBlLvNTMJXW2ThhVzsIs20YmwGX9nfltpCvesAZkyI3KU2_2E0a8XmPnxzbZUZhZXarTiAdbCH37CJofhIQ1VMCF7lp8yRnbQlnwULdqhoUsxwvNflTl5kqAPsYBVAwdieMS_g",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "496, Ikorodu Road,, Ketu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.472955,
+                    "lng": 3.331179
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ab1c9423265bd9adc0d75c77e904da1832f1718d",
+            "name": "Kovarite Aluminium Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 346,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAohyEkNsnmvma6S1g0BFMvOLczscQoNU2HOo6x3k6M-hqGhw51Op0CaVBieWWrWjxSgV9-0nfYILg0muwsh0bTfySJxXeNhejHRemYjaMqdJj5zCRzmUkqlT4YA8PsYjeEQ8G1BZA6pvjEA3Y_1fTNhIQL7wRiLCbzfiuDcF9ZbbKUhoUYPjlupjeYxcn0bgnwxFxuTdTin4",
+                    "width": 345
+                }
+            ],
+            "place_id": "ChIJ4U10XlCJOxAR54txcvFQJWU",
+            "rating": 5,
+            "reference": "CnRtAAAA1xwCf0zJmEW7yxF_BvPF9tMV6242v1M-ahOOgd8qrTnCDqU_0HLxQM8qH-C-nOPsF00WugBQbFvYLz1PpmWHHJ7i3SSYgqDXGeyOh6MezZ6t-bNVBYhn8eGiTpoh7wsxPxPMhgHdZ2C3-O5Q6x4YuxIQI8XiUdhix9xEiKf3nncweBoUHwPQj4zsPpsBZOCqkx0yscJO97A",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No 1, Coker Market Street, By Odiche Road, Coker Village Shekoni Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.656233,
+                    "lng": 3.475529
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8812b12a1f12bd92ea1b39192ebabe34807e087c",
+            "name": "ProTeck Ventures Ltd",
+            "place_id": "ChIJrfbm5IvrOxARkn7eKRZE02M",
+            "reference": "CnRnAAAASqH7RqY0QMXZGNWRk30ZotVkZxrUU7n2_ljnScQjKgSi3VFhnzT8Gj0XSJyNTKsb7xzNHMUDYVSUkDJPfpA3oPE92CNdLGWooH8VGfAaWHJ4lR7wObqahvpQ21N6B2GE-5wqESZjywJr0uQTaxNP-RIQ1IZoGOHMpURaxkZMEGtsKhoUX4gGiFE5XDMMMQZ19mv41M6wmjI",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "establishment"
+            ],
+            "vicinity": "No. 1, Asolo Bus Stop, Asolo, Odo-Arawa Street, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.60196,
+                    "lng": 3.35178
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "97c5d6313521ecc7fac231969683853dc14ab9ed",
+            "name": "Nigerite",
+            "place_id": "ChIJv1aPATGSOxARbuP42tnOALE",
+            "reference": "CmRcAAAANr4d_1uXtV1TZh0UGHbbRKampj-PzUQ4mHBs0y_19WriVk-qhL89LD--L6qomb7Vt3-5v570HzoP2fyGQvdAqt1yiyMy7W0IIDOyV2r0VftluRSI_3GDt17albQhOc_pEhCyM8ag0W0aMjthKzQ_oAirGhQa7xbp2e56x1rvmo-4KkWBT0V64A",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "establishment"
+            ],
+            "vicinity": "41, Oba Akran Avenue PMB 21032, Ikeja, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.525636,
+                    "lng": 3.341269
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "44b0b5bd101016f652734fc13b23e662d1bf8245",
+            "name": "Jomaxcel Technology",
+            "place_id": "ChIJtWZpRtSNOxAR3z59vGx3t08",
+            "reference": "CnRmAAAAGNIC2xZUsJVBjMvvv8tlreG8sgBxUeTXpIH-hq9am3DwEnS5BMRtMEkbvv9DgKZxqg1g7ZYdvLkV__h-d-pG7LIPRp92Jt1AsxKpgGTveLtBECtuiFXLDc-HK6oOdZOAn_XMqqin6vIMLwdJoi8DpxIQ8PCGCQnOn3VPL0Qz4xOeARoUGzrBCt7gTl_77lIZWZE7u6JFmLQ",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "establishment"
+            ],
+            "vicinity": "Off Palm Avenue, 46 A Layi Oyekanmi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.637318,
+                    "lng": 3.347972
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "007cdca031edd493abe58ab3fc32bca28eee2f15",
+            "name": "King David Asset Developers And Managers (KD-ADAM)",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 807,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdQAAAAYecdRgn86y6XVPm9AxGvt6KJHqij0qifHBjHehLpIpELy2eRWzoFhCs68_SXxTuCGWUN3D8DkQNgVaQ-UObZYDX7mnWSLdk53e35hSo993-C-Ii3GdCqBWaCwz36rK2P5KRn2Yc0y0LyVLGbsOJQiwA3uom09TElQp3ZLsXRnMEhB6L5JYhqL2U2WaM2PMSBrLGhQ_Y9N5KUjMI3f94vR4OxXM8iRyIg",
+                    "width": 808
+                }
+            ],
+            "place_id": "ChIJrebE6OWTOxAR5VTi2pcxMPs",
+            "reference": "CpQBhwAAAItNzHeUsb3I9u24aQXWIYXh8g8Xi-T7K6OhBIvsJF8zh4ZAV0YYAf229i_StfeUDZ6x3wDC6ngBhkvph_6XCM1iD7Nt-cqb6bTiTmI7xod1ZvFdEO443AjAzHkU16y6waplp8HYqwzt2P72UoIADbFyxClSrw3MC-tKKyvlP9QuRuyr20mO1q8UDsdkFLpd0RIQpp6Ih3COejB9Aoone0FmXxoUruR2H0B2Pn6BxI-4m84B0KUU8Yc",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "electrician",
+                "real_estate_agency",
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.637997,
+                    "lng": 3.343187
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b5ccb814d5004dc0b04de39a2a21f6b6ac06e38f",
+            "name": "Baytex Royal Nig Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJJerokuOTOxAR57KUKf4L6vY",
+            "reference": "CnRsAAAA_dfKayWbf2i1RRPzGRnvWHghEchggbX8_jkxSzTs0G_uMvaTfrD-2l9aDE7UHGiaW8jTDnMCateUYO1IZgsvSpLkC7Ybn9-GAlC3Hgi0kqIf92Hn5YTcRYP4rBHBG6AmdQ2_Y9alfvFTy4n1E1YJWRIQmoYP2ZlGm5j3OcIayjGTwhoUGuiBL2FhXZZJfNCmz76C8J6vSQ4",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "establishment"
+            ],
+            "vicinity": "Off Ajayi Road, Ogba, Agudu, 2 Baiyewu Close, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62785,
+                    "lng": 3.322578
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "551ff0662ea9856c3597188d020910dd7812aef3",
+            "name": "Detona Global Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJu792x2uROxARL6wlnom2YVw",
+            "reference": "CnRpAAAAP92sr27KItsRePW9-xRhCk-Nunz0cKjIavAYoNG-k56bttO1fm5JFBO8ysBRU6EaaPHT2wmWNlw-WRQ_gUQ9NoHHkt37Gp60g3rRjhCUHOXNCnRFxGgUCtmTgrGRs5I6Mn9apzj7wWgUCbnQxOOJGRIQYrOlWX3qzN7FUr4XoVC26hoUKiEp80Xyb7hjL9-OdCAn2c4Qe-4",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "establishment"
+            ],
+            "vicinity": "Pen Cinema, 215 Old Abeokuta Motor Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.608836,
+                    "lng": 3.314365
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6764a1d627c146528418f0ddb2ec2f7097d0ddcc",
+            "name": "Kovarite Aluminium Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 486,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAR1YUcrhiCBOdPUizNfhq9Q9_y8pUREkS4n8feMqYf9wEJNnaCurLU8wrLr3SD5DXz7HUYfIEvEVGJ2IFsSm-_gFQTnz21MqQ5WpN7fnEQMbyzevGVWC3SeU3_IUAhJyqPxsUFwn_wEwPMkK8Pl6H4hIQUMXN477sVv3-RleTplTyyxoU2zuljgMmmDyxtz1g-Qt8BMI5Sns",
+                    "width": 1071
+                }
+            ],
+            "place_id": "ChIJxaAYuKCROxARvH-lj70ARi0",
+            "reference": "CnRtAAAAaP3WWhaX9JGcF8-plh8H--vF7VyJ1LobPuBEVKIpa-FgZwWfNsCvVnU1wPB_K3IuhWZvSRftf7IEsTGh3tUxzA_MnWf64iCPFMGlfvnii4wJx5X2jMivedZbcTzMJaYhe0aXN7fSyY6Xj9ynapyGsxIQCr1VPe95eRtEZSfAMwed-xoUKM5kJ0bzbMyEdmfn0xon7qzevSU",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "1 Salako Street, Aluminium Village, Dopemu Agege, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.650732,
+                    "lng": 3.301889
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "798816c829fe0d18218addb36e81605e5e5a3acf",
+            "name": "Dellyfass Marketing Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJdZ-xDyuROxARumfRLh6Hw_w",
+            "reference": "CnRvAAAAUUjoTiaPN2Lvy7kTTbEwNlGxQep2jt_Tcc3snDa5m3MMKdzhl7wV3gMhZg1AOgBgIOP07zWlVJLS1Db13PzXmaVwqv2t7l_keLMPPCFOCYqOOCrY7L1V8lzlUhpWHT2jFO59ZJhmNqBQEpDnb6bFwRIQHBewuFy-ugstq3AN7X1pThoUfri_vTgtjQCW0hzYGAodPJXglIs",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "establishment"
+            ],
+            "vicinity": "Opposite Wema Training Centre, Awori Bus Stop, Ekoro, Abule Egba, Ipaja, 553 Abeokuta Expressway"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.591435,
+                    "lng": 3.354329
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1925ffb8a4ad8294a8f4db782b4b5029c775e21f",
+            "name": "Terry Moses Furnitures And Roofing",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJdwGzhj6SOxARsCZ7Ax-BkTA",
+            "reference": "CoQBdQAAAJvXmic9D6jwshv7x8EFm5xvxm0Y0agyE6xKuxB7NS_l7UHoZEy5M7PD_OtCxVpD2SA4fVhX_QB9KsT70a-szo1IWLmW4MdD1JFgUWby1t02rq7crFxV6CmtgLTZsmk25LQbDBhp33_QeHgGTdvWsui0ZuSoD42WFWZ80QbOpHNqEhDqiLAH6gSA3tSwv-JzTFmZGhQl33qCmJcPF_0vNbo9pRtyMN39RQ",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "establishment"
+            ],
+            "vicinity": "Police Centre, Mobolaji Bank Anthony Way, Ikeja"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,517 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC8QAAANws9sCp2DBY4Z1ahxF_F_I2ps327QosOZpNtMrZVe-ZPJz-v75Iwv1Pwa2KNYhrmQuht56UG9tqMbgM662WHWkrTeX7-IoRA8kstzPyQVfoCuM3HVxEV0PU8fyPrSEAopUZJ9ZNYUfi39TQHgKaRDEJXdMkSGU6fu52zXR4mOVXyd0z1qTQtpWpHrcT2bO702P3dv5go77rhpkLTIBcZtPW7midXcQljsf58WWrczP8PIP4JPQWjkC21eNWxra4ftvfU4G8ujd47M9XOaFzLDQcWNFraMUnuD74Y8MfpzAkkbErae33YM4XXor3FyYMzinHesd3WdDlpdA1Xha14igSEGyLVZsY0iYhn179Zczr5aMaFEs38OunZPoVmc0AG-B-TlDJEwjY",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.542578,
+                    "lng": 3.326667
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "14932d7d5bfef90a9e664884bd0c087388a8afc6",
+            "name": "D'Palms Airport Hotel, Lagos",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1366,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRmAAAA6oaNMo1MIndnTwkbpVQ7nD4fDgd6PYNlwOczVKn9I_F_0B1ixiqcjXU9Grs8O3ZbTTnQdRygFR8aMxY3NH3L01hiek1feIU5tQow8nW9gXxzscgs-Hj8UNMrJe5LwgonGvafD6kX4yIubH4AnOoIcxIQiUjTdXLJgtxiSCzpJDNUcxoUZDwUm0rENtDVfZl6skxztNAw8Fs",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJP3CasW2OOxARn1Id1BkqK4Y",
+            "reference": "CnRwAAAAbn0yU5DhFYKFlwShX7vupK4RsAygAETRbfVwyDDJRdrQqruGLtif4EJEQaRy9diJiaoWCNLs9Z24O-PNJ2n1iYa7BKeRZS_HLR23WNZE9iCzq5teVUkU4IoLN7vCdwm3cvEsF46di54yB17fpyJw1hIQH3M7fzd6V-p4MXXeQYrdHBoUZGiy9pXjFq4to-BBzaMmw4jWS0k",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "restaurant",
+                "lodging",
+                "food",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Asa Afariogun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439332,
+                    "lng": 3.437307
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "c5043774f7d066ed92552c7f4e36c07d8e4efddf",
+            "name": "PROFLEX GYM",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1013,
+                    "html_attributions": [],
+                    "photo_reference": "CnRoAAAABExy6xznl7YOQU2nu5U9-9eKBLd9sh9YPEhVeuoaPU5Wbe5VgGZiIywbUQRUyxLaMLIHKS0cCGW3suJDaLgWAb28ifspDoGuQUlQg0fTFJ8Hrfbay6fpyxNHM0M__AZmRYmXDj2meIrwXJ8iVgfhUhIQ6S3VKah-N1PZQCXlcidmYxoUUxJF8R4QF4kHJC-WWNw79hzra4I",
+                    "width": 1010
+                }
+            ],
+            "place_id": "ChIJ3W5fgt_0OxARABHGkJgGD30",
+            "reference": "CmReAAAAKqLlaxvCIiSuSHjnaTIl3bjIMLrQRSj2ggfHqlourBvoO1uTlIR1bmOA2v5kg8QamfBBj7QeR2mCmebBCdtAMOjtNeJaGOTzJwvGm1m2foDP68fQAE9HUgLf9DODQ97hEhCOEGwEm19o9CnZWFwUNASrGhTsZ6opyzA6ndetQ46a3D-UYhFCkg",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Rocky Island Complex,, 20-24 Ozumba Mbadiwe road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.587083,
+                    "lng": 3.393181
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "298cc7f20e325f6b191706f4e79c0c0e4eba56c8",
+            "name": "Trevo Health & Wealth Creation",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJLc7wQJOSOxARYYBTe-gb1xE",
+            "reference": "CoQBcQAAAAQkyzPNn_6m5gE7lY2YGQixjnVftY9MMWxo7zFGmBs4l2a1f_lfw-3khLCj0rzltFSrHgyxPKh9x0vrZKgnB7bbBqkF6uI73LCmExLdmlqEcs5faRaMqxnj7tJy5Z5_v_yRTQagb642gRMRP1ID44WfGxFB5yjQsEe4WHy3U9-7EhBINnzm-PbvZOP4E5PR075tGhTBwC9cB6rb6g_z-Qgy_P2EhxFKkg",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "21 Oyesiku Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.552605,
+                    "lng": 3.387724
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "0f818701ffe105ebee0ac47a9e1ce6b794dfaf63",
+            "name": "La Fit Gym",
+            "place_id": "ChIJGc2rvnGNOxARmFcAaor-Nys",
+            "reference": "CmRdAAAAEDRV4dgyT624UYID7WK7xATXAJirWbTl2edpz-xsGm_fvIsweFqsCEXBJMB2tPzMyb47hrnDGAx9XdPTf5ktTK5XRaT-zUQFEQimjrLPIQoXq2DAbb0GTwkMmnH7HxLpEhBdGKGWW27WUD7ohELcoabFGhQcMAWxHtLZ1w7_arv09K8BidcitQ",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Atunrase Estate, Nigerian Army Sport Camp, Morocco, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.584862,
+                    "lng": 3.350016
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "65287f6b277db85f1b2658d93ac078d81556f533",
+            "name": "Paslim Gym",
+            "place_id": "ChIJH192bBeSOxARPEbmblFqFk0",
+            "reference": "CmRdAAAAKE_G6oOKqX3WPknTdA65M3uUzoRQPbD8OIpz0fN27mfAE-pEu4_xi8dNVIZYAp5R8s5WKS7SLDAH1JjVpAV-QF85E848gl_KbLMsZXlshCaqAefMqBSX7xFlORDb7UveEhBRjpoW3lEA6zVIvIdwta2tGhR0EVWLQav_dGTjTTWuqEXKhD2TKA",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Country Club, Joel Ogunnaike Street, 2, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.475107,
+                    "lng": 3.365502
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "6176211a2abe45d345dd0b7374a9e9819dbb1cb9",
+            "name": "Sickler Loosed",
+            "place_id": "ChIJx3dY6o6LOxARfOYYb5N40cE",
+            "reference": "CnRiAAAAhVpf3eAUy8rbnGBjsqR_xF-etvopuGaECD3qQT-F_Jnq0q7E3xB4SXdZ-SY0w0-UFXhU6IgKG00qnZpEa2cxAlsCg70wftjkeKebE_wLOzIWXQdnI0-JEqSUbHTasTqUFUTSCY0t0h6qg7Knw5X6dxIQm5IeLedUHYPgfpMP843RIxoUDYdpyY0NmG5K9GfHWEWxGJhQUUg",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 5, Aiyelagun Market, Ibereko, Badagry"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49792,
+                    "lng": 3.349557
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "78bd95a8ba4ffd5b51b2376e22c1cabbe0d82858",
+            "name": "Gategold Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRsAAAAhP6WMhuihTyhnyyXW80qEtDWbavgxdEVe5qbIVvrUdUvFUfnMLCFPKO45B5u1RPCM8Pt1hbI29u1RjYvS6AsfMqPjwQdzpgNI2yf0OiCLw-pQvn9Zp6dL2By6Qdo41JyO6C0a2-hfN8vHSDI79HV_BIQmq6j56aZLdPEPiYAHUVO4BoUikgyUcUCisTDb5JrRFPFZHaFstM",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJ5RPwrhCMOxARxN3kYgzT8RE",
+            "reference": "CnRrAAAA2N_iioeK4fWrCf8Zdd3iEa183Bn56d3g4QaH6JDw4ImuGBXcyvd62U6IPQaLbWqWmwCmPa92b7C7Up4V3iOPH6QJo4fiodQrJYdmbua47zenQWAXf4sYcMA9PA7a0SbPjkPff9itsW9GZBBCfUr0wxIQiUSdBl1DC969o6uFNlFXUhoU5_Bp-CdjMwuA4ivcbIKXXPx6x3o",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "94 Ogunlana Drive"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.620438,
+                    "lng": 3.299364
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "4cc8fc30c0c64f9208c24fa8362a9cfad26c36b9",
+            "name": "Divine Conceptz",
+            "place_id": "ChIJhW6YsQKROxARUiRPcpQ_sW0",
+            "reference": "CnRiAAAAAV_q8L09_ozWgwtx_qWJFrNLQpd01aqqwZ1QcwNnhbA6Ws1FjbrXVmV1z0l41hcyvMajwmCzLBZgbrmRQ6pXtQ7NKr7050Jy9rhWQSSDexXurTOik_Fx6LSU4sx_r0E4r1bh1XJiMo8Mfveac172IhIQ48B_gNo6ipUOG58rtthekxoUuTEjmKxPsoTQ2bEDDDkFJteckBU",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 19/ 20, Labak Estate, Opposite Car Wash Bus Stop, Along Old Abeokuta Motor Road, Oko - Oba, Abule - Egba, P. O Box No. 3540, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.643404,
+                    "lng": 3.37236
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "defd03b475b1ae809375d2026843805b38e08a88",
+            "name": "Ddelta Massage",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAMbDWTNnulxjoqKwvuLi_NbycqPkwQHFlt272Kbm7CxU7wKskyJF1-QWv2d8pz1mKmuRcviqjf0G_yKq8Yn-qM0gbRQM6HaJAyYLJ6ACa3As9hX-r5IgxpkoacqzxggbKU8Oo8C18ZQkZjSPtiES-xhIQu-uJMKEnZ0exTR046xjSFRoUr9gVuSjjmz2EE9Mr8hrHqlt2WB0",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJR3bvzpqTOxARDzzN_yzskrI",
+            "reference": "CnRiAAAA6wlH-Yy_i0HXT4Ypo3tyvXPeVlxpgvNM4sBl1yKD0QOwai7OFH4BDi-iWOXd2CrpPHmR5Jaj8lKmrY0gvlLenm2E9QvkC8pLL8BdeewhpMEU7cNqg9kMeU2rCng66XntvM3EehAQiElYuEQTwLU3_BIQhqyYC209AbITQ0Cpn2_AbRoUf8oImnaaioW9RGrdcLMw7lhWAGQ",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 9, Adegoke, Ajayi Street, Ojodu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.461254,
+                    "lng": 3.423218
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "afd6a8497600da43c109c8a47d071889e394e039",
+            "name": "Astro Soccer Nig Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJn96PlLX0OxARIwYjfESQMq8",
+            "reference": "CnRoAAAAR9IQa4_06nUVSvi8Gtg8wuB2yFAbHELvGWij5-xoiTUPJ3_jFTYvEihI8bhChdgxrYra_8_mXpK-PWOvVtMJ81rcT_WVqHLOCvo8lnooKu6nvtkFrJqkPvMnT-tgZH0teoD7HorAnBAcbU3nnKLmLhIQJT1qV0rcsJn6paLR_BQBUBoUqHi-UWMzPgP7zPSeH_8wmkV4ewI",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.550648,
+                    "lng": 3.375502
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "98ccf0c7fdc76605ce0802b3881576cea825718d",
+            "name": "The Cocoon",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJs5C4mJ6NOxAR77dFSywKxHU",
+            "reference": "CmRdAAAACNCmphfWOm2gD-Bl1nnVio4Dnq1CYI6_D-8k_pXc2tN6NW4I90a8U23F2tmxkEPWlAePnUC1q5Bz8lHVa5wwgHm-FpS5R2bIUEbqY-bNximFLRRkmTfC39Xtq4BXfvHqEhDHH8WKyYg3bX7J4AjI4o80GhQHDtQ0QB_crKVcxglU29z813ZGqA",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "4 Oguntonna Cresent, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.522543,
+                    "lng": 3.384199
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "add81c6cbdcc3e1366e050006bae9b4322f96b9f",
+            "name": "Ropk 555 Concept",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ3aUxdv6MOxARzMhF-vFRruo",
+            "reference": "CnRkAAAAhdUXhVUoHvRzh9h17VXTdMm_-JJu0ww1Wg_UY9TkMbRQdxa7HpWBVGJh8fb_zCyAoAVsb8Z3UvgOh2V0Pz06SphkFp_Se4R9cJBMjlJqdGYltxJfBZGV1CAOdeeGE7ZNAMKgqBGsvDqTTnPiz9TxVxIQtn05t0ceJkW6tQnmmjHOsxoUMNM47slhn28Dl7HytmjlwAa08SY",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Yaba, College Gym, Federal College Of Education (Technical), Akoka"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.427114,
+                    "lng": 3.421981
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "b23b28fcc6e9aa83e3fddb36cc082e317155d4c6",
+            "name": "Core Serve Limited",
+            "place_id": "ChIJtRP0ijL1OxARt03-pg-tDO8",
+            "reference": "CnRmAAAA2JdR9LdKB7qIql-nYL9viv6-fWvNvL3EcSv3drpmIcY9jKJvtbec3XeBwR0Qin0N5ZXyQew1D_BVel9XY5ELSy7tiyOS1XrXlScjD1BWVowUwmgU_xGUE0hzgq_y0iMJetymEVV207sFxbp40xbjdBIQfKXWjp6UQmfBRtRCadKFUBoUelzEvHNN80_D0Xb1FOK1GB3f4FM",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "40 Saka Tinubu Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.681348,
+                    "lng": 3.367095
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "dad65f22259f42490e4505a3fc364c84756a03b7",
+            "name": "G - Fitness 'n' Wellness Ltd",
+            "place_id": "ChIJK1wL-0SUOxARC83aD2A58a4",
+            "reference": "CnRwAAAATMLsiWQ52MpaZXHDvywMrwK5gWcvZf7ukuDkhOWwBQdHOH-15n2IuMPSiIKKQ7Pg_up1Ab9z1XCCSSw6JMpnj3X7IZPJph9saPsK8tiotZ2_YAGgzsIQ7N75SwTpML7HOKINsFoRZWuFnFXbfUqZXRIQzx-Y5tzrwpA4V6MKm71gthoUh5kVLC_PE-FIueswdvTgpu-Yj24",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 1, Sanni Salami Street, Ojodu/ Berger Road, Akute, Nigeria, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.536243,
+                    "lng": 3.278614
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "116991055dab3fb1c15c41e9e928edab4f5c796c",
+            "name": "Gnld International",
+            "place_id": "ChIJ77alV72POxARagcGjnKyr-0",
+            "reference": "CnRmAAAA7JM2BNq0VUzjKMw5l7qT5632D7LRQByAOPCfTlpYSyWfck7cS33u8jHnn06S4gqzTCyzzTEHC0YLtcytwToWZQVKQgcpmBXWnGeOqlu8cNIZmOFGVrgVVcsAQ34y7KZDNoRoIPYokxcVMHhyXlub_RIQ6WfklVcbOP0WfgtBHA7MOxoUhjK2PLPEjpRmD2D51IYUjrMsdZ8",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 29, Bamidele Street, Bakare Bus Stop, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43893,
+                    "lng": 3.519647
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "6b99cb7d0e10d90c73a3c33617fe1cd443251bdf",
+            "name": "Gategold Nig Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRsAAAA7jc-XK1-SjaEWPF_SlkcCJGaZSZbdXezMa_9EIc81sPkkh_9QH3cxaRmsi5pyW230Teg0OGJ0_wjTaRS8ztSIBQAiCWpY8-NPO73vN6pZZcQ6i9to1fkfekLT7jV_5cUV6F6nH9WuLLuhTxwcYs0XxIQ3-jkpB7I-uatqIkKUqaS2BoU-kNtzfrB3LwHeOaH6cfZYlr6cmg",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJfbGtpIr2OxARwWnm89hZSF0",
+            "reference": "CnRjAAAAzSDb2eLVzl7ThLRd9PCjdS8k2s8ryQkYrgjM2PBiUewml-lxXNn7gNP18BdhPfpJRO8p_XMJej2icu_eslpH2WsNw3GJn9gwHKshcxRYFj1ZEF0bRzvJ4dsjWYxDsJpXYtS5lBx-BobYHqrpns99kBIQTXqNOa_6PlIiGHPJ72hhshoUb7K4ueORwqZov4AcsazYM7kl1NI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Lekki-Epe Expressway, Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435822,
+                    "lng": 3.435239
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "a507dbc259d56f85533791e50522a7c9c17116b0",
+            "name": "Lotus Fitness and Health",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJses3LyH1OxARNPFbQkqdYVI",
+            "reference": "CnRrAAAACkMpOuFYaPDoCl3ts-IMjHm4U54p49FdFN1Dmo8vy_YD_qiojCWiARqSJ1KYvZjBaEZvWkzEiyXn3Fmso8Gm3HBbz5vWLqc2jB_jldpMWpnAcRYV1mOrBczhqrqcm4M9OQmq-Zx5QydRvxuWrRLAERIQ9PmgGPmwhJ6_3IhHHkXszRoU5kf-fo96Tp4QOgKWDNyIemFThio",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "30 Festival Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596614,
+                    "lng": 3.358709
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "6f784ea52688a49cc4a7d2b95dd44dcfd73b82b5",
+            "name": "Surefit Wellness Center Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAADTTRePQDritmvCApmX2Ts2wCPxaer6Y3_PRzO0g8aRtskH4TeetBv-yYvn5uTqC3hw3C2cBRmhayxDgd6hss2Pi8QcCGCeMQgkQuSltX5w0MMZQDXtsqUoAKvQ7lxFx-ox4Rip7tH0osIK0RrAbWJFZrvvEq3_4XtmzNWct4SohS_V7P27yDprycG6w2fdqXhIQTRrvrw4W0nZRq2I1F7sO6hoUZr-s0ScPGUYuMkzHW3r7I7ADitM",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJPX_TfTiSOxAR5ObE_yGU2PQ",
+            "reference": "CnRvAAAANdS9pu-OXhJIVZ8mJCCgeJsfsevMmwV_4naDk36jRsDdv8GKl30UTGl971Ez2YMk8lnhfOeBGB5NWESrRL7dfbXEV4vXmWrEmsw6KcN-L2LrZSZZ6dFY-2wrp2HWWVDrUheYxziEay9if1ywELjg6xIQYNPH1Pg_YFkEVloOU4I2xBoU-SD8tOwy74g9udhhy06DgtK_FEA",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "Felicia Koleosho Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.523977,
+                    "lng": 3.325782
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "fa901f10eb5d8db81fd009b687c6633eab32a754",
+            "name": "Le Lieu De Leilas",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJT3XQz4mOOxARvNJp83xfbeg",
+            "reference": "CnRlAAAASniZgpKNywMYZ7XzdxtBlYyf1r40AT83gSdcaOzJIMLOz-HXYUu21bH5aU0yH7N90iGnmfHbRuJVvegGJxORK2LVcREylPQJ_NT0RbUv91ykUjM0OfWzOvS5IQISJIEC920tSNVm8TpgaZM84oMGCBIQg4o9Lz5V_YzoeRVMEynOkhoUGwUwncG96_-xWuqcEXd_QPia5GA",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Okeho Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62124,
+                    "lng": 3.369745
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "5831116df6dd69e4aae75c4a08510dfd758717fd",
+            "name": "Fit Gym And Salons",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJY8x9T6WTOxARjsVIaGXE1oM",
+            "reference": "CnRmAAAA-lc_auE-4uNt8xr8KNWfcrxxMbXjp5vGWH9wjpRI4u5FushMZnmju_Fr8huec5JI-YUbCF5YZdSCa7HglYNsPZLeDbCha-piEF4XFP9NwW16h4Op_IbCsSFOSFRK1ve0xG2BvtwDDOYQGQR7S9R5yBIQA3xnmo3ijYdb00jVqL7HKBoUK7huLO1oU1p6eltG9IR0KIolv0U",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Block 81,Plot 10A Basheer Shittu Street,Magodo GRA Phase 2, Alhaji Basheer Shittu Avenue"
+        }
+    ],
+    "status": "OK"
+}

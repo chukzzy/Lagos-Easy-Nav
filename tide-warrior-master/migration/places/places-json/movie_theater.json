@@ -1,0 +1,454 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAAPowIy5zVJ783z7MLbFaylYfSKTeUqcP4A0TlJy966tMv_00OF15rHjZ8TMJnbyXA_wnzhG0nPCm-YO0AETaWu_W7gcQ7eg4e4O8IFbR0_jWx1_lFle4IWBqW_SXGCarFYLrjMh0C2uLxCNSgu2cO7tCFqmT1v84SHZbR9qPbrydcPWxSSZssVPM4G8d5ZxCDPMQnFtptblkW_rDWIWUU0XfuKR0W1BiymbEDqQFAy5jy-vfAIN5ff5nBk5s4CeDvmG8C_ddW979GOi6WMliQxfNZ8eC0jIT1_1cI1OmHi5KSS7QwYupmR158ghlgfgZVReenAJ4GIMa0F5YcTf82tcSEMU0mHlI8bJuaP5c4aLUe3oaFHz7Wj464E5-7qRMHpHSq9-yamfY",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62773,
+                    "lng": 3.324432
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "8c70128692348cb2c88a6d022c774a6d3ebb2eb6",
+            "name": "Pen Cinema",
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAHT_854WAtAW1BbI4Xxdf-vyD6Ym1-qDcvBKwNlIJaN3AuM_21fiVhakzREqYSjhWElCYt-qbsg-Hg3c6e9xEwpJ-js63xPQJOLLn1N_9pj84piPqBQKqEYAyFR0YQkKO0bGqf9qZEDJpKxqn42IJcRIQG5EXBY2lbhH2hIBcZu9_QBoUz0wo_8YqW0VZzrS5r8c9CTm_TOE",
+                    "width": 400
+                }
+            ],
+            "place_id": "ChIJ7QFab2mROxARh6dsDjGuMKs",
+            "reference": "CmReAAAAxy8g3AUzYUWX1Ab8ThHNkjiC9GEpNH75YByearrNGijIGGlvpjsEPEY_QZZK4LC7f_JecAklZ7808RJVdsywTb5zLFp3s8b8evG8ByBDFnGQmhE5WSmz0fao6yB52OqJEhA92XCSlpq9QhbBLyOiNfrjGhR2aF-jiBt3Xawh2yZeOR-h97plFg",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Oba Akran Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506399,
+                    "lng": 3.374204
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "3969857dcdbbe4a7b3dea37336d4327991e2ea3b",
+            "name": "E-Center",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1296,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAO-Vv-fy58oxrjMnhY9IwqP041C3w8lBQ749nR4Rhiu82m0-XykM67ZEGP7fk9ivK73uD3f4fZoMhPBtBibPv2gBBsD7ix6lTS87cig2nu21Bg_s20v31aytE-8gnVSujJ890T4w9OetfJsYFjTmImxIQLJQpJol8KTMDadZtie-PjBoUOUWeSZukx1QwIhw0mIAlNiWomzo",
+                    "width": 776
+                }
+            ],
+            "place_id": "ChIJgcmkgl6MOxARB1WxfGKIiUA",
+            "rating": 4,
+            "reference": "CmRbAAAAaNto_mFbHZ0X9nqjy-i6jQh-g20-AG27DFkP6ahZ-llCwEvVKBp5cGJD27H96OhNxE75OGyhejtgNN1IzVmQe7GHhSZJ0dcC_zVuqjz4dHEu3VErTTvx4vTUR3cRPyiNEhDgonR-e8_0KdaaPJdPUPi5GhThPfYsYrIEXkNEgW79wdzixhxSEg",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Commercial Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.505429,
+                    "lng": 3.374557
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "9c3b3eb28b4f63ceb3b4b284eb8dff1e51714803",
+            "name": "Ozone Cinemas",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 333,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAaL97CbIF0FlHyVJOAss5rDRk6L-ejy-TZlM42wwonjbDCRklyIGnTn6KieRKIOpfdWrOZ1St4nXVIB8xA5ek4d15pudhNTUTjG9fEtEYOlkC2UHiSJe3y5ERGC0WwhVJJvKe0c78oicCMVk4B3GtKxIQfPUAYp27kcV9QtJog5k62BoUMa698Q8ECnEI8VUTxKGBKlHPJAk",
+                    "width": 333
+                }
+            ],
+            "place_id": "ChIJweynnF6MOxARdDFEx3v1evQ",
+            "rating": 3.9,
+            "reference": "CnRhAAAA2ZqJ_ma-2XFk5XSsmd3gp2jHBFx4kRJ-gz8WuYPtaugHWbcO-znkkLzCRDFJbHGC12HD-jjX6vSuyZ7RWF1y22kKWcLancgYtRB-Ov78n9aEIvnr4aFmHOfz5LYyo-_b6uDWr8EAM8q25zquVNoNNxIQpsvyy6ez08K6qgFdfJu72RoUYWdjOvG2r6-BvCdo6qPLIPlnzSc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Sabo, 3rd Floor, Ozone Centre, Lugard St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.497413,
+                    "lng": 3.379943
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "0366d44292b89a5a1c7de17528a126873e1b4349",
+            "name": "Casino Cinema",
+            "place_id": "ChIJMdzM8ImMOxART6ITn8DNObA",
+            "reference": "CnRhAAAA9kFSKDZT89jgoTpODLcPMU4k1mBIdlP7FeuqANuPTGHaGrzQaC35B06_nBtgH27-XxR-wRdGK6Hl5UdsHu_r-xJx6tXE-4CqxUK7O8Qome-v1Iapjof_IunMUGECzDzFKBspYYOyqPc8dqsrjTCcHRIQKpzPFvYq-XJgZdUC0CEcEBoUfRTfEGfVsm3RZnBOgA3scv4UCl0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Ishola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.602558,
+                    "lng": 3.368337
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "e85ce9d43fe65fb52ce3e1531bfa941042ff8ed9",
+            "name": "10 Degrees Events Centre",
+            "place_id": "ChIJgcOfPE6SOxARdmBCjZHWmnk",
+            "reference": "CnRrAAAAm-q01X4ruLiCftRWDTeajFsn1ihVXesoii9F4nbWZcOr-YhdLhQCpO1sbfcYuqWmem4t3NbXPiQj0mWZ2fS74CTor9Tp5InYGX57Ojm4hKAlv1Hb3dHgfK-ZuEIPOBT925B5JRDS8N8N54WwgcvA1xIQxH-QXZ0wHFZiR9j-gq77KRoUus6JeTOzz2EO_gWUAsRyt8w_erM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Billings Way Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.487276,
+                    "lng": 3.384792
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "e7413b1ea8f83d2c0f739c32b0907ab5a27f37c8",
+            "name": "Ground Zero",
+            "place_id": "ChIJeSE4BoSMOxARz-YT4sS94UI",
+            "rating": 4.7,
+            "reference": "CmReAAAALahK88LVTuDR3wtHgr3ar6_yrd71v-0E5wou6WVE0Zvsjz3Fnfc8BuiPDul9EwHo0dHCi12HGLYXlXLJFKFWATGjqNrHXomIdME4h_-1Xm-2Pi1jmN9cGEIlzg6UjFLkEhBXORRU6hUCR8YKYphidtI2GhTTbgsWozzA8gxRPwOSLi_gT8007w",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Cemetry Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435465,
+                    "lng": 3.481582
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "ec5ec3e64915cb70de93b39eb8ca31952116118a",
+            "name": "The Manor",
+            "place_id": "ChIJXys5XMr1OxARQJfCbBiQax0",
+            "reference": "CmRcAAAAOPlNlICvhXui8GpZIj8dziLY4aV33so-9tL6hqFt7SaJr25Eeyx9DHv2frtZcexqUwgiiy7LoqHdoSmqd_wUEvc6853-yC8H8x3sEqXk1aQK-nkPvzzmTxpRC3NSV1EqEhAZ1oxp3JGG4qn8nYZZvAONGhTBHPfd-cxyD-Wwr1rAwvplkBfdHw",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Admiral Ayinla Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435218,
+                    "lng": 3.493318
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "0e5fc30f804b3f783632fdc884faa02bb3b9f6a8",
+            "name": "The Bespoke Center",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJZ3bwr9P1OxARy2uB2aarYWc",
+            "reference": "CnRlAAAAk2iwCODi2asdOd0FxSZHBV8PNIxOM7P3W0Q2EW7d5tTinnTBDuciq4I6kE3M2PMT8KwdYb0E7SrsBCzkGXCagiPIjebQ5LrIAKMIPODbrKB83I0qpIMqx4tWa_palF6RnnSwp4hGc3Why5DxgqQPPBIQrr-HKsg_fYat1HHsoO5reBoUGoTnaHZC1Iz8fXzS6YOWdXm26Uo",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Lekki 4th Roundabout, Off Lagos-Epe Express Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447321,
+                    "lng": 3.347803
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "8d363f229e6d47f5f99f1b53792b9e465bf6d04f",
+            "name": "Oshinowo Cinema",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJF_LjytGLOxARSkbcqeaHzsM",
+            "reference": "CnRjAAAAjdTnDvPk6vYTkQn1lgwi6j1hIkFpNaUn1anhh3eL3az0gWujVEnW7tuI35nr0ajdCZmmEjegwAlsAr2bcJa5NKgN152LmkEE4wajyskWgp1XPNCVb6bf_-5ZgAk6oX2U1KyKX2TZy8Jp11J2JquGmxIQ8pWgOjCRUoCETajoZhLiPhoULOHhh5pUksSeUmigNHHFZl9lE4U",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "40, olodi apapa, Tolu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447951,
+                    "lng": 3.328781
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "09525676f707a7a0bd36d856af88319254c64c90",
+            "name": "God De Cinema",
+            "place_id": "ChIJRa3qeHCJOxARz8aShlv5mnA",
+            "reference": "CmRgAAAA6E9OeBz0jhcGFDZY3OqM5DnqEa10ZMhoxTP2VjF1oKqCYwIUe5qiFOkVckojrpNdDnLfmeD6dML33fIup2U1AwMtTmKHfNyuS8V9oWcQnfAZFOA5L9YoTGWa-3lVSX0QEhBiS06xKISyxiU5VxhBf8jgGhTDF2bOKlmC3w4EIeinVgbvAaQs5g",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Alhajiadebola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.502958,
+                    "lng": 3.383661
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "5c3c05116e2fbba6cc5c1a13dfc8dab591474920",
+            "name": "Panda Event Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJYTnEUouMOxARlnpKAUmDMlU",
+            "reference": "CnRlAAAAmyM87t8-lXW8mfi6boI4sVzy12iH1b2DtzUwCp11D6bgKQsRhcNZvQt4uzJxB-KlFdMR2WogYMLjR2-LHJSMDRakEUpFCSoXGzNZMW9lIhPe4f7be7nc4FI_RzlS6nKXkgKoNlHS8jeTwpUH_B7o7xIQZYgHIEx-WgpllYx6uXSefRoU9EPYIYkBsgAgwvlHLk8IDub4EXs",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Oyadiran Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.519482,
+                    "lng": 3.392383
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "312202679f99f47b23b5530e85417cd2a2a1cea0",
+            "name": "Latina Cinema",
+            "place_id": "ChIJafOQhuOMOxAR0eBHzCHCysw",
+            "reference": "CnRhAAAA-ebuMw0vrWi_rw57KL-tkOlaVHl06BkEUZ3dxo6v0Iuvv6SV_JLCvsW-ELwMhehG8aD07229PNOftksYcbXIjM7PicxSQR3bvzxnZqpv9Vno1SjWz0iBQu4KwCQyLPpHigtYIkjMcwD-DFKp4RdQ9hIQ6TjACGmmt9LGrcsVAWlNQxoUhV8oGIsfaqR6KaB6PCRKQqfLGD0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Dan Fodio Boulevard"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.544232,
+                    "lng": 3.275844
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "9baa3a1b8c57029c537575434a85f4f7e3219df5",
+            "name": "Community Cinema",
+            "place_id": "ChIJy6MF_ZSPOxAR4u1hFuAiYwM",
+            "reference": "CnRjAAAAcBV7N5YMT3SBU2j20-l5RCW5mcJW37jbpHtAzo9SLaWvPYX-GULp7mbAuI-5iWLaHGNZ5Ikt3KQsykU_zXAnV8d7hSwnuf1F-jtmadeKrdfEyaCAUjpPylENh4KFYekbqPuhlISACO3z-GtCmuvZihIQbVxlxGaXw67M417F438viRoUa3FHAWKyWNwAbry9D5SvgNzpME8",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Community Cinema Egbe, Ikotun - Idimu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.524966,
+                    "lng": 3.359793
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "45828ff8e5468df5539c07c0cf91227b86ac8df0",
+            "name": "Rainbow Cinema",
+            "place_id": "ChIJm7myT7WNOxAR6_IGzVUmG98",
+            "reference": "CnRiAAAAcQC2QMd-1C_Bid1V95CJ72t7rrysmz-9UmmXUEuwMyQcWjdYDgFwA12hwmiQJOsHJ271a8dUqpiSBv5uqWL_77rzq2NFawec3sjUaOksA5hiRhcbrLI-VA-PR8LrbJbYbTku6Z_0yJwdlwGI0ebLnRIQ_pKKcarOXs4Z5cSpZ_jefRoUOS7DrU57enWQHhR5TaLLFFM4Mx4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Labinjo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.529126,
+                    "lng": 3.347432
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "0ee731d575e1a423f109b8ffae3898891fac85e9",
+            "name": "Idera Cinema",
+            "place_id": "ChIJfQuWPNKNOxARycOgm4F9pV8",
+            "reference": "CmRfAAAAJ6gjSOOIY-WxnbKnasKdozzAWMWc3qQwDkc-BPuOsOqbj6RXTlT3u5Ywgq_RfKF7DoeLhTV6xyeute7TwIEq34MmfIA9OsvzF-vuIjR8FfhH4tf4UvSYeGKAbJ3mOuN2EhBKevhj99t0x4giOxdoZgS5GhQQIpJZ4JArBumIy-MiyyCZhxQSPg",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Oluifunmilayo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518152,
+                    "lng": 3.387153
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "b138ebf0ab9773a8271f097075a8bfef1255b13e",
+            "name": "Faculty Of environmental Lecture theatre",
+            "place_id": "ChIJDZ4hcfuMOxARZkiv3LW7HTo",
+            "reference": "CoQBewAAABalzuSTmoTsfJBnn5g3o2czqhL10fE6z-mS9QgZnSYHVZhasGMQAkn0-tZREZ_Gw8QuqYUjyQ71Wf6GxsG0yQUPYKGSd62hrxRmss6f-rIFzMDE_LNFCRTgWRgls8spgeTx7rtxR8UghwWtRxPQWgJBZLhQ2wIgRYOi9vTPu_cvEhApCY_jWXQqBNw0kMYkjn1vGhQmfh2DYmWsVh9SXcgDStxx4BOfhQ",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Dan Fodio Boulevard, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.623902,
+                    "lng": 3.316539
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "5b1bbcf1d85d2ba2eaeb56e68170c3c7efa8f24e",
+            "name": "Danjuma Cinema",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAwysfZFVXM6rIYvvnT34Mn1s4cSoubDab-BZuJioJ-7BnVN9LsMFnE6rJ5XBb1WmWU0VYRlKu1TxELWFBLig_kDBgELZwNsZUMqcsg5OOQ_hbeGyNO8qH5f6yv1-wMHJK4wZPWbpEXrQyyC-egzKmwhIQXrmWNGgpXG5t_2AJn0zmaRoUJEwzKTiybZQJCQtMtodYCzPHorQ",
+                    "width": 856
+                }
+            ],
+            "place_id": "ChIJYfS2BhOROxAROD323pFeUk4",
+            "reference": "CnRhAAAAcAy0rgkoi-nuV0wI9xgkBAiJuTv0kUWTW8l-1eBrTKdlLt2PDlKKo5YN4-BiSe1gQpNfTk0u_STGahaB6H32o4lfXp0Xsrn_EWN_gAdmLPQj5SXwbiMEFHSuOkQQ3ppC_WPmqLJWrpxdKMLv5meVKRIQkByy2pLmV95PMN933pzAqRoUU0qVOfvSxWTVg6MZlDGu9z5lCy0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Okeayo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.56664,
+                    "lng": 3.334639
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "db9fa575c69604499ea831e4424c8ce1c26d1f9e",
+            "name": "Nurudeen Viewing Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJH5t_5QGOOxARef0uD22ErhQ",
+            "reference": "CnRqAAAA8yWGwNDjmYXin75fecH-d-KgV8LfN0k5RfvK7J_ZZmFRXa5oJUIeCtWrY3_0e5nO4JYeitm2SJY10c2_EkjNp9NoTu94FuYWN9CrKCcutyCGmL6H0JAfCWCE5af7L7GlelSIRB5BKrMy5khmps-LyhIQqrOhfhn6SZhdoYhDu8VmRBoU1nUoA9jf8lI9fD-lzZ-qbhoNkKA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Mafoluku, Ayoola Awe St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.461466,
+                    "lng": 3.336945
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "4746c0029441a0cd651d2aeb73483adab0d18bf7",
+            "name": "Dstv Joint",
+            "place_id": "ChIJ9cT-z1-JOxARz_zhaiFtmSE",
+            "reference": "CmRdAAAANueDayHcPuUc7ZLiAgMqmng9cgoxs30kTnxzbS7Z9MGXz_5xNIc_7Yhl4UHqtBr3REI6nQwp0zox6Cm1tt7dA-yVOD4HBv5Z5U8cILsDBub_FN22eD2W3b9pEx7y5jHKEhDRcBj2NUi2zFh2mtc3JOYNGhQmSMY9V3RH8V4aDEI3DjtnimXPYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "Aduke Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.664112,
+                    "lng": 3.518085
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "id": "b51017df9f636d7661e629d6baab5f057389cf3d",
+            "name": "BSC Events Centre",
+            "place_id": "ChIJj-QSrUfpOxAR2vT0VmguZZQ",
+            "reference": "CnRlAAAAQ3DkO1jCYQoOOi8CUk78bcsDfsQaesJvwMrnzxu9FukrgmI11cUJDVNLRlmF5DyjR3Y5DINAk8yVsi3HPW7NbvoWBNvQgHBMYSVA6o8X6028Rncpxt8D0hKD6uOVqVUOr4sL5-y588iHJrJhTgzpBBIQmTLkgZa77TRFLTHFlnP_NhoU6EqTBdG8LbtoWu27lKeDQNRAC94",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "establishment"
+            ],
+            "vicinity": "134, Sagamu road, 134 Lagos - Shagamu Road"
+        }
+    ],
+    "status": "OK"
+}

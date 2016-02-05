@@ -1,0 +1,503 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9AAAAHKzJUyaR4Vj9lYQXkmKR4Fr3gYb3MsTCgUpJkk0cT4SnJNjk_DSPKYN66uhvA8FXqOhUINyKqtb9q5f_WWw9nm3WNPfzBY_SFLo868SkVG9ksIm__8FXpPKdltCK1vkKpAN0lTbCxcUXEP47cU4ToE_2pFLOZMQRdZFr3N6x0bnAS1g6W9OZiGrvHITq-eolQgJAjWcA8N1Heh4nDzVosNwuYEtf7H3BsqskgyJcOVRD7DBlRwB7H3a4324VB1EGCf8xnaDYa5RtE6oN-pZwdZo37ykz068cJI038RGd1NEnc2ljySIgz0ubh6flfyrfN4Z1tV1DMMeAruPSiD8UCsSEEuiyROxGIwXbd03LZAN_VkaFE6CDUK_Q-bZ3rrxxRDLDaGxrtAG",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444573,
+                    "lng": 3.424341
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4b2ff985cad27c4032dd37fa994fa2c5617f5a1e",
+            "name": "Carlisle Pharmacy",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA9MWFRsaH5JGeEnEICnAWSG4dP1oKGATxbDcmLpq8aDqVs0WdHhkeQJmHWgw8p8XJ0ubW-X6KCTvtwkQhHVVH2GvMYQWu2bHUxPeNQRI93szEgCpXen6zQviJVVPJw5FYn4uJ5ERb6aZ-1NGz8CLEdxIQ5s2uGc134NcacnwXDQGn-BoUWxk9L5EuYyBiHhPtEuC8b4WExy8",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJMfbgJCuLOxARIi17zana2qU",
+            "reference": "CnRlAAAANOL18kKgSK_ZaWtwYOkNO-A4AXT6BLmKndmMYfS2mFIZU80aM9R54MUXOpKzxCW5_73Ml2OP_IleMuaGtJ45cG_6NfW0TRjkyrEEZtku1GArY-NGwcjwhoFNGa2QTl-Z6K9vzzur_cj2cX23DzGsOBIQthvWl1Di1hOfsnoPvWosiRoU5skfwdt-q3P8KTzEz0jcwNcJStE",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "113 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442471,
+                    "lng": 3.422236
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "10f693238c0e670c6504f67476abddda061184dc",
+            "name": "Smile 360 Dental Specialists",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAAyQT7FYNKFIJb1MKe5yKTvS0IABd7ogT3sgVLEXEtiE628q6xy0k44TN4qmswo-eC0W6bM4Y0wzdTYodLXBY4ExINe0lq5bQ0gTfjHboU87PXyQ3cq5m4EfQ2OMcg8daupK871bwBw-TMQrR0K-atxIQrxwAqjALegc18moW-iTTxRoUy16kKb92HyLxTNkOXcZrOjjdex4",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJi5PAyyqLOxARHCLNUVaV6Xg",
+            "reference": "CnRvAAAAT47EqHrTIyDqtwTXSmnd7ahfCofD3yepfKUAJb-UA-AO_4svPISx7KoXkYxFszQ4Ugn4eJOKlXeK1v4izemFoZvJFi66vsn08-9MePeLjw9BiveFcZeJf1PzI-VdoBHiDljiZnv8pydDO7EV8KdrVxIQesfKJGqbD4b7bDw4PtVqfhoUslJwrl8FqvXH-qkw89LdIcVvPqs",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Off Raymond Njoku Street, South West, Ikoyi, 16 B Maduike Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432168,
+                    "lng": 3.463976
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "a0d2e017c0a40d765f28f1c2073299825ec4ea35",
+            "name": "Paton Physiotherapy Services",
+            "place_id": "ChIJLdPYQKn1OxAR4oYk5YMTa9U",
+            "reference": "CnRwAAAAOWRNARCKgOqP2r5fv3JYYTL9ZSeU8SidkkxsFTNz5E4qbFbYmHV7WP8ioWxMd9uGdmUpBKrU7T_HynpGZuG5Hfy7B-heguIHuInibZGC3UsolKLgPfy980nLZqolhy66YbP5lpP5pQSGN8DFaslr4RIQMUtY_CUnAmLB4E9FEpKHdRoU07-6_VkwJa8lYyU3NMXGtmbru0Y",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Russel House, Abike Suleiman Street, Lekki phase No. 1, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442824,
+                    "lng": 3.418567
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "1c503598db3047f697744e48fe6ae6c808e03809",
+            "name": "Clear View Optics",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1021,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAKRi7hfC7zNYrJbp0k_YETqOp_3xXPky1b7sJ55FcOjquFrnbG_OF50dRordFo154Ki-25T9sJaaVmi0skohHv4uNSpWVSJnTETKLpUOxi2wbuoeSkrh_pXbAYzOorbgmez59gqtUtJ7jhOie5eNrAm6g9_ZUuzGOYBm4FV8kUuFEhCm0c0rMc0Fvd4_lhpyiA_PGhTOQ2uqYqSzLnKfM02K_gMN8TEUew",
+                    "width": 1016
+                }
+            ],
+            "place_id": "ChIJfVclPyuLOxARWzTbGmA0ayk",
+            "reference": "CnRkAAAAEsKyXlKH6MCRrFxDdSmGF3OiWW1hL7cMorzyWuzS9fC2TyUSVOZJ_ozDfvJqt3eJrQEL2gWiWmnqXUDc_Wn_Ov0hqvnY7ixn8dnJkfmxTtezQwiv9Ka7rDS5TA0XAL1Z1GkbwukWKWcbch9CiJRlxxIQ0qnt53T6FZ6v9U5GKrY6ixoU3iLE2ZNbwBrlSJu1sOSS654SQkg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Falomo"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449527,
+                    "lng": 3.397863
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6349a6ce6966e08ee8a315aba38b0683d8cc8a0a",
+            "name": "Osagie Medical Centre",
+            "place_id": "ChIJ68cjIRiLOxAR3vEauwh4pDw",
+            "reference": "CnRoAAAAHVdwB0rXyyeTQQk-u3bChuUjr69o2fNgtaoRVc5KyIXoRpc2DeAKGFv-a-BxI57TNUJiaxTljnzZ0fcz6MwB1SojxzfzRcn3KVH0xjAks7wJmrYyTVrCTUhlAG1EiURV7s7Sx6idO8MU77LLtGoS2RIQQDpdMm1hTHWBGI09VwFvRRoUoQN-KsP7CE28rkmcpEilLJyrB_M",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Catholic Mission Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44542,
+                    "lng": 3.340664
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6d1dcef84bc144e1bb5a70d0d46cf11da2b27111",
+            "name": "Ministry of Health",
+            "place_id": "ChIJZwfmcdaLOxARPMwqZFoPDpA",
+            "reference": "CnRmAAAAqe-YuxBNbUILe-BMbnkiy5kOdy6JrXohzxjfdUdf7tt_iNDOVnrDp4g8Qnvp4Gg2D3V3F1Ocj1IOgtEFsN_EkUwQLwBZ2hTUWXT-oLgS28JzHSndHANLRWU_0cJZnl-JYNsubjcn7-FetF-pZ0xNBRIQVZl9hGpHG6vZGDUwbfw5UhoUSe9tj3iKjrTQAbB4Wzxj1_orTjQ",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Mustapha Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448305,
+                    "lng": 3.404867
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f1224e25ba2d160399f3fafa4e608525b9717c49",
+            "name": "Tiwadola Clinic",
+            "place_id": "ChIJDx9zmCSLOxARq77K4BGFtKw",
+            "reference": "CnRjAAAAYl0G8n0FToWGNp-WGprS53UTD8P2Djbas9IMUhchNQkK0BnqWaZG0lPxUxZ5kgnyQAnFIsabMDbUwgw55ynNVxumsjliKxcyzsWemE4soPGrg-zjbmu9kVh7OfEZjuqNYgXTbm_y3Yer6PzrB_Y7nBIQrafkxtEK2MZPKz9ixHyrvhoU9LzeFpywaGN96UJHHP3HJoqSjqo",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "establishment"
+            ],
+            "vicinity": "King George V Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.459205,
+                    "lng": 3.300812
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "170646fde174b6c3b58fcaba31b5af745053ed40",
+            "name": "Safehands Medical Centre",
+            "place_id": "ChIJ40JwtR-JOxARzluffz8Pr9c",
+            "reference": "CnRsAAAAVK9JQHwg5POv37sES9mXE0sKGCwu5HIZ-A_rY_6BuV-zH7B52Qt8AmqH0-8XylpSVNj5IZd4pVY_n4t_C_4iwN4Jb7kB4IjdMHehbtma8tsPAEIojwL6YgcxZyzoPg6LyAIuL_yMSwhwfKICtZVGfxIQv3VrjxJn48nZB2_G67h47hoU3T0gGnCVoBCM_-OjrW8lInM9lak",
+            "scope": "GOOGLE",
+            "types": [
+                "hospital",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Old Ojo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444849,
+                    "lng": 3.450372
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9bc16f9581214f2db6b6baa2d7ddc17c2e7bbb83",
+            "name": "Onikan Medical Centre Annex",
+            "place_id": "ChIJvfK8T_v0OxARaj38PlMjXYE",
+            "reference": "CnRvAAAACdiMdn0TQucoMDwVFtiU9lEeODEPFZpKQKO6Z2exSh-wBk-BeDgx_1KO4mcjDkvVIYCG4CkQyzy-NTBGS5q3MXw4qmQbpMclgOP_Spu_RvrfITnAM49FuXK9zWc13zxkI3C3lHg_Bj949DxBscM5bhIQDKEOPDWIgaFWqha4vbkjHxoUGlL2AO7Mu9sHho1waeRtLUpHBX0",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.51001,
+                    "lng": 3.365047
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ba33dcfc3efbd8c934a89ba3a25b11bdb8a40f0e",
+            "name": "Ojuelegba Scan Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJzU26nkaMOxARlmzJJ_eS0vk",
+            "reference": "CnRpAAAA5-UBb8x7odW9yKaV_efPAfAKR0fB1IxQvQ_qgcSGsWN7BsRB91UKmlsCkkpM5SkSuavYVS9DU65NX2FqQWJQyGkcCS8Nfu17VfZ_z1rC-f7wdVOw14szVjYj5GZhvocDcf-QZayDVVJmKe7InslTLRIQdM-9BjO9T7ppz_oSto809hoUlB5G333WSdIHLEpdl5kEgNyIJ_o",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Ojuelegba, Oju Elegba Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44322,
+                    "lng": 3.421812
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d0095b5ff1234379aa6343cb42b7c29d0ec45d00",
+            "name": "Chyzob Pharmacy",
+            "place_id": "ChIJXZFMw9T0OxARgGL20XZpc_c",
+            "reference": "CnRjAAAA5MFBGSZAjpEMVsIpoyYYu_WiPWdfzgX7v2q8qCYD9WkHswnWLNGhmjye_dA62_apizvPcKFXuqB--aiUFiGBcm2yNJX71KE6xrUFlQWdYt-qQ2ufG9quaGOBwyhPFw5AH4AAFHkbWJdvybi3JNvoBRIQuZmDhF9RjhhyQSCcWHJZYhoUZkYMmf7V3CXR_OGLKbW8mL2Sq9M",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Shop No. 168, Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446744,
+                    "lng": 3.45001
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "08f1985e10da25e578eab52fb9e561238773d234",
+            "name": "Schubbs Dental Clinic",
+            "place_id": "ChIJGTeB1fr0OxARdINffohOfq8",
+            "reference": "CnRpAAAASi6GLD4dVplXQJQcmNI4Ooy1zN3hmU3nUZyghtddPPalGDq0MQLb2bZ0pz-8DWeCpo48Ve7ioXFbDt79mR9PMtBI98reVWUPxWH2o16HZgu5FAKGxYS16Tunx4utBBFujRuzhORRqSRu87fgv-SFdhIQEYLkb-nLOe1eMAtGqIZYHhoUFo1C6Qk0WHjwBCgyT_00td44yts",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Alexander Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.542578,
+                    "lng": 3.326667
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "14932d7d5bfef90a9e664884bd0c087388a8afc6",
+            "name": "D'Palms Airport Hotel, Lagos",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1366,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRmAAAA3StGXPOvSBL5WTVu4n8baUYed8C9TQsDRtZ550sJVdmt_179YCsyK1eeCD_Q097Hxcf5rAEvOqe-B3RvgbbHu06mc2Ei2e-TCWZVN3EtAbjgYYzs5tTpL9RwuRLQ4XN74pve0uVfWCcQFDxkWkxtJhIQisBwfY3oq_EaChWMIgKC7xoUyIDfseVaP19DV2ngD53sJqgnEqM",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJP3CasW2OOxARn1Id1BkqK4Y",
+            "reference": "CnRwAAAAL_5gYisgbI0y61vprsqgw17MheX4kH0u_cfLIMIn-RvXTW6bj-MkW5Bsb17e7nfYYcpJjBDmBhGjAgwfR2PWqx1MM23rSlUQplX5AuWuHaZyQEI4KSrPvBPIHBMGEsC2UisOCSeIIQ3rWG3B8UM6yxIQrrrI2rNBJq0FOLQN2jgMLxoUsJQI7deNVHVPM5FDgK_MW5VmLlo",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "restaurant",
+                "lodging",
+                "food",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Asa Afariogun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.559085,
+                    "lng": 3.369533
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "27841edcd13c7482998424f888c38d9daf3a3a45",
+            "name": "Nikao Orphanage Support Initiative",
+            "place_id": "ChIJRzh0goWNOxARH5chYcPwAf8",
+            "reference": "CoQBdgAAAPleibeJMZ_M7af9Nr96o6n2FC_B9pXf4mlB8Ih7-fv0iz4GgDELDKiwTEgGtvXIl1v-Bn1nh9TT--uWZkpBSRDops_nF3zpuKBIOh6AULRejkhMaOSxEXQtpxM_n5Iy51oi91kQHCGfgbFX1FI-KhXosrJOJAoXnLbjCpJBhCdgEhCvCkCbLYSk6bvIXBN-EGFJGhTfphd0Y9-0uLu8ZC-OMRdn6oILRA",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 13, Opeifa Crescent, Ajao Estate, Anthony, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439332,
+                    "lng": 3.437307
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "c5043774f7d066ed92552c7f4e36c07d8e4efddf",
+            "name": "PROFLEX GYM",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1013,
+                    "html_attributions": [],
+                    "photo_reference": "CnRoAAAAUBRdUCJf_DFiIGtOF_RfdLNk3_krupkNbONpUqORALtD3mGhDHe5iImFt8m9qnxwDE0eZToNBdSw0t08s7E37SejTojhqW1dkxomG9BVIahELrvBwQscWS8elBwVfp-UaaYRVcY2rVEzqDZ29HvCdhIQP7YxvQxHuHhopQdoGRg-uhoUv3KC5nU08VPyK7VLSdIgcKAAFbs",
+                    "width": 1010
+                }
+            ],
+            "place_id": "ChIJ3W5fgt_0OxARABHGkJgGD30",
+            "reference": "CmReAAAA0Yu0mNMewHBvQ7yLtRx0monXiWYHTKHgEfVKvqPrHu4bl_-WtqSNg_ZN7PUZNCwKNDJOZcbjgt3wL1IuCe2TdfLh6OqLqoCs7jKCMrEVtzqDlL6Dj2rcnQznmapTyM5VEhCc7xqKzPTqK05b6mErAAxMGhRq3UNxG8zJlWIc_8H13euOQ6nCLg",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Rocky Island Complex,, 20-24 Ozumba Mbadiwe road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.587083,
+                    "lng": 3.393181
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "298cc7f20e325f6b191706f4e79c0c0e4eba56c8",
+            "name": "Trevo Health & Wealth Creation",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJLc7wQJOSOxARYYBTe-gb1xE",
+            "reference": "CoQBcQAAABRKELt8v5h81Da6mvUvrSFHATkxw2jb33rIHkI_umYVTtW8jK7MOP4acJHN_znZhUiwarlNzsSZ8t2MeFV16MPnbTdOr9KqOtADna4mFrOFYO1yTj04ALnfNnNjAFYYEfNm1ZtGQnU173PygkFmtCyA39-Y4O1N_8VjbcX-QrpCEhCqW9_cGTBQ_iecn7N4gA8tGhSQFkQRlW7o2fWiXbM8kBS9Z-wjWQ",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "21 Oyesiku Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441142,
+                    "lng": 3.369028
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+            "id": "77f04067189b19a8231dbf6c32991c1930c9837b",
+            "name": "Schubbs Dental Clinic",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJSw2bnbKLOxARwXzpnO1FLSA",
+            "reference": "CnRoAAAAPVRgccCoMDVVZ9Qah2JPYhyvwOZMIO_ib0J2OkiBlcjYsYqI6irfXTU2VlxhXBI1A9LnEuZ4qpJxOzLpcQLsgfBXtJ3Lq4zbntydBIkc9408FefYsxv1ofqmmttjGfyE9Fc4V_TTedffIEG42Y71kRIQ_mq_-IjoilIs7sQDzh6XWhoUS4Y8EH8kC_wC-VTzeEwJ9x3y0SU",
+            "scope": "GOOGLE",
+            "types": [
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "5 Odoula Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.656162,
+                    "lng": 3.323353
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f1d256d434bd1e58d59284f5896b11adeb670821",
+            "name": "Precise Medical Diagnostic & Consumables",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJa2TxErSWOxARM_Sz83WQQrs",
+            "reference": "CoQBfAAAAAiEGxZNFsaegQWIBg9qb5YwazF6rjPx2R28rqW1jz53f4RB07Qr8t26gdPB_c1OHOqN-T3jY_BzACPTN4dTpWsZatTN1Xe0SPwDy8MTrAK-tZOD4_i1W_azVUlkAkjkry9i0-pUzR2yM_svo0VY6JwEWoIb3DnVlf3Zflb28ScQEhBj5qJkCDHWn_VGv9h8utwjGhR9W9-QNG2xDe0c9m3K1F1lNUwj_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "hospital",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Jasba, 50 Iju Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.552605,
+                    "lng": 3.387724
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "0f818701ffe105ebee0ac47a9e1ce6b794dfaf63",
+            "name": "La Fit Gym",
+            "place_id": "ChIJGc2rvnGNOxARmFcAaor-Nys",
+            "reference": "CmRdAAAAkmgoUM_WqIhZff41YB_RGT_JANG0gf2poWvf1emF75mk5wxruKt28SGTBCqhg0jGtWph7RtzAA2zdDUUUfyzk2BY9YFeHvjFctQ8XBWIXe0akqAYeHKjwDeXd0XufPnMEhArZOAtSl89eq4BjgsR9mMAGhSdtPyZZKLOzMVQhL2mx6tMrh5acw",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Atunrase Estate, Nigerian Army Sport Camp, Morocco, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.581198,
+                    "lng": 3.358273
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b2c03211050aa7e3838e4da548c5d5bdc0fd7ce8",
+            "name": "Eye Foundation Hospital",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1882,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAApHGsmM00YdliHPjBYeh1Wulijge1U-j7AM4bPCFeJJfG3QRCniEXqpamArayk0muM795D7CELM_A3vmF2GeraXHxHLTuYDrsJp3RrRmAak4mBC3vxcY160lnYntFfxS0LSwf_dSTljNZiZOae3WI4BIQiXXkEUuv3jdWE080_tbG6RoUyeALXAEUlOmIbK6p61VviM2fO6U",
+                    "width": 2787
+                }
+            ],
+            "place_id": "ChIJLXfW1RKSOxARKAgx09w58UU",
+            "reference": "CnRqAAAADoA5-LwH27L2YNBURx0WxERJKPUTUpe4emoyAzEjBoq_7YKLrBZ3FKv7AOVDsfI5tjsyuaGjQNUqaiFdl_cooHdsVPsjsPODM_UD4nZifYMYvGT_MdRxneQ233QqKsY6_9154TK4boBSpeW1LLHjEBIQXhshBGwcrAGkjY1NoZogUxoUYmW_vSGtX7AD1AMHhIgbNuVbnvU",
+            "scope": "GOOGLE",
+            "types": [
+                "hospital",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "27b Isaac John Street, Lagos"
+        }
+    ],
+    "status": "OK"
+}

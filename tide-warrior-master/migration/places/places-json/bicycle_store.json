@@ -1,0 +1,475 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAACuDdKYcNcoSfGFevd1RpkauJ89_xCXJLMI0PXYnCuKv6inhvwjt72iXJwgzVsruZGnOoDI4XI2BocpjTlCbdCM3kmJHI0JMeGBCnyHivJydsBBcjZm8osAGTnBuF5wdVN0saJ6we7mrW1yMenbleI6dORi839kl1yUBTrlrgpBQUIkpwYOxTr19z8UuhCZAUBBc1pi5IjZ75z4Rt48Oc_UoxAmmA0hKKYJm6omi2o2zyBQI5A4-2yevW4BOgjtNTlPXx20SQPzY9U9hkjMG1PPSaGbYNDBmLYAJ2CSIppBINwOcoepMfEcRM8DHrUtPsjmbbEFizHIbANPUkXCd1QESEJWDBkytNulWZFIRTShoNscaFF6AUcIDoFwYcPtTQ-HnkaExwQyn",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600657,
+                    "lng": 3.36518
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8315fd18936a6619ed96fc967385e3be7dc73287",
+            "name": "Asomba Shop",
+            "place_id": "ChIJNxf1Pk-SOxARLu0JJBDioC4",
+            "reference": "CmReAAAAsBhypQY83M2dLqLCSX6gccwgHcAtQaVlUGscovU6LulAhO7_HAsLhj9Q54X_nLcBI-O9btyGaKy2fL8l5hgcKL4TlxCBykmefSbeeUEDCOqW5KbCrOQSfDMkVL0ON0H7EhBD8I8jf8XxiGj6wIdpxKxTGhQVsNBBk4Qn8LYIC-g7ObBaMBfDOw",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ziatech Rd, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606071,
+                    "lng": 3.34979
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2d5c9430b31c36af6681ea276f98397aae41d18c",
+            "name": "Free Ride On",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJP2xPbDKSOxAR1er-E9YvEqY",
+            "reference": "CmRgAAAAqNuseMF7Uatg4_T_TgQJ54b4_cyW2yt1qFD1DFGhnIRmVj9oEtQK58j3UamaJz_FHrEhNlka39-bGr0k1m-vP-yqERQNrmC7pCwDJ_LAyKAslhKnuwTTxCOyORBIQQbDEhDgV5wbeKAe3Yg6B2qmbhHiGhSHu92SPp9uCvD8nwXlafG9FUKzWA",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Allen, Alade Market, Allen Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.625167,
+                    "lng": 3.323485
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "08cc75a445399e5fa1a2fdfe59d8a38935e2b6f5",
+            "name": "Akin Bicycles & Repair Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ01x5HGyROxARPOp3Q7MBVW8",
+            "reference": "CnRvAAAAQ07UpxudOnZxqr36LuYF6vwvGB4OFwRxflHZKRGkEd8sTxA-Sq12CL4kTnnlzqTm8Q5IhoLYgAum4vViT9kzYOYhzWTnZtnL-BlXrnN_e2pcqcfJYvBs-ke0CIcvFiTz9TS1aB3K735TiZJC6S3M_BIQvRe9RjUh5Hgd2G6fHt6u_hoU2d-UyDERwJGxH9lhuxEVhdYfbe8",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Seyboc Plaza, Old Abeokuta Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.437492,
+                    "lng": 3.510484
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "80cbd68656aab23fdda17609aef65d56798fab35",
+            "name": "Cycle Shop Ltd Bicycles Accessories Rides",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ6dcos2L2OxARxNw4CrwkXB8",
+            "reference": "CoQBfAAAADODYarw3Oh9_kBkWhktCkZp-RK9VOf3sX6UOmUWAWAGl2oUW9BbkjXYX3RiHebgvRieApH-R4gceOI9gtMKrzv7xuGkuI-T7wyUsjbPbcQYvvyZkTWtiX7m31yFLKqgaMkx-4IWAFkrSP5cIeDrDtkxPKjaxY3u7pbwz6icasSpEhAI_RHGvPLVGdICyYpjxP2WGhQzWkWD8Apmbyo7Wcm01N-hF0UTLA",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Osapa London, Maya Maya Shopping Complex, Pioneer Tekof St, Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.462304,
+                    "lng": 3.322515
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "16bd87ac1444aca36fb7e808fc88c41d890869bc",
+            "name": "Basil Enterprise",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ7y7fv0GJOxAR9MAMCdrimpM",
+            "reference": "CnRkAAAAsIgy1LNfAV5so3kESNDkOUvTtOgwGl6XJhG9xmRE8C3xN4jJlx3ZuI0d5_LtDe60TDhXcQYlWL3_qICm1ekPK0_8TrwRmpnWkr9qRJBPYvTZs9jliVinAdDmxbH8PYobRc_HA6JN7CmF2ZzWBGIZ-xIQyZNF1XmKETW8mrFHj7pMURoU9qGsNhgK_jOQTDEr66DcyAFm4h4",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Suru - Alaba, Block E, Maami Market, Suru Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.528779,
+                    "lng": 3.311142
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "98206c7b97bdb664cc880f58e6e9a81b93062274",
+            "name": "Seyi Baby Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ3ZkQoFmOOxARrrI0IsPSYqY",
+            "reference": "CnRjAAAAHcba-8E6lyLrG1k6jyxQGaz-DMLtH_xT_zAWV75BPWxDtfPi5yVEww4kGkFXfDK4LflOabxOfEE4SMnglRQEwdqWdPefSf4SLMkkk86zeoKcU5vUzwWQ7MmGS9bDjRs9_8zDWioZueI-bpMiJJgU1BIQ82wIva7Ny7Wpl6CH97HBbhoUXVgxjWK2Lowd5vgDJJGkAyU65Fc",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Oke Afa, Jakande, Oke Afa Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596854,
+                    "lng": 3.385796
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "732dba2060dd817577c696a76e80cd1e9540c356",
+            "name": "Toy Store",
+            "place_id": "ChIJR3Ha5fCSOxARQKcKdQOoJJE",
+            "reference": "CmRdAAAA7grNW7eScv6wEuovBktEgNpNmHzIwinGY5Dl8-rWt_hxTZtjiD_tYVvS2p8hWpRF95biFSGScjo2sRR_IY3nOjS-KoMxMXXmcgcUT39ulEaZPA0JrVYz_TUs1hE4yH1qEhDiQJoZjnhhzBxWBSy_OvThGhQhVFDDhSSeO5NEluT9P9qf3UWF5Q",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.566252,
+                    "lng": 3.3473
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "42cb2f3e78ac5fc5f61072687acff2adb9a735e3",
+            "name": "Tender Zoomer",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJY5TIbviNOxARtpMO3WkWHvg",
+            "reference": "CnRhAAAAgmPZS5WXv3o1mI1j9qWHQzLOyQPnUXjdEX2YqK1vUobPNhgFoEqkxQhucf0nnN7ecoYXg6jBa0hsq86gD_nutes8ruGpDqAKt2DCNizOO4HSRqf-3NEXRDsINIXM3QU2IGmjj5PksUh2oF_l5oG-GhIQ-vt4sDmPJtO1DBevvSazWRoU9bKvs7gO92Ykps1r_ZAF9L30Zoo",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "505 Agege Motor Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.622405,
+                    "lng": 3.325347
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cf2d53b84ead49e0205b195dbeb32178c5017d8f",
+            "name": "ST. Trading Company",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJqWP2Q26ROxARHJN-5-NYH_I",
+            "reference": "CnRnAAAABjL8gF8iCOtE1CgK5PQDRQzXEGR-5ZQwOqNQk0KOV1VV3Ua6V2dVdH57CcAnQBOOWgY6oXiXrvkHia7DojqCuWF1Ev53hQlSEBdcHju9c3Nr07RB6I4hYHrAfDthAVcDU3tRXq0RnmsuVsQBaMEcLxIQtTyNAzcfEd_rpcpHbH2B5RoUdZKfYEHu1t4GqOQ_PJTrI96FpJU",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "66 Old Abeokuta Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.618747,
+                    "lng": 3.503433
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ffc77d43f7ec03ce4f8c683b4b0608353bbfbbc5",
+            "name": "Success Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJA-VCJYPuOxARFIrXZMq-dk0",
+            "reference": "CmRgAAAAPzf3EehY9hSkNYUJo59sM3qeBY_GZIwIRDDsORlpnmKnIlsUAzrR3QQMB-Og2HQLXoS4ijlnkxhK_82N_DRBOAinR_Q2CtcxszJvpsY70F8OsO2gMSa_kOjsxsOVRsVWEhDjTQq6Ho_ddIGX1QZGJ6ePGhQa0nnzetOKsxN1q1-IOUqMpukQ2g",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "23 Ayangburen Rd, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.592705,
+                    "lng": 3.40099
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "14b2c8f65603a1f72aecc883210a83bc14f518a0",
+            "name": "1st Grade",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJSSqFkcGSOxARvYBdu0fXSjg",
+            "reference": "CmRcAAAAO_HRNxlT25pQQUOmzB9bbETkBC4Cess-1A-y7a7PsxZL9TU1GUyedcf1A4N5mwDAyao5I7CO_vMKUzZPs30jZ3UkGjKjVDXV0CVjvqa11ocQbV8XaFQXyWMqxgsM5hW-EhDo5wBhE18BxYTE3ndZm8umGhQjOksUqC6pFIRDn7rL6bsPHA-mZg",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Oshoogun Bus Stop, Alapere, 15 Ifodo St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441577,
+                    "lng": 3.419644
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b9f7522d8eac11e45e603768a9f45eafc3197107",
+            "name": "Cycle Hub Plus",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJc8iZKtX0OxARSH75SZa8sQs",
+            "reference": "CnRhAAAArMPzHeeXWHLh02Y3VV7qy1Bb90PxgLz29p034Pbji8JDcX-1Dobnvd09MugY7a1buavo6nRpcKmJEZvrBrRau-ctybZQLm7eEwRu9tcI6PAauecUgGKIgHWKWQ88S-BdoTV8i1sL7f-dVP9qxH_aBBIQ2O7wfnI1eu9EuLC-EU951BoUseplroaJ92Fc6vFVbDjR-nz12Hg",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "South West, 47 Raymond Njoku Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.560565,
+                    "lng": 3.270575
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e3a6aadab06b364f841985b2d831ceda0af9d3ca",
+            "name": "Pioneer Industry Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJP6wn8eSPOxARbXw1xTB3lFI",
+            "reference": "CnRrAAAA08DeVZVYZyxKewfc7_g3hjPlSRhgmjvagHdc-jbVpBrIMaINjcNh3Q_d8T9sI_FDQdw_oDyr8fJHJklrODDPI3Bi1ltcawuS0CmzUtzhugzREORNJif0VYizdQmPkxgBC6kimEw8NfzCFrPkNTqyPxIQ08-TXCwH2F1w2qSruy-VBRoUTnP8l2Vz0BHXluf5kk6PZ4bgOnA",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Arida Bus Stop, Shop 3, 72 Ikotun - Idimu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.498117,
+                    "lng": 3.326356
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "092a6060f49c5e225eb226724849e3ae5f2893a2",
+            "name": "Papa Bicycle Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJgzkcgLyOOxARC3gcn2exd2s",
+            "reference": "CnRlAAAAwpDxgrg-Qe0O4oA8q_1y1vt2i7PwwGub3hF3v6V67syrQ9c0JemSTa8o9qSYbq9PkLZjYfeYZTO5p5LwjN43M-vkv6axhejmqyzdr6QN1itUCC5kIzVq6nz-AjtjNH2nCMAMW02iRqCYsjEaNyohXRIQu8XJWx4O208NkCvrO5VvzhoU_-d-tPNh9mjAioLx0XOMmt2-YT0",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "227 Ijesha Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429503,
+                    "lng": 3.410376
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3f72f31d111e4292574c008d03e672b7f01708f7",
+            "name": "Klaxon",
+            "place_id": "ChIJ92OFE9CKOxARp2aZhrvvwi0",
+            "reference": "CmRZAAAA5VvHfLuBgd5wN68xZz-vNn3Jyw1VJb_0K06O2TpFZCVRwpi8ebhana6tnMxRZUgmO2gZ4ITWixEblkDbr0HYDMg9gI97BWMrZ76cqufU_Y_4KhIzTfhtAV9ocMzP2wnbEhCbgaJvXNqqGyM0gcHbtJFDGhQ3Xyltv7liKovJVZsNeLFYdrRXEQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Adeola Odeku St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455079,
+                    "lng": 3.351068
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1bd1f1b725ee2e9e3a3dd75eaa868bceb2a5b8da",
+            "name": "Bobby Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ9eqRg8SLOxARYGX1OhWxay8",
+            "reference": "CnRoAAAAb_Y4RSnnwv4l0JJB1tvWfkFyPU0651wtclHezk80L0ghGy8CdUaOFssi5JUUYouzE1XT2FyCI4nArrNgHwNewOF-Thk_NwzcOrZKpsaeKq0RxDl_UDpZqm5Cq8qkMZHCDngtsQwun16DceNmAMECcBIQzORRoLpj1s8r4HGMaz4nJhoUgFlUin851dJH5Kn692blRFfFmcE",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ajegunle, 47 Badle Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606239,
+                    "lng": 3.399849
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5464b9b4cec3d5c6ca8b4b3d1657fde1be710e60",
+            "name": "Eze Bikes",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJPfmdL96SOxARCWUTCComwe8",
+            "reference": "CmRdAAAAC4FUEEPQ1s35UHQrLu6GSdvr6UlBfbL-ml8kFr2Lf4RSWjMeKmyYKXd16ZB8hOXKgThqVm59W-gOWD9mMdQbCJB_QffUJnSEAR7IiZG18JyWoOWGavEeIe9GsIRhTRFFEhAS4rjpNF8DABE_b3yFD11kGhQfqqClrpz-ddJ5i3oCjeqNDASulQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Mile 12, 631 Ikorodu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.601662,
+                    "lng": 3.381015
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6bf62aed63fe3d0759df52da44237558f588c22b",
+            "name": "Excellent Baby Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJv_zd9_iSOxARNkuK0xiVCRg",
+            "reference": "CnRnAAAA9-gsonSnDNnzCLcKh6qHhMSsMbiy2hM1m33ExGozNRixBkFaH3Mbgdux3hlpfsM9iycndgfG7NFi0iM-Hcpls_k7thpPmVZvtX72OkDscnKQWZyr8ZfsIsAyT1z0fi2rhmqqdX-2N1Kp0Rh8B1QT8BIQ-mzpq5BRsR78gOVUsFriZBoUlbv6FRMiI9Fg6cBzSEdnyFeSCBI",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikosi, 12 Aladelola St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.56607,
+                    "lng": 3.34752
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e4e8a7307e4c2b21edd32b044f804b81d52e2e98",
+            "name": "Folabi Tools",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJo2Kua_iNOxARwEVNP2BFi9w",
+            "reference": "CmRgAAAAwBv03kfyOQauqsCmwbMOIrjVGm5kYGQByafI3BkUAhw1VNsljWwkKLzR5peMnntpTK-oO0UZCkE0XwJo9vCNq6pCtFMMOQ7DZFKuVjd7rapmP0Vn9-vknYrYTIiTqbIQEhBJS3d6IeUIiBvQLwHmSA4cGhShRH0GqkEL24v5oGz9ToBwTtflYw",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Bolade Bus Stop, Bolade, Oshodi"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.462389,
+                    "lng": 3.322549
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "af356bc16e8a97ab783798e97f83029bb373efb5",
+            "name": "Tri Wheel Investment",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJe4qDlUGJOxARfT0ZnzA4jsw",
+            "reference": "CnRoAAAAnKznuc4nOuzEuRh95DUHjuWS47HznrFEgXMh-JIgJq0zmsBqEASwLfXt4B8DL5DJbthTDuKT2re30pXKBzkaMtcLwvxeYVqHk_Rv0UB55MyOdUwnuyu43POpaoQlaptkGcuWPjW_nTVYbG1YISf_-RIQZ6L7daxpvG8JXCF2Et75UhoUl-Be7nqwG8TFl55ZJkqqSx9dSCo",
+            "scope": "GOOGLE",
+            "types": [
+                "bicycle_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Signal Baracks, Shop No. ZET 13B, Suru Alaba"
+        }
+    ],
+    "status": "OK"
+}

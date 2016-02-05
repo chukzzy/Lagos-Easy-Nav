@@ -1,0 +1,613 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAEqm3PIFXQz07h9T_7zqrRR4C2pDc40UWFlEQxGWGL8cxySEtMZnv0i8A06_lODRkLG4d1rVwTBfAGTDk4AczMju9cHbWaHkoFtDuLL1K_aGmXqydYmXQPztMr_anPHMJi1Zv-Fq-QlyO-ZqOBMa-hyCyGGnRLLkDcv2B1RPXe5ujs6Kfbeno5StdmKsPvhNINFuXzfI_utXnX7YKl5Orsu35gVJEwpb_7LYI_nOBC1rv0dFmD44xzG1pvPqFOzo89LuVWnHtVGqHUI5ChZtegQoY6E4oF56M4RnsDZHM41kuMugsIvdEJFsLcbBtmdNSffL2tShyR9aB9NleOKvkrsSEIM4xBEpsD6raLYZSyrlQAQaFE76M9920sdv-uVndgolDWZZAUkS",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431561,
+                    "lng": 3.406783
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a285cb46e66e919148a2359307455631957080d9",
+            "name": "The Federal Palace Hotel",
+            "photos": [
+                {
+                    "height": 160,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAf4UkFCru1aG-6VoEGJ2tBrFPDLFbLNE9w0CBiyRigXUMk8IGewDrcog5UY4YZ5UC0OE4Pf2XzdlpLpFrttB_8TuybJj1028AoGbyKphXSQ0aHM6THBU8BMWzqbg6P0hd0hhy85cNBou0I3-JtEPalBIQykG4R4rEqAVpSoZsTHs5QRoUhZnhzzwZwVzJ4sZmBxD0kfNMuC4",
+                    "width": 310
+                }
+            ],
+            "place_id": "ChIJeaoJrduKOxARsP__JpZt5Z8",
+            "rating": 4.1,
+            "reference": "CnRsAAAAhZ5WRA4n8apS37lmbUUosH20Xa-93d4xw5f0vI71qvtUIm31gTcDHljFgNYyxp3RODkmYkRfXD4dObDoF7K-IZImCWx63-vvgx1mAoU6mtVqUVfhIns1qNTEmV0rh0Q_54RJkUYdc7j4yTwHB67twhIQa6T8Ufp64BjpbqVNPBFGTBoURx7lJ5dvH1G1VM-TGxFOa3rrdvw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "lodging",
+                "food",
+                "casino",
+                "establishment"
+            ],
+            "vicinity": "6-8 Ahmadu Bello Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583453,
+                    "lng": 3.359989
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "7f8d1d5ae57375e72648305c9b57c67202a31331",
+            "name": "Sheraton Lagos Hotel",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBdgAAABh0lGUXQXRkHNF4rlo8M3vy_jluE_xWnCS3_82x01RKbIJJXcUIVChFbg0rj6ddpglfXeyLQeG2w6_xKP5n3Cv4ixvl202TA7ZUq2GhgUeU4fWGPi9LWEPNtU4g3K-RaY0tJRFBaCezkzgJHSlHODFDM0cTZU8cSLFAX91WRyB2EhD8gwgEYgmOgjdQB6gZzAgKGhS0jJ1W5tTIVmNcbpdIy1Du8usZKw",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJWytsXmuSOxARwIQmdg20UDU",
+            "rating": 4.2,
+            "reference": "CnRnAAAAhrduFIBUeGh_m8p543n2bhpGEJ5_VaIrSSJo1hBpRKM0oldNuqEo0rlYVuZrvvSR_F0THQ1M9FF-Z75vhKN1vEeiqX0kRlUeBNGXl_AzvM0zykWazFCBde-Kp4oT3imRwUHAiejt0vXZu4LSbzP9dBIQb5kDbyXNmYZrOBWv6s4j8hoUBH1tIyS5blI2TBqkOR8L8Ta144k",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "30 Mobolaji Bank Anthony Way, Airport Road, Ikeja, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.42191,
+                    "lng": 3.433745
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "e8e827d99c31a89109ff66dc018e46913b89f642",
+            "name": "Kuramo Beach",
+            "place_id": "ChIJkRW4MDf1OxARNmtunO9NETs",
+            "reference": "CmRfAAAAIXV59Ae68Ey9AYNBiH03H15Qnzmt9vLrC65iZ3UDI4_HO4DbFaBvB5uYYBSSXfnmKt-weo2YQc5wSmWSVz7cGAiiI3LV3skQiVd5ww8Y8bB8GoI4MkTJyVIUA0jh2UiSEhDio3DYp6j6Itkd_PkouowBGhQdRkT2aQIGssB7y4oIsyXQ6CTq9g",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "natural_feature",
+                "establishment"
+            ],
+            "vicinity": "Adetokunbo Ademola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433563,
+                    "lng": 3.44313
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c9d03cfece8189d5b2f7b58e7bda9f41a9be5bcb",
+            "name": "Four Points by Sheraton Lagos",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAwVCBezC30KeWRNQxlzu6PWSeJyv55fQLKdIn0PVMVbA40lUX2Tr_y4VRM3NTrk6YhPUbleFLY0cUSpJyMp7bjrZjMIUb25eNfqu-1aWqbd0oWR3_15IX5k1diTR_qt_o7jzW4cxNxysO3sm6U287ARIQJftxGZrajk_BGp34MMJEnBoUwyqdDJQYyvKa_B39o02wn-JW8ik",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJG2-ONhn1OxARyNkPvAvtHjo",
+            "rating": 4.3,
+            "reference": "CnRwAAAAeZZObEhZuiDpltiy9cIN6HkvjmP90yuk7V4DzIra3GYPGAiGTDd2kb7LdN6yriSUz-bW14Evep70HS7StqY3NpUvVvTVShpvfEak4ed_Q0-eazkz7CbQkCytKjTCSq4k_VtmuDFeNlPsF-c9rPgpExIQFbKLal5e7dgQDMAhe9UKMhoUp5Y3E3CwKjKET8wbTyw95RgTA1U",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "Plot 9/10 Block 2 Oniru Chieftaincy Estate, Lekki Peninsula, Victoria Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430753,
+                    "lng": 3.43847
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "0057b7cd70083ede313904033f06dae53e95826f",
+            "name": "VCP Hotel",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRpAAAAmSEXjwZ0968Y8UJ2e_pDU9ltEgVwTLR9rfF_vmCnzhpF9uVktt9OalcXuh_JN7BNrGH2v420x_z9lqr5QnrXxqVBhPV_XnSgUD6pza7qbkeGhRpM1NMqFnC6sLH9w9qTfGW3B4mwc3FfuxJFhZchSRIQRjSIkBNV6VsltSuYxgf7fBoUoOODqG6PP4oAqzSJBLCCfAbhxYM",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJF58EYCL1OxAR8vwGmBkDHBk",
+            "rating": 4.3,
+            "reference": "CmRcAAAAJMtvJsM2LfnWqbvA_-NQxunX1I8RSBCwwDecu7eRovXvoLflxkncKFx0lNeRML5lZgtP1USP3XqsvbmnN15CjrIpZhJ8YGqwZvZ74HoloxcZ54_dkwVsiI-LaiFBay2KEhD1psU4o1QOKDiF3DcxGKJ5GhTlPE258105EqJRzX8zeu8vqcHnSw",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "292B Ajose Adeogun Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.425929,
+                    "lng": 3.439355
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "f5fbdca1e6029d641b5a3a862a745cd49f362576",
+            "name": "Protea Hotel Kuramo Waters",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBfAAAAFJLmV8E6twdGb-yPDFmkWkLU6UuwXIEHHwJjBum_apkvGB-y9Xy2XfiacPptJEP2r8JTqj51XtE8vrFPyh6d6pYeOnp4QLUVph1T2w9hwFYtHFbYOV0mLVEUN93Q6I0udKJ1ViJ7ivQQ-WbZ1EKN8WIxEzNlfqtBOO1PWi2iwoTEhCuCuJeSP1zBnSYpidNzyKmGhT-CWjPMkyAhJJHYT6_jy3IEC1T-w",
+                    "width": 400
+                }
+            ],
+            "place_id": "ChIJB5K1ez31OxAR4EYkmkCY6-M",
+            "rating": 4.3,
+            "reference": "CnRuAAAAJ2GOVNu-SpkK9clHiECVE1OdLCmXzrXxgYYZEOI8xS40IfWUaEdmYSVoofGQrdZXz0GU6q7gwh1yZJoVnUnOMF56j2jzPZKbFRDJC4zA5_lnKXExtKuQ5KkUbjFsUIUb-iZ5FvFCSuZR3yIF0QyCZhIQf7TfesYWq28n-nRiaIoOORoU3XPlw3hC8qnVzlmZkXZYokZG1uM",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, Kuramo Waters Close, Off Akin Ogunlewe St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.436826,
+                    "lng": 3.417252
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "a9b57b197824e9dbca253989114031b257e49bb7",
+            "name": "Radisson Blu Anchorage Hotel",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2898,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRqAAAAyTPcwOzmCaQ9th_3KAqwHmsgs1j6kGQXzosUFDUwH18b9KnTbMzxEDsJw7OAWRzloLxJRkJ8jd6fzK_2kvG5cL28KCY4B0KHBeYnwa-0mEwndwd863Hy5JxUyeTgG97QXBBad0rZ7Q1BHm37b40c0BIQY6WkaKhsAMq2JMcEc-EfaBoUuADH8uZVHrIaXO8iv_Ip27363So",
+                    "width": 3864
+                }
+            ],
+            "place_id": "ChIJZ3NeB9WKOxARN4qwfbDAWuE",
+            "rating": 4.4,
+            "reference": "CnRwAAAAUQ2ff9XQ_uAXSvcz8Yz87ebe9lveaCgBtmkT2nhBgX5NkIfGmmLddqgLhY49fhJNwk4qUfHCyorNyfbzOGR9hwWORq9Obsrel4j6YuQd2m7VK5WFy7d-l4vJQBjs_aQiFJTQM3f256ceDg-sKjOT4BIQoQzRcKdrN4LA0nNVnzV_fxoU8_ZvXs6rUD0Cd9WuNRttid5s2eo",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Ozumba Mbadiwe Ave"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.422884,
+                    "lng": 3.42602
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c90335847d5c5ab42ca5a6370915a103cd887103",
+            "name": "The Avenue Suite",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBcwAAAHtN0f-kWUDA52vt9V6_S1w31yucnW0LvVZUXzmNaI384yP1Kk3rd1u8Ti5hB9dPzQCj0QqrUYqx6HzFyDhP6phzhx3vCE9w9IQyGeB47h0t7gPs0f1FG8sMc_0B4GDXqXYlxkTNZ0OyuHja9u98RY4_zOSvp1zAPND524EsVkrvEhA0c_uS3CU563uOkX3CvShzGhSxiBLBWt_RYDmG9Ez6nnlWUpN3sQ",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJDVcYyjb1OxAR8cRKkANIs5w",
+            "rating": 4.2,
+            "reference": "CnRkAAAAehlGjzZzmSLOq-75bQQjKaxBHZ47GMCXIYJ9GB2lf2bLOpH_F0oIPKEMKgCL_iOpNK-4Lo2ieXe_-X8_tKZbLwQQebnemsW9pT-UX3koNhixkEAYbaQJfLxZE8YqNxExxGfbmoM06WRvmWzW0hdIrhIQ-xktWLURFPUr4usoqgsmbxoUg1pedKJhFB0qoX42v3S4EjGLjyM",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Tiamiyu Savage St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.582364,
+                    "lng": 3.357534
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "12f51ca2d0c2a6c5b1b32625a97267a5c804f690",
+            "name": "Protea Hotel Ikeja",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1363,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAWB5ifHMmSui2BNreeab5UrIkdz8EkNL_jvhecwsUUioeHWwyZQF9XKmwgGEbV4toLC_tnj_G6dlsoGZvXL6c9YCx54Ba5UYMCt2V17fTv5TlUIE719lvqL5V5IRRTGi89K3tHxilzo5dvHdIZilwqBIQQJ_Aamf7zVeCyeFg_dkRfxoUgJa-y8fos13dd0IjVwG0OxJ83Co",
+                    "width": 1360
+                }
+            ],
+            "place_id": "ChIJLXfW1RKSOxARLqGyH2MjB2c",
+            "rating": 4.3,
+            "reference": "CnRlAAAAzTK2YBnfx7D9rOeLHZT9wai6912m0swn1Wl8en-DjmDQ-0sqcta6f2BmKypRFb1yl0gWSy-HBGO1gz9olzsyiLzrrIJu4IVchDEGml8Wcw5qRjseRjmLO6paEZBw6R5nwb8iGXb4Oy8rMvZXtdL7khIQcSmpujmUSKeO1PEo7rrWWBoUNZvYWmvJLHk097uBdVVFv342PsE",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Isaac John St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.49499,
+                    "lng": 3.38384
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "77211dc2a2971eff9f14db97df877cfb73ff6d99",
+            "name": "Golden Tulip Festac Lagos",
+            "place_id": "ChIJL7e0oAiLOxARVJAUma1ijq4",
+            "rating": 4.1,
+            "reference": "CnRtAAAApiny1XUuzCgoZ4Dvaz6E-Vfp1_KcP3OF3oYmyeofWHPwuhPRxYPeYHV2pyOGpafThGZPOvMBvI9LnWHFcxLzbX0pcxBPs1k_xU12YbiouveMq54ci7y-B4L3Zh_LJ5tx-gR5P7aaL42-wiyoMzqL6hIQsl9EqcIK1TNNhIPGIhqzUBoUgONqoBR3_hE3T3TFwIpU_8CQAy0",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Amuwo Odufin; Mile 2"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.426488,
+                    "lng": 3.41516
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "df7dedb5b35cd7271235f6c14c37af83941e0ef1",
+            "name": "The Blowfish Hotel",
+            "photos": [
+                {
+                    "height": 612,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAABmbeG7W4nkpqRfJA_cZl4yOZR_CaJ9EG4wGDLIBmBAHGriE-1RJJSDORZTVPZJIupbUz60vTZeSrr8sBhN37Ia9JyGsJQX_UTxgPfwAGPm-Z8sIr12pkNp-dtANZgGCJjQ-zA82KAjrKBEgvIuolvhIQKUMAulZvvUZ7sRk4cqTUMBoUck2_OlWb_2-jQsYEBuBoaEExD0s",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJV3suxc2KOxARdZhrrbiMafE",
+            "rating": 4,
+            "reference": "CnRmAAAAOVU3NW6UaDHKDl66nn26k47C7u6NCnjmkgpTjiAYjXx1BdTlRyKySNLF9WyXK7OTOYo42q0ev_aV7tNSdgi_5rScCY-IiletVVE4rvt8kQWDtgOO3BubkoTp0Bn3U1ObKuH66rii_9t3GzX6DT9uGRIQ43MZOZ45OcHS33KFN_mryRoUAeWdPo4TIyDa90uFoomrYWZncNg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island, Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.553972,
+                    "lng": 3.327264
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "2a656dd1b82fd8690922a5944765904cfec54f90",
+            "name": "Welcome Centre Hotels",
+            "photos": [
+                {
+                    "height": 1309,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBeQAAABoK64PO0uhqUZ26Vlsm9xECny6NAaGTeMGCsBiaXLlclXDCbzZdvQbj-NrJzZbrbtanib4KoPhQIL3AS73xpQJHhHKYFuLszMltSMpcvzMBY3OiHBeYdU920BhYbNaaf3UuMDE-sTHm2K-3T0a3joSSY5NvnDecRdv9_Nsv4ZdAEhAdxPWRztRema9XxYehZ9ABGhR-4souYoNZh5KoN99Kv7QWAKc1rA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJU2rypzeSOxARZ_xVHE1jfF4",
+            "rating": 4.1,
+            "reference": "CnRoAAAAXsQB_ns68R0i-SHBbDNC_6GsUX_AeKlVjIAO-Rc2OjD-7R98kuX0An9GUtaXc1Qgs4OupJEi47EGrYAL-1A1lgYQUrvIMoJoqQmOSDMVaBPvnWdNUQAuvdo5eTWGt8h8SMHvWqgJ17b1gjuvoAqmhBIQ8CO5h-T8cp5nIBsL6H1VVRoU8Zk_XmV1Uo2bfW8KXbJ9S4cfneQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "70 International Airport Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.427605,
+                    "lng": 3.429776
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "4f0a13d86717aa55007666d1fa8777d67e0e146e",
+            "name": "Eko Hotel",
+            "photos": [
+                {
+                    "height": 1416,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRsAAAA8nFsZUAJmnCbm7bsSx69XTC9RkzpcgUyHayBGVyrhKMpBHw6BSvhAnPwiufqxUi0gdHPei_lGIYmT2WrbxKAHaLuW857L7rzr-nr2xTMvKb6pdRZxZd6hgq_xFF9TZYFuSBgleE8iZqA2BThXMUlExIQwV_3ca3jBYWZrpsOpLKTvxoU946i0Jp6SJByQqFqYMz4PAOKVGs",
+                    "width": 2128
+                }
+            ],
+            "place_id": "ChIJIWV5qDr1OxARWOyCFY-ca5E",
+            "rating": 4.2,
+            "reference": "CmRdAAAAhm8a1QO3D00WOlxb5KahGuMb_QVFub7YOPtivo50Rqod2mJqaPVFH3fWhr3hf5HI3RkIiV71ucMvWxRaMZjnBqTI-UwtlqX3EX9q5knYbmHR9k_TSDD40oet9WHPw9E8EhBaSGFG2mYQvwS6YJW5VtY9GhRfvJAVp0WeHgSg4VOVYo8vWJuN6w",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Victoria Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.5846,
+                    "lng": 3.361616
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d72accebedc992f776f8d05a69c5fd7a60fd92d5",
+            "name": "Westown Hotel",
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA5mvAsC_L4zc16l8kNxOFR4gotsbUtPlz8YoXWH2I9e2WUPFiFrNB5-5X2d17TLvplSGJwZkpdE4sqUYu9ZsSBA_zlJNqCcIMfpMtJzEFw3KrpPQqcXVmD5Yat1IPz06uUZgXGRP7LF-9Xb2a96_4cxIQodz0vUbVjoFa-5qWIiE_oRoUhvel507OnfJz3aZdD6gkyuG0fUo",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ-yEsomuSOxAR72foQtLAJQE",
+            "rating": 4.1,
+            "reference": "CmRgAAAArdJdbSOq6uvOpW92V7PgOq46AVcdjooPEHoq8PW-Fpt0uIU0NfYF4XRHuylcV3-q5slH3evtyr2cAFkCeerYYFgmw5DGhEabL8bX8hITrJ9kijp1XkA0vJ4XX0ZFq7XvEhD3S6daqaCIEqLF4UgUYENgGhQWXHBEDIILeJuy7uOo0JpEh513OA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "1 AYENI 1010 Close, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.57252,
+                    "lng": 3.365163
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "2b946a2b3caa9a031c8fb2009e31c8e902027be4",
+            "name": "Protea Hotel Leadway Ikeja",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 423,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAf_jqSZaaqV_t4QEHD6kOV7avRtJWQbgES5-n23Fj6Ziksc1lQvRAUfQM7pTUl8aXd0YJKkXGclg9QKz9EFdO_m0-NFQ98rUYXXXMxTdAwfh-4cyWBkV47ogU12mM6Tkc6uwF91EkPeRC0AhFVyqD8RIQF50DOXPxsrnGRbLPPQwNhhoU3dnatFlRiK6r04LebzqXB0dGgKs",
+                    "width": 610
+                }
+            ],
+            "place_id": "ChIJL7e0oAiLOxARXfTEcUZzi1A",
+            "rating": 4.1,
+            "reference": "CnRtAAAAeKiRb7KwrRl8cxDhjfDpGBOEP-cS6LXiixEiqH2cQTjYUQcGprQWx811_7sFVWDhApc7X9edvTTvSYAtnUWCVowgnn_u8e3R8O04AI4lFyb1U3TeISl1mS8IJiugVTVFPY9eEvtN1bxcy1vFYBFGthIQR09c5osanB1Omh69-dLxqxoU_s1i49eQeBS36Ll50SRRgTK5JkA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "1 Mugambo Close, Maryland Estate, Abuja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44174,
+                    "lng": 3.53082
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "3b4172f4558903ce4b4344ec8fc858ca139eee76",
+            "name": "Protea Hotel Oakwood Park",
+            "photos": [
+                {
+                    "height": 612,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA2ymfEbOJXGm3DWmFTw30RaIXaJcNNeB-UvDVpF3AtFOQHg1BxjTnwmSxNIo2ARqZY0_fDyUeLUUhvaDupb9bmrGrx-NKZatEwz5NzL_m571J-JUQrBqPKASauR8k2wqaxmc2DASyuNVbbSKoK0A9lBIQ0jOBxydeonA8ui-Rqru3_RoUF-eZMI1ir4GrZK63x5JyJIoH2Fc",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJ-VEorPf2OxARbt16r4tXu3k",
+            "rating": 4.4,
+            "reference": "CnRsAAAAx6_ywYIgXVZDy89J5ojyxsrrVQAuTjDiSlra8-Du6UgflRWbSdtQtPFl9XTGAxj_4psUxgl7rkl7NljcI9KlmFGO7IDbxtRgfjyVQlDYY_5hlQB6TELhPMMNgrqFZ8k1BkmBCfBvSlTZn3Aa_oUG4xIQgL3UWfchJZzoCpS3ytKZbBoU1H1DsDPTX5d9mw4e245K7jBLc-0",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Lekki Expressway, Lekki Peninsula, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597224,
+                    "lng": 3.354391
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "9c7410d4640303071d570685b93d78945f2a545d",
+            "name": "Best Western Plus Lagos Ikeja Hotel",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 539,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAKvp6HQ8U7a9hVc1ZyrACQEypFuv5FOSbBXLvQQhoCktsDJR-i0n19RFObTuG-tdVGMRUjyY4Kjg1qU5vvguE8XGA7rXmzgnXiYISsc9X0_dl0BvxQb0ObYFcE9nJteIRqokYyqOb4s0sLhezldslxY4kQVzrgVF4Hqb7u0mYNwrEhDUr7gckzcdT03Vm7g3CWacGhQ6YXCJ88vCJSCT_KgV8akQh0rmPQ",
+                    "width": 537
+                }
+            ],
+            "place_id": "ChIJYYOKjzmSOxARGOmHH39gjXg",
+            "rating": 4.1,
+            "reference": "CoQBdgAAAI58Ax_LnvRqn_Udc7fEDrlurtmus_C7wgayAt0sZO2OwGB88RUtPTgk-fhdu4rV-l0indYNY25b1oaWT_T8jq3YPu3B7bO2P3waDJhps9f39fqxO52qmkuYPv1ftePuLokXqNqOBukgLDvgYUJZF8Vv8hlLDcQp-O3bvTu84r7JEhAI8EufWlvMz-ULE54mOjl7GhRASieKDnCxIlovrMMFmVjOKtKY2Q",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "lodging",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "12 Allen Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.426541,
+                    "lng": 3.434772
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "79841727f88e8457b167df803392e80bc2bd770b",
+            "name": "Hotel Bon Voyage",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAhr5-0LCdArJDR9tNjLJb8qY8iHKZkzAx7wCAN1udugd4DIhpeg5KbbLjrlWs54JvlILwsUUWFXryyAleBSHaw5CGmjX4doW96J2SxXtB6KlF2Y0ENlVbNFUum7Dqy_3MKf4PBpdnvvUOBTXNeiG2HRIQQb71AITf-pyb4ahswDAV3xoUD_La5Tss-GiuNS8ck4DRgU0zsuQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJfWBbYTv1OxARyhEbibkbTF4",
+            "reference": "CnRjAAAAdNsd0zRgG7bgov8bakDZZHI8XqBh4A_OBJcRWN9XiHVjNHJMFwQi8kjyzPMX4JzIYmu7UOHmKHI29h6-R8a0kT5VaAzGYDy0Na-Td6mL6un-SH5I75GTiJpJ-eP9D34Bq8za1093GF5kvgf0z2Fv-RIQe2O_2q6dj0aLrgOsrbEb-RoUTJL0MATy7MW_lEYBFZaFB7Tc3SE",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "57a, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.460187,
+                    "lng": 3.408797
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "1d79fd165cbe41edfb213e57aaf519d45d6eca71",
+            "name": "Three Arms",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAk4K-q1nMXb7s2WNWNIO5PwG2ln9jyFy3mz8FJ6A4EK9lXwF12vWQJg4-OqftaG83VVjnCz4QAUlPMcQNFjHXIvJxKJyfQ9b12fm35nEM2YB9T_UuFoDMCKIBPTQt_1NI8eAG6Ao1nBNpWm3VjYtn1BIQHMUSIpme7pPcrl1mpbQcDxoU55ID4J7Nd5dwNPjiz-uf57OXGg4",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJCzlwCDiLOxARJzF0Hx9antE",
+            "rating": 4.3,
+            "reference": "CmReAAAASDKQzKieWNqlc-bcm-fLnbLcMZf_JehLU87Yl0X8ep8aNp_0Rg8XzJhHtbx72WhM-pbini2cFMzl5iII9__-FmQ-z0k8hmzXfnELvwd-ZFLcuZKwHqD5aaBi6z3u6rHrEhDgCSoBqa-8SSxkT7S_YamiGhQs6IDqahYWMD-pnfHEH4TLw59ZWA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "Plot 14 Osborne Estate Phase II, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.453493,
+                    "lng": 3.445523
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "b5eddf651a2e6b4caed92bbffe12fb5c802b6739",
+            "name": "The Wheatbaker Lagos",
+            "photos": [
+                {
+                    "height": 581,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAgno2IhjdznJ0zoQHSCEn7hpzZsL7-27kqvWKsn_R5ZxujAkh6qatB5967MiW5Dksk3WlqCQy-wvY7mwpiGeo6AlLt78ZLCYqWK_kLqw2Zst28r_nh8nJaQTm8l9FLlFBaHdCCG5HwZB77x3A1QwP5BIQIjNlqr_jv8-BwzlquvJHUhoU_EYHNhwCDh5QCdF4mAnqnouR7ZM",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJzYc-z-70OxARYcrYfm4ppxk",
+            "reference": "CnRnAAAARStZTKxaXLngH55t29zEBAaNDr4bclyLhyLDyERnvv8KundDM1gAq8SoRp1v6XNDIznlm7lsBChsQCQRH39HoVDYlVU8z47m1oNCMZdNSPgSm6HIS969DjT6jaW7HwUrzYBeg4g8liTeHTkSQYtKJBIQakcwKGRF-2y5QpDXK_HF1RoUDM10f3HIHRYUdZt7aKsq1_nub_k",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "establishment"
+            ],
+            "vicinity": "4 Onitolo(Lawrence Road), Ikoyi, Lagos,Nigeria, Lawrence Road"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,143 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.632704,
+                    "lng": 3.53343
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/aquarium-71.png",
+            "id": "e3b0722469c3156282ebb86aaee5be349e50e7e2",
+            "name": "Opscy Aquarium Centre",
+            "place_id": "ChIJJyXjut3uOxARLFjV7Cb_NOs",
+            "reference": "CnRpAAAADlLbWD5OfbfXmWgiblM4Q6pezOun3JDIluolp8jQek6kcMYq0XemR4M2N1J7xWjiqnvZor3mMDaXd-EnO2kAhIvE4ZmxngZNts7ivt-XWiNKJCwkq0YbsKWeMeSravQuj5XU0WWfnj0t_IhzeqyBMBIQgxWO1R5RdTXNwwSumL6AChoU6XbPF1DmI1mjdYLk27AehIniFgw",
+            "scope": "GOOGLE",
+            "types": [
+                "aquarium",
+                "establishment"
+            ],
+            "vicinity": "No. 123, Lagos Road, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.60581,
+                    "lng": 3.383553
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/aquarium-71.png",
+            "id": "38c7de6f2600e5deb562031939cd1f793e109e9f",
+            "name": "Image And Creations Consults",
+            "place_id": "ChIJS4tzl_6SOxARluIbIGCOKcs",
+            "reference": "CnRwAAAABXING2doPmCq0Dfa7TlF1Md7_2mR28J0zINC1E9d7zhspOLGxvmL46LZ-9Hwwtq9nhRqvciWEejXRyu_26A1mvgdViJdO3Hph-7wb6YAzHO1lfRxWZq5MaL4-mwOJeSoYEz-bswLk8-JMR7a--bckBIQeBnFJFDiKVa58BuKTqfryxoUfOnCzFvaLPS1q5JKD1mivkNTS9w",
+            "scope": "GOOGLE",
+            "types": [
+                "aquarium",
+                "establishment"
+            ],
+            "vicinity": "No. 10, Onakoya Street, Ikosi, Nigeria, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.503818,
+                    "lng": 3.366986
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/aquarium-71.png",
+            "id": "114095f6508f6729a7ae1fbb39bdc37639f102ca",
+            "name": "aquarium shop, lagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 528,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAACLDt8IFBK760MjiT1UW5IloClCONS_m66fUBxbNmhpYY5x0NzqDNBXVKEYYTi1aUnVR_bFuppyjbSmwqfXtkobSrIR_PvG4gNvQJW7oTmUnRFCh8U35b8mXGzc-7J9WIrFYKGVZ8v4i7TZMNNF0aHLLrJtaq4lt5ksEepLnY0487rTUve3HviGkUy5cIObdrxIQ63H8lVb51EmWvxJ28Mu4FBoUBVjxZtxsYf-NdIiobbYsQ9IOzfk",
+                    "width": 529
+                }
+            ],
+            "place_id": "ChIJh6_1hUKMOxARKoeGJfS6rZQ",
+            "reference": "CnRoAAAAtORBVqN85xCEOHg0Sg6tZ0jhmWNsjsNwLKIougtkhtUkJP_a-i-g7Z4XXHMzTegjhE3HPekHLb54RloFDE1vMxJX9jKZ41DhPk996ds_VwMMYRtbra0GOohGmnOaO1p8Qedo3xMxW6MLDqBalDNUERIQ9FN5bqOAY0hCel-Ru4pLehoUEtfLD3JcZwkQwCPNfmxjQPfXK0g",
+            "scope": "GOOGLE",
+            "types": [
+                "aquarium",
+                "pet_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Onitana Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594193,
+                    "lng": 3.344674
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/aquarium-71.png",
+            "id": "f4f82c730b5392c54a3d67cfe37f19ce4c23065b",
+            "name": "Bashddis Aquarium Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ-xbOCCSSOxAR_qX0eQLPFIc",
+            "reference": "CnRqAAAAY9rF_fRh7HlhHgcYYr9UboeIdbz19K5bK2kRbHi4DutSCUe01a1G-FDWm_c-5al0Oiyc545KOa_U9sLOOdfUen3CqInzreinMXEI-UWEzf9fjdUyhHhn7tReRW51lFc_-W_TQU7Sv3gkSQfLOf9hJxIQ-_ZGkBcpt8HM1_2yaduBQBoU6hz10Rcr580n9Gg6o_zw6oDSGyI",
+            "scope": "GOOGLE",
+            "types": [
+                "aquarium",
+                "establishment"
+            ],
+            "vicinity": "Anthony Way, 70 Mobolaji Bank Anthony Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.563682,
+                    "lng": 3.347868
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/aquarium-71.png",
+            "id": "e11cc80e8eb920365e4765be0da276cbbb287907",
+            "name": "CC4 Aquarium Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJPZb8xvmNOxARKI2OWLk6tbI",
+            "reference": "CnRnAAAADj1LwMET1X_DhBO8OPs_jL88sa8cOu8FH0cwGxW0TA5jOPd_r7W5_ptUKPBPGn-K-1JlPad5PJlWWL74vhVaBeCneA0VGHKrTLt5UD8g0K3YAaX5EAtq3tK9ANTuVbpor3dhnloKfQWbUzH7em-4pBIQ5tCnNVPju8dcta-i7bb4fRoUHuSzQTfIFgvrt0mYELhjaGxRBSQ",
+            "scope": "GOOGLE",
+            "types": [
+                "aquarium",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Opposite ABC Motors, Bolade Junction, Shop No. 52, M. Aboderin Shopping, Oyetayo Street, Oshodi"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.515348,
+                    "lng": 3.398943
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/aquarium-71.png",
+            "id": "026b3416262e59407754563ef4930425bbe8aa6f",
+            "name": "Aquaculture Unit",
+            "place_id": "ChIJVVztjueMOxARZya3qHFsUPU",
+            "reference": "CnRkAAAA66pFZDDoz03RoBTcn_5nRh_NQ7Yq0deotK0e9OwCG4aulfzrZ1rzLd7ddOhcs5bVatp7KrbT_QDf-BDrW9RQ3yCLpb81nboI1iD4uxfVco1wkHP43ySmlLAX-tkTOwcjmOVRmS7EecUF3XlingOPaBIQX3ncIN6Vf-d1t8BiRjXomRoULM-Sd-B-FPIN2XfpZCpz33_joio",
+            "scope": "GOOGLE",
+            "types": [
+                "aquarium",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        }
+    ],
+    "status": "OK"
+}

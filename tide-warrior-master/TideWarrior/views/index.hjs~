@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html ng-app="mainApp">
+
+  	<head>
+    		{{> head }}    		
+    		<script src="/modules/main-app/app.js"></script>
+    		<script src="/modules/main-app/controllers/homepage-controller.js"></script>
+        <script src="/modules/main-app/controllers/places-controller.js"></script>
+        <script src="/modules/main-app/controllers/events-controller.js"></script>
+        <script src="/modules/main-app/services/places-service.js"></script>
+        <script src="/modules/main-app/services/events-service.js"></script>
+        
+  	</head>
+
+    <body ng-controller="autoCompleteController">
+    	<label>Search for places</label>
+    	<input type="text" auto-complete-directive url="{{locationUrl}}" ng-model = "location">
+    	{{location}}
+    	<script type="text/javascript" src = "/modules/main-app/app.js"></script>
+
+        <div id="main">
+
+            {{> navigation }}
+
+          	<div class="container" ng-view ng-style="{ 'margin-top': '60px' }"></div>
+
+        </div>
+
+        {{> footer }}
+
+      	{{> scripts }}
+
+    </body>
+
+</html>

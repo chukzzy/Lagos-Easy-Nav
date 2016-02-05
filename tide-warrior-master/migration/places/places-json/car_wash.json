@@ -1,0 +1,424 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9gAAAM8JUBlFcHSaYhDWaQM3dOh92g-8rND17_8ds3DWmZ_bjBV9exk0o2TB1MfBj97zroQIPPoDySDg7Utb_K9636aq09ABASm9v10AOiGqmHnmsSO6ir2DizXXRaPhFjwR5eNKrQEVjKkllfTfs-fU-02oLtQ5SFxH4zsj29cZmQNpLD3ZQDc86rOMOaA7i6DVRNSpcJEhz3rCwLL48hS677bAa9LfDG0QyuAi8-NFuxlD6efEUiEQoiNzuE3dq5XieYLlaHbylRn37-2iPDRXrOrtp-L688Yd3hIu4QjuZRvxpAHEvGjzwjmxA0uT5BNDJTGPmSkb2OEMQvVSQ97lj4ESEAjMNwPQYm6u26UD4hz0f8EaFNhj0jF1vWahhz7C5w6hSs5gbSSZ",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444873,
+                    "lng": 3.475407
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a381938e7739ce6ad4d9c9df470c4d05a951da53",
+            "name": "Teflon",
+            "place_id": "ChIJgY-pTkn0OxAR1mYfzwKXzNg",
+            "reference": "CmRaAAAA5_TD514UZt9ekpF2hGmc8QZsKIq6fg1P_hon7wjM6bYAzVOZjb7XnpnYKqOkXQHEXfYn1rav7aTR7b_Yrm6wL5kknxZ6nyorsGq085IbHb2S6lf0U1dD9ggZj9i-5q9IEhASPBURtxc5XErI2g2g8P2QGhTNOTWqeN1na7Kyfayx-YJeTePLDg",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Anozie Street, Lekki Phase - 1, 11"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518864,
+                    "lng": 3.390961
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "810374a63f170a17f6c70297c1649c1fec85f8fe",
+            "name": "Forte Oil Car Wash",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJBzNOnOSMOxARdbhX_RU580A",
+            "reference": "CnRlAAAAP5or_RejNMiLR7Qyrie1dHdA_hYlGJIz0dP3MG2BP0bR8Jq6vEWCY08ScRXzNBi7JEXFgu39sxWqzCiHhwVf5lhzeZ3eIKb7xlal9xqWsO-PRkg_V98DfYrZDfsyhebhS-o2GOKduW3-Gt6Ps7pJohIQmVIjXhFIFTqhoi74b_xqXRoUW4qMEh3j8L4ysZr3kZHKmM4eEkA",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Dan Fodio Boulevard"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.519394,
+                    "lng": 3.35157
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8b8812cfe345d33b421478b2b5fd7e50ea14365e",
+            "name": "CMUL car wash centre",
+            "place_id": "ChIJU6Af1TOMOxAR-Uor22nUMiI",
+            "reference": "CnRnAAAAQvFihp_51ZPRYA_c817xg2ePzvIxLsqMiz9WbMPe-tE6fyhO8QwM3eBrMO1FfOrKM0mAZZ3NICE0HMdnbZoEDpPFnx8PMsWRThFlvW2r5GZ4z0QG2TJDG7w9J3hhfgPecKfc52T6unCgPt44FHYAZBIQY9VFWE-yNJrL9G9mQ-7j3hoUgzSFoZ7-iOH3yWCHbgTS2JRFTBA",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Fagbenro Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.560659,
+                    "lng": 3.270681
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f018614589edb4f515af87cd106b436642779a2a",
+            "name": "Nosa Carwash",
+            "place_id": "ChIJyUfG9uSPOxARwjaDozA3_lE",
+            "reference": "CmRfAAAAjRfMjlzTc0psDxHbwFSV--OV4ofpgQZHpqNB81ZJ9OmrhQYkvY-6ToJy9ZdGG73r9DmM1h8Xz6DUfr0hqTyEvoxsD8KPB05xRxX1Xf0kmCwTNXo3Qtc-fVDgU48eAHwbEhD6AjEg_kkI8hJ05IpH_ERfGhQbH7J1dJqTkX11OuyJfJKzQeAKfw",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Onilu Village"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.590888,
+                    "lng": 3.287641
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ed660fc0d64d774df4b4c0a0dd8b15eb4119ee30",
+            "name": "Omoba Carwash",
+            "place_id": "ChIJy5_Tx0eQOxARvJb3qPwTVFA",
+            "reference": "CmRgAAAA_oGltRa929Dkpp6DF_ttxaIHAq0DTGdBDQJArKkmdS5z6rfc1g2SwdjD8DrVeJYrohGfYgex1hgSrtaQs3y91mqHVcs1XsAW7qoQlsk2a6XE177qFYNFAhUoxAVsTBJmEhA2mNRJ3nC1SvzznwXX5paVGhTLfnpzQxrE0vbhzscqf6_ev64hdg",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.625826,
+                    "lng": 3.33469
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "14c213f90ad9c26dfacbf7886c2b7c9f062e3abf",
+            "name": "Tem D Car Wash",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ7VBD4mOROxAR4PsFC_H8rDA",
+            "reference": "CnRhAAAAupfJ-ywlSrE-aousHS_rj8bpDj6MhtoHbUuupNgzR1u5CPJYm3t85fbtg5pNo1uGKNtzDgVj_i2awK4mzMDirEDRkzKuwIqv0NFSucqy0LzuZgerEcc8nFUSNLxX2ZWIAylgWtiATJ8GEtiXwyxg6RIQbjQNMryNkXB7zRE3sXYGaRoUzvFDWei_pBbe5W42xtxHbwQL77o",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "3 Ijaiye Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.576107,
+                    "lng": 3.390535
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "eaa8f34db807eab5818675602690ba5cef26adc1",
+            "name": "La Pouch Car Wash",
+            "place_id": "ChIJs18pwJqSOxARtv_J6DKBsaA",
+            "reference": "CnRlAAAAK1-ZBYc0cYBM9EhX6gORojXzoboRkq6KjSu58cGzo5hmaufe_8MVaeAmJjwz-qzgJN_CYgbnyEJo94sc47H8rylURzOjjdZ_5MROnNlFlVPEK3h37j0ANi11bshmZ4x-Ek_2ncaaodTy6gBCBWF2IxIQ7czVFabpD_a4sW7Hv6HGuRoUD6ZqbclEGLEkLvVlprRLcdU-tI4",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Ogudu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.534397,
+                    "lng": 3.330632
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3695d98c53f6e3371a315868fd732a437312d030",
+            "name": "Auto Wash",
+            "place_id": "ChIJsaDykXqOOxARVPuJi4eWB9Q",
+            "reference": "CmRdAAAAD7Ewb1GqcOCEjdxwixKY26l-CQ2zCSNkKRlndapEXEd92gCog-LKxbZrvtqk1rQgnadvTacSzfppE2oZL6jlSVTIlE7UVhg7ag2iZeO-_rh6gX7ygmy22xPkVGso1a86EhDCwFJq2S6Is6mY8o6t2JkvGhTZ6IybEn1NsbL3iguin0gqLKUOnQ",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Onipede St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.518867,
+                    "lng": 3.320821
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ef46e2846ae8d0a664f5a234b7aee253286f21f1",
+            "name": "Ultimate Car Wash",
+            "place_id": "ChIJt1SihYyOOxARnPjA8RpuHv0",
+            "reference": "CnRlAAAAyYVp5H0c2L91u2vzb09Lv5Oq62uHYItjX16gFG5b38ADSKeYRPBXabqQrcy55bGS8e8OcRLIR1pWzv90saSgC1wEpZrDkjSI5RaUIm96gM3XDs9HQvSGy8-AvwTi5R3zqE16OU5Cmi01AGjQecbR5xIQ3V8LVQdtGjdHRJVvbz_LoBoU9ptFYAmhpq7Mz7-qTo40MuGgXQI",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Okota, 6 Ibeh St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.567122,
+                    "lng": 3.277773
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "653e57b1a42b138a5f124b6fc4bd433606f8402a",
+            "name": "Yellow Car Wash",
+            "place_id": "ChIJaS_oGuCPOxARefNTRgWPU3k",
+            "reference": "CnRiAAAAG6ua-RGGzTPOK3B1fl0gCw5zMeq0E0syfs6wp4KaL9CHLfvGi600UGlEjslZBGMWxkdkcGQV2Y2B-Z5_E3H3h90ZNIg5njJQiWYLfqbYjRYDI24VIJpx_nhMFR-kGYC6EONUEEDMLEOAbTfwcwHY9xIQc-hSDnExy25Rv243osggSxoUyiSATv_3u79LXVnvhzHG8qb1tho",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Nobex Bus Stop, Council, Idimu, 227 Ikotun - Idimu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.659383,
+                    "lng": 3.330642
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2cc8413284f1ce92b091846d747ce169800d1a8c",
+            "name": "Storm Car Care",
+            "place_id": "ChIJVVu8Qq6WOxAR9-8aWXSCK5M",
+            "reference": "CnRiAAAA--jvAqxqMBLxE5hGlhUPvBdpcGoUE1uEtDMEzCl_TDAiYSZwmWbNhKo_LKZSwtWOBNNt95KGymNxwqGFhB6btFiNs07TCVBBpsN_AVLv3tOCiZaJrKiP_pxcbZfqALLAyX3h_SRrGRbwrB71JjAQ7xIQXdd32Oz9A0wkvWoEL39pmBoUeeuyr8c-zZQA2O8y48VsQJ2H3dI",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Bola Ahmed Tinubu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.585075,
+                    "lng": 3.403689
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "14245d492b33f491e0e0647ca634f62c5e1394dd",
+            "name": "Tomtech",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ46o42r6SOxARee6a984kgzY",
+            "reference": "CmRaAAAABA_ksHhS8SjWKPZzzGhqtVjkZLozajOEtd3aZhZWSgASQBg2FmNvH-42U9lUi0yQs_U51gYgBx1sOsLXFSbvgwaEPRc56-gu0pVQaKM1JOW_w5Vv01jGMIRxLZ22R-FPEhA7S77zja6YkWCC78I6keWjGhTnadDKD5ke-jwwbRovrcFLDQ4kow",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "car_repair",
+                "establishment"
+            ],
+            "vicinity": "504 Ikorodu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62551,
+                    "lng": 3.298325
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "31e5528759aac243e282199639791bd5cb7647d0",
+            "name": "Ola - Olu Car Care",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJsSGpCOKQOxARwe3MDoas4Qw",
+            "reference": "CnRlAAAAjoQb2Tb4gBoaiKjoNrj552K8_gdgKmhVIyTy0MbBO-kEn-lT1wwhYx2CXWimW5kqBvMIydhHRn05IVvHu53hGQW8fNNwUK8o3HI6k_4o8sYt2_kcoELWP4i_C1ixo-rkfOf-UeLYHnwgpiJKRdHkoxIQ2pHNcVN-qITEc083-8K6rxoUJ7CDfQzYojoQETazZnwc6lwwRgg",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Pleasure, 15 Samson St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.608864,
+                    "lng": 3.310294
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cb858ff8644a822219fc3cf557325e5ad5177564",
+            "name": "New Car Wash Services",
+            "place_id": "ChIJT09tlqeROxARVO0r7le6Xm0",
+            "reference": "CnRoAAAAPPci0F-nOujTJUGqZ68yoU1h-OH0xjJT9Sy-xru9f_G_yVx4-m26CyNqjc4caIBXhnZ_anfcMpiauGHYoWKrugfB9sRvheJnQP08PiYyQA3No3oph8L8j0YYYjQzSZrBy5Fo_D37fUvR84TQrMYOZBIQRdGVGmagAdanoxiJk2aQuhoUaa_SfQkfSVsoNqBol99eByzGWcE",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.566663,
+                    "lng": 3.280428
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8a4576d3d16e7dec16742ccd5f9efb794371ff50",
+            "name": "Omoojuile Car Wash",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJnXgemt-POxAR2ezaF8gnDcc",
+            "reference": "CnRmAAAAl1Rj2h7fHq08xb4AhlH0hrFQxX8WmSIaeSXuEEXdV0RjNUTe9OWFHUIbVDYezz465ojJlq1qyWkU8VnMaax-ClObLXcMg71V_tkJdSWUq7CSES2mR3b5iGNsqSEIxahlV5CkMItiZCc40N2kZzMoIRIQLGHEcVwqh3mnD61NDAkWEBoU8GCNzFTrgLd1Sd3kmHPFc8F6d7o",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Off Liasu Road, Ikotun, Council Bus Stop, 1 Lasisi Ladiga"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.657841,
+                    "lng": 3.332479
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7c1ac97a962acb737aa4ee804668513cddfa7e1a",
+            "name": "Dsame Car Wash",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJNR9OIKyWOxARY-qY1nOY_I0",
+            "reference": "CnRiAAAAKc6hgnfOX8AJPG6r6js_HCiMG3Yy25fS901TWkoOHYvWjdqulh1fKu90WBm7zC13qtMomnSVto-peOiPSckScURiFzf_DemObd7_DN542kWgvCpoMw-OVA63aACzQywxLQdi-rtymLgylooZimGiIxIQXtbFO4nFZ6zl7OhnYNzkMxoUnxxL1HFBx8VE_m0GEyEWPlLBMc4",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Iju, 15 Kajola Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.512457,
+                    "lng": 3.353247
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8408b2d16fa52831aa50798d8d7e81f8e161042b",
+            "name": "Promiz Auto Clean",
+            "place_id": "ChIJhfkOPTqMOxARVuofyJ_00sg",
+            "reference": "CnRlAAAAnTOcSP70MhX3S6d_7v2XujnwTAhGYCI6Sd7hlg8vRK9euxY1M6WbrvZUXp-laR-tE6dB7hJ6sOVTXw0jotM1lWlT5KxoZoAEwIYWg0d_vLTYhjFbz_7-tx_jgxU3PD-m4NxBYdkxULVH_CKqPhGY7xIQv0uFmpj8NjQvDy0VnrLRcxoUz6KswH5o2tcnkwQi_Va9tpTtywE",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "104 Itire Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.670612,
+                    "lng": 3.3228
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f34ee43e0e02bd19efd95ac4292558b3adf2b30b",
+            "name": "Oke Ayo Car Wash",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJE84kkr6WOxARcuh2tusv1ZM",
+            "reference": "CnRkAAAAkVf3CiBJjrgqus6hM-N6zf_tXZ5rztYR7ILd0JuCw3s5Uif6DzoP9CRBu-gA4FEI4Z0bGaAs6hSnw6N5L5U3Zb-II1fBurmUCkpkVbz6blSamKIdTPoGOg28P7HetoXyF3OXkuUfX1TaAu-zzkgs3RIQOG2l7-ivzoSOcRse1GBAXhoUR0tSls8pT3OnlS4Mi2_Idc-VYc0",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "iju - Ishaga, 41 Agbado Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.52992,
+                    "lng": 3.36087
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "102b9dc27866038a06aeea7eec98751fd96fe7f9",
+            "name": "Clean Connection",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ14qUd7aNOxARV-h8Wcb5omQ",
+            "reference": "CnRjAAAAvBUD8lC3npLgVF-NL8RC_mLlE0rAqL6SyGCi0glHfFBxT_cMaL-Z6VDyZuBGpmiWchairtCxlsslNA9JHtdbcq_rWJNsETwcmbdXM0VHravuWyAjvXNrxwyPjGPfc2IseE79YfyVWIrrdHVaCVkhWBIQjeKO7zpjFpj1djUSkYUfABoUT2N2ygA8ISNEPsbLxmHRjltENNY",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "89 Ogunmokun St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.52796,
+                    "lng": 3.32517
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "437d142deab8ab9283e8baee1aaf063d951fab7e",
+            "name": "A. A. Plus Car Wash",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJJXykt2OOOxARuebN674C4Ts",
+            "reference": "CnRmAAAAx3-5TYrPwDCfZwZmJxj-BjW5rRHADoJWLqdO5_usIr0jQW7hrWo4EEgVAByVF4gm1LPnvxm5SwW5HlCDqrPiMBsvyqQBm-SAPG1XymxMeD0V_Kgi54AvhfQCEBmtqH7Vgq6qzpcKwK7Ak2Qm4NqQdRIQ3nxL6N7DfHVT1eGLv09liRoURJEbwqtTjPz6DqIO3BMZEVZLeNA",
+            "scope": "GOOGLE",
+            "types": [
+                "car_wash",
+                "establishment"
+            ],
+            "vicinity": "Isolo, 67 Mushin Road"
+        }
+    ],
+    "status": "OK"
+}

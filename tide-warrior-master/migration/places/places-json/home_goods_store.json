@@ -1,0 +1,503 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAAGEGAUE3pMQYGBqBh_b9S23qwbGNDgAJKRJ6XKW6rRZDfRRnZeTFTro4VwoJvklU9EFD4e2Pq87VcTZQNmHu7mXAWoigbVcRVu52xnySLD9EZNzwdAvLyqp208L8GLvt3bbQPLlVfRz3K0KA5a_swjocIPHFYlHSA9Ys8XRHg2jq5FZOPaCFjwlktEg0s_3YsA73XWGcUjmekYQJSmgr5GfIxrEBFx50R0sGlHAc4C1c5s4b3dhf7i0OZnoiO8v4IJM56yTUmCH327QVhsquNZAQPGQTPWaovoy7hJIm6yxGms0Drx-oPBUhJnPsGp-YZQj5mjUGsOOHQAZCN6uEEKsSEP0azJbjqRuCyLqAvt0K4RMaFCvJ794NIcWqoanqGDpJwHzPexuK",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.487948,
+                    "lng": 3.36245
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "c845c891a2c4876f5fb461ce32fe56d6f41235ae",
+            "name": "Air conditioning Company in Nigeria, Lagos.",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 415,
+                    "html_attributions": [],
+                    "photo_reference": "CsQBtAAAAGOSerp3E_fmQMAXKwXphQ106PO-mycbjmf6Z40IC0vIiM4g-8K4Vc2jWYrMSnIz-_q9fN8yGEUnxknEFas-DBjKGl-JRUWgBPTX1hHEubxpsKfiGtO9Uv7jl4sqRMZr6TQ5YeI7rprX8q9Of-iPRFj8dtau9sBplcJm_YB3sInKMAul2s5tAPPJ5bY03cPuR-8i9spzpUlnDNME1GglKUN4dnPD6A3s93fKED2DUS5qLGnEwVK3cDibGWFjuJkX0RIQhcXQxvhRAvGa5_lVubDNDRoUymi3kJBij8tXOY0espeaKzvumQE",
+                    "width": 416
+                }
+            ],
+            "place_id": "ChIJXxmXkXOMOxARJ-v-oZ1S6Lk",
+            "rating": 4.9,
+            "reference": "CoQBfwAAAO9dJY_0N2R6C_cm8Fi7UOUC6aGDsLlpuCIna0Qa0FSewoUHAgDijOBNdf6-RGjW7kC9djIb-xBrFpVezjK7cygrzDhaqunHpuAOuEZTw5_9W2YST_8a1-lBT--alMTAQA5u_TcYHsYQDxnkEAcWMALI_-Laj10rCZJe8AQFLL6wEhB0AQ0gnvmArDjIRYv4vtEVGhRLmgZRoyqoahh7uBrrULrz05woew",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435987,
+                    "lng": 3.436146
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d6ea4f1fc34f64bee2efb4cf28c0e0e81db25ef7",
+            "name": "Mc coy Ventures",
+            "place_id": "ChIJDYv6HiH1OxARQ00RsjbB_ok",
+            "reference": "CnRjAAAAzvW7jrFT8iTO14kbCscHl1eSMe0qgW2HMJsNu1IO87Po-sAbh614DYM8NEyap76BA5bIjQ3gxBUtZqEFIVVtgEwbgMKuHlIPHMYuwxP2K1RLNWAuXO36uDmBuPrmenrke6We9YSoRdLmrMEKkclWJBIQjs_bfWU8x5fhLitVR2Me-hoUv4p_mooIk6aO2mpAuZVS8ku0w7A",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Balarabe Musa Crescent, By 1004 Entrance Gate, No. 888 Samuel Manuwa Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593013,
+                    "lng": 3.343333
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "72d20e5dae33a961c5cdd7c39761e568edbf77b9",
+            "name": "Don - Solonzo West African Ltd",
+            "place_id": "ChIJn0EwWyGSOxAR56hhLayP30Q",
+            "reference": "CoQBcQAAAMfsshClmHbdoMCZs60sdhtYTJcVGLXrI4YwRknUAg_QVvtAt6gV9_18SbJ2DXdXWP1cHJPMD3887_6gZpfncfZFPktC6zc8lY_4_7YDJ1r43rQy8ji8aXZqbtYsnTVyp9HXUN9L0NvpGPoO13hAdW_EFdltJNcgtCGQ49oEW5ipEhApIx3iJ7huR5VgfoRBNikYGhS0OlY5m0wdgun9jd5AClfKLRD-iw",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 76, Mobolaji Bank, Athony Way, Beside Ikeja Plaza, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.573613,
+                    "lng": 3.388008
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f004bb948abe86d10205eb1513b19cb2efad6350",
+            "name": "Rehoboth Soft Furnishings & Interior Design",
+            "place_id": "ChIJw4Os6oSSOxARrO_Le9Ed2ok",
+            "reference": "CoQBfwAAALQYvLuHGM4qNqmZsfFLc05AFv9RFWpvx38e0pNWsIPLJIH2UE0vavA2W4JFYFLe3gtxPcBOQWYFHr4P2Py4YQJpymsmhfmPuu5aCu7t7p-oBf853x6vLKL5aygcL_y3Vxjx4vzObso5RRsTzAIn5SVk5PrIcdsypS19NlzMLp6LEhDbKPn3q_xXsgRQIDVIdn25GhR28pEsni6jBLNAvND8AM1LVMrN3g",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 11 B, Ilesanmi Idowu Street, Ramat Bus Stop, Ogudu GRA, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447417,
+                    "lng": 3.477186
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "1f864f7896fb9a1cdedf867d2a6711c614dea995",
+            "name": "The Party Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 918,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAKPmvuE-HmiEfycAK1Z9hkLoH3DTiV3SshlD8otYZajUK0g4LoKjq_A9B4RvVK9-fUjYWiDaoGU88U4erowl51GZb6NCP03F8qWY3kCDnoHsefdIdxNz1fRI_8XerBMvQXif2FnzfxDxBlFdCyt3HthIQUimzJ7G4wkLfgi0EOyfKNhoUwYsPyNhIYRfnwwIVQHpNhVTBzY0",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJZVYCOP_0OxAR9E9ToPSx2Us",
+            "reference": "CnRhAAAA20bQF3YTwBj6H59w39Anc-YU2Xay5QlkExOZRtmTgYdHBXBPxUiGI_xahiM2ZILcXxyKxcUCCnzWrlCjuyOxk9Th7bqFRKnPvfadxVcg5BktE0AFPfv7zdAC4XVdq2uPv7xSfYOtWGYiAbiz_UQ1KxIQesQ6DVk_hkqJUFLCmvEdvRoUbOXrouxft-jYcYEQtKBjmAjVWh8",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "15 Admiralty Way, Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.554606,
+                    "lng": 3.334257
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3a484b69e4c1f0d4326b3e91fc2c91e6fa1dfa6e",
+            "name": "AMY EBHODAGHE",
+            "place_id": "ChIJ-yPd0QiOOxARDVpE26-RlJE",
+            "reference": "CnRhAAAAx8MPPl01iwv2XNISw1-uFd07Cf9PC9JLGsYFrbt_fpuCe-ciB75bW7VsG3s7iUANgN9ykwflJnHOLdbNB6hoZQRMhzkuIY1E5Ouy4xAXYL-OAJr30nOANI3s2JkXf9vasaht6egb0u4sF4Pn5D_gQhIQv6hl2d9cb7YsAFJGzmG_vBoUbrtGtIL9lmGlfaznRpId_a3cFMY",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 135 Ahmadu Bello Way, Victoria Island, Lagos, Nigeria., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.456358,
+                    "lng": 3.390674
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "df200e23d25696a789e8cd8ed7d1dbb8978931ed",
+            "name": "Pauchiz Global Resources Limited",
+            "place_id": "ChIJfUGYPxKLOxARJzg2HOYnZKs",
+            "reference": "CoQBdAAAAHKOrJ3sbZ7iANkDVhg2B7LBcKaFzrSvFBuQyvZqWh2mbBUfGScaJuYrmbgUnR2V-D9VGMqirW_uiFkuq4IJd7252nKGGN69UbA11JblvTMYDeN7RRSDKYo7ig_gQmriD0wzp3wUg-5ESV0YqclEDvVvXSOmCtkqPtL7z25BaR40EhD81kDOiwaPN1UgA_rZXqk3GhSHX5t-z-DpPWbEZy8uSPWfy8GifA",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 41, Agarawu Street, 2nd Floor, Idumagbo Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.613907,
+                    "lng": 3.32233
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "06ebbfc0588e932a858b58f00c86425a637533c1",
+            "name": "Diamond Creative Concrete Designs Limited",
+            "place_id": "ChIJr5i3QXSROxARbr8n2MU26bs",
+            "reference": "CoQBfQAAABEcGzCT8i5HyM3rQY-QD5hdwI6rg3cm6CnQng63xqLBcKLbEVmh9sK_7bHYLKqYi7NWeMrstX_p4Or4pHXrTDBjXAaXJyYJ8YnxdudVnBL7GwsZfEtgWHlc6RkomQP5X_RcJBkZGUfs891rMnVvfdSKPyeKO68owzaXlQye9rLuEhBFvFUXGsPm2Sm3BOJ47rhYGhQcf4d_OoIIGwTncobDs4qSXIn1rg",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "P.O.Box No 6252, No. 17, New Oka Oba, Abule Egba, Olayiwola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.609594,
+                    "lng": 3.352718
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a054d235b5e45cf217f9b844d455ef6509b27c02",
+            "name": "Dreams Home Furnishing",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 622,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAM0X5xiKkeS9pDuncRhRw_8E11uwMkcl2vsurBkZkGyuOHwtibINkBIDDU4aNRS_varbpnSHADiePY3Z1vYqquWy1ga_M7vZpHNrJbHrzKyrPN9BSy97EK_Kjgj-kPK_8c3sifSrkTA7BRyTeMk4oxGBIFLMhW2q1saffOLgOEKRO8FNn7Sp5xb0_zHyK_DrShIQ3FtbMbfgDBbrcY6UmYLGaRoUHJSesc7G7ylLSyW4_Nq2kYUBayk",
+                    "width": 622
+                }
+            ],
+            "place_id": "ChIJqeryNTOSOxARoBJLgetxGQk",
+            "reference": "CnRpAAAAbRnJasBmK3PexyaOZQayva10z0QcoZ-KKDJWYjVTYQsxOa0gZ7YZCZ2isczttpT9dSnlPdAx4SrSBDXOtKcOuCr3i_wncjJ-Nk10JmVATvOaPc45Kp7o_LsauFYuRaTgSchxnEH9STctJGCgD4CdtBIQX__o1LWjV9Owr7GUXpTqHBoUBo2aAhSereHjSq5HKR7WQRdUHLY",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "7 Kudirat Abiola Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.424565,
+                    "lng": 3.419204
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "579668bfab4b5aaf648b338f9299f87e4787c15f",
+            "name": "Michel Akiki Arch. & Interior Design Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 861,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAADw2xEI5vCa3_KiJ0xBpQ47BnvIREYdJBtWGMSBbdk0rDItU86GKZuu_GfeoJmiGWblZ4S4zVl7LtE0hNkKdDZZ7lEt9vndAyg3j1FnruMCnu6ZeKnW43PBQMSvmnXfMYGs4DKacD3ljH_iKX09L0mSz3pCiPEqGLWbUbI1wW7BFEhDLd5YWj_faiC3HFTPcI9-zGhQNtM7-shaQmxGpZwzxaTvr0Ta-Wg",
+                    "width": 862
+                }
+            ],
+            "place_id": "ChIJTSjpyMyKOxARDR9mw89hweA",
+            "reference": "CoQBfAAAAPBKCVUaF2u8Zm4RrSj8SsFVPsm3tQdCD3Bf4-1o6-ClL3VMahhcFxBsT3xM55J29bbVvJYHVgBI8VTdjvLl3xp17lSGpP6hwWOmGzQTa9Ria1ffEYrR3ugBrgwWHICYwIusFE5UvXZu6tjMq6819lrOl9Di5tTP-belGDYHM1_zEhA5kGhK1wGt9p7BdvKG7jUhGhSy21-X9n2TUokojySt22O5Spy3KA",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Amodu Ojikutu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.55556,
+                    "lng": 3.342789
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "c3bd4e0a6c7072d6bbfa6501a8e0e9dcb5409d01",
+            "name": "Starcharles ventures",
+            "place_id": "ChIJE97RQOONOxARG7euTNYDVCM",
+            "reference": "CnRnAAAAOha-z0_veBauzfRfMGb6mOyQrjmOUGkjlS48nVA3ZjcAXOiFLl1NjePUkHiR2QCwLtR9jeHxnQNS39EgdpX9JgoVixvcLWqdo4Dbrt7KM2xwpRmZ-OHCLGeQSvDpxvW5pYk6C4YRLNWWJ9lZZJkswhIQO-dMEn2ooZbXumrNtIFIBxoUYvCNLJFtWr-VRAQsjWmXtB3niy8",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Shop 07,ibru warehouse by westminister bus-stop oshodi apapa express way Apapa Oworonshoki Expressway, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.637517,
+                    "lng": 3.312894
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b18cbfc447b9a63daf22f85f3d6d67adbcdc72be",
+            "name": "Bankoleabe95",
+            "place_id": "ChIJFwTq7zuROxARR346kdTuizk",
+            "reference": "CmRfAAAAzyhPOoQVaMIf_qoY4lX_0BYgH4RAU2hslZYUt75tL4tkoTrs22fetIqi8oPxf0HWCp6KB8Eh8pL03EJt-EnjsTPvA-1LvArNACHfDPbp8L9aVB7V5aZTGBLNAc8C_RgHEhBPxZF2Tgu--j2yY2hJ7ZpxGhSFPXyiiWWTeZ0IqENtr6YXL8Td9A",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 7, Assembly Road, Maplewood Estate, Oko Oba Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.621042,
+                    "lng": 3.353574
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "c7927aca294ee612039b61896b577c54c3c359a0",
+            "name": "Pest Masters International",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ730Q-8WTOxAR-bwGqLX8YOA",
+            "reference": "CnRuAAAAxq-vRhd6PZejgXuKVqTuJ5YcdabBHTKpo7Hvzz_8M-HYnzvHVSVSq8LwfcFSsdRoNa1BniKlUMD_dKbOg-vot_7uRIrVNUY7wMyulFUDHBfTmZHiJUecy7fSQe0GbjLSYVs27SxaPJXhSJp4yYnciBIQp1AL_2j0MgRPWwuKP89qMRoUY-rxNeWJr66VMwz99Xg3RwkzWUI",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "3rd Floor, Right Wing, No. 5, Ashbi Cole Street, Off Lateef Jakande Road, Central Business District, Alausa, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454674,
+                    "lng": 3.397272
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "78c4b9bd769b70ae25440daeee1371ebaf145b94",
+            "name": "Space - I - Fix Ventures",
+            "place_id": "ChIJt6z6exaLOxARnJu3Ab2uXEw",
+            "reference": "CnRrAAAANAlGKDsbLDQsCUEXaolSIoRN_TOkg-S5MUQ3oMYW1nLp5vlc0c_K4WJnKfdrvfzZ8XWU9lZkE2jSRZwLMR8AeDH1fd9QUQqy0wGFTZNPPkXsXD_fzphFxM7BYncW-mrOPPHo0xrW7qplAhPmpM-GnRIQtEfoQQFJg8qjUyxFN0olWhoUDzqDboKPrPNzpnEveTXafw7bXLc",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Block No. 28, Suite No. 5, LSDPC Estate, Ebute - Metta, Glover Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.513054,
+                    "lng": 3.306684
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "02fee1ecf6e22c3fd387e0c30fe94164cc8381ed",
+            "name": "Hendur Ventures Limited",
+            "place_id": "ChIJg1AcI-WOOxARmwo5V4mXGGg",
+            "reference": "CnRqAAAAWFoCiVulpHsYwZF32DZ_x66F12eoSU92hb8EWXUxWgoPWFXrYkfgPnOT0QXMaQrQqqWID6vhsEpU8VwNibn2ZRwgMhgTlK1qAHeV7k1VWXGW2TWsyTs4rfQmba-lRSIIvg1QJ0Hb1y8ayQb-wZIxjRIQEEtTivEnvi_Nk7DuunJAVhoUmdLOoBTSIkpGo7PCUA_-Fr_8GmE",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Suite No. 42, Divine Plaza, Isolo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.59029,
+                    "lng": 3.362836
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4395b0cd129a8ab8c126bd05ec341ed8ab6868bf",
+            "name": "Dunstep Group",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAqh2YZXDf8Rk6XYPSe3qadOAPWFrP9UtSznoaA7MwvfUjBjKx2H6qBUiauFtHVRiMwftmvq7srLNFPPlqhockds5ldmosjnXFGdMHpww5jfSyVF1ul0xq8BU66tAGWB8e3jCbfe2bLIaHiK27taahMxIQNLO0US_QWJdAmgQgigN29RoU4a5hXMxnZ6BVXQW0YvpyjUFTydY",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJQ4zWl0GSOxARyqwagFxeDLY",
+            "reference": "CnRhAAAAflUhhZvWL-1G1JE3fAcysdc0OXySPqrYnGkF8t5J6ClsBW1J1UUlz6rxfcABd9mjCHRK_H7wmvSguKS2y2I4CrbuTCLnZr56CjZU1W-lNyrzy04liHwjb2s12W1Tkqm2Zu2q3UWZzvnZvTFbMyqHMhIQ5Xq0xwHCUdaYnAYTPVPZGBoUh524I438U7NnEHMVk1PXAvSFZx8",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 5, Salvation Road, Opebi, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.541381,
+                    "lng": 3.348014
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "2144e3a2accba29712b481d589729ad22adc6714",
+            "name": "Home N All",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJoZyBvNyNOxAR6N7CfaOO_ew",
+            "reference": "CmReAAAAi466crFp5qAzhxYvIqTx32Hn8avwBJ6wmy0NduOw1I1k5TbEib4-TifarxfW14iK1UcprYq5TqXhs35GnYX2EzGPqZlhGZWR12rImvBFQwLtSHAbIpHZ7KW5V4swo0VSEhD5sFWF2Q6NfvYHTcfJYnXUGhS00jzSLl9SfYv5d4lepEy_fr_tOg",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 8 A, Fatai Atere Way, Oshodi, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.645119,
+                    "lng": 3.325475
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7d9383c65a2b7bb2ef5d32535062de87db0c8ce1",
+            "name": "Sapphires Cleaning And Pest Management",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ-bVc5E6ROxAR0nJTF6BPyCc",
+            "reference": "CoQBeQAAABpMTB89NM1jeIBrpJaQOE5_GEayva25Vwww473a0YTex5mvf6aZhlsroB_46p7oTk5qyV_fbSh6212uoRfuoet9wfiFdVQYb3Io1soIF17hy90mIflftq-LnL8x0hZ0l5JqDs8elSF6MWtfGuLn6ZWcSozB5Rmp0_C1_ytDDL8uEhB8nnDPSfRoqf6TOqeQeNF7GhRx7Pg4I0ftBAw29HKiYwaWqcfX2A",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Anthony Ojeikere Street, 2nd Floor, Off College Road, Ogba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.576091,
+                    "lng": 3.360583
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "caff2d759c53bb612addc2839a2cadc09faddad9",
+            "name": "Adam & Eve",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJcyFp6XKSOxARjRirEqZlG3Q",
+            "reference": "CmRdAAAArAx4pAaF2ZwakO42LeXKBCR6oW5juLHHVk-wy4ciyx-VLLsbAjkPh8h2eEfH9ad_Lo8BldCXrpNOQQbl7JkWN7BSC6UbLPHeLyy3Uyl-ZBSrn5pVYyUJBbcbeBTq8myKEhAEqAdnqzmH4fYlxYRVv5KpGhSwl_mbrwvhmhTDbAW58ouL7TClgA",
+            "scope": "GOOGLE",
+            "types": [
+                "furniture_store",
+                "general_contractor",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "8 Isaac John Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.42784,
+                    "lng": 3.429139
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "61ee9dee1743eb4b40ca2337bdf4c67a7932ad2d",
+            "name": "Simply Gifts and Interiors Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBiwAAAI3XcvPezr1g90lzuHe738VuwZcgyZ-qRe2iGt-JnMahnBX9JAl_OCJ2YNBc437bGrpGoGBIPFkUjmgvtqcOW6lYNgU1bfte0mV8aMmvNzdXt_5-m8Onr53a19v41XYNdq6cGtqfe4jGdD3khNVmrLT4G1g3qVWP-ioLlXeujoUGKvK--NHwvip_XyknyVVikBIQDNdJth7fjQg6Wa916bY13BoUA3UvSwNMAVpWtHj_M2kiy9tC5E4",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJlzKNBDD1OxARQs3x6XB4Z4I",
+            "reference": "CoQBcgAAAOikozJ1wiZ5kX9coJkCneBVYkuQEjvv9qXTEIeAlWypDX-1GPf-2fdTRoIsaOA9F3NswTFlAafuDiFzBOFj_CAcjxBM1SkOwG2_CFJy19tex_JLVXpBBBMoY-9I4ZzbfCWw2cKvFGS2PhkbwYzawiYikUvSnz2eeBweETb4tbkTEhALWtFzFrao0GJWECYUueWsGhQNmi4ui2fADmA7g7Gyj1n1EyDwUA",
+            "scope": "GOOGLE",
+            "types": [
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "19B Olosa St, Lagos"
+        }
+    ],
+    "status": "OK"
+}

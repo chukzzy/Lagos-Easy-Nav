@@ -1,0 +1,447 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-QAAAPmxFdFOxZDijYQOUdNURKKBCVdZWvam4I9H-k2GeJcpv7H9wS8F2RacqenCSM371qT9XAh0V2Cps1r4Rlu9gojfM6qploEzfKC2_u35lz4zUs2993hzOoy3NxoLxTbRBTQmpM0VZomo7xE1EfceSoFgKT8yaiy97SzjuAHjjQpF5BfhXPPxa7_j-lcisKJDUBPXEGgeSh-0fZ_8wx-ayYsMvfNhAilETqre74NJjRTgIwIRawJ4c3eHhlNXIJ6zMTZwYu26s3Y-UKgnzIdm4UYQqolhyMXadykSA-omx2QGCpCiOMoftH2Suqn6ctCS17GhosDj_K6arRCV40C8x38SEHN00E10xJ_sd3epwam7viQaFIvWqQbS764tWcmJWNcGPNycbtot",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.532855,
+                    "lng": 3.381109
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6fd34eb8a042766238762bfbf83c9d50346a9415",
+            "name": "Nuwalelectricals Nigeria Ltd",
+            "place_id": "ChIJqUaBrweNOxARNrPgExAfHWM",
+            "reference": "CnRvAAAApybg_oNIQjwsGwnFiBqc5k5TWnGWicUJzJnMdZajEtXn448v5xPVZ-8hMj6HpBMGoDc_b1e5nCuwkGv3DaYuPO6_xKhT4MD_8p6AgLLzHWQbV1lgigpKysT16fFQXAX2miu3kDp0hzYwRkrkcp0ptxIQEQbtMrvryqSXSn__loJ9IBoU2xS_W59iaVG2z8fbZXsH6Zjfvk4",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "No. 55, Market Street, Market Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.452152,
+                    "lng": 3.391432
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "286bed64548466f26c16db34d234d6167a55dde9",
+            "name": "Luminal Electrical Services",
+            "place_id": "ChIJacKkUxCLOxAR4FBY2AL2vvc",
+            "reference": "CnRvAAAAakULMABaKXVJ-sJqi4HJ7FZzNw4lMZ4q6DaxuAlXZPpCGBVSLkIyEcpxhqnYsjxtixkHScxQkWFg3E84Jq2afM4r7Dix5XITQi383jQBKLZc9oU61kaSuz-9jLhZFjjHR_I0InfwTHh7lp6UrR2ONBIQkAeXvTcrrZcCCR4D2qLWARoUb0kTTk_peLFYPB2yH7IkhitHvoQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "37 Odunlami Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.436664,
+                    "lng": 3.430817
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4d1b8c10672049d21398a3e2654f49b61f27a866",
+            "name": "Abiodun Electrical Work",
+            "place_id": "ChIJ4TLbySf1OxARzhP_HaY2PJc",
+            "reference": "CnRrAAAAt1t7Ng9zK1YiZ7NZLgBaprcXss2_PVUt0dOqEKSp0NkeBbuXOS_GD-j8QRC3iETiQlSE4jS_EMSKTWqIaUqyJLT3B4CbDO2fnEAAHD-VuBTR9pd35E27zJyOdoayg0mL9QUS9yH9qigQyQ2C9eaPzBIQfsLcUbpn8PCzKsTowWDLOBoUF7SGORiydDy9vBh4Nzu_R7J4QeE",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "1415 Adetokunbo Ademola Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.63218,
+                    "lng": 3.324652
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4cabd98d83cd3d8e20dd7c57c71f2d0c71c388d7",
+            "name": "Azumor Cafe",
+            "place_id": "ChIJZ-ufEUKROxARLe0XhcB6Sqo",
+            "reference": "CmRfAAAAEyMTfU26uND3OP0aq_J7R_KRc1zjzyr_Im0sZ-PA5ai-pnybHyVBVFl9O0el2C00El3e1Zy_Yx18BAvAp7SoQetuKWumK9rrZKszlt6svZaiedK8PH1QPERPn9HXEv0QEhDbhqMFhfHWb1kyUOjwlhr0GhSni-7R8etq3ye7_QGgip32oefrww",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "No. 2, Kolawole Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429612,
+                    "lng": 3.453577
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3cfd0c195fe49d5a71490f4a643680ad83eab8a1",
+            "name": "Miomer Technician",
+            "place_id": "ChIJF7lwvwX1OxARqA0eL0OtCa4",
+            "reference": "CnRlAAAAo0TOUiuE0dqxJDOp4x7bKH6XiHrH-Qvm9yRBxceWWMf5qvWV81HGFV2FXYxdMATifkOBoX_3QBd-SD9-aY6yBKX9bJ2RNQLreOWIkVgOrE-sK8w6G8xV1-bqLhvKkJ0v2oT91MOyj4g-m0n4uhe6GhIQ38FOUgqvzWvKunV5ry8nHxoU5HYTBW3ZcIUxXDPRILPJoqCkkRs",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "No. 82, Oniru Estate, Lekki, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.531131,
+                    "lng": 3.366426
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "27f39ea75d85cfb7d132cec1917d8dd5d5bf2207",
+            "name": "Nasco Oil and Gas Engineering Services Limited",
+            "place_id": "ChIJNbfOdLGNOxAR83sVMPPXO_k",
+            "reference": "CpQBgwAAAGuXqQrcTY6IKgy9kZ9n0t9stEGfUPXw7RQUcNiWcMzGf8Rqn6QcMVMzDIpzCme0hMHokg2e1k9YV8jV8al949n8PGsVilf3Knos5Q85F1EyFPsDuLbmaj_R7jCLseg3CCtD5Y6qM7_nRz2qj3FmEUX98LAP7yeD9eBoZV56x6ZIQbdv6-YChOIlYV98PEIvqRIQAJ85BmN4dbwxHL7N2x0uORoUsUStg6nZMjh5QOGJ6pC3BsQbvZU",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "32 Opeloyeru Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.537438,
+                    "lng": 3.345263
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "793550e55cb718e76c196968355c79492781e7f4",
+            "name": "Perfect Touch Engineering",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJaxEoSNqNOxAR6sv7jP_ClJQ",
+            "reference": "CnRtAAAAgE2ldlwbQ_9f1S3YaZVhfhko0bBuKx1vA9j_bYRDmnN1yGKfX1M3S5vDMTs_t_u7wCKXqDI8bidcZRGKV0rkevWQyA4yqndP6mnPMR4V_oFWg2ZM3BWIuBdsjIQx9ZVRcxH2NPag8qu_VhKYlNJbuBIQZ_LUaLTtbDLPV_rQycuyNRoUT1bIS9MAkjja_QCZcIGqmZj6mCM",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "49 Shotinoye Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.6044,
+                    "lng": 3.346064
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "61f331bba6fe783a7268c2a9f464410451513e92",
+            "name": "Emtech International Services",
+            "place_id": "ChIJ9-eFgi6SOxAR_MtYI6GljMs",
+            "reference": "CoQBcQAAAN2WcnjvVZI0WvCyFE1TF5rbONipZM-VfJEKYsCreukHxt5RBGmV6Co4uIhTGQy4j3xzkXVCHJXFU53AOnjCeK2KPJAcpNRE_kStMWBxz2YGQZzsvbNp1hrPgRr5i0CXTXgoXfvxBdzBwb3SuvWsxlyZfhy_PWQAWoua4jbOANyDEhDmo35nQa0rmSLG0_UJBx70GhQmdpmtJmlJ7HKA7ay9uepSAUTcQg",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "No. 67, Obafemi Awolowo Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.537142,
+                    "lng": 3.358137
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "da3b72b95adc14b8500b8a1db2e3d0c0df29ec73",
+            "name": "De - Virgos",
+            "place_id": "ChIJsfCdkMeNOxAR60SNHQyhYeU",
+            "reference": "CmRfAAAA0-48Shj9Lwc6MhqxPJHOdnx_qfLDsTG_L1V8ZOMLy4ftfrTeB_jMlAOFIAe4wUDj3ZO9H9roXnVxOdxM9SI9TR2ZOP80ZhN17YqNCpwPA60JIqj_mQ2t6cuoH_7sWrEbEhCq9kI3lxhWpIVxaq-1ScVcGhRnfww8lCX2FiR8YdWHUF_CRLkv2g",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "Coker Bus Stop, 20 Olateju Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.637318,
+                    "lng": 3.347972
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "007cdca031edd493abe58ab3fc32bca28eee2f15",
+            "name": "King David Asset Developers And Managers (KD-ADAM)",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 807,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdQAAAHuw5VSKT-o1baJfXZQycIaM5Wgs5j7Tz2m-zW8YQlr4zQPobzhaJqzpxGsfzsX-DUh_ySBNDdnLqz4hbLGKlXx0LibhG7AJ6JL-Rn7AdUnHXF9Wdb3JHX-qMdlYnOW0-UdB_KQnGtKL9OEi9moRm-1a5F8zlf6B4MLEthz_6LMPEhD7hgiPdOhNMZ80fNSksB3tGhRH0FfHMwXn2QaRWVcNtLoo6HYKsw",
+                    "width": 808
+                }
+            ],
+            "place_id": "ChIJrebE6OWTOxAR5VTi2pcxMPs",
+            "reference": "CpQBhwAAABA1fbYDG4tCL9N-0xjxRcLe1r2ZNxCKhOeOUsb7brdSthO9sNVPp4zdUqDR5kbD_cWe1F2PiTGxSs_Q3obSIiBydqz0DvMbFgGLMXBB69rPrxA-EW62RBSumhiUpPCyhaQzX_CsPzUPU_Ep2v12SiKbM4mw-eeFvL2KAr1ZLsdrkA_Hrd1__ZBrWLk4tbRnMhIQ2Ky3X_xuKLF1oOZSS6uzDBoUidUHKpcsP6stkC_5HZUVEp8D3r8",
+            "scope": "GOOGLE",
+            "types": [
+                "roofing_contractor",
+                "electrician",
+                "real_estate_agency",
+                "plumber",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438015,
+                    "lng": 3.516255
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "bf591b005c9703b02cde7aa91df6c86627513295",
+            "name": "Mr James Venture",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJge5v42H2OxARmP-YMbQSs2o",
+            "reference": "CnRjAAAAI33oTeWBLNcfV8lvQlUOF7QOUink-85y_ruyy_C_ugKvGaUl6ioK1pZ1qCcRIYEI7V8lygb1KEcyS9OKFk85hI8vOqteA0LFp2shzfqni5_3BxIsZmjGBKQ-B_w1ia6ImI_0LCeqafNVO5xYY17P_hIQiDkMDxI6DaxdXJOu1xCfFBoUuzB4FDTEVzoWVwfHl00UdnKhIEk",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Etiosa, Agungi, Shop No. 8, Chief Moritala Odofin Shopping Complex, Lekki-Epe Expressway"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.622392,
+                    "lng": 3.297347
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "77286005dd2a9b9b7bd181e0611667cb04c8b54c",
+            "name": "A. Adewale Electrical Works",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ8-os6-KQOxARK_-lmjH1QiM",
+            "reference": "CnRuAAAA7Xf9TmMwDEnG_TgASa-USPmrGVYQigO-rQ7hgj1h8czW7J5nXdasHpT3yyIF0rbdLtSZqXH_rwUgS9iqzFIxHpS2UQa6rRxCAE2x4br_HTxeC2vn3dIgPEUBpmQqyHwBNTvhU6fqDJ3Y_FLQzzOR3BIQZr-AJbiHjUQwjUa6pKCyjRoUWFf2I3kHPI37M9cmlA1X5oN8XeI",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "Off Abeokuta Express Way, Alimosho, 22 Bakare Jafojo St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593429,
+                    "lng": 3.390156
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "90ae7bf65d389e86bae721a8e8a4999924d004a8",
+            "name": "Oyemisin International Electricial",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJW3VK4u2SOxARzv7M0UKuIA4",
+            "reference": "CoQBdQAAAObffvBGzlQN-vIEWgRhDz_zNnyS_GmBR4nLAY9dZlKFTWXmdZcq89TfXnvC_ye7EoUmnLsePe0AYZI9uGtXaB1bP3ifv24drBZGmvFwU0wRC8OkFPze812dUtMYSGYH-ZdLDD7vU838bE0r3efVGXWZtEQqGUhErT3yJKMTdCdqEhCuceuTV5eguYImXE1kAnJzGhTzWkfhCa1uKmkWU85N91B_rO2hhA",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "After Paco, By Mascara Junction, Igetu, Agboyi, 35 Demurin Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.521548,
+                    "lng": 3.333178
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "afe7511a8a3717f737cff9c997c60ee15a7d5ac3",
+            "name": "Nurudeen Electronic",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJefJk2oaOOxARwP6Fp27L-MI",
+            "reference": "CnRnAAAA2LVA0QrMgRlODiOp34NFWU6O2SSXX2Zn-xm6T1hWLlIxVQpUq1lM_WH-IJ1sfWvfp4ERiRWM18jkKoZ-FoujCG0B2WA7bLh6xY5zIV_VrBX62h0_3uvAtvd81x5xSsM94c517tqNmYDaSheXTr4FGxIQX3nyv7L2WjCBujS944UkDhoU90e5hO7oReL2r_VmAoYCQzLTMvc",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "Ilasamaja, Isolo, Lagos, 3 Ifelodun St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597235,
+                    "lng": 3.392031
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4137b60fcfcbd8fa82261bb8a995fd3649dd90b7",
+            "name": "Aniedi Sunik",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ8VzfC--SOxARFP1IwqbHcUw",
+            "reference": "CmRfAAAAFs4HilS-NA46_kiojew7e_CgOi4TAtMwJX_qzREloNrl478a69q8t2ZsQf5hTt3GHZ4tc1Ybpr_TBfiwt4Ya2YbFcEVjNtqFYJ7N6NLiBK2ySdirDNnMktwE_AgTS_4VEhAL1NQzKCrBUfG6zlHb2rKeGhR-8a3-eWHNz9PfmydEN-GipgNjUg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "57 Demurin St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555761,
+                    "lng": 3.350918
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c8441c9055407614fd21a39ee2164a4d2348af90",
+            "name": "Okeson Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJmaeWz--NOxARpfzsFpeb7xM",
+            "reference": "CnRlAAAArWCsybIluWa9bEaszY_Ag25thhBVRH9PyTrNkdpJBn4ufGqHvjgQIZCnhAYQlTYDBBj6jE2jXb01AyYPca8A4KPdeYCTp-xvjZ6E_QpHnF5X05bi_VssITzh_3p8Cjt_pj8p6uHFQy_c_Xvxbm3YohIQawvplCMMj842ThF80JJMQxoUEA9Gkz5Wxq2bSqgZIa6JpEHoNWU",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "Oshodi, Oshodi Main Market, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.59987,
+                    "lng": 3.365594
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d849fd3ff7165f99c24666c078c8454b8c9a31f8",
+            "name": "Roby Nigeria Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJHczcaE-SOxARhvwKZGVM_QE",
+            "reference": "CnRrAAAAShNWfvLTtDAD68wHZsP2aFW921zZT29TUVXAgVV7TMsZr_Clx5ge8gYC6_3HoSxmvk4i5Q6W89ITtzs7r8KUoW4NdCMb8cQDUYNsgLxlRHe4zJn1rb5LE0pQVC7jFum1QQbap2YSBmbN10jrIqI3bxIQEipMe43vjcyPSiDvbVh0BRoUzy_M2GYm7-XVXDYM2r-jw13nFmg",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "Ogundu, Ojota, 28 Buari Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555167,
+                    "lng": 3.330066
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "ce1624a120a573be2ac3124fb43aced3b78f3022",
+            "name": "Kunle Electrical",
+            "place_id": "ChIJT4mAwA-OOxARdvrmWZwzfx4",
+            "reference": "CnRjAAAAS2U0SDkg4tRyz3hwoFLxQLd5slFLRr4Q_jVP4DwWpyY6qgJTWrRThNQOTzRDwulAD6ub1vKJCofpaUxtimqxP17UWUgWj59gn8tCWzp76UKwge9icFLXY_d1eo0EeS_dktYiIp8SCa_Rs1yc5CdpyBIQgLRpYBKHauF-dvxKJ3M80xoU3QhyMz0A-gyP7zn3DGJujvdMYEY",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "Mafuluku, Ayo Ni, 83 Mafuluku Rd, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454401,
+                    "lng": 3.409463
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "a37e1bbdb2a844248a3a9f934be701595990e826",
+            "name": "Henry Tech Works",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJB6iKBzqLOxARlPc5hY259D0",
+            "reference": "CnRjAAAA3b7QI4dYzhYuMQjUaH-D41g641DPxksLCnu2-UCJNEFaRgS-TnkrRggP5lR5qhVscb5ZxEg19MGttT3jY1ZsPumupqk1ZWaPMmpQWqTP9T6PglUER-IL3Q4jLN5KjFkE2UEDS-5GeFe8AT6dwSd8RhIQ9pSfjYQn_LN6ajqZA65BGRoUEbkF1oc-ZPis3tAteOKxbCMl1AQ",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "home_goods_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Dolphin Estate, Ijeh Powa Market, 167 Corporation Dr"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.559693,
+                    "lng": 3.281239
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "70c246ef6b1dbeed73d4ee4491f2f576ba58f4ff",
+            "name": "Sammy Electrician",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ35fyVdyPOxARf_Uyx9M-g_U",
+            "reference": "CnRlAAAAHlv8w-CVcH-JV_0EEtQC-R79J1TZcJ8fQICzG_yKHPVss8iyCJv2uudyPGL_JLN1ms3j4HecuWJRfAoOqY8FdBUCf1e-jMA_IxepsT_SW7siee6XhQ9p-IuxpMHPwMGGUZOJoC4Pq8umoHQVzm4ZwhIQF2wdccrt_hVjNdXSL7HHsRoUiBe9w-BBi7n5dgS8YYmr0xYRUIY",
+            "scope": "GOOGLE",
+            "types": [
+                "electrician",
+                "establishment"
+            ],
+            "vicinity": "Malas Bus Stop, Idimu, 37 Liasu Rd"
+        }
+    ],
+    "status": "OK"
+}

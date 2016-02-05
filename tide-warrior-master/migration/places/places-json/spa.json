@@ -1,0 +1,529 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC8QAAAHSsPUC-8h4ins10g0DL3TLU3KHG8rRtAKcdjEt2K-HuBFajaAvVsd4QauvDBOyGXiBh60bWuGnGURg0BvkONjoWLOxChYERuUhbi4LInJeHoC8-nQEgSukOS1oDPFbG8ROx2FOEWi3gNQm9H577j4OYUnHISAAJjEIz1goLu64PCpG2iR0qeR95YZ_nUYVv_Y3TOR7gEP26psh31WqSN465laKCHlgT64A8sj44MXkI0H_QPlnnann2n0hZtKpvyexPzmhQpMsEJp-_s6ha2_43d7Y3cwCYUZdlF19jdJPbwl70s7iiIk23RBIKL4e5wW4CdQV2xH5z2C6RKbM9_8wSEMUXu-OXQmDLNdlHlApRnlIaFGSdAWzRepksGCjWTHt_h0H4m4Fm",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433563,
+                    "lng": 3.44313
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "c9d03cfece8189d5b2f7b58e7bda9f41a9be5bcb",
+            "name": "Four Points by Sheraton Lagos",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAANgnbzVZZ2X0vjO0uKeVHLeFBpJNRn3bkMTslyJHfnM5GcPYqOIkoTO3aQVCsLgw4s_WT4hb8GdM9NsmsYB5pZvx6tkKxnBWXWELWaPkTne_A3O98haS6BmkQkBqYP1q6B1LHjM89XC2Yy9a0Qjz4sRIQSAYgMZIoakxjcixU9BT98BoUN5rvoUA2ySTv-0UgMhNBl3JRABk",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJG2-ONhn1OxARyNkPvAvtHjo",
+            "rating": 4.3,
+            "reference": "CnRwAAAAprDKdkbY2sb7u2dhwPV6UW5AgOIPcBDNL5S8WNN-UiX13T5prmypcyYcxnvlSEJSeeD1OKVkWrLpjPldaT-ldarX99zSlvwHV-du7u3LiomXUTioMvmiyzas3eeQZ-pYK8dhccM5pVKtqL3WzG_8QBIQXe6WgKZHe6mNbp7MlPJo0hoUCIjk8O36qDyUSPNp1a7-KlqxaCU",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "Plot 9/10 Block 2 Oniru Chieftaincy Estate, Lekki Peninsula, Victoria Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433111,
+                    "lng": 3.419693
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "d98389cc7573d8a5a6d631ef1cc98fc3007af0cb",
+            "name": "Envisage Salon & Spa",
+            "place_id": "ChIJHZgGrSz1OxAREkDC4F-L1NU",
+            "reference": "CnRoAAAAISVPS72evLY05H-nFm-dZYrecm2qzultkSIudQpvoqbpfYqLpW0ZD3cCDWi3bbowZBsmXzDEAq0m-uPu1xjEreGBY7gGouOWzl5BoGAa3G_O_2z9Lt3oGLW6Eo2aVu9amadLpvOWX_jPHp7isC7FNRIQ5LSD8U3JqpXvFqYb_bKvnhoUlpuj7rzWXsWSDwHXpfwfKYk2ptc",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "No. 14, Idowu Martins Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594875,
+                    "lng": 3.349311
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "df59c48d06e28c91c5e9d0506d08411f5e7d3829",
+            "name": "Amazing Weight Loss Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 705,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAvFlw0Jc4ETipXSIjg8c_fnxt2qu4Lwnqf5JAcC7DqP2rnt4bTbNC1qIa7FWiWyQfE6xrWNeVFBqHIPREmLPYBil4sgfeohxQsK0SFccd4xOXUEO2n4D8feBC3AiGJoZjMVu70HEA5R6LU4Wv87oYxRIQ9PhPtrqG4TAC-7Qg4MHJsRoU5AeViXP0YBTfcrx0BCUIlu5S6oA",
+                    "width": 700
+                }
+            ],
+            "place_id": "ChIJg6Bl_fOROxARglTSEUVAfzI",
+            "reference": "CnRtAAAAApPtZZwQ59pgkEXlpjpoOEVYKOhkIBr4Mm3FnU6X6X2MLNVubxPz_qJf3Jh-c-WGM7ig42muHF8fQy2cx98kQDaQHfyRQR7xWJXYpc2e1GhKBedPTBkELXcen-hYnv3E1dQE9SHS4j5uCbBGkk6WlRIQJ-58w6qI2trlyz7oXdC1xRoUkc7wI3Ke29UiRulLA4rCiod4Xlo",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "health",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "23 Toyin Street, beside st.leo catholic church, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.603026,
+                    "lng": 3.350838
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "936b6e775b9ef3947de03ef6ac755736b326f613",
+            "name": "Freshlook Spa",
+            "place_id": "ChIJc-QrvTGSOxARQZQihTxT6L8",
+            "reference": "CnRhAAAAs7tr14XA5fdI3CPKuvfmXLL2G0hrbHP2yqp2fQF6ifGtliq70jiMFOMNa5Z4iUsZ1XMpjic_zdLOPfkUSkJ2nO9bCQ49toeBsxCp9X07_32xVvu3VDrdtwZd6w061EmaASqAAT2uSlOl243QggB91hIQNyiPyCOoP0RPkdEMTCUNZxoUZFc9sdehlfQzWH98m6_h40IeIUA",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "17 Allen Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.50006,
+                    "lng": 3.30196
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "f080170402f98d05bd857bac2b6af484c40d9777",
+            "name": "DIVA BEAUTY PALACE",
+            "place_id": "ChIJbVrw7t6OOxARgDxmVw-Lk5c",
+            "reference": "CnRmAAAA1-3sD-Hi5M4TGsvyZe9dlEC9Rjjt6eLwbAIcXhLq40fm9H4KQ6iQORjyhe__lEwEXWxqXjVEabbYRAqg_5gVJmbMkCQrUNDG5UxjthSEkzZ_Xpnrzead2eUVli1iCGhV5kRwKNb152zDGtfIWJi2IBIQYboHgB56mmjH7AYLGV-a5RoUIJNuxkdjHptodLtu5d2-8hlcjpk",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "5 LATEEF AEGBE STREET OFF AGO PALACE WAY.NIGERIA"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594837,
+                    "lng": 3.345792
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "acb6980355022667ed386121c8f52409bd0635d8",
+            "name": "Bliss The Spa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAEWBlgLyh7VmWq-AwcVq2cZQijIAar8IABQXtEDAWwa5oJq6jkQrKAKgqprdIU6eIqL6-vS5-1ims5pkgWANXl__PRNsxf787Qxd5FdjZ08uw62-QapgCHBGz3xZlCevPzTNoPWO5gpx8vdd3pVKTwq-TuMKvpXKp_wHcwB8DaeLEhBxPsMJwTOvfs9VpfqlKQOWGhST3uqzXJDq_nCHVSQyirJrBbk9YQ",
+                    "width": 1208
+                }
+            ],
+            "place_id": "ChIJHfpXbySSOxAR4VxWTNJl4qA",
+            "reference": "CnRhAAAAgl05LgoZuu2OnnfmIlkxO0P72oQFsqXh5NoW_Sbds_Yrg3KTM9VV6nljnGRnBkvc73Ol7FtuBgL2noKOqFcVS3AsxHGMCgmYcPPIT5o2mN7rHOhujKvfa2uXiDrR69d2bnDKBSC9pkXDvuHaCBUu3hIQBSFnbMOcsiHUeeHKy5IwNBoUpdVDDtOFGdX3LkWkSvzqZ1lthMs",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "46 Unity Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.574011,
+                    "lng": 3.359463
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "4f849106b3bc380d57031c70935046188c48a37e",
+            "name": "B Natural Spa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAONMlyGp2Bzs_VC9fsj47HJizhTJKScmALZWIDbgTUHmvujaJJtUC6Tz6IP3fuP-n-Cb0NruDX-UpyLMUm52OtHsizrs3FpIN3aPpCmi75FFxMqvlKNemIiz9gAWCUEQORG6xd_CKCOmwZLq1XNkXChIQ9s81YxZ60z2SHLyXDGk9HhoU-dbPvUZf1Wvkl_VC6kUbCMV1VEw",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJCTzuNnOSOxARS8iRrD4DFwI",
+            "reference": "CmRgAAAAXHA5s_R8Ko1Tjlqb6pNScArdaBcFDL1j_ASQ9mna8DYnijLV3exOyQZAV60bBCFTbPAlRCqucEdCju0NWmbSJuttcpzXiI33hsr-L1Q36s_a6FUu0tD-X2DnJIbWP3r0EhBdnRXwVBCiuqQNBMR6bOXBGhSUPG60VTgI0Ot2m_qohsLqjpLWKQ",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "Oduduwa Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.607408,
+                    "lng": 3.348487
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "8131ad5116ff5841d2de348df6b3e8e3607f62d7",
+            "name": "Rose & Velvet",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdQAAADDk3_nendH1xZh-vP_q6HhSFDwWoMovI5BUbyQkXu3egZJ-D_Y3-nzoXhaLnLPYq3q2hnONqHGXULm6nSYQnH_gAZFwpYRKpzdc4lks0nxuP9azI3_QeCJkCDnmDz9bJauv-5IuvJtlTSMBX2R1mpOMFtb2z_pVU_Y1PqgdKyQCEhDDWXy3L52r3JfbcDjnSzQkGhT3ixKlMHBP2tSiRBH0pnnhrOoUgg",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJTW1IeC2SOxARemO68rpoJLQ",
+            "reference": "CnRhAAAAv5cMvmZkEepa4MIPYQG0-qd42ZbyyWoLn69BUCMPgupE1bk02sqXQYKbA4mS5f2-C7aLSMLTkooOZI2Og4yWCd_N938nVmrZjJLsDtrb2yZjvHsLyLfMoxA3K4RBMSehwEfmoC3-7Lbx5tMeI96buxIQA9zmHrnERn6xfJ_3wMqophoUZHyZwT9EXSFBJ8ZEExFGJXMStnc",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "3 Aromire Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435475,
+                    "lng": 3.436135
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "49c92d9dc193b7bc36b8aba65bf7a7388db4e725",
+            "name": "Apples and Oranges",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJFYLmPSH1OxARs6aXZCRwWik",
+            "reference": "CnRlAAAAw8X8Zdfklb7B2rsXFhKGyMbbThYoDPZ5yOA3jhrdi1f0lVxo82ROfRgMP5okuNWGi-JQT-xqD8uI0yYc69MkT8CkN-vSI1Gu-tpgxu6zc98VEh8upi2mlIWCjZ5zVxFGyk5fcS8R9xDnKkHOdNwSXRIQmqkyys5xxAZH3-D9DK8NRBoUCRmsXM69clS8H2aMiaM2C4cx0ts",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "10 Balarabe Musa Crescent"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597978,
+                    "lng": 3.351582
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "ed6bd02c1fe71811798b3b58fb6912f7a70ac402",
+            "name": "Skinglow Therapeutics",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRqAAAAievZdtDsnnHWFjJnTJfZMbLRdLjBSSFTNm1ZI79wFqPOydR1JBGVOiL-nBRGJzte7VEbZXHr3p5Toj9-5f0nzJpnVy9W2r8RcWOOWfknTF9K8OmMwmwLR3JQnhX-hSuLJpX2N4SHdW2a_9Asxiun4RIQ1jPQJ1QEo7Wxoo-mGKu1RRoUksYQHhCrd_Y0yce112pJTq897xg",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJzTlJYDqSOxARzFGf7K5ZI6I",
+            "reference": "CnRpAAAAgf41gCybuAoKRgyhdqul5nigfTc_ZrOrRn8h83id6K-vNpBD4d1j3FcIzl4qpG4l7I6OZxkfjLVsNNmJsnip6VK-6inWCUk8o6c2tuVxQ_DGshPagKRA-SMEozIsj2-Lc8YyMULXXl3bPn1om7v9yxIQ7oIR7Dhl33TfTw2QrUlKxxoUqYlSfuA-iSCiuheJjTmf88Kk_zg",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.508582,
+                    "lng": 3.372137
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "cabf78396b2c6a52c12427eafa5e474658c2449d",
+            "name": "Gypsys Salon And Spa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJnTOvh1uMOxARcu8QR-vVrRU",
+            "reference": "CnRnAAAAUf6ZeJj23QhpeJ1d6eAktW3JO_r90Sz2gzV3l64O5KejmdJlMgnL8hcuXsbW9ulSOjM50NS0iU_V_me5LJF0RPoPOY69JC1F_gZctHNo0VfukOHxHVj_n1T3aSiiL2AIpHtA6vuy23V-5E01BL5RVxIQTlU74kAMs5JCZAv-6jSI6RoUcKFHr6hnbNKH8Y2APiV9GllCHOQ",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "Yaba, 368 Murtala Muhammed Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596614,
+                    "lng": 3.358709
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "6f784ea52688a49cc4a7d2b95dd44dcfd73b82b5",
+            "name": "Surefit Wellness Center Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAPuzWVZAuOaTgQRBKi4E0DxkQRsR-K4UmKausXp7qk7zqvmoX-M7JTN3Ocu-3bPCMimikql4ityzjMUFBLnAJT0KjUUXkI6iq9-_hkYWH5--NA8JQwnJDaW_FTm2tRfr4XvVWdw19D83c_wQH8z2ioEuX2bnEtuEn1LC96GVtLotAZkZ7ZFdxyh6yLKH3Gd7PBIQ8khTJue_bt-dZeLy2l3sNBoUgFs_eOrcSfQRe-mMJJ1BprAxGn8",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJPX_TfTiSOxAR5ObE_yGU2PQ",
+            "reference": "CnRvAAAAT8XcLkAtLpKKps8ubbT_13GGbUP4df0jOxt13TTJIjZm9O1yM3JyJOPPMZv4wBhouezehKhpu8YZyX6D8NCfergA3hwhoBIC2BEtr2FTxyob0xAbF6-A8A_vARzLjyubZPJq_qKKjlqV5pbqLZqmXRIQQIV1KdbkencGlPqejPh_wxoUksYFl63x9g_94NPWadSxPu9MQ5c",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "Felicia Koleosho Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43722,
+                    "lng": 3.49084
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "1a5de27df4de944eebb0f5ba0a7b2bba89de18df",
+            "name": "Gold Card Spa and Fitness Centre",
+            "place_id": "ChIJ-6u3otL1OxARWsR05LfkQ4c",
+            "reference": "CoQBdAAAAAKY9VnWq1TPTwFpjQYRJQiHRdFWSe-cYlVy5Z8SoDQFVYebij4qN4FuPTKY6ysGqYzAt505o8vl1TfSFtxz57cEWjwmyGeC5sZCOv4mfnO0dFJhV7HLWtQcna19kfj12q6r_7NudPTF4qzUuAKBlzRg_zSGNG6sgHnepzf5i5XOEhAUN6YRc8dxD_43wDxPM6AeGhSfB_Ctc9RRkEOA_fkBsVnwH41CRw",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "Goldcard House, 3, Majolate Street, Off Kayode Street, Onipanu, Ikorodu, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43833,
+                    "lng": 3.51672
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "1b962616ecf190709de90a296609eb9e30d989dc",
+            "name": "Barazahi",
+            "place_id": "ChIJY1ikCor2OxAReL6jzU_DiOs",
+            "reference": "CmRcAAAAoRLohjYUs0TbpFuPb0Num1Y7vp4wdIvYhSoa9j1F3Zjx8Csxe-HI2Oo5mRHbjTT_STvM-gqXozM33tLrbDgriF6VQ8FiFOKhcYyTFHi9pC3OR_YaZJiKVihCC_GdDy4_EhC-VgoWbx5diKv_0-5aw_UZGhQmkmijtEh31FGUPK9krh8e0IwcoA",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "beauty_salon",
+                "establishment"
+            ],
+            "vicinity": "16, Fola Osibo Street, Phase 1, Lekki, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594869,
+                    "lng": 3.349128
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "3fc0a3f77e22d95fbfe2b365d1178b0a3d983327",
+            "name": "Amazing Weight Loss Centre",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "place_id": "ChIJiQVJpTuSOxARZauJ-I3okTo",
+            "reference": "CnRtAAAAAqvomTW_Pb1AK1teZYGWzS2BWCVjXQ9AjqoVGEU_ZnFAcy7t_7HZYk39Ein2Z3zprEPF8YjJ5OiFN0Zy0QeH9_Kxrv1Bptgydqzjy5tPe-cTAN3v3nkpbFJvGRDF0PQfaDWZXreDd3a25m6tnheolxIQi-rjYhYfvc3lUradRdoB7xoUbr15IV_5QzxR7AyLX1yDjSmUxjQ",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "health",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "23 Toyin street beside total filling by st. Leo catholic church ikeja, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.58756,
+                    "lng": 3.356228
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+            "id": "aff4ec7f818d65e6e17c44e9a9d8f3d96b72459a",
+            "name": "Paslim Gym",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1021,
+                    "html_attributions": [],
+                    "photo_reference": "CnRwAAAAK9TrNUJjhT1BWrmanvDU2Z4VtZzIDbAAtuZywfNypIrzmkDO_IPjN15WRLggd_ryumyaBORt0GKer9KvO6W6bcf9AE-RzHOHA32BRqnf1fkDZzyqN89qH8uy4yl7GW9dU7R_4xAchcyrC4XXx1SwjBIQF0iwgHJSy1WlW3VYwZioBhoUZzFHQGIA8geuTivfL3Fg09oQmME",
+                    "width": 1015
+                }
+            ],
+            "place_id": "ChIJLVMLnBWSOxARu6lqAuDBNzk",
+            "reference": "CmRdAAAAWsSH7JTIx2vF3WD3OZflt5GPcZ4K-g_xwJ5ItMO5URGaInA0ppqOvQg33pX4vblCxP3edtcLAWsWoasEZE-m43OaD6DCM3iGapiSRCuDBpceqKQGjZK573uqmhVUo4-nEhBI2tNuUx3bi3_jBUpMNyTAGhS9Rrbmhv7VODXK55NuBXKyUr_uGw",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "store",
+                "spa",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Joel Ogunnaike Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595442,
+                    "lng": 3.358212
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "bd2a97aca2db37e4d073a981f8517662cbeb847d",
+            "name": "Doranne Beauty",
+            "place_id": "ChIJ7dvNljiSOxARgpfbWTUydFM",
+            "reference": "CnRhAAAAQzwylbDT6y2nNqV7VA1lJ50K5BhhJREvih-ishf0YrOxWuqeh0CmAaTYnsJ37HhT0oIq8Cq0g3zrlGTmDrw5Hay6MOyNU9ArZ2GX6CrSWdJf1-6YQ3cnxdzZ184i_UWTOzSLUqXaXtIxO42K1lJ8jRIQ5MtzAvsw2x03SynuRa6s2hoUYI3_q-nvUd2VVUVrAPTAdBF3fwI",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "Agbaoku Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599493,
+                    "lng": 3.346313
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "bca41f0c4baff10477ec623b6d844a9963aeccd7",
+            "name": "Beccas Studio and Spa",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJO80lfy-SOxARXkgRA7lYCXA",
+            "reference": "CnRoAAAAxwFd4VTp2GmIRreWGfwH4L5zZg9NfqbDYfzl70B4w3dRjPyHgcFP6EkbIuZl-dTsZ24xuobGfWeFBOheaB1FAftu6wqR1Dqj96PLKAUYmeRq27xUdGyOfS9HbuzU2lfQrfZcKFXUH22lXPPyBvp_BRIQySigOALMIU5OZ0dPBihanBoUHllF5ef7DlMwUADiWG8oy2q_3-0",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "John Olugbon Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431844,
+                    "lng": 3.431759
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+            "id": "09895d7e1034676523305c7b34a8b5438dae9b4a",
+            "name": "Montaigne",
+            "place_id": "ChIJhaI5sSX1OxAR7Cf59yT3YR4",
+            "reference": "CmRcAAAA21a1ESc2HM371Wd1mSsrG3UW4290XgJVdudAcYwSf4BTaVnS3pBusSDmMOcCDwND1AK4wCyv9Fl6mcSquM9QtKZyrTisfAWLYOWog8pYHXqgILgyrHjzx_F_ohGMd8IyEhAzcxzM2G3MjTIH0HW-fi_dGhQjE2aavYpXjOv2JkFBHcIqvE0nsA",
+            "scope": "GOOGLE",
+            "types": [
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "226B Muri Okunola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.54806,
+                    "lng": 3.331786
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "70035def7242c262e08ac9ca2bec02d9cb6ee71c",
+            "name": "Cata Apartment Hotel And Spa",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1193,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAIP6mcxdSRB6EexXCcZo7Lrw4rmt50AJ6g0onqvXzWlAM30PmxWadO3-gpj3Yp3bCHhPdH_QZeAeDVLXqNP8kVWTXRzJPQ9nHcVKWgQVLmxpT5gtYXkQfl3ZykAkn6Z4OCmyXqq1mtF6orVUCDP2xpCXTT6q4ZI-Q48kRGqTBlSeEhChwjFYMApK3xtOJrE1aDV3GhQzl9LS0QXw29jCSzo_iWqFU9rxRA",
+                    "width": 1195
+                }
+            ],
+            "place_id": "ChIJBQ8k-wyOOxARUsPsPFUt0Ew",
+            "reference": "CnRvAAAAeMG5YgkYqpw0zYInvFQRnCIV87TU-EF4AWzmUDmOdP54GcKD2jHUCkzf1c2pHGz4FlP9HP_Bwfst0LW4GtNxvypbGsG751u4q0SBm1rCzW2CQS2tZUBgH44ZDRru1HJJrI9vkd2vSKE46IVfvINq7BIQfpJNoynhfN1qEGXkbz2EhBoU_UqxoYobzgux0z74LHLO2gzWCdk",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "spa",
+                "establishment"
+            ],
+            "vicinity": "18 Osolo Way"
+        }
+    ],
+    "status": "OK"
+}

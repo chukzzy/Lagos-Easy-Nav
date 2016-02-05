@@ -1,0 +1,464 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-gAAAD8ezI1HVomdqaGrTh6mbEUaWWV-BXkMrey5nRiFPydlZUUG-4TaT78tW7K-lM92ZEL0z7J_b4PKWHLBwp4m6ehWingRrb8A9w97-wDWbKCmkrZLb9idbeKZBEwB5AmaU_205OQPKVNGNpyXXxrwv6eEhp7DfYiRG-HMbhsD3z2dakape567uqBfj7S3-QjsL4DE2FNHash-mbwcIDeJ3qoZSWDR67tvJzSX8V_04waO1A3f8BJcXqcSriNIuZXaB3bgpyN_Rqr97ZtWmE2nNg_BhMz-pq5U8i4yZJBVhyQ4gvIjbLwW0wFm5ZjnkXxxddT8SCilIBLQhOmClWrNW5MSEIOs169eC72ZBt5_YIKaPhUaFN_u9O_Xnoz-yYHVhJKMZN0k3m_I",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431135,
+                    "lng": 3.427158
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "8fef71616f4cd5c79599604d0346ee3f85cef026",
+            "name": "Coscharis Motor",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJeYBB-S71OxARCOrjKrcxVBU",
+            "reference": "CnRiAAAAmQm35EKKAxwZU_o-8Om5DBpT0BOY5Vh8XIh2mTPrFGN1JCYqfbcftTvsGdz6S96K9e65GUk-VPrdJSRb5VqbywmytSTPktNEVgrmTJtH0ulgqZZaE3ogcUGVolAj4bmDUTSB5Y6r8OBaYTchMZiQoxIQh6I_CIG0XGXe6qGrqNQTWBoUaN3bagMyFhgg59m9RxpP7Q3xbW0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Sanusi Fafunwa Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.627114,
+                    "lng": 3.323694
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9f91c306de455d86b6832d35707207147790a9aa",
+            "name": "Corporate Lovers Production",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJN0u-4WuROxARoP9o9bS58OE",
+            "reference": "CnRvAAAAufZ7LjGRpqaOWQKZfS6vlrB2XI3NQF2b3QZ5dctQsvNBOeMNcbjJAzqGstjOi34qasWw_iZvd4auo74w2OVkxihoNCWZbbXcjv3hRTUSCiYzzsHMupszcVaJTQ_qRDz3CuhapSUShfqYOGoAH7-L9BIQd2B1GAOjxzfO59jRkwNLARoU85aCnRZeANfw2zGdYGcUQXmjyEI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Off Lewu Street, Pen Cinema, 6 Sunmonu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444135,
+                    "lng": 3.428334
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "63aa0f060b523d2cfa231849ad505655585fb66c",
+            "name": "Skymit Ltd",
+            "place_id": "ChIJH4hCNdf0OxAREP7m1pOULkI",
+            "reference": "CmRdAAAAIUK0ylgVEvsD8gUR6TRGhWt6bXxmrmb3uIBH0Os8DgEQxAhpNRMLCbGq65NZTAIlcg1eYNFKXHKnMgpndrIjavKEC5s9XQjevfbfLGF0vK6iaGIruUZ33lz5SUiNpqaEEhAwdD5zeehtPcxcaZtkFICfGhRQ8fZ_MYhVa6HZKo7HOvjkQvTy4w",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Falomo Ikoyi, Lagos Island, Shop No. 5, POWA Shopping Plaza, Bourdillon Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.568536,
+                    "lng": 3.282396
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3b8ef6b00f98483377927db72979682817bf0fe7",
+            "name": "Al - Wajud Digital Photo Palace & Video Coverage",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJQ_izvSCQOxARNvy-M8Vx1jo",
+            "reference": "CpQBhAAAAMMYwAkJ64Ww-SArxwJIZzrcarPMmVZiruQiJxuDthYwPA_U21Z8euhekw6DASB6QpB8kjmh-fURdZv0Mfp85K44bZmqhINppjHF6ovjipzIwRyge5g0N8zTy_xIAyExxtjUv3o_FSDXZ2lQDyZxW6w-2QlAfijp3GWy-81KoBRsj3ytTEQxE2HRaKHTXWZU1RIQtwpUAybmTOrWOcx30-q7KRoUcdY_xvMVmAHWd5bXarzo41q1Vks",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Off Calvary B/s, 2 Anjorin Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.606289,
+                    "lng": 3.379099
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f0bbc3c1973dcd546a413ed9b12f93e7addffff3",
+            "name": "Xpress Cd Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ_wRxiFWSOxARM_vEg68Epn8",
+            "reference": "CnRiAAAAhSSvvvRTzOqbOkvwQuQq0YFlknBZVTJhLObsCINVsVnwjrkcbOpR7zH0BEvKFPPvcZA9nTDnIXOXKFibQCpNp7plVI0HO_RUorUsZ561eJQwwNlXJifhInIBk8wf7ZIOYBImOQByxJo-juFfYHFBGhIQ453qBD6cBmMRQ4zsJ3dXOxoUMNZEamGo32E0AgxiOelFqdxpdWs",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Cele Bus Stop, Ikosi, 49 Aladelola St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.655786,
+                    "lng": 3.323036
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "92c7651595e65703bc77c73fe5a740165313f823",
+            "name": "Afeez Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJZZuSZLSWOxARxPpeasHuiOI",
+            "reference": "CmRfAAAAjeJYWhTHy-E7FJt9tzfrF822SCUuXPIhERbe5QbrDtOdj62KawR6H0vvfRlpZhgVYBGXLuz9wnotn-zZdA940RqG4Wgc99_HU_Ot_Yu7JTqY6zV07p_N9cmg9SPV2HywEhAYjvNA8CZTcF7tdt8Cg_fbGhS19SyvGFHA4snkAsKWMlCQ7iS1tw",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Fagba Bus Stop, Iju, 163 Iju Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.53418,
+                    "lng": 3.353272
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5fa3f6dccea3f4bbe5d37722951a3e957c19bd36",
+            "name": "F Born Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJdz9xRs-NOxARD_pOPcccJZ4",
+            "reference": "CnRjAAAAqEEvPOlT2Llc6r_12vZ5aVyDZGPw2CnBGIlmRdnKRm6gT49kB4OVZ9PZP8dCj6muAI7AVlsram6dfxAvWG1_UZ6czzV8cV9cPJ2NKmXSzs9Msz3T7ez6BGYdKYwOVKhNEG9IqTwy33qiIu4Md5pR4xIQ7h6maAcjZtXaD6tSsfZpjhoUXS4MBZ4bPYM4C6VcnAp9II9jxOk",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "24 Olorunsogo St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.528097,
+                    "lng": 3.361037
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5106806d0c5e680cbbad7573b93b981ce0c5f66f",
+            "name": "Legal Star Film Video Club",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJbfLDsLWNOxARrPmj0ceKccU",
+            "reference": "CnRuAAAAmzuE3XsYtm_C-tqStMCXElajolgz6uaEMIFxZi3DZFpSvp20aVYqN6K1ykQQUcOzjCLSNMHOfaVyQpXWEIFPsLX0ilnUNtB8tlmIEljpNIdfi5ivE5z6U9rhuq1GzpQRJM0FyRZzd0Q09LRBswv9jRIQ9Bt6kYb1VnOAhGuPkTrawBoU91SigFeBr6fGWe0zv7h2AZ8r_88",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Ode - Olowo, 34 Buramoh St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.556266,
+                    "lng": 3.344629
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "217f4679365871f093510002b244119613290087",
+            "name": "E & E Electronic Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ0d0YsuSNOxAR-PWOlo0smxI",
+            "reference": "CnRpAAAAG6KPP-tWBAghyfVRqlXFPt3kjeP7VGHvrLgV7eVpM9ItHJROCGulsTc7Czrnkx-2nXfKSUcdH_7ema5pesl4-gIsdtRdnMTnE7YXGZDP02bOaw7QqqjamsqAsvw2zp0-I1dskmi6Yt8AK0p7C2wIcRIQPLvWrDJn0zIxTQEQ3zPYcxoUDVnLGyHUPdSi22jXTCBkoDtk_h4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "71 Oshodi Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.460799,
+                    "lng": 3.387426
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d40a62170aef9fc17909b1c048d1c46255d37a39",
+            "name": "Great Fortunes",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJaYIGznKLOxARfvW-_1WhGLs",
+            "reference": "CnRiAAAACC4LF86TA7XJP9cy9PwoeDvXJuRkk5ryPGy4lhsZzEwCOVfxbjD0C6CESG5BVVfV5fGcXVc3gWALOLAorQGfJx7uaYAQizF6yYmWbf-_xwQL0MFX3rUnY75Flerl3tsJaQIErFTekGTsDxNB0NZVMhIQlwMiqoX9_r3V18ZXW-OYJRoUeolTY1coPJCjRAGYYD0lmFcHSfU",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Idumota, Shop No. 16, 139 Nnamdi Azikiwe St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.528937,
+                    "lng": 3.323966
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "04a6748a45c11a83f5404893f853d8683098bb71",
+            "name": "Alesh Video Club",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJw0wE4WOOOxARcfXDrdj5U4k",
+            "reference": "CnRkAAAAUes0BuwdgPp-XMhogU7K5ncOe7YgwMHnAz06ar7bcxchUQcbZHcvvRiZEIPjX7bPqEsGjEVy_ZWk6YgfjazwWB8SbdnMQufJzZ1pcHwkvTc6MU_KACTXt2ERZXWF9WxyRbI9DBi_6nJQ7vQAWZ2l-hIQF429OrRS8IQMXO5MdXS_whoUxE5gIFR3OqXx3KlAU87lc29f-Ws",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Isolo, 30 Goloba St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.599638,
+                    "lng": 3.290563
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "52a97fe1ec124f72cad83801125c6f7aa4341220",
+            "name": "Tobes - Up - Lifted D. V. D",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJNc02KFCQOxARnPS4SGx9ciA",
+            "reference": "CnRuAAAA3K4Mb3EMWuQ6F3oqxU8srE7CIb9CXhGxonGqpy9N9zwfRFPXotGJKg4W1rAOafeHYySLqxzDXBjKa6GEalaYbw1qkSE7wvydJkdRRKTmxE_J71B-OaDIifUNW3i-mrWfcxTkF5RxbMXO7NqXo5LlwRIQ_pRU8lfGtTsV6IxCqJm20hoUuyjnxwXbM1DsbG7xKaQ1nXcBOUM",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Egbeda, 40 Adaranijo Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.548469,
+                    "lng": 3.322632
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a5f737c02222909b6a3b63d5c9b3013999abbb13",
+            "name": "Mr Chibuzo",
+            "place_id": "ChIJyx1tixSOOxAREPO7FMjOWgA",
+            "reference": "CmRcAAAAk0lrPP6nFZAJYHt3Oazo5IFFTnMKdUBoU41_Gcc3-O36WAgN3ixl4r3YOZ_faw2NyB8Z5XBK6VxwDsxhCjH1Cj6cV1I2FY7E_kTcTSIHLTXzm72W1gXmg3fdQbW5Fk6gEhACS6VoC9xYwfGT2anwhXMAGhQ_KRYAcQLucRimfwqiM-DzvjtktA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Ajao Estate, Akinola Sholanke Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.441946,
+                    "lng": 3.516169
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e2cccfab3308793b20cb6072e691a01ea70bd08f",
+            "name": "Apple Viewing Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJRQOpxIv2OxAR3_LLQYkpBfE",
+            "reference": "CnRoAAAAsjpvDfueULlvwF9rALtier697gqLd0bsVdKAWWLac1GkPH2Dtm4Z2n3zSouqohhs4JS_B9BEmTYMbpLAB2gpwuCiBsxy4acJ3yquEIZ5RTYb0HipMdH16K5MRYkoRBfRuWvqSJmNxzF8y475_VrEfxIQkl9SLrvHin1YfMKq9QE8-hoUjGTZjyakA91OTSXQXPP36p0QT5I",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Lekki, Agungi, 28 Agungi Ajiran Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.563889,
+                    "lng": 3.347677
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a602b48869d0b74a9178aebe5935a7933ee373d8",
+            "name": "New General Music And Film",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJAVf4t_mNOxARD_EXtBftz7M",
+            "reference": "CnRuAAAA8azhAM1dEQRqyDWyh0YxCa41cDodRxBbv7s9U27HRKbigMbpwmuN1GQ4iJKVcbzkSH3i4URAUqnMGqDvPwoK5Nr7QStcTFQQytO7UM291P7n2Xo-_LUE2QcEepcGg-graIT_F_c3SF2NHwtGK5T6oBIQ_qgXSEXsvCxnDw8QaeRQIhoUNmY67_Pkl5B6hAqY43vdWaYzKCI",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Moyosore Adoderin Plaza, Oshodi, Bolade, Oyetayo Street, Oshodi"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.47795,
+                    "lng": 3.345293
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c53a04aec5b4eb4d5fa732453c638e81ba22b57c",
+            "name": "Rotimi Venture",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ-77DavmLOxARY_DcrCySKns",
+            "reference": "CnRhAAAA_zo5o-xL_CJqnSK1JJg91VtWb-fJ3-C9eMrAYUK-KBcD3ULdPQZmhoaAwslu2zEyAImaGSKj4R0kDE8QuDXLxN7kJ1oeAs5yIOUoi6mTp1QPuXGGaxrKJIcgSGOJ6SfQjUyBQxtV46u4nFn23oYQHBIQGSNw8UlbZh69FVO13YPf3xoUL3j_a1SWbdV-wJXiA5c1jeU4Xxg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Orele Bustop, idiose Market, Lagos - Badagry Expy"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.47152,
+                    "lng": 3.33949
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "387d1edfb355f06d1d927da85a6d1e776f7f6d0c",
+            "name": "Obitex Communication",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJrfuaUv2LOxARQe-G3jfdNDQ",
+            "reference": "CnRnAAAAIWyWppEtzpP0MieEeQ0aVqQaNttBAd9K0Z_A8tcSmEQ9p_blPqk9XhwjAtFIMCRE0Ag3zwZzoc_gO1RWIisfebJYZdAHJ1hntKmVCgNtRJBV5x3sDo0X77D3arZDhv5p3oKHU13DRuQMsbMyDCK3ZxIQBuNUTeUQCJUugpKAROJWWRoUv4vcQjxGfnV3Qxo68JfBCRCWnO0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Off Alafia Bus Stop, Alafia Orile, 2 Amai St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.560987,
+                    "lng": 3.340777
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6070e86867c17d9bf915d4c5856074079fb3dce3",
+            "name": "Hamsalam Barbing Salon",
+            "place_id": "ChIJFxH2xf2NOxARXu0AIkjkUMQ",
+            "reference": "CnRqAAAAhVdX-A-ZXNzgwReAxu1rcIrNQZHjjhzXHl6sXeXhvtQ6kbDyC8HizQUPmCox8STKoBGZlDLZvb5eveoXKV1yE2nXcaR05sjjLo64bRtZLmjmmrzyQc5zqH-zWtEXcC7lVn1TB8eBi2tYiwc5dKUpwxIQk3h86y2df-etN5PnNPdzWRoUqMZ-Gp2xwflK5jz7pUUkF0Jkyjg",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "movie_rental",
+                "health",
+                "hair_care",
+                "establishment"
+            ],
+            "vicinity": "Mafuluko, 47 Adeyemi St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.523906,
+                    "lng": 3.338012
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3a89e96545f5a914e1b1d67910c1d9f627b5a046",
+            "name": "Dj Frez Entertainment",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ1TvrEYCOOxARgOymEGd18FE",
+            "reference": "CnRoAAAAMoTge8j5Nah0wdf4oy6ZLDqPc5SwcQcjv0-8iNeon0r1ZghfuZ9G-En60c98XdgPhpx-Ye8suCrwnVW3uDjgE-542EyW91RbtxhoRbHCkzl9hWEVV4YUx2tEPlxl-K_DhfOPsEieI5Jg1TB9vYtDdxIQi3H-vhsmdsK8gjp9-iL-7xoUncVxRBMh5xIFnsd6A0M7XAj4dT4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Illasamaja, 2 Majekodunmi St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.446772,
+                    "lng": 3.399823
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6c6d6bdeec4a79b5353d050344fd5cc3287ed874",
+            "name": "God's Glory Venture",
+            "place_id": "ChIJKTR7fCKLOxARYuvyrT9YoAE",
+            "reference": "CnRmAAAAy_kqayA79GAw_m9PjoTZY-bTYG9K-2WhIQvhZVbd3Wga5XNIKtSGceTRW137ZTowAQUrxDu6Nxy9wapDRbmvPggpdOxklePY4VfxDzqyRDEgl3MQuqku6tc4QfxvEheY64Rb87Xpw9EXwypaNSgPJxIQxisYx-FOIgTatwpVWtE1dxoUlHaPg7ni4p6FoRtlKE9IHix3p0s",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "establishment"
+            ],
+            "vicinity": "Tafawa Balewa Square, 5 Broad Street"
+        }
+    ],
+    "status": "OK"
+}

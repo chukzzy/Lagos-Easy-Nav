@@ -1,0 +1,397 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-QAAAH4tvqF_vFJFVMdKon_vD6w-B_0r_6Z36i3m8-vAkvjdZWJjy2Y0q_XgxVRchR2e6qXWH-KXxB8uHbWvevWYeiJPeMtn0kUg6rjlbkX9ilIbmuod7pBWKf_pmyEMMLWMrrPTXoJJWtZPSQ06bWAdGuW1Xcrr0XLUlD0TTYqzFprRXAnA8TDWxDoU6SyhiMAuqgwA3_WNUpOp1eDY_EeAlZCURBBGNTQ0xUbPaOuUMhqDJJU8ncafPswqpjsCKrmzI_VvVeDIwP32HainJHuglKt8qeQTF5RSR4-V5DlRpZRWqUzgoMjqBNMJEQlGo7_qOo_qZghrPMkONckcJnhrWLgSEBj6l4FRrhxnwPFv5ScqatoaFPbCXHmb5VBQUzpQyoQ3kdJ6Ux21",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.512755,
+                    "lng": 3.354441
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "ea26b4a55168f35c8db1153facf150a34a8d7ede",
+            "name": "Conoil",
+            "place_id": "ChIJc2D2HjqMOxAREancsMY7HDM",
+            "reference": "CmRZAAAAC4fWO8Lx4a_ITkbu4qKcpKTxzryZM-Mx_uVAcuKgNHpoRAffEOfnQB465maZ1kx95yqYIspXJuponQiUn86L8xYnkK1qP4c8Fe28LuLMAr4s1NlRuXeiqZnGaPyEoN9BEhCCbH1yFFoCOd6TqIQXnA1MGhQcwd4tzdVVvaQYQtPDiCJY7kB5mg",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "72 Itire Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.54824,
+                    "lng": 3.267653
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "f7a0290fef51e547e6085ebd88d2743eda67e01d",
+            "name": "Conoil Petrol Station",
+            "place_id": "ChIJAfo-nfKPOxARA6oXnbucygI",
+            "reference": "CnRoAAAA8lEbVTCB5dHOOXCja7blX4AHJkQXHqPvFhVp89fSPGLucwZ3T-xJkvTwd3ho4xK02ldQS3SQTSG6REbch1MuewL-8huGZLQ2BrjXWnofkbud5J35qx6Reiv_-aM85wU-pKe6Zu7jGm5kJqjeJYy6HBIQcRn6EM84qnujkfZyt89AjRoUYr8HnpZYWPgzVoa48YnvYD9EYDk",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Ikotun, 1 Idimu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.543153,
+                    "lng": 3.342805
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "7556a1890646ec6dd89929198318cac6389b3e42",
+            "name": "AP Filling Station",
+            "place_id": "ChIJrzrxit6NOxARaWILVlZm948",
+            "reference": "CnRmAAAA8c_QWvJ6hp_slx9_hkrkmJDAEV5yLKbVOvzxZbuASKvVBh-_sXtC-9UkQBL-U-TyDLUo1ftIVts7DDWuOHfvweZ1ZF59zc85FIZEVrYfYkQLG8Ffp34XLnddOLMgw-5BcxOXhuAV4giQLSN0mVQq-xIQx6BsRtocfAZzkk6UHrz2HxoUTH0CJKCfo4aI7BmkgHV2iyWs3Ag",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Papa-Ajao, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595504,
+                    "lng": 3.288527
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "d1ab40f13ffbd146cccaa950d5bfc69903db3556",
+            "name": "First Royal Petrol Station",
+            "place_id": "ChIJzVtg9UWQOxARge2Bjp4ceY8",
+            "reference": "CnRuAAAAhRxrSSb-BV9EeVq5mq1MO_1wz1P4HFkkctxJxE33jLTOu4Eqx8JNc7chdP1sYTlvkggdvu93GIuestZmp1Of7aD0ZcRiwF1tXDWnqSGxkTMWVVtJc1EKdOeex-dFBCbOa9O591pbQ1Fqwlby-GreNBIQVpX1LZxtnA-gVL83gZTm7hoUZyrvUTcaDOvua7jnzCjoyzKgqFk",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Idimu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43651,
+                    "lng": 3.450238
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "785950d7c67d726528774cf71ca495d920c8ecd6",
+            "name": "Total Station",
+            "place_id": "ChIJBXcV0QL1OxAROmN4fnpPoKc",
+            "reference": "CnRhAAAA38XsWxmy-CxfN5Mk8Z7HO8y2ALC1dxShMTQZiu0YLp7_uFx8kOgOHLN0oMqVa1w6b2wNuai4_GlA6Bd3F_6f0mIcx6J2ilysBVOnn8dWUzDnhzSXKs5GZGINYA4Bo23PJmqz7LN3vQalCNdIaT7T3xIQPWhHnfn7IHHs_wAsuGWgDRoUONM1_TWHDmDTdNRCP4djqsCggYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Bisway Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.541224,
+                    "lng": 3.28259
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "6526ea4153218ec8ea7094d98df18d0e54c696df",
+            "name": "Db Petroleum",
+            "place_id": "ChIJh9G1pr6POxAR8_1rnKYOC0s",
+            "reference": "CmRfAAAAlltdvZ1eHIKnlZYQjxT7dFAsVv2IaPlhiWcN7XyiLpPb0o8FF1KwgstOef-WXTUWPvVa2O3mpb0SCsy5Dg2Bst8XolJTrSUz_5X_ixs_gIqIKZj5tk4PsGCLfnVobBMCEhC3nc7oKaAfeLJVD5dyVWHaGhQ6nnMAzJfQqGZFFCOxyRv49m08YA",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Ikotun - Idimu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.562677,
+                    "lng": 3.280585
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "e9614f5857147b1681a8ef10a9a65e4502365b94",
+            "name": "Kings Petroleum",
+            "place_id": "ChIJT4Bied6POxAR0iyhiXxLONc",
+            "reference": "CnRjAAAAbdLrHlzsN8naxMsxe542rFlfVdCrjUkKzbTX-TW9q1TDYZJQk5kDJzBavyve8Te17Dsf_xei49AscmRvfapYhkCa4LOgOXq_CA2nFnzz7_-xhdd2XBXlxHb4iiBUXerNFHiVA4J2_DRtwbq6ZcNkDBIQl3H2EC2ENCGfuz6ZrNWOiRoUwiHU9yh2spNnAkEBcsv6fwHGTbo",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Liasu Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.46019,
+                    "lng": 3.299397
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "a2982d9f100f0d8260b6671541efafa7099a72bc",
+            "name": "Mobil Station",
+            "place_id": "ChIJvXLM7x-JOxAR7tQMMstqG58",
+            "reference": "CnRhAAAAO2KxhzMNV73gEx06qwLf6s2TSAVp7kq9Z7wnOjPSlmh_SaJGnmiaAhAHLNCBrA3nIkKcHdVtrwi7EZLF7jtmlJ4K-MPScSLHaVxA_zsVMoBvSwFKFvpsrbk6Ove5zmB6PMdeNty8nNXwfzQHbz3N6BIQp8nFVrONO5GhvOrO6sYD1xoUrohIFhejg6sPA2w2qk0vv47Yz7M",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Lagos - Badagry Expressway"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447929,
+                    "lng": 3.340958
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "7d6dc47789c323546ce0e4f8b3815f0f1226d996",
+            "name": "Mobil Station",
+            "place_id": "ChIJGZD4rteLOxAR53egSFKfo3E",
+            "reference": "CmRgAAAABhi5JomPY4dB7Bix1bA0tPMsFY19SsP0f_46VDZ-zu06ifQvAWrc_BY4o5rxg2B5aOQwlgiRxno1eoKhvoKIGv1BkIMlHIBhQWNL9ZXsHyThcwySFRcAutCUx_8zy7bVEhD3mKb0XrSRwEK3cU5_RadfGhQaUaJaz_wJ1rUHbnte9efdFZDRKw",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Idowu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.603994,
+                    "lng": 3.390156
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "34da5c05cfb2ab4dab370560fcdf7363b1cef54d",
+            "name": "Texaco",
+            "place_id": "ChIJB9xnpuSSOxAR-nrlRdlnrDU",
+            "reference": "CmRZAAAAs65wHBpKTMueHD5QzEtrwjsiBF9mUjAJDi8ZBdR9qhI9T5qgBypwefCMdjuErBZLbuuFpQFhzfdlqZO0IXQ3_6n9puorYJcdfd56upoWqzbsm2TKkqMi2DiVoYJIHIFPEhBa8gdU4CsgeKeiaeMKtfxZGhSBTACAwRii2sAAellVuUy3roT4Hg",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Anibaba Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.523342,
+                    "lng": 3.36308
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "ab580a39f595a181fb51c8433c615100ed7dc42f",
+            "name": "Oando Station",
+            "photos": [
+                {
+                    "height": 856,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAn9ctHFdReY8g0xanZHEcv_3Anno_9Y5nPsifgPFgx43tYAb7eossIH4bR6BgRfz98BPoR7yGits6wTX86JqkLllY5_O-D860i3jEeNTvqe-uFLcPzKR7PicaCYhadJL92H97Hvqg2XWYm9ADra-CXhIQhcmvptMB3Zfy0yPVTzFGARoUSHb65MYIJOsRqBenm7IUnsFZCKY",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJNRKfQUuMOxARpic_TQd7sM4",
+            "reference": "CnRhAAAA_mFmz2GGK_31D2z4omrFKQRnSXpCOIIyW_fBV9JooWJGQagk4kbrYw5sCFlOZJpq0dKhFjbCqtljTnytSTIQ-cAE6hM7raKnx-QB5sTd_KBcLrMuXxx0hpixGp5zwOIavpJA2ZLdGHNKnldp91VUMBIQh19t7d-XgZRU_hmIHUg8ZRoU-Zsj3JbdArXAlQoH6x20PKtHXf8",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "A5"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.602827,
+                    "lng": 3.309268
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "1e3cf28cccf8b81ef03e6e927a4b14db6331dffe",
+            "name": "Mobil",
+            "place_id": "ChIJOdePj6WROxARTDyJzmU4En8",
+            "reference": "CmRYAAAAjTQAn3lysJIoz_qT5Is396VO2SFOSsz1xI44TlxxkFS9yQYKWDB662EsxIOE8zKll6cKRHPDtGEUTk1fEqvOQoSRJPBTb13E_0hUajWxE8JDGcPmpprhIy7GWBXlItqZEhCihpyLUlTSdO_LNSYD8yFbGhSXyT59FYJvlGGwI0xHxsyZE3NaJg",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Surulere Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.476815,
+                    "lng": 3.275477
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "c2454e14d2344fe1df6078dc1207d8fa3b3d1bac",
+            "name": "Mobil Station",
+            "place_id": "ChIJRVSLJ7SIOxARXf_PKpRwJ5Q",
+            "reference": "CnRhAAAADnM8nOrojaH-EZy3YBg35y5wtdGYCJPrPVD8WBT09gRTFrzSP8snIT0RPWSVn1D_SNJUqzF_4Yhh6CFpHGZkQa9_WtBZZquXLXhnHtwGXIyARuFR1YefKB-wgZibDXQJUTFDmim3k_wyNmeDE82pARIQKiWTKYAo6naQFEPANCLTfBoUK6G1f3nQ4-gRXmJR7la33Ly4n78",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "4th Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455297,
+                    "lng": 3.254498
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "52ec4626c54f50987305e28546ac1c2d11b2a54f",
+            "name": "Oando Station",
+            "place_id": "ChIJc78juCaGOxARKf1TfqEkVD0",
+            "reference": "CmRgAAAAWHofZBj_2olBmw4JCNihMIsMlA-8wI_Fr2_Cuw301KSXVCThr6xFmqd_g81DgD6Ym-P5AC8UhQnzHDCG6JIsObRO8nqVJr87duJhlV-yEQX4r0OsBMsgroMLcgp-3h52EhCMvrrWtmfckVDEv5oz15dxGhSb434C4oZYoAbDWRk-0VriVsOfNw",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Lagos Badagry"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.584681,
+                    "lng": 3.284516
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "74038ad2f65bc2df2c74229f8a1a636c6dfe83b9",
+            "name": "Bakare Oil",
+            "place_id": "ChIJf1lBQTmQOxARK_N2ffNltxQ",
+            "reference": "CmRdAAAA-u9FOHg_FlFG4VFGXeQyzpLFkZn9N9195qXqhuSncZNMMjpKLwNfnLQjlk8PJIE6dUbJDtJsGMhc3suG2gLbuYwd9hlX0C4EnrxA8IMMhAYTnZWmjDWgk38ElNN6dkKWEhBqCtgHT-bpytlkhfTJoJO5GhQ64HPiYSMYHXGaSIp11xa2u-55iQ",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Idimu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.602668,
+                    "lng": 3.309241
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "015cd4b2c753fc2d74b6b2b79657f9ebeccc3120",
+            "name": "Oando Station",
+            "place_id": "ChIJS-aFj6WROxARXdzaXxMduyc",
+            "reference": "CmRgAAAAIdULnlwIgLjKY4aM-KRHGIjzXbaVbXPE-lM5a1JW7Z7OMpS6_DZbnzqUAi5VKTCbXZAJR6WNXbwlruR7XebVOzMKrpsFYCr7LICS1H0wn2yaoVepB835BvCGw_HyGHIqEhCbOQOLuBsi1gUaPOpN0NccGhScEDhuz29f_TZQ_GzGN6pycpJBoQ",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.539801,
+                    "lng": 3.283887
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "640387e69d1bcec18c12f0d751546fb943015bc5",
+            "name": "Texaco Station",
+            "place_id": "ChIJ57By87uPOxARtdIIG102bzE",
+            "reference": "CnRhAAAAVbVNgz80HI4gDvlvRBH6ml9sAnBNGPpaXhqiw_i7m2QMH75psdPc8twZ2jVXGUXpHDSFqrdUlr9Jq6DcLlSiTjTUuiZkv63l3EZjCEbPy2aQlG5GNNICRuOQvdEA48NufLqkAtZwsfGgUcsZkqraERIQ_hrKUsp1qdlMm_CyOSRw5xoU8wTtbEYgqrLzFGjb8rTAx_FuTfE",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Authority Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.609554,
+                    "lng": 3.293624
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "23630285ba7a2d410974a15980bb9f4883920bef",
+            "name": "Good Morning Petrol Station",
+            "place_id": "ChIJs82y4lWQOxARC9CRf_qzvGI",
+            "reference": "CnRuAAAA4wQxyE9W6GboeQpd1jXH4KLjOfpL6T6z8glRvQYkPJ03puA7Wn6nZpdI5L5gc2yEGVADI2qb5nWIl6DbzOum8_5RaJZY4mfHXFHcRHFMjN3FpAPuZ2-k7Au4VQ5hfImktMHC_JSTdrafvNO0th8Y7BIQfI2iMUyIHGq5f1gU0GztvRoUk_BHnnMrTRFHQmgbkGRx2Lj6V88",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Gowon Estate, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.544938,
+                    "lng": 3.273615
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "a701d81236b5986b788623e65833872c9228e0c5",
+            "name": "First Royal Oil",
+            "place_id": "ChIJBbkJn5SPOxARYsQlOGSv-ro",
+            "reference": "CnRjAAAADYFtNqFiGI86zx3ORD3J2Pzo737ECktBk5bAgeZv6yu1Yx2yJyxwyzJTAkHtBzMXqpbemgm4u3q43b9ELPOfygWlospcigOtkZPs5MpPcvIu-DkzlLUDZaHnSvzw0eQExoGTCFGcS1LHxRjDQX5R5hIQebVIMBUtQteva82Kz-NhRBoU60wc4px7tAoorYzXtJ4VuJKJiq4",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.558872,
+                    "lng": 3.270288
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+            "id": "962fdeb4d83ddcb50ce757b45b27474df2984e99",
+            "name": "Ap Station",
+            "place_id": "ChIJy7YqDuWPOxARtKJGnB0VqkM",
+            "reference": "CmRdAAAAL5L5ooCuPht3mjj3vil2KWsk5itMvVQUXv13zeaso_SZf62GDwJ5c7CTJY1KQBu6VdG7M0E-I_i-SC8r8pPzrgfYAxrX8nfS5sm1ZLYoD4V1xxcwNMI465Fd6pozP04wEhCzX1IWucmDrnjtF0EPtvDuGhQ2qtgJs1o7VZ-8R5KekSa9MZ_9uA",
+            "scope": "GOOGLE",
+            "types": [
+                "gas_station",
+                "establishment"
+            ],
+            "vicinity": "Onilu Village"
+        }
+    ],
+    "status": "OK"
+}

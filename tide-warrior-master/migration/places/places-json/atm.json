@@ -1,0 +1,458 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC8QAAAOfYOGNOal9K5qEw43u2RjT3DqoE8fOYRIuuupox05UPwVKbkkp60PlRG_hoWrjccSncor7iTQqXTYCci95VdsFkQe4stSNQFEeRLy5GKv0sU5vmUQaO-dquPzE3DbibKNjRAKBXiLnLtWIMMlEQFBHdtl-UG21m0RKPL2PmIjWBrI-LXEpppfrJp8cqS9HS2Trcks7jc1pB6rHfVVM0Jy3Zyzn4Qex4vtgOrvIww_lSdeK8CA3ZDfGFtDPf3X4RWdy8Qse9W4sWs_MVrIw3ckW6mdQHreobPAxd-J0-z9lugV0HHWU4kUetVciG7Ym4mhrjAhi_HrSYm0a43fNrGKkSEHoJhmglez1to5e5IOkZAI4aFKyVUtkgyOJnzEON_qqystlXr1IL",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.554008,
+                    "lng": 3.354793
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d5c32bf1c33e873d9a46e0b17f050307ded623a4",
+            "name": "Union Bank",
+            "place_id": "ChIJtwYLzO2NOxARgcUZXjr9nhc",
+            "reference": "CmRdAAAAL2iL5Kl1r0fBdBZlXSrfzC9V90LpImQ-od-M91gufXP6v-eL9HycyodxMUp_NY-cQPRPVIBt2eIYqPsvotsTOpPNozI2-kWcBkOs4mMV_wlOcHoWcPR_7AK24fT1Ugp2EhBC6T5hl5EJWyJPtTV_HktgGhSiDtqPz4eew7POGjstARwn-OkZbQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "25 Ilupeju Industrial Ave, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428055,
+                    "lng": 3.421944
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2ac495899309e6cf4ffab773832d38e8394e73fa",
+            "name": "Guaranty Trust Bank PLC",
+            "place_id": "ChIJRZkiE0GDshERa_WRrqSDmks",
+            "reference": "CnRqAAAAHzpjzDxeAgNLnkiP6I_BgXAfQSuMwFelCY2KkXLPDvR_y9TIbUds4OVxxU9oXEFNLOz3Tfv173Mh3FUxDEXylCmwtqHthjqyqkTiINMpjCIVNB7mUMvW5qYFzYZYClrQWVicVLvT0D5KSHsPJT85-hIQTM8aZcVNfHCysKZMKZU86hoUclhSe40_aUa9K8CfxHD6ZHN1fp4",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 27, Majaro Street, Old Oyo Road, Coca Cola Area, Mokola, Ibadan"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430534,
+                    "lng": 3.415563
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d87890b956af6c437758acda4a8fbbee55219a72",
+            "name": "Enterprise Bank - Adeola Odeku",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 56,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAA0Zmmuez-n7WrDYoUn5II3mPkm1kdN8EN2vM_txuuROwnQ9SpCnwYaxws5pbH36CrnE9bhvr3dhZ6LY5i3vIG5uAklH5Y0kzYO0iAAvLPADy4m2IDG-NSe2k8aY-jsNoE2oUeIHWp3h2lvRDKygC-8RIQfuarycv-eUpXdyL48WOY5xoUvbRw9PH8PwYXCBTOlxH-0P8A3E4",
+                    "width": 173
+                }
+            ],
+            "place_id": "ChIJHWtstdOKOxAR9O0h_2TiqMk",
+            "reference": "CoQBcgAAAHapIDG9s9WyprAw2UX4NCSpBY_lxWPLJx9XGxgnP9Mg7w_vAS4kKAnz4DlWSjj___V6RHzsID372N8Tq3tXSmaHyvFavMoFubkA8VT4UOOobYzxneimgKYUBIO4_7nFgz0b9HIOqhBB0tjyh7qDIJISP5qSBB537Q_Bv9d_P6jBEhBAx0Rak3MDsiMEbrcA8if2GhRPjiDufaPlz0XR2wDz65mGTZ8J8A",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "40 Adeola Odeku St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.653404,
+                    "lng": 3.323541
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7907d3ad11037c1ae9f926c93d38daceb690f33d",
+            "name": "Skye Bank",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJfXxeBUSROxAR4dPBYcAWR8g",
+            "reference": "CmRdAAAAFBEOT2Li6gOmPvpK1VJh-K9smgkZ6vD51tq5dmsdjoA1E-o4rAk4n8q36xXia6lm7CuvXV3GRf-9H_z3w93xa-sdk1nezSZHmnQtSLKxyoWQH50Pe5gD1bpQQTXGUAaqEhAptqVpeQ26vIg0mlvlyZC1GhQ3hIT77Purk1m64qCHEOpoQiOJDQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 118, Iju Road, Fagba, Pa Alao Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449999,
+                    "lng": 3.366666
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b58b2bd560dbd3cb3868b7d6239301814759d4da",
+            "name": "Wema Bank - Warehouse Road, Apapa",
+            "place_id": "ChIJ2cUWgLqLOxARg1JskochuCU",
+            "reference": "CoQBdAAAAKnI4Y5A1Oc1Xcku2RTeLFEKTj7cTpGRdiA89nvTPVgABqL29S4PrIW8UR1paoTEnxN23U_222oPz5oFOFCupkkniPxj19Ui5eir5uQjfzT3OUIr2DjzTSXnRVKXXVN6XS0xiRVqSnh-xGQhO4M51CHZffECqiC1eLgs7Nq9Si-LEhBWOTtpPZ4dpPC5D8B2G4j4GhRVyvzvCyJTnhP4gp4tspknbpsu-A",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 32, Warehouse Road, Apapa, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43305,
+                    "lng": 3.425816
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "dec069fd8b649727ae4cd8c3127b8ab2dfc8fa9f",
+            "name": "Wema Bank - Idowu Taylor",
+            "place_id": "ChIJDeD8zS71OxARoR3vsD3vNcI",
+            "reference": "CnRsAAAAXsFrSxw0mkzZRhrI0aL6x5yDUtTwD2zlnR2sGlb30pEurWZScf7ka4tifIkfJsJWzncn9cgxnO7EQrrTnXY51WSUSdYjUdDq2kf5hJjFgwC5KJOMqJZ_ygWEHIpEsNdcnIiPFnVP2wAFP9vtKoMYeBIQiaarG4Aux-5DZDdxoH6MVhoUl6TSpvI3ppcoPE9w4IpY5U7aBwY",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "8 Idowu Taylor St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.602234,
+                    "lng": 3.351388
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a16501c96b0b39d30fbb95f379312cfaaed9d539",
+            "name": "skye bank",
+            "place_id": "ChIJ-R-SqTGSOxARgXbkKd2GTKY",
+            "reference": "CmRdAAAAY1YoFmjNXYTYjRf8rBqgJEGZUepRrgw2jO__AP6ehkFdrW2JI0s7bBQrAle5ULaRFBLJ3JuVMd5J0oz-v8a07deHqaT7SbitSQvhgcqytn0t7XG_WIYl2Y6USlxhXfP8EhAfXACIvm2cfrsRzXjYRcMSGhQflTHBNU84UuOYBt86Ca46ALCreA",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.585094,
+                    "lng": 3.357878
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c5c47d9b0a1d7fbd249b948cfd76b5a6d68b46ea",
+            "name": "Skye Bank - Protea Hotel ATM",
+            "place_id": "ChIJoVkBsBSSOxARUvjwtoy0sM8",
+            "reference": "CnRwAAAATbKArEL8nA5HkpF_sfqfDQ1HOIrNx3OBPwEPGjBP-SqYUTkZgf0CudSQi6EaYvh8BBGrdCL4tStogAr8pdM2tsf25nidKy4ofi-Is2NgXHtSQva4fYnmaoEPM5qYwYPXX0X09f1suNQNZe2UtQ9AWxIQxYGoznQ0o_fdR1QLnPHvLhoUDaPiiqQJA-KH0QCBOMSWD8lv4uw",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Ikeja Plaza, Mobolaji Bank Anthony Way, Ikeja, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.452338,
+                    "lng": 3.389186
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "12f492389d49c27a81e6be4d67595a5cb748d22e",
+            "name": "Union Bank ATM",
+            "place_id": "ChIJW0704guLOxARX8xW8qU4xAQ",
+            "reference": "CnRhAAAARugDbSk5iQvBa1DMj3_buMG5YgdlS7tGkkf4egJqiLJyNKUcvCEZPbZ6hTYB9oLhJi5ppgwl8Kto4ZQdv1BMfN3RYEW3b8F9zRreJbEnUWyS7Dy306CLSSX5zPQ6kgWatb4VavrmpcAxQc0mxO4sMBIQlu328MNfF8lyi3552ar8BhoUNEcBxhjC6k-hzkMTKTGiLfOJAvw",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Tinubu St, Lagos Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.438574,
+                    "lng": 3.365426
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "167486cb34c7f08d82eb3f4e5aebb9f7a2701446",
+            "name": "UBA ATM",
+            "place_id": "ChIJE4AQyEyKOxARlvMDXXreB9o",
+            "reference": "CmRbAAAAC6bD0mIi-_eOs2MGikPaWH96U2z9ECtcVhGFFN5aNdUkfJk3yg60h3qgR5apGUpt5LZsXm-tLM5_cGm4IsRwVXlh90FpBO3wnBvpz2TCpX8wyFJ-vgqsCbUJDDsYWgreEhAUtDJLS7RDGx0nOHSFDKv6GhR2t9NhvdQzZkAnpKEm4Qh1tKz_FA",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Ware House Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45648,
+                    "lng": 3.385921
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "32f71850091eb8ecd2ab1faff9a7918721c20e41",
+            "name": "Enterprise Bank - Martins Street",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 56,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAYBTbJeNd1z9nekENfu9bvSMpMAXJh2e469UrFAMT9Wq2C-6-upTG6CiJeVXfXxbsidSzKb5aJV6mjInuLhqoVwJWYjQudo1p0Kp7EbKojRHoJhD4iu2m-MytBEWXrkdsfuMT_olZEHqn9JpNjqZ4exIQtCxMbXL5qUtvV--KnbSSkRoUDE1Un05oHFP25lfXeV2BDTvWpcQ",
+                    "width": 173
+                }
+            ],
+            "place_id": "ChIJOX71PAyLOxARz6QWwMqYYT0",
+            "reference": "CoQBcwAAACs17oU2pmmx29da4kUcdWW5-gSoHpLyiGP8aX9jSyO4vQjDhU25Sh5So3RzgJDmlaavuCuPxehxKD1u4_vjF-EiO6XkWLkiCV91gzdMV9rspq0fZ2uSkW2_ejtD2dwVjADwL4o-grl2O-XSvxXPq4fXcSU3bCdT2susHNZl8jOrEhCKCVBLstKXorrrSVYLXjQQGhQp3Xfq5QdqMRJVzdmHv9wRGaBbHQ",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "31 Martin St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.451147,
+                    "lng": 3.363748
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "eeff572fb87b9b20052babedcfe0b1ee04f5c3e1",
+            "name": "Enterprise Bank - Tincan Branch",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 56,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAuSaVKMzx0gsWBgy0zUM6NLjr1nhNm1OUsh0CiULZVZn880kNHfQe8d-DJBcDVaS941VbbsDIDI4CqawesMXM-4e4FKP2Ijd7utGfIgwJjj_uO-WgjOZ1F__nzGGXRiAi3lSFkzc4-u_K_0clXhh4DBIQBC-gptXvgVlI9_B95NtVvhoUSPZl51I8sPwtNYJC-wbqS4nGM5w",
+                    "width": 173
+                }
+            ],
+            "place_id": "ChIJy_1787mLOxARnDzgt40exNc",
+            "reference": "CoQBcwAAAIIfy2LfNGlgW1pLBuYoNU3CPJ40M9jNCAO-4s0Z5wN8q1Uc4axcdSMWGL9hfLRt0vJ2UM0FN_5GEED28abXdhNC10qseFfcl1PgY0Uy7suxnZ99cn484kTpTlPJcu8PFCTs0X8EDqa-xvD2CgIoofWFREQSAEs1R-cssIcd1WNsEhA6_i8DSbNH-PG7rPhpfIGQGhToJ4VCEfcdX3VVKyb3psYCqzrBMQ",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "9, North Gate, Tincan Branch, Lagos Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.58338,
+                    "lng": 3.380429
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "607eddca41ec0121e42c4e7608955dedfa5fb011",
+            "name": "Skye Bank - Ogudu 1",
+            "place_id": "ChIJk3kg3kENNxARGXOnqQYRBOI",
+            "reference": "CnRnAAAAT-DAtCxBzaldXtbVBrdMgxltU9EAEodVvx5t7m7TQgyzcENz6Nx3AFv1w1GnBz8uFPq6Rzcbxv2-BNY-HTGTHJJtuqdatmcDI3bhClvh4qJhOVrD81BIiKqKBobeOKTwwF5N4mMeU3zr5dQB1jvvURIQRxRNKDFSXOoZ8IIZrpmmyxoUDeQz7FJBlpBzpocLp6dY7Vjvpy8",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Plot No. 161, Ogudu Road, Ojota, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600003,
+                    "lng": 3.352151
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8b78b17968b98100fc670172bf4cb63774a1ac14",
+            "name": "Stanbic IBTC Bank Plc",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJEzWeXECSOxARAUFVRwkIZCs",
+            "reference": "CnRoAAAAdFNbUEUdTypDbFJE-D_r0M3il1OmDSuIhUOer9X7JyAcFE1lCUblWvQryO0JUqRBFsfg1VrEfvm7mzD0VBk5D-nl3JejogmZntIWSfU95XTqLRDaaqWUdJCVah-V_7M06lKV6b945u9k7g6H7wWY5xIQDvoVdc-L0jQe59m0Xt84JBoU6fQ91Wb5G4GqeIGV_gwEqV3e0SE",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "31 Allen Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.461447,
+                    "lng": 3.389914
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4a5e8154c8c168cb2b96657fdbad21cc9705a618",
+            "name": "Skye Bank - Idolowu Branch",
+            "place_id": "ChIJr0sf5haLOxAR0ZoR0iWzNAw",
+            "reference": "CnRtAAAAxb0rGKNQrxLqueP0ZZ9V4sAcyCtARgMbAWg88niiJ4tXFrr1e5RlRJbhTkmtgjInQF9C0XoisCpOojfx_ZB5mQHUmDMZ1YDuayvdJkJRsO6preDYtU4S4BC5_jzHPH2i3g6eDez_ODho2DzujUFCORIQJjkFM1J9gym84W6hFAgdlBoUZ4UlKB0Te3fXRM4DZIWhR9lIWRw",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Idoluwo St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.592597,
+                    "lng": 3.304589
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9f640acec6356b8b8e0e97d8d2e66523061ca274",
+            "name": "Skye Bank - Akowonjo Onsite 4",
+            "place_id": "ChIJu907YT-SOxAR7KMVfj7G8AU",
+            "reference": "CnRwAAAAWsVudIyrIH7KLbnSP8LL6XXnGVuXbRB0D2OHiul7lsRCQWVjJWBcvw_Pl1YofYnVtF1hurpe-rAR0i5QdOfScBxNrKGCYKtWdm3rR69tG8ep2-MsiLAIg49X0K2Dl-u8K2leYk-sVyMDB8x7FJzWhBIQwfqsBHrH7LHsTencdbiWARoU-ehp0j_LZ8oxCXRkXb5y5qEN_w4",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 35, Shasha Road, Akowonjo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.61189,
+                    "lng": 3.369391
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a60ec352583daf98afb7620b68998ea50c8930df",
+            "name": "Skye Bank - Magodo Branch ATM",
+            "place_id": "ChIJbYyPh7KTOxARBYM8pBcBwn8",
+            "reference": "CnRwAAAA1Mrvt_hfDaIBQ4NHYk5dEZyIwPMoQxi9JudhUXy6M8ezLv4ErszucvgAVN6qjMgR7SWCl0KQXulgCM-qkKkz5rBE8Awv6Xp3HPOhdFBoKxoFTFBokNXlNWBdyRFZM71paAjGisN6pv63IrzSEjWJIhIQeNihgaHCPdLxtt9w5aQi9BoUvG9Q8oKjTQ2jDY7Au5zur4L6VN0",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "CMD Rd, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.593668,
+                    "lng": 3.371882
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2f5dc4ba6bc21ae465c730e82a6eb55352a5e5ee",
+            "name": "Skye Bank - Oregun Onsite 1",
+            "place_id": "ChIJL2Rdf1ySOxAR9DficMffYEE",
+            "reference": "CnRuAAAACeftwcoboDUdMnRy9jJlxsvV265kN-F0Xost_rmsMkLOb7d40YkHcNw8UGNjyzD7kCLQ5bUoDP4QocA2ZkhuXbKsmEeAP7G0JhWZ5K10IGOBjGFe_j23XRWFQMsOaVdSLAvyGJUTQG_iTOKUolFzjRIQN8NGvKD0gJ5YK1I_8WZOLhoUBcj-Gi0P9dW9vAAPcQ2LEqaNYg4",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "32 Kudirat Abiola Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.583814,
+                    "lng": 3.358434
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "10ff50a68725dec40b288f5beb016f668bf305d6",
+            "name": "Skye Bank - Ikeja Gallery ATM 1",
+            "place_id": "ChIJg6Bl_fOROxARh8GhZbaBBWM",
+            "reference": "CoQBcgAAAElw4H5kNQpqFHDTx7IMduVvxCas8PfX0Y2TbPWevZXKiOFdtHCW398jA2Oc7wqxMMEGuLAHpt3gMpoE98Zvj3LPM-MJgzuAz6CAWFAbCOil1I2wec0m1G41hbvipZYz6Y2YHrOIQq7VTHEKKcxasqUjG8JGCiWUCMEk0nAhtC77EhA06S_g4qB2763sploXGSD1GhRXgzT-e0JJtfXIEQvbgMiOzmqLMg",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Ikeja Plaza, Mobolaji Bank Anthony Way, Ikeja, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.4419,
+                    "lng": 3.416595
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0d759b96a5e7cb448be2cea2132f1959643541c2",
+            "name": "Skye Bank - Awolowo Road - Ikoyi ATM1",
+            "place_id": "ChIJw_maziuLOxAREXYAdrKVd9o",
+            "reference": "CoQBeQAAAH_KjhxPOXK8Mc1Yvo0WN9V6JwpDJc6uV9tv2hgbnr6zu-nfZFGnTbhutSmQ5K7fvdRvBRxCPInOK8B8DHL7D-hB-Amds204Q_mux6XLRPuRD8kOwctV4Cn1z7_qw6H1DjHs4f3rzHNIn9gSIJZZAKEDNlJ3y5MaPz09hK-8xrTlEhC3uPEY100cJYKgwSMI8zl9GhRJcDSUOQPLFg98KpGNbJORUkpwBw",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "81 Awolowo Rd, Lagos"
+        }
+    ],
+    "status": "OK"
+}

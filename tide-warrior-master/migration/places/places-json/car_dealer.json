@@ -1,0 +1,474 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAANCUH40GyusVlu5YVT_cg4yfm85f__bsvxhYpPBO1zRon2Z_aRCcOPnPyolGgWuHiDdWRiSetIMSO3zCK4XfK-LOxkxnoAHHZIUgnVL5O3TBp6qel72ZJTMYJOt6i0nR2gpQu8Kw5_8c1ZbShrd9P5x4Y5rcMW60tmCwhEoXjW46DlP-0kBik8VTonNbaSsUq8okosANORUfNW7GQ7i2PI5jzmAWa_3-RU8WN-std-coawg1TVKy6rsGBTE6ZDt66FJGS5E9Nr6V6kXbKZo-3wZpiwVVJFIclJb79D1rRzUKzJfKe4cYUnajRJaXRNkRgGDWtBNF1kGIJxINxYWVlPASEH1_7wl4468kTb3qwawD4FYaFLzFDR9YZwMOkyR1YFCsT5G2OdER",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431135,
+                    "lng": 3.427158
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "8fef71616f4cd5c79599604d0346ee3f85cef026",
+            "name": "Coscharis Motor",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJeYBB-S71OxARCOrjKrcxVBU",
+            "reference": "CnRiAAAA29z6jO4avnE_nx9X1kQb7pZ2I5oHcsDDQGG0DOv1iG9JtJvo7FmxD-MKnPye2WLauffci-tFbC7dPHcSIYqBpL0tVPx-vJgIN0yXrbJtEWjoxsJr5D7DGSxgbUmDWVzAJJ5SR7c13M-Yj32syagBpBIQx6wLXioF4FIOPGbaMb7klhoUKWiBlof4SsSBWFbnnjQOPTQLWhA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_rental",
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Sanusi Fafunwa Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434279,
+                    "lng": 3.443608
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "d3fd975d3cef5981c7f6fb6812ec6cc468ccf1d0",
+            "name": "Nigerian Cars for Sale",
+            "photos": [
+                {
+                    "height": 588,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAqKJtp6tNETjQx4H0Ht4tllaBdqf5Enl9LunHe8lXE0wF4gRi0emuaczKcJnVpm-T4SpgZnr9Ad5kvUQjbmNgc-T-m_bpIz-Eg3R2zjLP-RSanWF2l92eB88XiS6OHxPekaALO8houFmUQyojditeVxIQ4iKhIE2gmSpnkS54mWA6yxoUQZ7x069VHyGv5ffJ0w9WrVAEjxI",
+                    "width": 749
+                }
+            ],
+            "place_id": "ChIJ55dduB71OxARTnR8FvoqZGk",
+            "reference": "CnRpAAAA3l097ZLYJBUnDydE96mYlTvUowN92lhNZk3x0aeOlqccRI2msh6Lto9nTmz8r5twoiH0lWCwto9G59A6y2lmMAMjou2kqfU23lH6acPNzSwqfcCHWSwOVZXdPqBEe7rU1iFsyjw9VZyx1JOKBbjAxxIQTcrjLt-jDNlmlauE2gLGKBoUoPeYkOvca9NYLKBC74M6BIbGLNE",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. Plot 9/ 10, Block No. 2, Oniru Chieftaincy Estate, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.540803,
+                    "lng": 3.367462
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "0202b613ee49e795c39a839c302e3884d5bf5592",
+            "name": "God's Will Car Dealer Limited",
+            "place_id": "ChIJGW1QmbyNOxARq3bHJJXThl4",
+            "reference": "CnRwAAAARKJFNfrbhVVZIgNYN1IKoeYmsgIsvLAIkzgQAwv3yf-Az4R1FUu6NwKgmFFew8TCaJcgtp7-CvRubnq0yKXm3fiShv6tD3ohGtmQubP3knevRpNcYgty1nbahSK28MSMslpe6UgDygcS8TCeRqSgUBIQSItmeN6i_SU-DOg9ri07gxoUetRGeTRMFg8twJYHvbY-PJc0XtY",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "7, New Balogun Street,Palmgrove Latude Labinjo Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430519,
+                    "lng": 3.411453
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "d91c0787f7bf887d7c275ed8cf148d605f4dac25",
+            "name": "Kia Motors",
+            "place_id": "ChIJQYv_UNCKOxARuLZh79dFFvA",
+            "reference": "CmReAAAArD6umZGGg9OZS97Qb377kRWRVhDZtmSAMTc2hN139Rdi_kVikXqS6QHGVmAuaEvI_n-rwgh8KXmKquK7ruJnik05o3zyN4B0zQTtU4TDk4Id5Syyyh7fhfcy6r2CgIkmEhBxvP9WwSPTaeChH8DWbFvBGhSHHHEQ5TG-VhlPni99Ba2lfCGexA",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Elsie Femi Pearse Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.617163,
+                    "lng": 3.336325
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "a448c39d2371c995c70cedd5efff275039fe482b",
+            "name": "Toyota Nigeria",
+            "place_id": "ChIJpTU6TXyROxARC87EuX9Z7D4",
+            "reference": "CnRhAAAAi-NtKtj6kjG6EOgcKcqoQZKsef9ygNledRx-BznvTNU6GDN6GSgSlZQBqhHUzAioF0A7z4N0Nr_Rhl0vpfn6oc1dyzHxd5jK1AhjC3maKjaAldh_WxHVqz0OeFpwBapmgK8fV-PZF7AASJhWzTJqzRIQcEaI_9zlkryzrhNMN-2tMhoU0Gb3NQoX6cX6ZXjDYzg1kZuR_c0",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.562168,
+                    "lng": 3.367155
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "2725b615faac495887ecf74d0e252634fc166748",
+            "name": "Elizade",
+            "place_id": "ChIJZ7fI0YiNOxAR3gc717VVRuc",
+            "reference": "CmRbAAAAjYYvEL0husPoCQQvByDeXLxR68n0yXNYt9ZfFz5LOsjJBnStJs8qc-FFtB_0ataZdLWO-HXEzOrY-sj6g-sKbnhQE8NtBNySBhKC_TNMy2-xzY-lsxUUoya5N6rAIf9IEhDfBEscd74MBv_9AZMRu2QrGhTyY3Nm8kssKlzqqW9NAgKF2Ow79w",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "322A, Ikorodu Road, Anthony Bayo Shodipo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.617099,
+                    "lng": 3.336668
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "1973c3dbfd66aa03cb112eb921f7decaef0e7e55",
+            "name": "Toyota Elizade Company",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 256,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAALKibxa_BKwGl0_btNc44xmwy3PL1X7I1WBBYZAXykUsVV_5Eyxbbp5w8i8Uuhr0OrBE2u1TJ_UdjWpEjc6xhnDbIUjhHruaM-dnliRFM1JLHu5ObL4SAptj7BaEjOzu2Zzyfii4PmOhMfnXv1ZPXBIQ9PbOzeWMMIaM1vHrx4n8dBoUhtWMP6v0v9RVSbm6uHiiKECq8BY",
+                    "width": 256
+                }
+            ],
+            "place_id": "ChIJMbdDlGKROxARXuJDDE0wb0w",
+            "reference": "CnRpAAAA-cwaSW1nUE0MyKa7AamnKl2JNTolc-jHNWwlJZgnkuqXQNtGac4VDgp4XFxBKzFIRwd9mgTbxbaXnJic14NUqq_0Uq6STu_yixeHilSrSH1vZnd7Gu3Pu2XAk-2x0f7mFTxNetV6-ZfC2Xc52CfiDRIQvD6NNzP_NB6hGSGaVhUdUhoUhd9FlkWsvGNYtvV74dNKVDXW6s0",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Acme Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.527061,
+                    "lng": 3.367999
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "827a5932c3731e7aaa1e24cb3979ae08b91e5e9f",
+            "name": "Car Port Demo",
+            "place_id": "ChIJtXqzirKNOxAR5uwvRQhYEuA",
+            "reference": "CnRhAAAAndrH8Em7TG4MByM84UsvRg47zx8nGvws1Qd9DGkAbMe71_tD1zxNXnRcNspXJ7XOt-RyDKF_LAlguIultCzFhfAqjB7iERo03rgcEDrVfEsJ5UJH6lBY_QfIx-uelH49eEcMzWdmboBI4nI73KzKiRIQFJChcYGlr-zMIite9gjDcBoUyzwqueIJwDxXwxCbdIGO9reNogk",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu Road, Fadeyi, 120 Mafowoku Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.608795,
+                    "lng": 3.399419
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "18f373aeb3fb4c0932517fb7100e1dbe32126d91",
+            "name": "Cars Dealer",
+            "place_id": "ChIJN-Tr4t-SOxARpW2PPMS753c",
+            "reference": "CmReAAAAjye6QMTsx2eQkERYaHFyVg3KdRpX2PCuJsnwX061hDe3LwV9_xxg6vTZbijv2gRpz8h_zb8oIuJRroPF4ngB0WvmxUFQrf9ljjl9f3oIZ0k0TnkSGWLt-8MphW2Dpd2IEhD--91pwAUlRbDxDJvMhop-GhQ_WGyWu6sva0oAK0a-tiEWxJUiKA",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 8, Omo Obanta Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.42366,
+                    "lng": 3.415003
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "72452cb73ca9f139040f00e9f937aa8fc7320fae",
+            "name": "SUBARU Motors Nigeria Limited",
+            "place_id": "ChIJ5S4zBcyKOxARghjW3frbd6o",
+            "reference": "CoQBcQAAANPKXFZGpE-PYWaqnDSso_t3b46GHAcRzY_P6RVnbyLvEmExrpx-ZBJbKGJLCntAcPRSoWYxfGuizlyOmy-OkhCstKznmIB8sLLmQGoZxqA0Cq1J2aLWDjW-coTeaUq-v_AxvgtZUoAu7LbiO6VA2gBRIl8Y5LNJ_bx3iY8ptB0NEhA-CVYxsphi6O9HtwIBIz5tGhRqD2xg5kc0Ha3PVZRIcRFGb1X6rA",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Subaru All-Wheel Centre, 13 Bishop Oluwole Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.576339,
+                    "lng": 3.366017
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "2eeb6e38ec6e8737a59e8028810ce82caebf8489",
+            "name": "Harrymag Auto Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJg2ntt3GSOxARo_oWSJzWLTE",
+            "reference": "CnRnAAAAFdjvd93uPK7DPj2FkGaq743kWBdyVOZP4LxJoVXAUyQXfZjptDPX1Jg1RCzJJYAkMI-HUiD6B_72iNxXAMFADxsNqyMcbExKib3pU6b5jFvixLdhEKJpfdVMMEC26V23PASyUjG2N8BMA_TdEaJ4thIQL_xXBfmC7THHto_Vo1S0xBoU1RrTkx6ZEPWA5DmfFer0UVdh6bo",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 340 - 344, Ikorodu Road, Mende,, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.554151,
+                    "lng": 3.36206
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "20e77d968f7dd1772401b2654c0f52884a0ba428",
+            "name": "Megyucy Autos Ltd",
+            "photos": [
+                {
+                    "height": 459,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBcwAAADHUGJI07VUUCFWv6C-OEFR-XbLxEwk4XlZQEUX0h5RtBWC_8PrcTl98KHqU5WCq9-JvOz-usQw45lz8ifZSJ_kcEMtSM5qRo7g59xBC5No-BMyA_8_g8yHJrukk_ZLBEe2xUxW-2qV801Lj2usl2F5JEhQeENcMnGNFgXZc_2w-EhBbu6nZENEc-DY1eqlh2IxtGhSwQG2K6teFH5YWbFqkKyVrXxBSXw",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJG0NmUZKNOxARVTgs61UU_YI",
+            "reference": "CnRlAAAA638pqS8UFuK1HCQ12-PBF3cNQKvIJsQQkJ-N_YmUweu87G8vL2doPEali6XTXs-rpo2HhlfgA125nhrnMVxROZbBZiuLr5EwpQPQnHnDUg2XRNlQyW-7u5KnXM0HaPpTki_RCjtqsWBWXbsrsZB92hIQLMIkLKTWBz4J_soHhBucgRoUp55O5DHQNuFfRuTHNdBNzdhD06E",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ilupeju, 26 Coker Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555464,
+                    "lng": 3.334635
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "6a8de35e8841c5478c56dfb167311f05e18f8465",
+            "name": "Anis Motors",
+            "place_id": "ChIJ_whVuAiOOxARzbk2nbvGVTs",
+            "reference": "CmReAAAAJA9c3HjovNGmugwAXkK9TZy5a0c8xZNcsImzpCQZ8EYIZZ4c4MDccK1oYDRytbU5HJtPTLxJ5wFN9Ek5T5jGBobB12G5vk_jOFPvGa5_6_fCFrISzr6hvkPnn9AM8kZYEhAMqzk1mtZtP0zC69565j0VGhRwxaR2M6sYCC3h7M9P58_vAfbC-A",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "16 olawale dawudu , off bank-olemoh, off akerele, surulere Lagos , Nigeria., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428575,
+                    "lng": 3.42517
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "a0bf7bf0d2098bf1bdd8a9bae2c1770e3162ecb7",
+            "name": "Chevy Automobiles",
+            "place_id": "ChIJ6VdbAy71OxARnVS3tngXpe0",
+            "reference": "CnRlAAAAM0QXLRsHNsilQDJwEhESlNxtfcUiKg51AVVg6m6cITaDG4I8e2XLPw0opLnYFNRILlxGw7xWViGcE5yEWY2VSnnLlGRRN_KWu6a_jA8XvK3X7IQZP7NXbnAtKeSY8PiRUulyWL5LurOCEqS6bptNShIQSPwec2ELl7DHpme2uctu3RoUR7jUu4SjZiuZf5VzhHP-G6PoA4c",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 1309, Karimu Kotun Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.479268,
+                    "lng": 3.385473
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "06772cc28751d6fa7a8370da8d42a7df3fa3c3f0",
+            "name": "Honda Spares",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAR66gukXkRX0o1NgyJomVAmwyxbqAZDqug1tZQit5N7KccTn0UhYO6dJnO0tmgDJQpJyLHWTZNnfL212bnE-J3hj6ptysW4s7Y4hEuSlOmmeUTejK85DXIOOBPK71XMTE3n9-FhDo2QDAHwKmJ60e4hIQjH2b5DahrJ-QBr0OljXKgxoUB5yKKh6nlv17SHX_Il7-1BGV5Dw",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJ3_4FM3yLOxARnlgA-_j4yhw",
+            "reference": "CmRfAAAAJop3q7jaHuKnfqztFa5XRqxQQ7bxxBYaL6oOn1NlBqIslMlHjDBMLGBzzzDetOBW7ux-ceXLmvbWQE1KkQajeHvCV-utxzKTTAOyAQ7GDh-3rVKBwl4b0K9S2aS_letZEhAUAtLma-mKKfRvGAwKvBIQGhTkCLSBPcPWCZgmCrp70yUvkeLwLg",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Behind Mainland Hotel, 10 Willoughby Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429771,
+                    "lng": 3.410032
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "e31b0f1da5c8c1242366cddb57a5a66060908ba4",
+            "name": "Globe Motors",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJU525ctCKOxARJgqyr5HYCRs",
+            "reference": "CmRfAAAAY-tPMSGsHK70yhrXIkeGWK79Zly9yICg5bzJGVhNCxTBPGiIRj7g7LOvcOrKheyssNAvxhESeVmhsHi9KZ-aNtqzoSbnogXmF5ZwVA8MW_OIPuLKZUpl5yxCvq7Byhh0EhA5VTN-3Gynk47kn7eX9qfpGhR-Vqcw1X_oC0I7uZP-JP3MWIxV0w",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "23401 Nigeria, 8 Adeola Odeku Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.426123,
+                    "lng": 3.413347
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "791c16409cc4c2b8148c4cc3312f704ac3b21c24",
+            "name": "Omoregie Motors",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ7XIWZ86KOxARpKHqWvTWO5w",
+            "reference": "CnRjAAAA4izyx4rhhevKu8UfKrcI202bAJhtGRMsB4Nh-GZQf9DYIulBVrPUTVxdJzqsVir-Kn1hCd21_OAk1aVnsHFlKDnG2jnwN-AGlmw-P43PAT9qhlKhVr95bx1D5RUP_VYttEMQs1n1Ou-TocAkxk4wXRIQKTvCo0fnZNVRP76zVcH7KBoUkHj86oELu7zSXRSI7VZqqP7Hd88",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Akarigbere, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.533491,
+                    "lng": 3.383896
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "e0bc7d3284bfbc6685b4de25645166994220903d",
+            "name": "Nasco Dave Car Service",
+            "place_id": "ChIJDySDcwaNOxARxZ8jUCtIBwA",
+            "reference": "CnRoAAAAkAmPLyRZqxaoVkwWEK4zpTgjfJd-64OA2JBthdVgegxZVwPD7UxsBHKC-Q_xxutR1qJcSpc5XQzy4dLTVwckRyVfRrGIFK2DReiPyOH2fGZcCA5-dxlVVGxv7QGejrefFQA2S4CJ2rfwe5TbUV2yWRIQvT7hP7Utoa0FqRIwZ4IuyBoURfoMlZC-lDMWch7yXApKqLYM0Sw",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Akintunde Street, Ladi - lak, Bariga, 2"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.552045,
+                    "lng": 3.340756
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "7a0d404e8dcd4ae09520603b76863827240e2c54",
+            "name": "Mikeossy Automobile Services",
+            "place_id": "ChIJQcCbOuKNOxAROJxtG4P5R-s",
+            "reference": "CnRwAAAAYHr0pvK5NNlFmDFxAtFl4F1axvS-CjDe6lumCjRV9xA3JLNekCq5E-TcniEUdKuMutRxhM8ghbO1UuP1eIkVSyRfKQOJLXzq5JSEnie6cwnIBdzdrCy_d2HY1ZdLJR4ek6ETY6tt1UVH4oTh9zhwpRIQycgfKUZU8PBtUlY9UPtr-xoUHOFjTBFObDrZ5HvDPFBL7zYY0t8",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Mafoluku, Suite No. 253, No. 225 Royal Exchange Plaza, Charity Bus - Stop, Oshodi, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.52491,
+                    "lng": 3.31472
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+            "id": "1bd453335ee70e29ddeed925294a1041653fdcb9",
+            "name": "Guinni Royal Auto Sales",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJAx88X1-OOxARE6REe2v5Nx8",
+            "reference": "CnRqAAAAsjtLGx9h_lszavhKZCjofgL4DvFPaeUf_FYyAUBRmGXxxnZyzlKe-VG6GmvDDbexQVvrqprq5OoM3Rd2fDBdY33dwaxGoVf_Y3qC9PXGOGWv__lHVdyqC2aLIzpD4-oLau7t2tInL804Q-Mg2V3uTBIQBUUtVotlhnFdWsVjb5jrrxoUNNASP5mhSf_pgPXwSXh61aJm1Zo",
+            "scope": "GOOGLE",
+            "types": [
+                "car_dealer",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Adeyemi Ikuforiji Street, Off Anite Close, Okota Road, Pako Bus Stop, Beside Milaco Hotel, Lagos"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,429 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAOiFrrsq2dljmJuHqkrtnZjnSUmqYSsDinLCkxJs-WO92fU7LNTEpG2VulAM_tyY6kanYmQHdYQ6khdeM5vA0iFA-dBFn-9rknDpBgKQM34znJPXEM2Ee0onPkSVtuzLdyWyGxhrRp0ChwJh_6QMeNXFyYXrcBeUNn0BCnFO6Ul51LMSGULA8bpKIxG1mOcHENVGvId3PR4xl1FrARLjepfpyPGsSpX-yNSyOSwgVDHnEzLRcRkgw-oVr6ZUTkQEN_fRHm0zDDE2kQjhnrsFWCE8rGLqPKAS5Sb9RIEmniPFNZY1xsUmQOT4YRfeOQEEYk31Od8kk0NTVXe9V1wSnZESENbNTbgyC0IrP2aTFDZgXTUaFFoLTV3HKF0JynBby8LMJZHLPGIv",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434676,
+                    "lng": 3.354295
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f2d617261064539efe84e7e763a1fdadd370a171",
+            "name": "Aisha Clearing And Forwarding",
+            "place_id": "ChIJO-oOBjSKOxARiaWxiSPje7g",
+            "reference": "CoQBcQAAAHHHion2OAZKlJTrnV-LcRjFreSwnUTWUj6x66XxuTTRtqVwBhKqlypZQwWMiZU8liXPphYn82RXW803Ry0NgX5SfWPaIq3QoNo70GZpr2aQUuylaUhw0eiuWGBBicnumpoNknFeHhAG2ulUk2vA1a6eYet1t4ZC02ADtIlciTtJEhAu0Y5r0C-IIZ6x8udNNGKCGhQmT01Bi0mSH1EesAD7yLNF-9zFxg",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Suite No. 11, Npa Container Complex, Tincan Island, 234"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458279,
+                    "lng": 3.369509
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4ed7ddcbd2e0daa84564dece78420306b3ee4f3f",
+            "name": "Conoil Oil Terminal",
+            "photos": [
+                {
+                    "height": 972,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBdQAAAPplZVTVcsEx3d0-zlvfcs9E3OQkuX568HL_JdlXXeq_AHh4QX3qjuQtYusyHO0YuTwB8SFN2IlrFRNJLRtyqqCXALGfZqfgVO0ePJl7-N6_Y4ot3FVmCg1PrmJwufatyKiXYF3UaG4XavWyxpfFiCA4Ab-C3-ZLRmGCC8zJL21mEhAC7Uf1h8MTFVorVpwGVhxjGhRtncyL2rmd4fSBJvoCyI9tgB6XRw",
+                    "width": 1296
+                }
+            ],
+            "place_id": "ChIJNdRH0aKLOxARV3kU7ciMoyU",
+            "reference": "CnRmAAAAI4t5CKbnitpjuDuNIitvol22LgiW1TxV7eJ5O1155q1N1ABbl7SGZqUkkxKZY0Df8pMPgZ_0Q-jlOTcbLK1bJzfB0HypkrK53mGdNlrKrw4ifvKVLSpF40hJcWUbtw_IBfJ_o0-YDI_jln9f5RmiwxIQWPeYLE76TWBFn_QU3biiQxoUyVaK9jGCyevQB4ZHonOJxPhXw3E",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Harbour Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.579363,
+                    "lng": 3.333453
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5dcf58806a7b71eb28c6bdf91e4593655ee6f1a9",
+            "name": "Sunglod Global Logistics",
+            "place_id": "ChIJt4XByfCROxARRMxp851Ya3s",
+            "reference": "CnRrAAAAxVezqQSHVeGsK5BMbAsphuAo8iFd34IAXs9Ll4OqEtQ6rOxwE0VtVfXNDDzKxx9zm8xhgxTgtAv84KaCS5IR1fCw8u82BHaLpEvzt9Td_WbiyQxFfKt24cxCih9KeAMVV8iL65w9oqCVYCS-Qf0_whIQnTgoOFsGzYW8cO1rk40r0hoUdScmdpeu_DsfNGLIkjVSq7mBnac",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "R M No. 2, Left Wing, Nahco Export Shed, M M 2, Airport, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43579,
+                    "lng": 3.35458
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ce552ce695608d7ef63b65bb99f9a03303ae2483",
+            "name": "Deopherm International Ltd",
+            "place_id": "ChIJlUzpcTSKOxARyToGXDMjhac",
+            "reference": "CnRuAAAAp5jw3Zk_kKYNtA17L3bj-3qb9rA8IRZBmMBBJTJGqvY7SVCAOco4xCsyZQkMUjU0ws5O5-dXUUQPTzXlvO6m1-eoXSlS_wDSBuPdIXqA-BefScU3iWCcBCtnmX-6pMvxlzwJuX6GWx_ZyQz8nlxFjxIQ72PAXbqQXZ59QrgEH8q-SRoU73pR6ZtAUec1VkPqIBydwUAfwIM",
+            "scope": "GOOGLE",
+            "types": [
+                "moving_company",
+                "home_goods_store",
+                "store",
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "No. 101, N.P.A Commercial Complex, Tincan, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450849,
+                    "lng": 3.367975
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e837ebd1bba0e5ebc02b94c7cbce800f976942c2",
+            "name": "Zebking Intertrade Nig Ltd",
+            "place_id": "ChIJHXi4vbqLOxAR1PVy9r7PaDE",
+            "reference": "CnRtAAAAwYESJ2lnxK82RdCAazQueN4OHiuk_U-ajHfp1e5EBP3fiU4ksyXR6JsCjWP4tPBDp29mhEPeN7FHGeIgIu2NXglq8Kmi8ve2odh6MuXkjtqXJ5g8BiYX6x2XzHFEvvHAlc4jYrwC-IquNO-Od8vXoxIQqpN6lblmtKMn1x--y0FZexoUm-yf_qXnaeUC20In1_oF3eXqqdw",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Railway Compound, Behind Leventis Motors, Opposite Area B Police Command, Warehouse No. 3, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.511149,
+                    "lng": 3.321823
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e273becb08a28e03a64c83b2480fc9a9342147ee",
+            "name": "Everbrothers Associates",
+            "place_id": "ChIJPwfUrZOOOxARwulBleDml0s",
+            "reference": "CnRqAAAAfPj3oe3W3IzcmBXO-mX1XYga2wZLO1SisdoJWNTqpcgg3jiTQU1-8m3z09WV4jWJZF85HlJghlzroqqwlLsRFPI0X9IpadiI4Lu7aCwJVUuCrfxQv0jKzJcWZg5Irn5RC4ks5D5c7OUmG3gbOKD1nhIQlap9kN1c8ma_kxyogx1YDhoUW3rIxsFuIRmVzIedanjHZ9aNG_k",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Okota Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.46015,
+                    "lng": 3.336577
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "71a682df1e1b745e3dc60df6a1fe19cbd3aab5a3",
+            "name": "Mouka Foam Store",
+            "place_id": "ChIJcbvPfGCJOxARrlVLZ-Pw_0c",
+            "reference": "CnRjAAAALMWp76udG6MEEP7FB5gROzeQ54qeiqED3sXJ1S1l5LjhkFGBpUG4_FyGt2buMeLzM16y5VFneAsacZ0pWbCgvwkntnAyxF84SboO4sqtKuhdCgpB9Kv-Y4wn6dwmfix8eSHEmAaFj5gnnn4Ztok95RIQbLsiYpVFhK4SuLTEPt3zRhoUtwfe0hi9S7RfDhs1feSlFvUGN7s",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Ojo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.522822,
+                    "lng": 3.340769
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "66a40982cebe102d19a3a3b06af1b59b79979d0c",
+            "name": "Starlink Global & Ideal Limited",
+            "place_id": "ChIJhYV-7yqMOxARQ0a0VM2ZBKA",
+            "reference": "CoQBcwAAAF9WIJwbq7NSRz2beir1VZCTNIHsRBB3hiaIhjKEkuozNlUxQqZVakxwBSqNDBVENhBQExzqL-fER3vOcFtMzbw90SKoaz8Rxm3lu9QXQQr6CNseyDbaI2hJLlvKKFYISVjxy_nyaqcyfhCcHT2TmplVWQACDWJ47Wtf22kCFlW2EhDH230q5uuthAcvS_pe7gU6GhSM8hAil0mgs6JObxM_lZRlVs5yjA",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "By Layi - Oyekanmi Junction, 8/10 Salamotu Eniola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431281,
+                    "lng": 3.415827
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "9668202ba8d10de3e940778c286eb5bc822798b1",
+            "name": "Crown Relocations - Lagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJBW0Sydb0OxARJwxF-aQuM44",
+            "reference": "CnRtAAAANfs4zi-StcKNE6sNjlIaTvJ_XSjmgabm62cpNNwZnzBLgJdc02ClJmv_kUdCOtI7YRApb_KcJJv0PgCnLVNDcmooGtwc13GjEKDWIGich0kGDvk14eEAhQdSFRUc9EvpUZ_Z6o2GdjBffsdbqm1gPxIQ7Umbzovg3m5CXMJfZJSZyRoUamTlguQOLuOulBK35T1HXlH4Okk",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Suite 59, Prime Shopping Mall, Muri Okunola, Victoria Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.586784,
+                    "lng": 3.362634
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "74a95a3b5d37269372e0d4d6273307e4db5d594e",
+            "name": "Skyborne Logistics",
+            "place_id": "ChIJw8ctQWqSOxARBAvq9Hv5I0E",
+            "reference": "CnRlAAAAosQWI8E3unILk7FBOcTojaauySdXsW_Es_FEv9PdITyWLrTOro4rWm55DuttmD7UaEITyBAPeaX_Gu5sfYP3Mj92uv0JAqwWP6dejf_vo3NxZbFXo8FjOk_H9M5eBohjbemNLQBjdBNRHvYZ7UodexIQxtkeu2Nx-U32lAWK6BcjFBoUunWAt-FEPGI8N24jZDj-juMWHcA",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "No. 45, Opebi Road, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.453397,
+                    "lng": 3.370872
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4b57cc46462347b5fcdb168102927b19246d11b4",
+            "name": "Aiteo Oil Terminal",
+            "place_id": "ChIJywqr76SLOxAR1Lg-wra6Glg",
+            "reference": "CnRlAAAA0x-l5Bvfjix6fCM0b1vFq6ByaCdCQ57qy0zmdhmcESCucahzwijeYC5T_lRGaXupyOQT9fJYflzb27saLRHrvk0kQ2qxFT8NFunOYnCwcMqkp_PaUy0ZVnEoNJQ-v5iyhE2kQh0L7CxBTl3otM999xIQzhrRbg598qj0yiBLUtsb7BoUiRGSCTMD5e0YsCoaiVSBPFadvkI",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Alapata Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434121,
+                    "lng": 3.368291
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "80c4b2c3a0a725d5daca0f8efe3e3b01a34ce495",
+            "name": "Lister Oil and Gas Terminal",
+            "place_id": "ChIJI99N4k2KOxARBNIvajLfDRw",
+            "reference": "CnRuAAAAa5L0WSh0kr2LDZMyawoVSXzQMsva13jaNaTRz7-1V57FHEREL1B85QtQcGDDLsDCgsVvdYqwXsnZEYSaZJZTIkdRgDLztePB1C9AMPBYxhTAMuS8FYCzcKCGWJZc6HuoPNwvJRWBb1hdFSjpf8u4TBIQ9PGkGBvuhBxfcAXQRGn6LBoU6fklwgZzRR2qThEGh4aIpbvkt-I",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Creek Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431055,
+                    "lng": 3.431115
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "16cb9b372547535c156fa9b0aff8c89e22025990",
+            "name": "Arrow Head Automobile",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJJZJsoSX1OxAR_So2QfO9jEI",
+            "reference": "CnRoAAAAoIlDMalKmWo63g2tXtntrQuBfSGfgVTDTz5QJgthQgekUpaVNQN8bY4o_oW8l2gG9hOaKlWBZeA-f0pCd_QWGHq-3NYddQPROeR6HTPTv0lXLcGlzr51wy_qaahqr5JN61QraLY9EZVGKTah-dNgvBIQ0gaM5vNgWab0nj_u5Uqo0hoUFv05fDxOeze2fw--jUXPh2HPh2Y",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Ajose Adeogun Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455187,
+                    "lng": 3.350827
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d8c0a4cd3cfdedac81ac746280e930eae4f8ddf8",
+            "name": "Bade Fridge",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ6R3XnMSLOxARqP8nlIKK4yY",
+            "reference": "CmReAAAAvnQo09DnuLIm7ZzfUVVPFT0VH8vAmJ2vPajZ_-rPcuppcM4ZZczAtmSAzAnDMNXo16B_3tXF7XfE0rbUVV1a-HbWQr26YfrkIUwwIkPOvjhOZDcxl1bdZqyodNVW4w9ZEhC4OdYNII10zZxaTZEQHoIcGhRE_7Mlicq-3epS_GE4cSK_NgL7bw",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Ajegunle, 2 Baale Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595792,
+                    "lng": 3.372513
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "737d8d70dfb834b16c2595fa39b21181e75c10b1",
+            "name": "MDS Oregun Warehouse",
+            "place_id": "ChIJqdLBsFuSOxARrvAO3h4Mnxs",
+            "reference": "CnRnAAAAxbtoSRZBew4vI25mDnhhbQzhrnSUW8NPQLBjGU6naQlME0xXNFbtDZxNAWFkAX89aqjDVutxWwJe8Y_O9ptF9hBZszaQQefbKIAj7fLZ3bBs2Hkaz_JGdlJZ0wTbu3QIetub9SEOWOGqeRCeAAW_mRIQeGvfBD24ksSRWRsdt50ahhoUkEpRMiaWoTppul6NqepDF5tAVG8",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Kudirat Abiola Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.439985,
+                    "lng": 3.319556
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e45f75c7dc3fc653562f8fdba008971c757f1619",
+            "name": "KLT 1",
+            "place_id": "ChIJbf3RW3WJOxARbeuAZR6vkpE",
+            "reference": "CmRZAAAA4RtTwYShyOUAgAEPBU3ffeE6t30GRWWQVwyR_z6boivhXRZBInIm8wawyweaaMxquqcFWJfcDsoagwMq3sp7jG5RARj7d0hHOU_uv2XZ2hCiU8kU25ox5l5GES47jvm7EhDb62IXhEzc6HofWAXg9fQOGhTKa_b1o7pd9b9epabjROaUy6wzOw",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.509956,
+                    "lng": 3.334439
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d7bff5a2be6b912b286f20a8da7be8cd936303fb",
+            "name": "Nelson Kins Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJj-ZCDZyOOxARDeRG4JJMYCg",
+            "reference": "CnRqAAAABNgSuPc_kikEysCcb_xIrxbApIiL8HTEb2GfI1cpRdsHNQfTGNizcqk_l-TKhFEP1ivpQjV97QHc_wQcMDiGA9inlbq2pVw5cMdk15W8V4JtJ_VFEztNCnacHbQbwgZ62N-qgRRP17vL7yQqqqtq1RIQiNC6JlKVoRlutANHXoLEIxoUqBvXoSvmc1jwFvqa06D386XYsHw",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Off Adeniyi, Mushin, 30 Adedeji St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.632699,
+                    "lng": 3.341247
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c4aea2b17be2103c9716221ce5584093da50df58",
+            "name": "Unique Foods And Cold Room",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJn2ZNXuCTOxARk9LN6Kp0j38",
+            "reference": "CnRtAAAA_qcksLk8hV9i-N0P5W3Eao9HlC7Z-ezsMYMPfhVWsWQ90BOiEVX_hWD8jCZuKjMCRclLO01qc6TP3HQg7vLX8abN2fgeXG7j1Xi4ZsfDsAzHAzTYfXntkyQKyG60kZlIBTZsZF_tXPjMM-rlN_cnURIQ1NZI8SEIPevn5qa16c2HHBoUueA3L_t0NWw51ZoV6R05G4RGZwI",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Ogba, 2 Thomas Salako Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.60593,
+                    "lng": 3.349385
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "acf89ea54f93a76034d1d6a54da5c0b0f496c5d6",
+            "name": "Nac Alex Movers & Logistics Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJveo9czKSOxARCdIaB6BXt9M",
+            "reference": "CoQBcwAAAKoo6rm81lu0lDRfwJhnbgZ7xglmTlccjOvwl-CnA60m2ZOVyAfnREBr-O-TqFYZm6XUFMyNvLfNk31zEz1tbNyBCTwkGxkLOPBee5HMqQhIEcejp4w8DHxUA877yH4bkJbmwP0iEZCAl2uiJ0uKHE3ish5WlgKiICYAhG3WG0LvEhAIKcnOY76v1XQIaESnk5J0GhTWqaH_HFIMjf4IO5cmR0wQ0cxDoA",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Opposite Alade Market, 109B Allen Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.451568,
+                    "lng": 3.40173
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "da3c5b57cc00dd7e7ff1ec6751a9e603e76b5550",
+            "name": "Iya Tayo Frozen Foods",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJQbL9HD2LOxARMtEGJJwXzB8",
+            "reference": "CnRoAAAARxJtt4pUquM9SU4Cl-_pFWQ_jcA5haFevLJwd5cE4ARH4QeRVJDypD59aTg2LKxwPoTOTH8HRcm3LaUyV3r-TDWJp2aB3fy0UBA7ASMUpS_EWdkIAQgbSYZw4PPltcyT1Maa6fYnvMCMSz0fmCk0GxIQ42zqbYYSZrkUQmFUwyIGGhoUkqkM6MU1FbfwxGJ6hTMQ0B_Ds6o",
+            "scope": "GOOGLE",
+            "types": [
+                "storage",
+                "establishment"
+            ],
+            "vicinity": "Sandgrose Market, Shop No. 103, Simpson St"
+        }
+    ],
+    "status": "OK"
+}

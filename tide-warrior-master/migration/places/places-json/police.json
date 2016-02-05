@@ -1,0 +1,427 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9AAAAIHFCkfKW9i8ecj5INfOEhywCTLbnMGr4lRTS7SMsTDofIU2kkVvExTbMck8Pu6DlBA9AJWoQ2CNnwgToSrMHGFKLaEnecbVqazUrXcYB5mxJYtB4wOf9uSs2nWy8xgGRXaAbnnYCmgwMsKzz2hsIcPA4ibba_mZ5n_lOWPQ0CvvDAzqWM0o0IQR7B-M-FF6Ds4OMvOy58-X4na0En1-YM5WZcSg3YYYeGbTKZ3B4j-Z4mes8ptrUlMOeoMTBadcRuOptezuZSRyVNkHOtfT3NhtTU5cA6SbEzy0koTFDfYJC8BmppbKVDrp6crYBxke6WF58jwLqx8ifa8FfVY7fnoSEIVOBW2oZHKIMXD8oQXbE2AaFHZ6aEoyiObMeiHqlb0p2JZkhHZy",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.433141,
+                    "lng": 3.456382
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "8391b2d58d6ad30a9f471a887b66f66a85960f07",
+            "name": "MAROKO POLICE STATION",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRlAAAARFpFBcZNs66eoH2dT6Qs7WiM5vIxsrYKz3T68CGC6eyK3ZBoIRV5XzZmFl_-f3sSNtxlqXtKf5ki6aonv7HrNcGWsvAHbDCGw9AEHyQXrIxqSIE-8RZ6vpcK_DKMujvYwqsqX3pqr9jqMh7cI933bxIQSlYfo5q6EAq4M-X_YkTe4BoUOgbhe1w-ZkkLNyzot8Fo52spGs0",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJsx8uzAb1OxARXEvoWDrYzUw",
+            "reference": "CnRoAAAAJOMtE0D7xq7zSRE_i9N_UN3Qm3qnNSDz-DGaznEP-bstndOnQlRQHjPrR554V0l2Xj1egRHxrdBHrfzdxuqpyYTUxUDtAkXe2Dv2_02m2Yj-lAdenaCe7cV2ToDLzovk9t4vI46LTSC7HLlA1lZuihIQlY5yibAWoI-9AWYaurb1hhoUn7y1SxaWe-1PiOvpBzODiglhMdo",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447488,
+                    "lng": 3.420983
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "7ca7a7e9cb82545061dba5fbd1da520d97aa04da",
+            "name": "EFCC",
+            "place_id": "ChIJZYl46NL0OxARA0XY9LEgEF8",
+            "reference": "CmRXAAAA_uXOCorEfKRrV-fhpSoh0PJOWmxGfqVCyrWY6ZctM-6pLZLmC_t-FovNvv06Ji2ZxuCJeI-kfIyi3NS0MW31DodBarw0Oo2aFnTGyXPcvD8ZHdj-6utxggdYCQPNDjmeEhC7YkajBbl7Qa3k06wqw_iCGhTEVfwCgvmJKV5aOd-vOp8ixnhoLw",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "No. 15 A, Awolowo Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443642,
+                    "lng": 3.311608
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "9b456bc93bfbd8629e085ebfdf283b05504fb4fb",
+            "name": "Police Station",
+            "place_id": "ChIJTdWdGAmJOxARSO6u-EAk1-k",
+            "reference": "CnRiAAAAfRxzrQMEu6pCdf3j-gMZ1Scuv5LqMepR8gDP7muXixIqeAnIOMDziKNtk9KFqyUO2JJ57yvZ25-A-8HhaVReaX7fRYNqbvywYqo6boUQU7m9N3Ij93U-E8D9JralcZ9kVPZ96tIKxUFnjvph5gekaxIQ2n40vpT9muLgwwiW7forSBoUNt5Hcqztl_3M29ndW-2NA3zX7hY",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458288,
+                    "lng": 3.292771
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "75d952577453933d28e33f8add44a297d820a46a",
+            "name": "Satellite Divisional Police Station",
+            "place_id": "ChIJr5912eaIOxARarVlv41I6bs",
+            "reference": "CoQBdwAAAJ5rle6w-YjozwM2b4Lm6UVoP4IyS3W9xwuiiMP1wr9p9O1YhihRbdGs4ZGz7KheQGeOqJ93dtQ_T7I_Ph42hvKkqakIsmgWFBAw9x-4Twv6aZAWVQL-EWoshcu01f3S34GVtHACEu3z327TgzxNjaICOfT8lr8UM5TNvRulhEQFEhA6-lroUPPLhDj79lCtXN08GhTZ_t3Uq_4Z2ntdF_Hbc5H1-AgTAg",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Old Ojo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.531417,
+                    "lng": 3.336491
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "51007dc9db983b078ef8920d409bba0e9ab12114",
+            "name": "Daleko Police Station",
+            "place_id": "ChIJTVT14HiOOxARd31gx5moSC0",
+            "reference": "CnRoAAAARfybet5k-yUtCtvtbatUNd7smsXosenxPURLrOZKO7AN75a2JoTn7cv4DNjzfIACfdKJf3ukdWGBdcLlI5cIzAHqo0-PGAK2Jz6X_tAhiuhETdr5qyY8c5Yfhxr1z-U8JbMUttdqif4FmJgeARphLBIQdhu1Si7niBJgxHbJmPT_LRoUlUWT8agIt5Jl10kph5W57tuVf80",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Isolo Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447938,
+                    "lng": 3.415235
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "fcdee3cf8028f2b9268aa2dec1603bc20a1d533d",
+            "name": "Mobile Police Barracks",
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBeAAAAGVyLt9M8AqHFEj1C3Hj5JrpcAlXthuHFvvwsItzdCmW3twtL4SX0juEoPIZYuXfeOvolQ6ZKd3brc-7Xr7Qg30zBS9CPW0QM2RLL_sH9iaQ3e6mUb2wrabOGg5_F3wumEi9J9txottHonY4UR8BdfGlaf6v1n8ugEDut43I_fjvEhC15rhouD6ink_p4qfEHNilGhSPun6t7z8QFP0PYYEJXK7h3LVKsg",
+                    "width": 976
+                }
+            ],
+            "place_id": "ChIJnVOZxC2LOxAR5nEgYU35Pww",
+            "reference": "CnRpAAAA2DaX9o_L76jG4l5_45znWB8Eq9r9aR_DKCgARSmkpDzO-YI9WtHF2n03PPfSiiczYHVLrLmUWyL2vtsEzTU6PdyvWw8DU-K68F13ooPlHFc6SrF5RrzynyMlFvtO8bVD7RzV60AM_lOcPm_RBdn6khIQaEU8qVXGwrFuW_RpgaI8DhoUeWNHGx1DEyxeGuZJ4SdeUsH5ZoY",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Obalende"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.618691,
+                    "lng": 3.360856
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "f38d15a2d42c280cb8fc2c8ac31d7d8b22f30476",
+            "name": "Alausa Police Station",
+            "place_id": "ChIJ5TRDu7eTOxARevxZVIYOUzI",
+            "reference": "CnRoAAAAYZv9E4jtMgANElLvLc13oIEMXFZmXwJRAsApjZKH9HytNIGR4hf2c-E4A9u4XF0fl2SZ6I5z6YZfpdXdlsBWJ6UHWzFlcmp7EwXnnOguz0HkDMG3CXVzt7sbu6-paLNvHbihDy2rQQ14DLM2xVQ2CBIQuO0spMDaXiF9g-n5QEwoqxoU4_wPKasvHV0VO1SpqZMczJoHB0Q",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Obafemi Awolowo Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.547598,
+                    "lng": 3.301713
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "e0aca3c6c29b02ce36bd568a97b61cf72174cb2d",
+            "name": "Ejigbo Police Station",
+            "place_id": "ChIJW_xiojWOOxARvNSdukh_2Os",
+            "reference": "CnRpAAAAHPBg3Zyci0iWgBViQFXY2TZ4WWDvRSJj4dbUlWDDclHwSXE1vAPxTaLsLSpQajIYzK-dZuz4MLMHDF8nYC30aCAYnwGievRB2eEWgH-PnhOyzfv0wEr96GXQpvCHWd25Dz04g2sJbpGbQ7krP40TsBIQNf98RMEiJtHMbLguiiXWpBoUd0drehEggwmfKbsd5Ur-qT0iXIo",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Fadu Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.639117,
+                    "lng": 3.378639
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "a612ac9cfc4665b4d7cebad8305673097b85d25b",
+            "name": "Isheri Police Station",
+            "place_id": "ChIJNec5eJ2TOxARfd3nmX50T58",
+            "reference": "CnRpAAAAFxTJrQ057IIEH5SsrVX5hQpCabfCaHErkCkl1GgFi6NuTCStQjXfwYK4TGCoziDf_qlWUQgrHk2NYJoTfZTJitCehmATeWCEtFeYfFQOrLAW5QpdihWBmuvvnXerxpC_NFTXW5yeG0EH-SHZEMDdFhIQGulS71CPmWJGCpTizErbZhoUZm5R4ApoSe8s9ruqCVQc-73kZ6Y",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.510208,
+                    "lng": 3.3357
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "8f60ba06aa5b2080f3bf9ebda75e2f6f2a84b8a6",
+            "name": "Itire Police Station",
+            "place_id": "ChIJ6RgyRpyOOxARkJgiNwiTwPo",
+            "reference": "CnRoAAAAGKvmOXqsmckf3E01WAX7yvabmgP5kkaoqR59_kkuRa4TIWjG-n_KHJXzaMaVmZjx_UbdZMANkKWjYbWthtWmZWT4LIYNEgaXBXg-n4LTDXeh29xwaQ0Fo_OR3ssSM1uvPNU8cB4qvyudnfZNzc8rXxIQfaoRIer0TMYJlTZoqz2NdRoUZbxwQVxUZSKU5TAlujeFOx0Qk3M",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.461967,
+                    "lng": 3.294778
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "113f0a051d2cce597402c54b82f9c4a264400acf",
+            "name": "FESTAC Police Station",
+            "photos": [
+                {
+                    "height": 976,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CoQBdAAAAHCle3BHqM6UVfev8LDPKfIX4Omz_jd30cwdze1ekkmgOsyU90U33yZNAzCXv_s9v3h4m0px3HNvw456NdAOsOJRQS6kK0MIQMcFtrik1UoMOfWAB5h_-lD7FUwBzNXaeNmn_0i0afkQ5haYa_zBoD_0VXt4lNqOjgWsOROBAg_iEhAA2F439rHyYeV1zFlh3o4TGhToYx3aY0KyemfoW_cjoLeyYGRJUQ",
+                    "width": 1296
+                }
+            ],
+            "place_id": "ChIJuxbWFd6IOxAR4FYeXO1R4fc",
+            "reference": "CnRpAAAAD7BsKBOPYAkjZQznC8vDjKCO6rPEH3aV0KZP3FaoLyc8mU50nAx-76omFua7Sc7O-75gFRokFHptPxiEB4EeZqrwWwso5xTRKLesOlTw2cdKMqmhImAYdW-ofn0szRSMuVZX9K-kpVxN0FOCjfH0-xIQRgRaFYj87woKRL0ZV10-PBoULHvoDZuib_LShDmbg9R5O7qSTjo",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "2nd Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.674849,
+                    "lng": 3.348219
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "628c351412ca36d1691d5991e569cf7315bf0705",
+            "name": "Ajuwon Police Station",
+            "place_id": "ChIJIdjUuyKUOxARKUSKG08zn_s",
+            "reference": "CnRpAAAACPec5VYc4w8MJkL4oZXE47wIbnpNKS1DRe2x79ZqVAHqjzAizO_6AWnrVZboBhtlm5EcAXvKRm1xTnKPv17vyPSTUfEyrvtpasjfzkiCioTNXjtW7dQrb4ZHfBOZ5qGQUFAQ9lWkvaCusHLPwGHcCxIQ_Qud_pGCzep-GuvDrLXSxBoU58JnJS7Qg_y-94XbI8gzkVcVNyQ",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449775,
+                    "lng": 3.395674
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "b833a0facfdc4a91418ddc4d9f3e8eb1aeae7ddb",
+            "name": "Nigeria Police Force",
+            "place_id": "ChIJlTSH3xmLOxARnfUD4Bqx6JM",
+            "reference": "CnRoAAAAMyXhIxm2i82jfUcsGBD9ox-brEmjDG4PqMQGww6xEDDO_mkgtl_MRvV6MwmkW22jOYGIQ9Y0BrpY3aFtE0cXRXdzrUaQKgdwd3G5mCagK5LJSQgOlkiOBdr6qvBdkydVXy-jftdtUlqp6Q_ARiQ3shIQXunYs0j5Lc974ihafrjjnRoUMCKiOgFPoARERKjbI2s1jpkIfQA",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Lion Building, Hospital Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.478338,
+                    "lng": 3.34588
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "40ee8f1ad95a207b65c81e20a1f42dbc6855b5de",
+            "name": "The Nigeria Police Force",
+            "place_id": "ChIJ6UmZE_mLOxARHxW9mYM6uM4",
+            "reference": "CnRsAAAA06Np0iU080kNUKiaDpMGT4zaTvvRP4wdYXa-WDaIP-aqOY9efkcLsqMDXY0glbMKtFaxzUnbnii69AZj6ApBHPk1SBbgnsqNRr8Z3pTStZNQos8FOfXnlzB58fWENOPq2LgSccxTuCMYrBCS7XS8LBIQl8ItdMjLnqDh-q7Y_RND8BoUvl3w0SbF1Y76Tcasd_5fTzvzYU0",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Orile - Iganmu, Lagos - Badagry Expy"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.501066,
+                    "lng": 3.362942
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "ce41dabf3156dd7f6aa0f7c2476d69eb5d80154e",
+            "name": "Office of The Public Defender",
+            "place_id": "ChIJw9FTNmqMOxAR5ODFUyvk-Qg",
+            "reference": "CnRwAAAAQI1LgpNYxQL2YQZ8d-nhr4HwRRtgE3UZSvbD64WGFZo2rQZ2i0FJj_QRUwZ4c89YsMReqX3YixwcwrhyO2C5DVkTAWYIh4IQd6heHn4A5aSpzvmrPmakvVGnwo81jBhdHoUUJkMFgv1XkQciWv1J5hIQM0YeKDUZPByMyQNLZeNWMhoURKQxFEtg9--NqcjCz_Rsemv_aEc",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "2/8 Iyun Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.589784,
+                    "lng": 3.334956
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "beb44a05eefa0d6f53bcf7dbc95735b0e3a1e855",
+            "name": "Airport Police Station",
+            "photos": [
+                {
+                    "height": 1296,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAQaQ-qugIAcdJAJaHYBjM5pHINgfuJkgZyzaEt9D8VOd_tKxqZA4JO1kb__yNnSgWTfE0GSrcNYfOXXzhelZ8UR3o2bUGZby4oDFh7_rCDsSxQLTgPSo0mqjg_PoHnUkM2EVHwzP15gDQrS2qL0153hIQFL7PSNyOIk5xAXxvyNgeeRoUg7hpnHy97KPRR1HVeEMrVjYrYYo",
+                    "width": 728
+                }
+            ],
+            "place_id": "ChIJe6-qQYuROxARsOvc3QY_ECY",
+            "reference": "CnRpAAAANbZ2JWA1VDoThGRYFyAVMsDbDJqGOo6f4XNl-yRXB1eZhGdBinN31yjdRdC_tqReObjwzxQVmLB01rYoYNF0RPMwxwTQ2EoTIBG_-cnMhTcVBJJ2HG0Y5xOyB6vD3Qg_anHIHvTD8WlrjrEGUocjyhIQRofYFtWcbNA0_UoRlG5D_RoU4y9oYoT4pqs0KkKmfFv5wh46fKc",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450022,
+                    "lng": 3.367299
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "783a076c5e7c180d9d8e814a5016792daf737bcb",
+            "name": "Police Station",
+            "place_id": "ChIJyWE_nbqLOxARLg67CBiU8cE",
+            "reference": "CnRiAAAA4n0ekFIpoYR2jFkuwAUj-LlT-8Gt8SSEIyMN2BipLUoZ169ME4_dXDy2DqX2DdOMoi6bapFN9p8Pi_HJ5menAIuiMAMudpNjhFmOz4HDvkVUsFG4tupLO0e3WoTFBEz70cMWUsefRsmZsNIOsljUoRIQhSuCrnma5XtLkQ6SsuhaxxoUWTvCmqNLvBey9D2kz05tvO5M5y8",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.579855,
+                    "lng": 3.39969
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "9866bb7cdb2f486f5b99ca962ff2b663cd22d73d",
+            "name": "Ogudu Mobile Police Barracks",
+            "place_id": "ChIJhyiCe72SOxARStkVEQpDU7M",
+            "reference": "CnRwAAAADwiGylbv8Bl4eFkZsT0isf6s_EmzoVcls9HoKe8YBMk5q1p6zWVWGSX_eZrqwTr5fqYr2fDsj0XdVp6U4rLV-LwiNArsgoNgpCNgpPA-JkhVdPuT9AWypJVtoQceUkKTNu5xHsbSADscR_I8P_gbVxIQy0J4L_2ly5eshvIPSHPFDhoU_RYDvJ_Pjvv8LuuBdtLLwrTvg78",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595061,
+                    "lng": 3.340168
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "d292126f03ae1fddaedf76602233a39869a3bcd8",
+            "name": "Police Station",
+            "place_id": "ChIJneF5PyeSOxARJd1jqT_MZzc",
+            "reference": "CnRhAAAA7Zds9RRAR_l-cLHX_hUN2EsDKCXiH6j18-nqUyqFckFX13neUwJ5eSz1NYhJsktp7kk8mA6iFlqrcLfAI8XUwu_b5a2Csx5aiA9YqpsQBdMGWAMDHGU0R0AsQZd-OIqo6kKRPF2AHUCljiUbq2_fZxIQpdWwUcUTOXN0_VJDcH9XXBoUdfHszook_ekJaQJSb9ZlqgPY208",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Francis Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.506997,
+                    "lng": 3.310345
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+            "id": "71c325c44c8ee3d19bab0b84c645460ae85a6021",
+            "name": "Okota Police Station",
+            "place_id": "ChIJzWBc7uiOOxAR0KSOkQTbEQA",
+            "reference": "CnRmAAAAupitHLUrT3NuSJrTx-dWzLiDcFFREf15nVaN6t3PUoRCDPcpj0_B9w1JpEBJfJU4OHomo9Q3Wej5zaX-vzKPf9zKfkcfGrgtBXYtQ3LeH_pJ7K6c0UDtLtGaQ8t2RucIwmVN566ScxbK2eAzB9n3QhIQziKMAVy7FnqlfNqrhlmuhxoU0v-kA41zGJHbz0IyzvE5wDqV_5w",
+            "scope": "GOOGLE",
+            "types": [
+                "police",
+                "establishment"
+            ],
+            "vicinity": "Ago Palace Way, Lagos"
+        }
+    ],
+    "status": "OK"
+}

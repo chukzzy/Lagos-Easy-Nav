@@ -1,0 +1,460 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9QAAAHjPCwcvRQWuzD5V4SxzYwx6krxjWZEMC39SFOVlBkz6KX3btwv1W5Vfl1kblrKOm-c-1hhFsHBrjI0lVzHA-XCS0g4HpIkaTvMZVEDtCwiOqQROK0ykhBFzw75XfLejiaIJ4jUKudMGMBZTqgVqwuS7h8Q50-HkyaAHRKtGYYjLp1Crdkk3utRMsHfMD3klriQP-bRo_bKl7N6ocr6uKe4UxYIOqGrbQGF94ZK58Zc8zULvrePWZms5LvO-2yziP9nyK0JlPtrVF7yutjxyl6s8w-LrUThIsSGRhM0oNzR8ozdaYWmug37yuHuhq51yGjKcfg8ijRb6HtwUntBUm88SEP8WzpV1rrbHyRBSTtf_xoIaFNXCdadzF-C3FQIVHyEbf8bd8-Kx",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.557222,
+                    "lng": 3.359753
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8c48b4024f358743c467608f964b9e02dffddcd1",
+            "name": "Guaranty Trust Bank",
+            "place_id": "ChIJ_Yf9RI2NOxARgg4vUE5FRcE",
+            "reference": "CnRnAAAAKyEz2AEqwQESC-6NIkn1KtAyQ7FSmZtyFA6-JeihwY4quZ5vTR3Beo4U910NEgCQQs0xG5ku8x-08xFPUSeEgYwVbrpzsxjGS2nettgwQmABu3jY-vvT1JkCcKzDAg7YtmBMlfDqAd_6TJA5e5T-8RIQmeVlHLaqLV4HcswyifPzSRoUotZBFDOnkYUJI0y3Rer0-Z-k7-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.505791,
+                    "lng": 3.376985
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "651288dfd13a9b2469a0f9bf786f1aa5d6aa01cf",
+            "name": "First Bank",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAA-LsGu7GPrD98B9Jmr8Uwk9GHDudhZY-iejH3-J0GbdRk2Fgk4G_i3n5BxrvRKVLZDSAqJFq3o0RWQNcOuqvztf5D7Iq3cIUBYycMUJNNemYil7SauF-fOPm7cMN35lnPIOmHJw2uTFLoprGAPOzjvhIQhphFH4VOSO6ibPPOdU1dvhoUJRyTeqHiVvCrC0rSJ-CF1Yw2AUs",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ6TDcAF-MOxARwFDHQjFMNTU",
+            "reference": "CmRdAAAAuPLZ5-EPjWpIDQGTI8PFZrgX0sEKOkZVHUCUd8EPuVWR0duyOpN9sEIfUJXiEKDamtqT0kPgPTGL-XfylcCpr2LMR-e50Xnolbob3TNmw6RJp-rnUjOHgDgZUn6TZLEEEhDOGfmZ5k2-lB3dXZQ7Q8r0GhRORojwz37hY5LBBJjzUAluRHaDtw",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Aje Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.526836,
+                    "lng": 3.334011
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a7acd2b6f231054e4a16b9ac1e30df5e0ffa3005",
+            "name": "First Bank",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJmd-jZX6OOxARTmGnuQyeIRs",
+            "reference": "CmRdAAAAHcfl_dTWe10An4dOWgj0cyNUkhA4ipk1U8g_2cXNCKSlSaeaOKBKzVcpuIwlolpupi8YlAInIzgQ8T-L2zQ5JHFFfVOTtvbftSUZvGAFdyUu6YgkLDZqfBbno3eUfe8QEhDMXDnb3ySkSnGboQxgn-SDGhTVD4ouokeuZau1vICcE-Yc4_rNPA",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Cowbell Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429668,
+                    "lng": 3.412185
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "127a41b4f7060d1bdc5d935dab4f15f849f3f293",
+            "name": "Stanbic IBTC",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ1YNwytGKOxARlgzOdCZRpwA",
+            "reference": "CmReAAAAwb2ewP5e6dfqkhh5wJjrxFWq67mrjagd8kpTU6I3WgXKowDq0fB83D3TLKJ2khIM22z2obqPEY1iRCDrWWSfifzvAUmZxST4psYImLwxmzYu54liFvCeLfganvQyrE4BEhCpYTZ-vfL5b5BdhI8uD-50GhRlGF64o8A7KgYvxCwkBtSECRhL0w",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Idejo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.509522,
+                    "lng": 3.366172
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d64e4a3b981065473f597676616ce1a28340c99a",
+            "name": "GTBank POS",
+            "place_id": "ChIJA2q7IESMOxAR_VaYiaYpXko",
+            "reference": "CmRdAAAAgw6P0FzOJNSjFC0NL2uxQ9zItyQOqZSB6FvJPRxtL2IA_qOJBIa2NWhw0lKUsgAHASiga4OKBIRQKNLTj2JACpeFgIFipxsQXwVzxqt_n9JtvnHS2qGazLz0PBX-JCLgEhCejP1G1dEd-RPlszN8Pk_VGhQ9OAY8bIXboccqELF0UMtugyb0OA",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Fulfilled Joy Ltd, No. 75, Tos Benson, Ebute Road, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.530439,
+                    "lng": 3.353395
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0fa51268ea0ba7b4b71bb81191994e2893eab44a",
+            "name": "Union Bank",
+            "place_id": "ChIJwUeOr86NOxARM9D6TYcp3Tg",
+            "reference": "CmRdAAAAt8pXWm818vvzUkgD7N-Zgy480ghXhrTKEuoO7hFaA9qbdLfTTMFMO51w--d-qT8LigSOUSOAbJ8h_70ktvdqZH1tkyY6l3sURHtrFh10IuK-lgvRl0TYGGSwTeO4Hi1pEhDahw0cQW-o93yeGMfygsKyGhS94nSLtAE_N2HWGvS36DYlXbteTA",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "A5"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.554008,
+                    "lng": 3.354793
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d5c32bf1c33e873d9a46e0b17f050307ded623a4",
+            "name": "Union Bank",
+            "place_id": "ChIJtwYLzO2NOxARgcUZXjr9nhc",
+            "reference": "CmRdAAAAj_vdjHIyomXRIiEb4hIogZf9dKfMs3tYF-uCtt1uWDRM9i9v0gKcBhfsZFkdhM0MRKnCLzh3bt4QdEQjDYQA1QVtqPBL4zDFtiJXoEWKbdJPFGUWcf00lznx8wBUi34jEhCiTBf5_Y2xEFouQhlpNKLpGhSzKZ1YkN0f9avh95i3xzu7sT-z6Q",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "25 Ilupeju Industrial Ave, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.453425,
+                    "lng": 3.389592
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1beff6dccfec80cd954ca597c10dc02d26f52411",
+            "name": "First Bank - Western House Branch",
+            "place_id": "ChIJr0sf5haLOxARZ_NB7c3lOTw",
+            "reference": "CoQBdAAAAACAVvohM83wy2sij1D61DN_hyYPnDqgIhV67TgEYghuVTmRhmKXeD0GIpMx12Wo-4J7E0N7qYT-exNPuyE2FgRfW1AFxJcOrVnTrCZHU1vtoJ6zGALaaD473LbtzyjoKi4Uk5GyA5vr3yJqHMMk2OkS76cGI93FdifGVuxNNhKqEhDABDzch4ZUqjBUQUkrMRvzGhRfTmiLHScY15TIINDVCofeBl8VaQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "8/10 Broad St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43369,
+                    "lng": 3.430236
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c4099ba03e1f1e7aa4d6dd75422877b0f1b28071",
+            "name": "Zenith Bank",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJu_7fByb1OxAREyk-nTiYAXY",
+            "rating": 3.8,
+            "reference": "CmReAAAAZJRXaMVVYgXZlF8ijZNwVd1yRtzeoakIPF5nIC9-MNYfwoql7RYAt3uueBiV8KrMHcnbn4gTomTy8DntGe6pnY5QEOoK4jIS1PZgWThiv90fiu6YLmDUsZcqX6Q0NEPMEhDXAV9nkGV2PI8dlbUzhs65GhSuV73e8PNIwq4AdT6TQrPTjsqVBg",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Adetokunbo Ademola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428055,
+                    "lng": 3.421944
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2ac495899309e6cf4ffab773832d38e8394e73fa",
+            "name": "Guaranty Trust Bank PLC",
+            "place_id": "ChIJRZkiE0GDshERa_WRrqSDmks",
+            "reference": "CnRqAAAAWtAtV7Ntw4PqOJBg4rG5K-fC5RhAuEwmEp3JwWGhLY4OjKWHpnvmYDFPZbKAesv5SGsqew2zob18-h3a4vAsc0TkF9eMNtll8F2w8BZ3R8x-cR7-gT0cPjTKhPJsHJsalRwCJDSSAv7FLc6n7JMIkBIQAT0j46qFZeGkb-h9Z5bmJBoU0SKOBVfoj0WEsNKlQwj2ds-Zqkw",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "No. 27, Majaro Street, Old Oyo Road, Coca Cola Area, Mokola, Ibadan"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432262,
+                    "lng": 3.429171
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bad5bc81089d215b4a437217d14d5c170e9b13ac",
+            "name": "Keystone Bank",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJX0OrQi_1OxARVdR0cvNsWOE",
+            "reference": "CnRhAAAAv3vKCUqo4Hu7aTprh4kGLfvXCcM8XuJcMfgl0XzC8uMhk3ZNv05_oLoeTbNXK0Hw9MxPO6HqSXtplN3QwpobZB2WMBtjQZlNw7evVPz9xtnnnXwKzi3wsa-ezzsZayiC8h77LUpb7hcnMxhYCUJGiRIQqkdDabo44oa2JhVavPy2GBoUpKQu_0g3Lcmp-pfN4Ygyxt9-t5E",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Plot 707 Adeola Hopewell Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428168,
+                    "lng": 3.413782
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "51a5dabe75a4d1bedcdc8cedb1a921267764a4ff",
+            "name": "Access Bank",
+            "place_id": "ChIJHbuWHM6KOxAR9Ds605NxFD8",
+            "reference": "CmReAAAABcRedmzhhJUZKUniypb3XGCmjQJm4-1__agwhrzhBUx8K6rSYtv3e_CipriVpwhkLBvwhTnHqw2uFaANUJ34qoj6iLPJw9NZQ58Z_hh-5h_0tAaWYBun6oS7CXQj5otuEhBw7j1jRDcYquwibsQbvcHtGhTUF7FnymKtTm7RlShzX3cwOa1_Zg",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Danmole Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430534,
+                    "lng": 3.415563
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d87890b956af6c437758acda4a8fbbee55219a72",
+            "name": "Enterprise Bank - Adeola Odeku",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 56,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAUpXRiN6aedF6hnlgdBTcCOcwgQF4wKvks8CN2jcFquxy6XOv4JkKpAHWRShm-NViEVyd-G8rTWuloePtk7Fq8P5e61dFfC_ayuZM0fl6NQWo-Tk8H0QGp-6bxMoKenKt5L14YbbUUqGveqIAFCA-DhIQ1izrA2m92X6LG8SFJdHcuBoUa8ErJkisBbSuT43HJrJA7YtjW5c",
+                    "width": 173
+                }
+            ],
+            "place_id": "ChIJHWtstdOKOxAR9O0h_2TiqMk",
+            "reference": "CoQBcgAAABjgbiBWusYhcJP6bWJMNQBy8rUlW-3fEqlIS75DQ35RFIv1jhHlCaadxWTGjjiiUzXYisABTkwgDN0nu80unCFlm7HlXy5wCL333UMUEDNzjzkmTT6QT49337FBrMmeFTcA6PLQvDyu0PQB_ViJHw27UG0-brJ99jnWCAs8GBgBEhAbhEU20mFq6W_KYR0s8pDkGhQD6dB4iDMrhH947YdsY12ENiUNuw",
+            "scope": "GOOGLE",
+            "types": [
+                "atm",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "40 Adeola Odeku St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450035,
+                    "lng": 3.46979
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3cf5a96f154b68a3d8444b7e4064d210cd303239",
+            "name": "Zenith Bank",
+            "place_id": "ChIJIV84slr0OxARN7Nk1iGUAFE",
+            "reference": "CmReAAAAy4Y1ZVrWyKb1ZYk6jUtyUjlc8NdPgxnpWIXG7Fp0ZuwQ3J1nfT7Cegudem-w9do9LapMyEduE0IZQ4l7Kgg641qGWNQZaC1bj9QCq0-9_c_YHJm6Ce9oHWNuHNkTXgVwEhBzPPTFKgVSEQO3Kma0XX-1GhR1iZ8FlrNLinU4g24mWQZMK15cdQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Lekki Peninsula"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458445,
+                    "lng": 3.30565
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3ee600a3727287a16ee81b1912ae6bb47a0669e7",
+            "name": "Union Bank",
+            "place_id": "ChIJWbyj-xiJOxARotkNzn6Tb8E",
+            "reference": "CmReAAAAB2tg5sWN5cHsmSyPAx_gmEPbVLDDdstNHfJPfn3ug7b2a02EMnRyhLzq80ufTE39zo2jNCRomEnQTszGK3ALxqF47rwnbvC98O81ykHa6V09YPywOynvkSFhyXXDFb58EhDlVcZK-Rn32fmwM4xpw0goGhRyGB2kC3rGGrw8LnF6mgtBOe0pkw",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Old Ojo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.434647,
+                    "lng": 3.429307
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b4c55d4bedb414eadbc34aae452a72710aef480e",
+            "name": "FCMB - Adeola Hopewell",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJKUN1Sij1OxARkJ9I8ogdsEU",
+            "reference": "CnRpAAAAJ7R3MgywSeGo37RsskG8DF5N_b6uxNMCTaRMCyQMeFPPUvJ50zSJDcXHcYIpQbgOcPYHv9AwCJGyeUQZFWhlJrLi7UMLFmpd3_3UirCq7hXrCF3ogb4N9QiAnD-t4Yv8t5O4qobiBJh9oiBrZQGC-BIQwk2IKO0OoMCYfjf-P00CLxoUoj1pBJRTi2YzcRnxHW-2A-UeU3I",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "38 Adeola Hopewell St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44979,
+                    "lng": 3.429187
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c5cae097d5b82644b427c1174a76010f9b04feee",
+            "name": "Union Bank",
+            "place_id": "ChIJ1w-bLzOLOxAR7awriGy_mGs",
+            "reference": "CmRdAAAAw2NPEfshe1SNiVB8iVbLvtnI40JHjONgiZKFGkbPnnsUWQ8_DegoT3z3jrAaT2LUxaZRZU6eky0b7epKa0XqLVbg32aXIgg-iX2U5GsoWGsLcnlLLtP0D1pbj7AB2RBUEhCAnQ2aLw9Pf6jarcuB47TvGhQHHgVTLKHiWfZLTDgkVwJ_UyA81A",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "1, Alfred Rewane Road, Falomo - Marble House, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44946,
+                    "lng": 3.406608
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d6f7aacad0221b927d6afb2c54641072548559dd",
+            "name": "Cornerstone Insurance PLC",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJJ_sL0ySLOxARxZWGTTfrh2Y",
+            "reference": "CnRsAAAAQUujpybkc4mGrXRwlGIKdQT8_BLzIixbOUUxBt_NkDjqVUQTqDtqVtFHjFXzQiRCcqybFou5mu6osAR-ePlFMhKNBlftDvmmnGiW2bNS5icaILAmRQGBi5Rvxv8w23xFCSXKiJj1LYIN4N75HJNeMRIQiHxUk2iENT-hpSEe3jOsmBoUaQR0_DD3gwTTbwcaSslQqqZ5UvY",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "136 Lewis Street, Obalende, Victoria Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.509451,
+                    "lng": 3.366543
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "84f29c87d4d3d1126dc32c386ec584f41e4129c5",
+            "name": "FCMB Bank",
+            "place_id": "ChIJdywJikSMOxARMXr2q6EMuy0",
+            "reference": "CmRcAAAABNQy4nNGZIC_MOQPYjTK2XBV-x1jK-EJrI7DWWzQIj45O0D5I_FjCbUKCqg9CkEfcKfNy09p166-U8BGEbSuIAeeo_dLfv9foNxA_nDxReMPKgaONz2-EX8Y-d93Tu5WEhCRrinGwVU3zU_2WPkjmgJNGhQTlF0ynQfyA4XUfjU48G2Nk8JPIg",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Oju Elegba Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.504641,
+                    "lng": 3.322619
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c46632dbedb8a69a131779722777ed8391f9fa0e",
+            "name": "First Bank",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJRbrm6pWOOxARBHn9tNN3US8",
+            "reference": "CmRdAAAA0ibR1TwvXQrRaJbSc13HAuo1nxBbH-c39FrE-cmTahBd1m6tWNsOD66b7AlNemdeWEVWdQ_XG-Dxg_PXb9Bnv15gplEIufwe2QAewjmXSW4UaL4QLG0WO-2ErzIH0QN0EhAS78M6wISmqf2NIaO-bh6dGhQNyUe5MTzcpfIY7Fho_62AxiObhA",
+            "scope": "GOOGLE",
+            "types": [
+                "bank",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "Apapa Oworonshoki Expressway, Lagos"
+        }
+    ],
+    "status": "OK"
+}

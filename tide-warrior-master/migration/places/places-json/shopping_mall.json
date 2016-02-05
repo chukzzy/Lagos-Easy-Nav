@@ -1,0 +1,432 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-wAAAB8PSQFhxAQEumlX6mkd_gEomlFVnRWu8pLYnjMlBNigNCE5pHyPso0BCbp4wyAFpJazGhWND_jUSTPx89kfJUK4d_5ZjwkAFs2IneuM4TGR_FalQpVgveeRaCrnjbgBpFDcBOadMU2unCmZhYJ4l0Z_-SWknjysm4-niTpn0lS4MT4N_SoZ4nEY7gpHL1WCAUiw1IQ8HitHLqZs9VnYouMwuwtC2ee4UqAp7ymji1jZHduJTA3Wnq_gNFDUUjx2NLPKyYNyqLprKmcCFXwWshi1KJ9klekUi0U5BQMNcPCcZy5Vm2GiUt9ktHQxIIs4bslpMkidVsuXROgohKWm4CwSEDx68Ud24tW5Qhd07Om0b54aFH73JpCLMayvYLXd5zBEAOC410XT",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444468,
+                    "lng": 3.402321
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "93d6e1a5cbefb336af129b58b43ab0eecab06eac",
+            "name": "City Mall",
+            "place_id": "ChIJC8JG1iOLOxARWSkROHacMJI",
+            "reference": "CmRdAAAAZpOF2YSABUedJOvpSYaLGRJXROMNHCCiSi-vZrm0xlu_06-EgByFAI7MZHvUvdYDpJzejDnw_duSTzMun49YP7VluvA7itEBtpw6x-crZN2lsMlg7mWUuP7Weomg5f1nEhBpfimMuD2A0sKPF3Y5dWIqGhQO0mSjFaI1su7S2fo6AB3J7BpE6w",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.575317,
+                    "lng": 3.362234
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7b7b00d0918eac70ac045f47c8c394360a101f94",
+            "name": "Park N Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJp8OETXKSOxARAibfff_sJaI",
+            "reference": "CmRfAAAA4CcbILmvxh2Ict5Lx7rhHGAz5owC6Ow-UsIk598tNkJJIBZBZ7Sk8FMKhu9Pf_TCmnBZVvIa8qG6gDDm_1MFm3dt6vMhpTob8mtjYFIN9azc9GANQ1Tv_ElQXe96uA6jEhA3bYrqnEmk-Eo360pB0sRaGhQbUdQ75rfL5047Xr0cf9NbMQBPcA",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Mobolaji Bank Anthony Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428227,
+                    "lng": 3.408359
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "175758193abb59e24a5960161ef1aa942bdab0b9",
+            "name": "Silverbird Galleria",
+            "photos": [
+                {
+                    "height": 459,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAM660x0VL9gHkyZowrviaNIK3Fk63gY2vYWfi37kpgF9bKaFcKcBt6YuPIKx9Rwh_MHRXCFnahGncO6V4BIfiYEkkdbas-B7_uZWjKd-gN9k-eV7hBLVbz-Pbm39Pg8WC6pRahEKwHEeXpnzylHzP4hIQuPmmcV7xvKzybbs5CEQZ6xoUH0g7bVlh6Fyyf-8O4xEhOgpIkgM",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJNSYYTMWKOxAR9n6lYFme8ZQ",
+            "rating": 4.2,
+            "reference": "CnRnAAAAIinIPfVIYWry3x05O8OpKpSgBZK4v1K2q-TdSVbLEG9nVOQ8aKFH0t4-qJ_UWFH5rbr42fiMubxscqpU0P_4MRVSZKT9H-eFJEJQ2QbPsnRFxFuurg-9Uw5J0m9Z5s0SArmnEHIHY_xLRh0tHSbG3hIQL3ZhDdLPPgM5DETAtcQxthoUsz-3pcNZMXaZOH8RxFAIpSUxBdY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "133 Ahmadu Bello Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.490693,
+                    "lng": 3.356476
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "b2edb0e8354b7dfbec1438fe8c17828ebfd4e864",
+            "name": "Shoprite - Adeniran Ogunsanya Shopping Mall Surelere",
+            "place_id": "ChIJkf8UCA2MOxARKucEaj3DQMU",
+            "price_level": 2,
+            "reference": "CpQBiQAAAEx7p-KhABfPovB3fnCnb8XpLOJJp-I2P6NS1bMqBI9TaeYnr0goRADDKdF_7x1G2lpVILYAzLB58PMmIByjxGwhmTEz64m9HtXN3Om55giSCexoIUgJuZX-ioMu4x_rw8q_u6SXNFuf-k1JEVGwFhr_q1rr3hIdkAXBSFMjGwBW2z07kVmt0pGCD0ciRVSqfRIQ9NucuoO021lJ_ztwFBT6bxoU7_W_mcKs49bpL1aH1tAIYpzIY9I",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Adeniran Ogunsanya Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454095,
+                    "lng": 3.403305
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e9f5095c7f61fe82e62a5e13a579b5a29a5d9a29",
+            "name": "Sura Shopping Complex",
+            "place_id": "ChIJ0wZhFjyLOxARq12yRwrb_zw",
+            "reference": "CnRoAAAAxGWaS_OAu0n1z1WSc1FCVRqGZ57Sf4c_E3G5X9xFeZkuO0aK6aY-Ptz0G82pxDTFHUK1IycYEskpQkDvnkewdL05AyA_qb7MU9JodVe7KTW5uCh8ShERc8G967obtLfdcE5jOhS5z4RXJiXjgfGjrhIQJKm5oLIyloPRC5knjylnJBoU_lL6I-KcjhUC2rRPQHmFLyHYwFg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Simpson Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.4306,
+                    "lng": 3.431176
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "14fe31c3166f042b2840940436431e64e87e74c6",
+            "name": "Eko Hotel Shopping Complex",
+            "place_id": "ChIJD1nwCyX1OxARPK_OEJobhWQ",
+            "reference": "CnRtAAAATx-_GjJcDUTNE--S_Qe_NiGGMx1OoQ1ZXKLQOPAMrAGTuN4zMg5WOwFg61yzyvz8Z3YBkHxMljW510jKedAdK9rTQ5vHe7JhRHi0ygCJsAtyQYwNfyqnu0RujoiTbFazoXjUkogeht3sAyWhJ3cXCRIQU-vfnckS8pmLUpcDGZEcVBoUTRQ8EmhrMJvYMSe6bNeGncu8WYE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Ajose Adeogun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455851,
+                    "lng": 3.384681
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bcc3f6c5fd2c1a39af4bc253dad0d0f74099ad28",
+            "name": "Broadway Shopping Centre",
+            "place_id": "ChIJYyCABQyLOxARTOJpmGZHAMQ",
+            "reference": "CnRsAAAAw0AOC1N2dyOgnHbB8O05lzuBvQhVSJgX98P-neb4253POPP6s4HJ-8MXXCLQN3Db7jkRX40Xz9MSZEB83BV5UmZatJi0A2f07-4I3v1coV_B9JWyaP3SMHsk7SuF93LelRGu8HdaGGyCfVwpi7y0eRIQsrHWSOTv9nOXC3p_jIi1mhoUhxvGENpuUk9NF71UG5s03kIq0mk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Davies Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.531632,
+                    "lng": 3.308009
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c426947d496fa7e4d8e6ce19c46c868e9cc5e617",
+            "name": "Oyekola Complex",
+            "place_id": "ChIJNzLzl1COOxARwMttln8Uy34",
+            "reference": "CnRiAAAADPMNxkJ-nwhL_drDgNrOSPjdXvS_oqCa7adxO6XSvEfYRAUXGYVaZ1jpqqT7H859x_JimIYPiJgNDqw-ft_xBVilIYryuVmuGf2U5TdPUGczZBTL5bxVUkHnjmQA9Kjch5xGkHxWeFGPfmSxBhQCYxIQpt7jf92gfUg1TJqGR7sc-hoU-Vwv23DbRLuZBrOcQojhTlcf5vg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Bashiru Shekoni"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455004,
+                    "lng": 3.388596
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7482d21e5d002d3213a995f8d4aaaa5c6f190cc4",
+            "name": "Ebam Shopping Complex",
+            "place_id": "ChIJGRveBw6LOxARSn0MRb_8qnI",
+            "reference": "CnRoAAAALfEIe1pWRAu6PsSCeKidRnzvqW14ydplyI41A8xKypCC7YNk7w-C0gGfb8DVr9APGoZqXSwBDr6J5y9yk9bcl5J4DchyE3hzf7W-69_cFGGM-Wa1dyQgeTHFewEHYgZcSLNCbao0-Z7YNFllW5a5BBIQ5RRrnvOfDLtZQpJGqEzUaBoUK0oIzB9Sxt5Crl3JJUJylX0UFco",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Nnamdi Azikiwe Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.52943,
+                    "lng": 3.307498
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "097db59223ba7416200efae7700a7e8e834e62b4",
+            "name": "Godfirst Shopping Mall",
+            "place_id": "ChIJ2R6-R1eOOxARIVmhB5kz3Co",
+            "reference": "CnRpAAAAbbizxPqSZnw9WjGnKGzpbP_vJ1zI1pFGReTCUzRluIl-tXoM03PVyMW3ZIVq73e75Qfsh_piu5yE_2zucu5D7smsGjZlvTBXMCyowsMrmFGbsW8C-kTgEgaKpglkbB1drYMkMn79xhH1kJhcbGKc9hIQ9oUIMAdPmozR1dFAMor7DxoUbyNR24vQecpCFDXvQaieUGu7afY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Isheri Oshun Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.566872,
+                    "lng": 3.278915
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e7317c307971ebc65e2f18209fc06ea6a60e5939",
+            "name": "Idimu Shopping Complex",
+            "place_id": "ChIJrVTs5N-POxARXZK1Z4r_Gmw",
+            "reference": "CnRpAAAA7n36TOCMzqIdo_VtH9UGaG4_3ft3sgU117HRLsD5I3eGTEpnhYI_4QbzgvLqGek8AHAnT3YmqT_ZBcYAeQcWybxUmQ47GCiMXiJTT2KnPzt-ygCyjp9haLy2gfppxJY0NDuhRzUEnZkNlwb9PUYlZRIQmxEIYQTE39mWNxaoe46CFBoUkB75zROroImIvP18_L8FCWLnav8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Onilu Village"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600556,
+                    "lng": 3.388888
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "7b1359d1bbe426e49119c2bb293a484b8a252bfa",
+            "name": "Ketu Shopping Complex",
+            "place_id": "ChIJj1I2yfqSOxARwH_FrooHlzM",
+            "reference": "CnRoAAAAqF1IyZLidGUK4Ud8YoaiC-9D54C85A9eATdAdpa_3W_F80Bu18eyUqaz0FbKZHPmcTILF47ROp5aRllfZoLO8akH0Ze8fld53cVnhVlNS3vwFn_-fQN4uFtFtfB0Gu-JONvVMXWR5h4-FVvYABf4hBIQNp1gqY78MnQnKloYQD6JfRoU6---Dsg2ondXSXOySovqscBcnd8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Alapere"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.595419,
+                    "lng": 3.289017
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "98eef2d1cbe73664c81436cf2f3e806fa384591c",
+            "name": "Olugbede Model Market",
+            "photos": [
+                {
+                    "height": 1268,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAL3KpuvSgeFWmPLMp_4mDSCqyTeMRhdLJ2JSi4zjfe87LVMrctf5giiBN6hgrEFh_X0FO9a3YHkbdkPlvrI2Kz4eD4H5Td0y0fEs-PrmYO3dS2zrRNaYG4WkVL-n2SwhuW_Jv9xk-SfA_VQ951-8mjhIQc1QdIJPDb8sDTUd3mypkyxoUXqdOAdKIfXH8yVUz2J2wGnUsA5g",
+                    "width": 947
+                }
+            ],
+            "place_id": "ChIJp4fdXE-QOxARbJSCikFGH0c",
+            "reference": "CnRoAAAAQgwwC_7CEutv8Lcx1sosalMXVEShwgzTtiLDE5_AJWifgA7Xu9CUDLMGTaemnT943OvJsRVCMgolIcAhTbMBi4R8UmaXBpzjIk-su5VaVk_d8Dwqo_z7e90UvO0dfFu8FEAfDQB_MZ9gj5Y_4RrDfhIQO8UISW9gBkw1IjDZRnnmrRoUlErXxMdtQ84krpx2xfiP9ftodxk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Akowonjo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.508539,
+                    "lng": 3.367411
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0066fa32feda9a2434b8365d0b7efc5ecf30f2e4",
+            "name": "Exquisite Shopping Plaza",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJSaohn0SMOxARcZS5mhUjGbo",
+            "reference": "CnRsAAAA5Qd-0VIIc_sFBxruShsDqMLSYIwXedu66OFaJY_tHHF56ZXA8BVHt5gd3y3CBufWNvdIWms7iTJ01_GrIsqln2M7lntokjzHLlboKFsRmD8DCxNVw6Far8nVhYoebnoGBwQr97Bl-mjzVzvdHWjuUBIQzrJ2Xh1GceqE1JiH28r1tRoU8F7prLOP09agj-XQDR4BpNxvtrQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Lisabi St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.609497,
+                    "lng": 3.2866
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "19082718eb941e0c11ea30341dcd127ae64e0fee",
+            "name": "CC 3, Shagari Estate",
+            "place_id": "ChIJhziHb1iQOxARo-c_8C1XQOE",
+            "reference": "CnRoAAAAWmWc6vQB5UgRfKCo8v8C2IcblxKPzbghYiTntRqXOhdEVeeT1oimuI7umRNP12eyfc5ScHqOoMwos4hiikPq1NknIuRa0C8Lq6NU4u7PV4joPI-y94c4z41QHuAcnGs_BrrkVPf6RwTdWr5Fq7yTDhIQ98GAJ6FhR6z36tNKN4SqohoU42xwfrZfDjqMKdX76vht4i4RpAk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Iyana Ipaja New Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43842,
+                    "lng": 3.368455
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "20b5a622f72a38442bb8553150bbce823c37042f",
+            "name": "Nasco House",
+            "place_id": "ChIJjRnERE2KOxARslJA1DXtN50",
+            "reference": "CmRfAAAAzM22BiE1l7AnUVni7hY_lItiTa4rJzMQbySzcxzFju2yHX-TR-VQ7wH2d-P8eQLATb7qENAVrQo2oBsgBiZl6y-qz3wqXDRX_nhZcPu6GrOqPlySlqUfJSYxp5NifVXxEhADCRRbaAvFOTG_-kRowOXjGhSsb2M7WGHmVNG1NfP30inLxSBXxg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.554938,
+                    "lng": 3.270111
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "748204dd75322181cfc0a267baafce8b98779451",
+            "name": "Kasam Plaza",
+            "place_id": "ChIJxQJVsO-POxARfjw-IikFc5I",
+            "reference": "CmRfAAAAZrfcAOOvCAnff6epKxbQJJVwXNsyOGCwFoSjQDxE-Mq2puTdZI82ENpEm6GiZYbed9qjAMKzfIEdSjJdGgCqeowMqTTVT9lJX-XniThyHc2OD3l1cf0Ylbo5J41UrjiHEhBF1TcZeABYNdwwJGn9ZFBBGhSglT3iP55MUcrqLsP_dpuOFNS6GA",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Onilu Village"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43877,
+                    "lng": 3.365777
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "3c5174a88718571007a2e41d77362e5cb5626582",
+            "name": "Modanlola House",
+            "place_id": "ChIJ_1ccz0yKOxARdRCmUfl35Us",
+            "reference": "CnRiAAAA6BG3WcxT3dbYRMHOjGWrm90mNs1VnIJ0NU3I4VJFbh_3JtzrkwxOj5HaB0T-SKFEuy_uMIMuUfaqoPSUSMrfMImcRfUKH2UJIMpniHuM_U7xRSY08NCgxKDM_Ry3P33IuI6nAmp3edXP_DZQLL1dkxIQiFDwFC3R6hf7xU-9Rs1xZRoUqBisZxw9XCehqszqVYeKRip2olQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Ware House Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.490669,
+                    "lng": 3.356446
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "6d1933613b641d915a81ed2cd0e556d52efb3d66",
+            "name": "ShopRite",
+            "photos": [
+                {
+                    "height": 1066,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAQLeNwomtDczIIMUeglsCRNSIXpwrEJUy2P2zYK0y7mUycQ89OEIFO-z-3r4PdOy0gpGPNgxcEt8GARjPv1NjtCUDi_Ws7BFZAH663NWWQF8RElRVknyjDmro61H_zYv-ebDsfjJJVioD_PvvMsU_thIQoVZ1FL_BFjlJHifbOI9VTBoUvRcWty_LNHUmiMYCUjnUN5SIPD0",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJG7z8pw2MOxAR4398qZ4jGls",
+            "rating": 3.6,
+            "reference": "CmRbAAAAKJk8qa_ohXCj8r6r2G-oXnJ-6GOuG9nUB-NHVBgRUbqeprORIcCC4jg_AIQpUNgMg1kGokT-wcPmhwFjqO6ZnixMOwOZFiHqvwIxz8cLyTxshdDCmOvJlOkFnJYsP2EREhAjiG7cbNYo65uZQbGdOEaEGhSxuk6WKkvMdBZW62jVvmxXVONLug",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.435236,
+                    "lng": 3.451241
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "71af8d357c26a1ab442bb18cd7fe4413738de812",
+            "name": "Game",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJbcsgLAP1OxARQW2yIr65cb8",
+            "reference": "CmRYAAAAjGMhlmvZkWfotE9I0HBrzB62_8u9D-vyT0W-F0dRV_pUaexXWBmv1orwwwrQ7Zj5xVLUlzy4RrdpX6OmkD6rcP1JUuxkK9-GiTzQ6kl4uHiHHArpBFr_jXBs3C4rFowZEhA0ysvT8pRhzqZh7LSKWZo8GhRGCwzwYkO53Cck4eHWh1PaJnu6eQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "establishment"
+            ],
+            "vicinity": "Bisway Street"
+        }
+    ],
+    "status": "OK"
+}

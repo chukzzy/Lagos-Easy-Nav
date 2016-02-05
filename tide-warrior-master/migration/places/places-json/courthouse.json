@@ -1,0 +1,405 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAHTtjBXk19U4AdMLtBPPPtl_3dKtssCQq8Z2eJwPDbKa593OIm9cgi_nAVLhhoIlovjQo796JedglMm4a_PDMsgYbQLgg8AUK_Drh8qTISmxpB2GQvSpFScydnemTyWlxjamyvvnelB71vm5Qw4HfQxTWnAqjIDZ22S2Ok4NMaiNO1KH9F8z44be31uZL2wrdTpEGb4d93MiKDtRQ9W1FkAQ_76yR5VAeXRJaTnuo7Hfg8fI1ku5seczBe4Mg65008AMqIgo64fSB_VfidEIxcGaH13jMSpfTSi4qykt-tNM__UT9l1t5Cl3Na-JTVrikCB5nW3oWAbafG94rqr_mJMSENSt6EFPFQvC9u1QaktxcY4aFO_ndBXdE3tz0oF8cdyLJI3EtEq_",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.588691,
+                    "lng": 3.34546
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "2840f33e79423578a210ee4a2bb23cb83ae80584",
+            "name": "Ikeja High Court",
+            "place_id": "ChIJ-_bKnxiSOxARbXkeghmXW9M",
+            "reference": "CnRkAAAAkuLUTm7THUNfb3VLvDZDLuslpHCODtr2SnVTFK1-S7Gl9TCfxhbZ-PDt27AM9CWPLEwJa3MSpBvDa50gDIvKqYykd_Gkenl1VSzrO5q8XlhplcYW4x04bwM0CWdJWhNoSxdHUeMjGZnuxjTznd9t6BIQMUW8Skdh8z5sWAGxXQfOzRoUpddKu1KXTe_gG_MFP1KLPQEbf2g",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Ikeja GRA, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444145,
+                    "lng": 3.420223
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "3c3fb6a0bd0d91d14e0dbe2c2fbf3c2e26da687e",
+            "name": "Magistrates Court",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAoiMncujq9ThPhUFMTHZ5l4oOwW4pbc-KuJ4G5ykQM6lnXcAwkgCBO4dkcYQQXd7yiHRk-i5tgKUhq41wVlXjFKq3dnv_WYYqBKTiu8muNH1Vg0eGGbdio_9gEUAgxy0MDriJhuxp9DcP4P_Tm4krtBIQJGrqntY_TeEl6Eu-y5y_BxoUhq7xAO05mWMEX8D1aLfuXWtSVSk",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJA0_Vp9T0OxARg8gtG-WMUnA",
+            "reference": "CnRkAAAAv_u5Hg5nsYApnaonOHT-pFkAmU73YFtxWuQ2UD23mS4nGrsYpJr8rv2Nm9lXdv1TluatCmS5yRgSFj9fYPUq0fPmHelIuNyQ8I5XFFcddowdLOUGDwmt8lw89zxuSsW5agHE9ihYnxl5Nt5FTEWmRRIQMMQnKndtkteIWEK1pVvBXBoUsJhfENG9UsFavka2rKXjwDidL44",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Obalende"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.588915,
+                    "lng": 3.345197
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "091620c5a9b38878322d45cc2717130b0f7a97d0",
+            "name": "Ikeja",
+            "place_id": "ChIJY_5ScyKSOxARJCdBboJJG6w",
+            "reference": "CmRZAAAAuy5ysaYhw8H2g6TmoPLQQyhsK6cNiK39jG8seZ1vcJ4KdK18VHLQImokXt8sZ8c0FIuvYVY1VVQ_aAC_Ad9-QI8Fzm5VUtFaDGSvvnyzB20U1jmbMnQ55b2OOMFdUcfVEhBuR89CEq_6TFJr60piWWy4GhTuAIeiGqNuamtE8RBW9j1ers9IRg",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Oba Akinjobi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448119,
+                    "lng": 3.402949
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "1b3141c64ab0fc6c8cfd0096d026f663a00e5b72",
+            "name": "Lagos Courts Complex",
+            "place_id": "ChIJpWkyFCOLOxAR_ot9H9ps1XQ",
+            "reference": "CnRnAAAAmMKbXnCIBH7S6hqQ_bADigY20KukXxbF5dwWD9CjM8h38xqak3lvyEIo-9L-stst8W3Sg1SKtbUuBLrbji1_pOKRluDun7mu-KEpXUMcld9alewqlajmKCFdaY3MFHBHquFB26ydHgkIUzKeLmdn1hIQnxWQuzbxdQx8bSzVC1G5nxoUH6YGlSGXRLKr3iM2QrWwChc2BeY",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Strachan, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555995,
+                    "lng": 3.306003
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "7b4498af895b0f91ca63ebcc50bdc81b8974ac24",
+            "name": "Ejigbo Magistrates Court",
+            "place_id": "ChIJq5mYMTCOOxAR-N27nypf4Ns",
+            "reference": "CnRsAAAAz8DjD-kIfX8cBN9VysyoQHCA4P_xy2WqUzzxyB8Ar2-7LTpocQdWxhxYDZPqcUg_6REF3fRP5LGpmD6U4FElTmKz3Gld7W0P0GvAXPOQbsgKfHG-S-6iLe-IRFLkmWYfyiHmM1WER7ogcIfXzWY27BIQWi2JBtFZuIQGWHgDCZjlFxoUqjZdm08RJ5xTM3bX-6zMeMiPQ8s",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Dauda Ilo Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.445018,
+                    "lng": 3.432641
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "f60017bdea5eb36385a5c25d307d78a38a073cfc",
+            "name": "Federal High Court",
+            "place_id": "ChIJDZnoztv0OxARZIwf1wOgGVI",
+            "reference": "CnRlAAAAshowzlfUe3xqO8mEaPduwdkEVDOjyTWweEqsHnCU11yH8iIwXrCUvDegIN42yNCaiVY5RTc-Y6f8NOx0yowYfP6Z-e5KwV60xhjDtFHkDcs7GYzgKrcMd7mLZzLyEMhZRBLcdH19Hb8vrh6jlaqbBhIQ7f-XcjMfUAup0Yq90zRBvhoU4BRMxwJlHXABpaUjSUDNVAAJmoM",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Thompson Avenue"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.509269,
+                    "lng": 3.379684
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "62c6b8255beb1b4853b5a90e0f0d928b124e0202",
+            "name": "Lagos State High Court",
+            "place_id": "ChIJjbFjGfaMOxARUkXvg6v08bA",
+            "reference": "CnRqAAAAONHaF27hOh7PVXruvUZDCkfTJUqdMdzfTt995NswDtquyD_9EAaOvF4LzhTru9Cs-xrz6TbGfiojxIoHq4zVA-reCfGkJXbpboiFvqPM_eQ0FCilRV3_xB0UjT1zaWWxqghHNQvCv3EIDcVClZS_XBIQ5UNJwBvAVakkqgR1CV0xJxoUqP08b4tbR-dHfUBATgY97wfR2lk",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Birrel Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450207,
+                    "lng": 3.401528
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "8771671b82e539752125c2ddcbd4c48912c68d7c",
+            "name": "High Court Of Lagos State - Lagos Judicial Division",
+            "place_id": "ChIJiZ7ITyOLOxAROAM9L1suBHc",
+            "reference": "CpQBhwAAALkVMu8DrfNru2S0DsEmRSdkuOsjjx0TMJhQrI6Uz7dTOKp3rMOT-csalPbpecvo-Mk7PC2_FkOjXKeax-uT63UMK2fLwh2AXhb4Ud-DvjqU1dPI5-uqM7BhhUttfhVUwpJ673qqWsCb0Sw6AwDyKOvkC3B04Y1b8gHRCk0c_4DvbL1sDNnfJ4piJZCgCDSr-xIQrg-ZrjRHGbceewepCcoNohoUUtwnZo-kEgzHqmZ-gn02xQEu_DU",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Simpson St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.494954,
+                    "lng": 3.381437
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "c471e3223218f3bf2a8c44e0c574e53b15956b18",
+            "name": "Lagos Mainland Marriage Registry",
+            "place_id": "ChIJbdyFVIiMOxARsxu0UFjuCnw",
+            "reference": "CoQBcwAAAPkGSMvl1sWKh1pTwPcb3U3GlTQ334UwE_kW9V0_YTiYzRlMnU7xx26Mowsj4SkcjWpJcjnHPfvcfg2bvLVF0YHRtepEUD10G0qQ06VTeSgCKCuRQYTrQef6lc9W9OPS-pSeWPznnTSe8tyjZAP7ea3nZGt4_2LAxCb_JpDd0daPEhD35e_ax00Xbl_cZ_VuPRjDGhSJkLVw2KoP6gMeRaqyKdKpb0g5jw",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Panti Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.480853,
+                    "lng": 3.382375
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "807d7aa21204a83316a8d2e70e8e578756f2208b",
+            "name": "Chief Magistrate Court",
+            "place_id": "ChIJ7ah0On6LOxAREAfBvELdgoU",
+            "reference": "CnRqAAAAJky29WTK-ObTb8HpxKvQGfzVe3EASjZBYzON9RsXtti8g2AQCGwOa4qH1E6y5Gq1sDFTDCHgiG4sfBVR4ed7_u8QNl3W7s_VoAyF_EbfFJDGqF-9so3hJxUOCCly_ijv1QGv7JZBff8P10N9oclVYxIQRYZwEutLtDhMeEJhV8FryxoU_VmIeI0pr_XJC45lPnddB13nfZM",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Atitebi Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454192,
+                    "lng": 3.435028
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "2f8253181cacea85110dfedf7fc935baa2e592b8",
+            "name": "Industrial Court",
+            "place_id": "ChIJV3X0-cP0OxARHRjoF-7vJ48",
+            "reference": "CnRkAAAAuVLWg-fVdDjzyaE0LYB29iTcleQnTn8H9pbQKvVH61wOVI329TWvbTY1l9mTQ2BQbxUWbC_x6RFUvJyMEGPM-PFNvLVvamRGg8i0DelIQU9P8j6KJ7x3FeD14Un0UzLdi2zAXV0SfwDFpnQroZwmBRIQq1W2KXAQf-chqHR3NxSLChoU3YCQQtDnvaN6NdZcc7lRRKHjc24",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Lugard Avenue, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455806,
+                    "lng": 3.358092
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "74273a23024db371ce8e5fbb21cd6983bde90ceb",
+            "name": "Magistrate Court",
+            "place_id": "ChIJB5TDS8eLOxARsKNnndDSigs",
+            "reference": "CnRjAAAA9_o4ZBcJnaQboRB-XTXjqKEpwLKm44xcrBUTquNrrdfsDws-a0t-1n4I67_scM-KG14e91X0agvDhb5ktq2KMfjTS4qRznVg5wmi0alG7OMgMTvaVBF-rM8Qvze9EGMNHen3TJUiwSsXbTwY8pkDuRIQX6koioXtVN92S_IiEjRQoRoUv3a7dRCBl6Qt5-ZI2MGT6HYRkrU",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.479744,
+                    "lng": 3.381064
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "06aacefe62b03b0f93fb50061b4d0a9035ec9e11",
+            "name": "Magistrate Court",
+            "place_id": "ChIJH0VQpX-LOxARj2U0ON-KYwg",
+            "reference": "CnRjAAAAuGHBCin3BlYKwcYf3ZSdwHky2jg10jow_saKniUkrd1eM50koAuYAU5GQHsY6E0wpo8tdALVaT3I3o0_-BDJOIAC9qKmwK0C_KygEAmpW5saPQi-WHjrF_KHvb0KesWU5fc91CaumxkNoigRz8LUNBIQBsvG5MYHMGJiMG7Wd9oCDhoUcF3HIYUv1L8Ld2FuMYhI4Hwbv7c",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Jones Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.628223,
+                    "lng": 3.306893
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "750b8972c80aba2c2fa862e71c0c87296ce402bd",
+            "name": "Orile Agege Magistrate Court",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJy84YsBmROxARfQX1r5yo45U",
+            "reference": "CnRwAAAA8acvb0cCdk1Vv9dP0rGEWL6Uj5JpaRmi_oafUcPywpG0Cldn65IZ_JuuIuycJ7vg5w_EBhNPfduzegcE3V0u3JFYl1v-ry03Nn1krs_nIzAabz67AtF0Omp2t7AtNmNmmbHiMppGvWc_ZK0SRdrSGRIQPMqNyHRj0QFfM2pkaZBPABoUlFaVA1n6QvshD4tUc2JfiwfGlMM",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Coker Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455309,
+                    "lng": 3.334072
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "8ffa2303d2c006628929bedca46f1064efff393b",
+            "name": "New Court Building",
+            "place_id": "ChIJAaQo_mOJOxARoPApNlKfG68",
+            "reference": "CnRmAAAAl13FawIHgPNmJu0gXFSyv-Me0TyZjQUXVulRZ4QjGmvVQnhN-EesYbeHlWNqBdZJDU0WoiH8d8yXhN8139cvCl4RAA4WVOqwnqTFcExLziqoGB7RpAXf_x4Unx5CeQcu2wROhHq9x9ZJB4fgkifF2RIQ70RFKZpHQ3N3YFIsdxYdyBoUkWw1zbm3IAgoQUCp2w0gNoRxsZM",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Mba Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448549,
+                    "lng": 3.402458
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "e1b07a966a6dd89e94ab4a3098bbecdf9a39704c",
+            "name": "Cour Of Appeal",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJa-ggRj2LOxARc9oMeqwim-c",
+            "reference": "CnRiAAAA23ISiHmDI8fAXoyHZfey2VWXHDqAQDj9_tAQ1UX8JYzGxqY00t_NlkrijfLoWBRsQYcmTg28GBdmAyuPlKbde9_MeRmIXWVD4ULVLEBMRl9arZkSdlaF7wUKQocwJcItd-Gx4LKSfsZtl9KQOMTLLRIQ8IjdglLXQRFYw2YaqqQ3IxoUtmmHfXjdZJzueff5DA7AdLOmVIc",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Opposite Tafawa Balewa Square, Race Course, Okesuna St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597234,
+                    "lng": 3.289556
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "09c59b8855f892997e4bd0ed85c1bca1cd4b6539",
+            "name": "Ogabi Court",
+            "place_id": "ChIJ00m0nk-QOxARXNaEUgMSPos",
+            "reference": "CmRfAAAAGXoc4bb0UMi0QTqw7f_pQPendk2ZSce0yn47uH7iCmtU0IEpLzrRbzq-HOlkjp5Q2RPclltleRN8_OC2aebBoYcuoQ8wa9FB2F34eR_GNF2JkvttXknr1SA6DeDEvHAIEhCQI8j1PFODl4wtfR3TIEG1GhSj_1hYE0jq7yyGnQ1ic0U41D82nA",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Idimu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449169,
+                    "lng": 3.403974
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "e70aabf6102aa1eb0aaa4f760da370b4cec238f2",
+            "name": "Igbosere Magistrate Court",
+            "place_id": "ChIJH2YjszyLOxARdb1inJykwyM",
+            "reference": "CnRsAAAA43SsLFMommg_LEv81VTDSIb-nZN9NZNxfXcZZwO98bx5pN4Uagohal6r0jqnMzSEX2NfuJwbcFZDJrkGdIK05kHRaTyS5-Kw_BJCi9smWZwnUZIyEt479S4aTAvMi1MCbn-q-8Hq8v2OokLAFvFR_hIQW1tLrZ3Hygsgp0L5UPd-2RoUT3J0KrYxG3Zox5DybsFldK3ozsw",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "154 Igbosere Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.452589,
+                    "lng": 3.390344
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "823db2c3f2b32368c2cec8f2a19ebc39be8cc1af",
+            "name": "Magistrate Court",
+            "place_id": "ChIJGycPyxGLOxARaKt1t4u_two",
+            "reference": "CnRjAAAAg9j0um_UK1qiyaTFIjMERgBuOF7G42L-cZOmoGPSucQpHcHdDJu7TIvwlXtG4ec-e9zk-XIFw05YBPCJJg8jtPwvszpquOODqX5g7OI4cHPaQmrywN34RN9pUu4Xcr327PGMAbuKZU76SzsjQn40dxIQQUUVIJEFeihRzNS-tnKejRoUETEafnOlfGXXDY-z2hGNv-Wm5FM",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Marina, TBS, Tinubu Square Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.483895,
+                    "lng": 3.388332
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "4a626dbbffd13f1463cdea16734f0c7fc3f5b8f5",
+            "name": "Agoro Court",
+            "place_id": "ChIJycZx3IKMOxARepmCoU2ISIk",
+            "reference": "CmRfAAAAXoOA-4RmrOrNKSIcaEFk4SN5ZYXj3q72omr3uQQORs8DAYg8c9s3OT2757ToSsipHxVh1lxHmq4_zNOEMEDOUXgLQslpGCUw5vWNiU3U-Kv_Zbt6gfdJbKUpfsDBYZ7gEhCiQG4fywZwYRijohu2LbXrGhSj9Pl8odOuo9W3fpoig9tG_9LOTg",
+            "scope": "GOOGLE",
+            "types": [
+                "courthouse",
+                "establishment"
+            ],
+            "vicinity": "Coates Street"
+        }
+    ],
+    "status": "OK"
+}

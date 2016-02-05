@@ -1,0 +1,491 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC-AAAAI2wuqmPaxZLgEAZDR71nwzwx-w2wTbccSWYlzi0k5FneOacMbxDaqXoQEDYB9yLajS7OqLMehfNnYzKAfmIAyS8QIxpfWIYPQ_x0rMQHo5pAdBqq00Tahmizp_F5YqzswEGHgJnpkUXZ9iM9Bf86VH3llOfeM_i1r_273564dh2AI3hdzZrXpvoQ_SDGiQQi5Dv211sbjR-LQPBJ6SaOiImslFZeFYCNkRDysRhk3WSi8z9UaIYLtvmIbNfOMZa6mHbAF6ACFwqqZdEt-vS8sHLEwMDr8-VUb5qSJs1S5csE1922ylvcvIKNSjp4II5je00hHFFkgKGxupHzUWaB8USEDA6lr5eVbIlbEFy9lw24V4aFO9erS962uoTZ7o3N1615ypoqN9u",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.45,
+                    "lng": 3.4333
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4df37360913b905bb9a4cf2e52f54b6e0d7f8681",
+            "name": "Jazzholelagos",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 940,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAJRFITv0b0gG651f61BRyxft_OKiMHVpVyhW5uCW7unYnuyMPjz6Prl4O2ueT5PBqmmhjpSwbSG8UmbfgvCZugzZ9qiqBH7j1xr5Gp5QLY2HnoEtYr_7xRQF_Sv-IJuCMWd_vb59XJhCajtyDzfBFzhjuXV45W023fu8k3mEB8bWI6k7auxzN62UJ7xcKdwtDBIQagbX9-nV0BGZTjeGoR6yQxoU0xJnUTq9tE6s11OI5aam8oO4aLU",
+                    "width": 940
+                }
+            ],
+            "place_id": "ChIJtSxTyMT0OxARtVxevkRHR_U",
+            "reference": "CnRhAAAA66HYaCvvWg9Sb7TWx0BRJ3oKKcJBm9YsO7rDQbj9Lk0WWexVYx6r8lyfN3tr1FprSnCaIJdgU3fTzYgrN3KLDsQnYWdIbDQb58u8Yd95tYan9mWC0Yhn3Np5bF1x_e29lSXBz_K9nL-rGcTXPqUNOxIQVmsf30YufyvhwxRZCZmobxoU4v-_3SAiPl16U9P53YYaSsvYRso",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "cafe",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "168 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.425079,
+                    "lng": 3.426972
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "21b47133bc6d1cba1f9c193b4ff14a4ebd1d7b33",
+            "name": "Terra Kulture",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAA6QA5nAX-Cuzu5auL0V-b4NwXcvnK0oItzJgPXDDEpAneR7RDzZok7E4O2jTItFqiT_waz-Z9Rvfo_maNdhDhnRK5F24mNQBGzcjlMReHgYwbg9MBzkZBYrrIgVrouLoQvZn89nDc_ElPsYRsSZN7chIQ82icSfVILj8r3t-ikCjWMxoUN2eoAg71JMypk7Jactzcu7Fytso",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJO7IGAzH1OxARrSl3toQJiVQ",
+            "rating": 4.3,
+            "reference": "CmRgAAAAqtiB05Fl4e1nx2QaeVPE_dMd2EEJsU2_PnZ-odzyzJpGxOsAGrj94z0WC9sYQkcysURBNglMfhWP0lTSXHFkiApK2vNPRiEQa_QljewMQXhC5WwKo9oOrmyBZbNNAH2QEhCZSFNRa7sQwXSk8wfZ-2sNGhSF8ku_LeIdiCuZUOlGChaFZPpKHg",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "food",
+                "establishment"
+            ],
+            "vicinity": "1376 Tiamiyu Savage Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.508297,
+                    "lng": 3.353288
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d3457bd31d9554c1d48663bf35249094a46e0002",
+            "name": "Silaroli Bookstores",
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBcQAAALEP6SUfH3XKQiejFuTayRCkvDQcf0q9RzBIPWirMwB5q7HpkSD8ZcYQ8kTHYQ3a70LhLvwl_Lxim-LjCMGelo_GO36iSUWO-eDGjUTctIiBQKoMkjk9jMUit0kkw--cWeTmj4RqOyR7Sdcgo_MScR8D2eueDhtLTiAfr_LDMfMnEhAxj6EVNly0VW7Akc02gdpGGhTygbUeVZI_Ec56fFkzOFwDWUUF4g",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJNVjzCDyMOxARft5XzxEFwDs",
+            "reference": "CnRmAAAApCSGfWtKFKpkJWX4sZHwz48TQmL7puI2YQ3VjP7leDjsXNhFAfcEppNglQxpYOVVjkFvOuW-edakHosf8xh1cAWKnC-k2P4a63M7rMi0xFENs83NkpJyy9vslfrNqepyZHOTyrwz_12s6j-Z_kZ4jhIQ3WHwji3i045zKzAGurLNpxoUTW8pWG8PzXKNjEU8gTtcOYNpPVc",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Remilekun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.597402,
+                    "lng": 3.275095
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "447805705b1bc69ad9545607b5e956fafb7db13e",
+            "name": "Wealthy Ideas Ventures",
+            "place_id": "ChIJcW0T5GiQOxAR03bKl6uSsJg",
+            "reference": "CnRqAAAAaof9gOoSOPUnxlZpMqfftuEcB04LUdPHdZnp3SD3D1KbcA0xODIBbw5JcrCLJHq4PSwd-Km30Lrb0GSreC7e8Geot5iLFDZQZFOfGd48hHOk7h9tKgGkP7Rcu63nsPUGqNanJB8tkR-pby_ka1jgIRIQ6nAiotNonLTBcAtHTM5IyRoUcabOwmCgufGvXiDi3T1Uxbra-Gk",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ayoola Street, Gemade Estate, Gowon, 13, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604078,
+                    "lng": 3.345736
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "96086811a8f5db4e070d42f0eb27882411a5d37c",
+            "name": "Foresythe Books",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJvyF7i8yTOxARs-KQET1YQgc",
+            "reference": "CnRiAAAAuXA3PdHKcVvn7eE2nZhhgcJJHc2uEjakGOD5Gn2wTf8OxejW0x9cFu40SMW-U0fkgyO3FVCMnG2o2JQ8H8e6G7ljKAEpZE1s71-nKr6OHTSsARkmzpaMK3hCaz086m8VvW8vOFuCk0DePskZWJmxwhIQIgssnwmRb2AsiytoQTdPjhoU5lXC9pI8xoVlZp9jKMGO71IwLrk",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "99 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.62776,
+                    "lng": 3.324053
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5e651721412d98ad2a7eae1d00b866907331656e",
+            "name": "Bible Wonder Land",
+            "place_id": "ChIJVT2TY2mROxARQnOYmTqJVLk",
+            "reference": "CnRlAAAA-rO_DIyAiFYzGLuVDtQtAmkzywaD8Xbkxq1a2f9Z3DY6hMi-vzUTQkK_Z7UNqqLQnKy4D8-9mh0hitBXIuFC_3m2QWO_eHlhVvrJW81_PgAAHhcb1V8jm1nyxXhqIYIFU9qHC5E6jWNIR_9FrGMo2xIQUBlOmtx0F7lD_YmMQV9rqhoU5O0hlfOMLzdhSoJmDjQQw2_VH20",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Oba Ogunji Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.428493,
+                    "lng": 3.428506
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "c93a7b8968c348cca4d55d6349ae57072fefcf31",
+            "name": "LATERNA VENTURES",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 73,
+                    "html_attributions": [],
+                    "photo_reference": "CnRlAAAAtMzy9vllQjCnc3ycQ3wZC28cpgvUE2qMefUFmS-mRKE-ylwmEOOT5pK1s1KXp82JKZku_5MTAAQ2G2ovVNQRvZLaH5HiUFWNeKo4iYlaqhvUbW3Ktwg3H5zPqVB6NtoFQX6YvFSzi8Dlz0Yh2mNP7hIQic2NIwxewu-2-w-B7ZLx-xoUpFtbMzirYxtH0zUXDNlABwhl7dE",
+                    "width": 72
+                }
+            ],
+            "place_id": "ChIJGxj64C_1OxARy-dBPfiGGE8",
+            "reference": "CnRjAAAAq7KoMIYiHhAdOcTNu6ULlItczoQScN3h-FNDYoOmWzxtqroVxn4jXWNzKMOoyUD_A5ifRPYTk08si0c8JI6blel0a_phF2lbaE66SdSFKWH1Wkl1SP85_DzUTNYPrt9NdNlygZhbgz6tG66T8NmtlxIQumFsanl4rD4XX_SwC2xBJxoUPkzkR9wOXcnnubQCIBth64X4pCs",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "13 Oko Awo Close, Lekki"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.464209,
+                    "lng": 3.294065
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "3b5ff921b269b94a7904c5d73aabebe1ad97b0c7",
+            "name": "T. M Bookstores",
+            "place_id": "ChIJsxrJhN6IOxARUmoB0cgDYgA",
+            "reference": "CnRhAAAARXGJW5DgfLm2X4ARrYHyptHIgEpqHM8geiBlABo-uDRPMP0ZOocKaMxTvRq7SHT3dr5FV0FdnDmWny6SZ0UYmo1Wktl99MZfXoIkmXmUI76_pLXRRkTa5DftvvUe06zwsBm-EVMuHZ8VS6ASC4FeUhIQRNJjt8hZFMTazVrE1YuaxxoU3ZRzIyb5hg3LPQB_0a8epuk51-k",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "House 16, 21 Road 'D' Close, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.627184,
+                    "lng": 3.503641
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f0026e1b3e2742f8881955d6177ac402e0041db4",
+            "name": "My Bookshop Online",
+            "place_id": "ChIJXzFx457uOxARUj1V12QJIJQ",
+            "reference": "CnRmAAAAsIyk6JpOBITOv7ZeiDbFIhmbsWx3FqLpJPfdnsHLU4wsrVh0AV8-yDaAIl_6Iri_WxQeF4cUNVTTlsDpZXXuS2SU-T-dSCjxKg7q3I_GWjjgYW4-ADCnGtA6-DaPR9h1MpgJcMYQ_9T73-YMhWZnnBIQKtSRqrnHIpJ4lLx1KSfexxoU0xPqP9dYfYt6kTeMUg_pblSmjCc",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Suite No. 3, No. 20, Owode Street, Imota, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.489978,
+                    "lng": 3.385999
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "490090fa3b737f7a1add3aaf28819da91dc94d33",
+            "name": "Career Achievers",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJe-M1soWMOxARML6xot75DpY",
+            "reference": "CnRkAAAAlBX4O2z8D89G243x_TrszUIRI6MQ-V083sfjujt1SfxQ1g9z13aUJt53gPTdYnOs8ndT3NKYqKpIP_P4laXIZkVkC_T7Hm9ObPDp3Me4NDq-kPbrTxoPkd_BlWBECGHphTe10knKt4xiTc6Ha8FS3xIQkp9wTuuH235JFS3CmvJnMxoU67DI7bmkRYx1hiIpyjX2wCdGlpE",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 566, Lagos - Abeokuta Express Way, Ijaiye, Ojokoro, Agege, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.628735,
+                    "lng": 3.371193
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "ee764c05bc0beb861a533d850a6abc6383064b3b",
+            "name": "Live Book",
+            "place_id": "ChIJ9WVK-qKTOxARGv835IHL1wM",
+            "reference": "CmRcAAAAbNWRTILduCdKF7dUOXxF-jsIi5otPMzNFyt_DUYSsIdqtSmoYOdbFIhyJXSyr-ys0a3lxMy-jyvlee0mlL2w17Q-eZ38vhc1guInH64YVkqBgMpvlmYz_tYeo4TgOEQaEhBB5BlMi-eICNYtpdGc49EgGhRBf_VrN3kFwoAqr7xg9ZCsjjzSpw",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Omole Phase ll, 516 Fatai Lapade Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.648375,
+                    "lng": 3.478798
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "cbd7a23e10515059cf4518237b3130fcda08d81d",
+            "name": "Bookcity Inc",
+            "place_id": "ChIJNT7q53TsOxAR0aPR27q71FM",
+            "reference": "CmRfAAAAkgYv2wFP0HLuysATdawSt_7KaJ3MlxS18uTczkK6jnmq4V6X4qP_DEAlegFwFin-F-Q3yTcZ1McrbXprZEclyHPWsTXhA2o38hmIWc7fpLerhSUXjmcMHHHprzNliIHgEhDTE6Hq3efDXnGrW9Ta5AM0GhRQjhmatAAkYCv5J7WpX4H7IaN92Q",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Lisa Close, Off Ishawo Road, Agric, 5, Ikorodu"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.486241,
+                    "lng": 3.348567
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "32bf24a4401e64a01bc48976c8d86db8bf012eef",
+            "name": "Book Planet",
+            "place_id": "ChIJuSi-HgaMOxARfusTST5MLOI",
+            "reference": "CmRfAAAAUIzFqsLjzBN74d2fuplodv5Uy-rB4i_uOKsfbPYPFSsaD4rSsjgkOwjgZoPqZEjD-w2d26lEIkdNKhkJMUlmpQkL86hYew7h8x3vYfgcqntWJ6G5KOgk-D-IbapbCNAEEhCG_uR_mpXs5w8UQZwsxgewGhTFx3wKHynOwWvDAdDUv-ZTfXvmLA",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Suite No. 5, Hanugs Shopping Complex, No. 11, Bode, Thomas, Babs Animashaun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.681953,
+                    "lng": 3.302824
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "61946a90438910f2b8c8cb22d2a262403cc8a527",
+            "name": "E Book Store",
+            "place_id": "ChIJo2FdnOOWOxARVEskOjhe7Gc",
+            "reference": "CmRfAAAAuXkkbqKdi9GY-wy1hC4jlue8TNtDpj_Q4ZbckR83PK2MzlmDLu40B5nV58llzg2iV_jECOZGtX1sDWnADBeC2sV5IMJUffsr_eNe3DLJgTtKPYHn4_vPsV4ic-uNM5DrEhDdBt0X0K2ag8LhSVQ4JRRwGhQ7o7J0kZLRU9d_-xKxaMhAMoqN1g",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Owodunni Street, Alagbado, 15, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555682,
+                    "lng": 3.389548
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "94d3af90cb0b260674d7e170dacb48fcdcee5675",
+            "name": "Articles And Quotes",
+            "place_id": "ChIJI9C9_G-NOxARupdHkuE-zoE",
+            "reference": "CnRnAAAAZx8hZO92DDH85HH0GIpJcIdyA4-NPF46EJg4w0x2Jd7CLXtMK_S9JKkFXPARggcsWIqjRmyjN5WnCYBvMTI7Tv-RIrPHrVubA_qrgs4L5XEJEq6RkDeJXfGk7Ec17lT_851CW8goWDVgsg1qxDui5xIQZ7IzICojcDukxI3CNJX5QxoUNYQkBrAmm0iywYgK7DbKbh0Es68",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 17, Bakare Daudu Street, Ifako Gbagada, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.467559,
+                    "lng": 3.278266
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "946ce042d4e2e3e5a148cd61dad7f7ae1109f6fe",
+            "name": "Lagos Books Club",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBigAAAKkkapjrV8sUMJTATgAEbUyPmxyqFGwaVIh1sxKlfU-lzEzHogyrODflmtCGGDIdV7OmQQqM1XnYSFPr793HUb0mbteCbolEkyt0sPM4VKeDaTLoFe-DEZpQnQ4noUF4yE74w60BfN2t-9ruLv1PE4KWPychEZc86mHVlHNkflnW9TyIZ8tGZtg9KGFKiQ9cTBIQJw0Hi862olxN0MKsvCUcURoUGPwD5FErIC16LL0aZHMUcuRLIeE",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJWUegMriIOxAROj_JrvX4iIk",
+            "reference": "CnRkAAAAz0vFZq19EGsoUVLyRzlQBEourlFLCva7z6nkv8Yi0-Z9EbnKrbLWrBprFRWIKy_DySmipyQWPcX4-KR7f63wrYedhc087bfK79G0qLtZHYN4QPnziY97I8K7UCygROZC6UR6xQc0Rf5IHlFtwkQmExIQkmU7ebRNkGeMbDu_QNiEHxoUABSp8MeR7tib49x2ut7HYM0m394",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "5th Avenue, M Close, House 27,Festac Town,Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.470403,
+                    "lng": 3.272708
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f4b1912dfa4f5912b5f93c39e1fe04ec90d0bd9c",
+            "name": "Missy Book Rentals",
+            "place_id": "ChIJnxsSPbqIOxARsZzVNdGcQpU",
+            "reference": "CnRmAAAASTODhK2eA1tApLwpD9bxwNmlzD06AzlsfK_N7IaCKSuHExpTo2imOrlbbHzw_Dzs9ZmQ1mvIkeZumq3QXiSht3xIE2IeKpYQD223937WbcmqmHp177s0HcFsnR_tH-Sa1QKFoxCVApzDQpS79uz-8RIQzZpPrxAeADE8g5ViNHlY7RoUXQa4yDxUCFz1An_X2Ck2ee9d8xw",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Festac Plaza, 24 Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.644328,
+                    "lng": 3.372604
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4a0d5d4d090cffb83cecc3a75d863bd1ded0b4da",
+            "name": "Conarock Bookstore",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJrUrj9YSTOxARJf_8HwR59GQ",
+            "reference": "CnRlAAAAtDr-PTlkq26v8L4QNIAKj0aXAZldnvPKBCcxiUaO96B47fEhEIGv1TTMKmPQJZv-eQNE5EMAQ-Y0ze4V5yTDOSHyodQO6h5Lesv9MDu-TukF43UDxGe_ELOX_5F0G-IPjY3iFKmzaHcDLea6qaloXRIQAhRGR3H_cDSWBQWVT4sLDBoUyl23WNeLRsF9g69dEXQZwwv9udY",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 60, Ishola Bello Street, Akiode Bus Stop, Ojodu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.537554,
+                    "lng": 3.380222
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "4bb12d9060218db180cf2a6c5d02e7bc3dce24a7",
+            "name": "chukzbook.com",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 346,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAR0q3BQAP0x16pTLckZxLzrqdu2TaifpUgs_bMwOILoU2LPeAOQGpD1AXdeohlwPb-4dUWlSLAn4mPfDR3mGL0dhfUtC0Vk-FDNqZXrdPZMseKYBH0ScHv6ihOd-ODwsBzoKf0cpkxqoohDYoid87bxIQuSGZQDAL0mBwJo4nX52ibxoUxNG3ObxuzOpMpj8LzlFfrHv6vYA",
+                    "width": 228
+                }
+            ],
+            "place_id": "ChIJUZJuyQ-LOxARdqZLdWVKZbY",
+            "reference": "CnRhAAAAbUlNQ-hTKa4S4RqOWIBnp00pQS2hwRIThUGGqc1EkNGHPfrMK-71fApeRUlFQPi5u4iUPqXI6nAcVzyigwxxSUzP-UF43I9tfjzhupk3kmE9jk3KNd_5olcqH1NpTdFzpdAfcogtv1o9fzZHayqEohIQRh1Z4st_c6fDZhK44Rr4MhoUX1f0KSoYAFgP9kXBF9QABtR9yfI",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Bariga"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.619188,
+                    "lng": 3.481432
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "397d8678595354c9204fc48eef973551ca24746c",
+            "name": "Adeniyi Accompany",
+            "place_id": "ChIJz_TIjDfsOxARyawCqQlkemI",
+            "reference": "CnRkAAAAklhZaiZYooM_YUBoWRyFMuoa6AbXHzwS8pqkdtAEEMOGNApzAEwk0JmJFH4cZehZNC_427xAfnQ3Yol2svnIdNE9Kd5pMP3LBHCFHT0RnmHI2-e69xLUiqW5rXxxShe5uQWkAUG7waLu5aIF7vokBhIQm3R4NKD_As5EDaTPufNH2hoUM7ZlTlYbRN0wbMY8glN8aVxM9Ko",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Dagbolu Street, Opposite Government College, Idiroko Bus Stop, Agric, 147, Ikorodu"
+        }
+    ],
+    "status": "OK"
+}

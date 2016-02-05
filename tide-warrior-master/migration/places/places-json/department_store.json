@@ -1,0 +1,393 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430086,
+                    "lng": 3.420636
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "d49b05b55728d72ad6de16209a09d715b9ce22f7",
+            "name": "Park'n'Shop",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAHfY3pIxK2kAfpn25cFg05wj-FE3csfTm-jEltDMzzg9Wlj4hjIos28FduFaKL2Xyzf8nPGvNWpofYSBFDu2RLI9rAZrUKcPGdX-MRUTbhfzvqCKCvEsaUzBSAem8rIJob3W-ui7qkf0nkAJVIz_0GhIQDpHco-pwfDT26Dd1EcRXPhoUHk8-6BoAtvjUtYeR6LxUfAV576k",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJG--Icy31OxARDYHoXYoBH-M",
+            "rating": 3.9,
+            "reference": "CmRfAAAAALdvdVb4bgzwE7WZ-14hgRUDRpwqopwke-ynYyz3UbH97laUqDIsvTH9QmsRI9HyXIFc54VYzSMYp50_oGFcOLGVBjh1QQdx0Oj44wBdOPy9g7v8wKclx1tHFBwvsvk8EhBp-zR2IQFNwfVI-QTNKfhtGhQzSKwB6TFLD_pkoq_8-GwqBk6KNA",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Guru Plaza, 47 Adeola Odeku Street,, Adeola Odeku Street, Victoria Island,"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.427691,
+                    "lng": 3.428345
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "995086c5d14dbc38089d5e31c34609de20531a8e",
+            "name": "L'Espace",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAV0aOiXK1if9R0qRNyyPHRKS_T_3qysPXGZToL71EKrQTN-CB1j3d2rR014WJHDGozRh3can06ujfwUFzkL2B2tE063y7iGgZT3zIe3pzA_vGYMc4gTj593JJBfXtwkwtWpohZGXiohKp3QFi9LVCnRIQBHMXrJJNL-x1oQd2BhK05RoUns49GWIhfdEz4-I5O_6SUEtCS8k",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJs2cNIzD1OxAR96dvY3CTBNM",
+            "reference": "CmRcAAAA-LZLQ0Ti0IGFjK5E6QOGJJwkYcSS_m_ZP3GtG3LNjxxg2EKzAsfjABNkKVL7RkYVFzYjc5mm6h1qopYwhTWhtlp2-xGvh9x1VMJAHTvxWnWDpjZ95CTeto8VkWQsD6QFEhBuw_u0V85hZXzFePxSh-7NGhR6wkgto6EnaC830gcu15jHC88U5w",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "19a Olosa Street, Off Karimu Kotun, Victoria Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.437074,
+                    "lng": 3.365236
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "92249269fec700075d94adaa22b56000e8f133d6",
+            "name": "Anneq Pharmacy/ Stores",
+            "place_id": "ChIJn70JjUyKOxAR94EpcoinX3E",
+            "reference": "CnRpAAAAE_pPTe1o3UDILg66dISZWIdSRcvkcNEeOVAc-LIty_OkvxcHrddxRuaBy9oesOAWLxdv9gjtmOrN0AmR2K8v6oR91mWQhJBbrfqzb0acTXkAiSgWnbp7sIQ5Om3EuB4TZiv2HvY6Hct2dISf0NCBIBIQudOZeE9-ce0kVsVZUhtM-hoUuVzDfPoTgI-Ci-LD8czv3fgNXNc",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "No. 24, Burma Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.548203,
+                    "lng": 3.332545
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "43ee092ba8976fb5944a0c17fdd3f4ab8685953c",
+            "name": "God's Own Store",
+            "place_id": "ChIJOSs78wyOOxARvDfxWcpEnlY",
+            "reference": "CnRiAAAAjqd0RLXrYZhjNEtQ4Q1ICmDlNCKbhuAdLFcus-ACkWdrdhXJww_dEJsR6zm1YmfdZ62HsQMiArxGoC7xoSZiDJT3cXbpjhoqkSD8a0kpEmhXknCqgfEK_VNMKIVh_WKZa-lgp4YjUBPGscCTPVrjkhIQ7wsb0BETBQKPeYC4T6n98RoU9F29OQUH1CkCJfFp_yBO3i8VVLI",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "18, Ire-Akari Road, Isolo, Lagos, Nigeria., Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.454629,
+                    "lng": 3.404768
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "79ad027719c80680afab61728f0187a2b0214439",
+            "name": "Solaf Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAmltKQ84e8zyMjmiBYLGWFglAmH2QyO_g74uN3LVsJgqYbsIbRNqhJzM9J-FAcsJA8pnyffKm9rjjFseKmsDzv5od7qif1lXdJY99ERYahtEocYY8y4zBNOEkg39p321CrXWdismbXmB1PBwwy74IBxIQggoCTIfjdxbYkbEO-YRk7BoU-SRjoqNDj_yiKSIARGVL7GNJMp0",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJDw3l-zuLOxARHI-IhqGbWj4",
+            "reference": "CnRhAAAAleJWQTamgaM6FeRo_VKtt4e78w-PDmwpWqamBFppxFjINvOV-GcwTmWg-Whz1p0oWtp8ieCKfCVvb5DGRLSQK904S7Pn7lsm0oSn9xZXCQHbf7A7_oS-vQmAFzHXScYL_7SG5oUSEghSaMicW14JsRIQf--WODf3TUI7Q8MJfe_xmxoUjKN3Mwfi_kbevZgKQBELTUz8YC4",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Simpson Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.459227,
+                    "lng": 3.413161
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "7e2072943dd5cded3e7c5bbf40fb865af17807b6",
+            "name": "Anwads-Kot Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1197,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAKZpmXAAiX2xmgU6acH3hH7cOcmTA-mAuFKqLauWGSIHJM_oGM-ytnr7E_2dTeeuV6-QPWn_3l4PTDq3eup237tdB3TyhPYOeZXcsTRat7g3kjarp6AGBzXlooRqywweNv9jKrMm4daQqAa9s65uYPwnIVBbHPna94DXBTSfzB5JEhAzIvtvWdcJhKdf9ccWF_lYGhTeqaJksbuB5LxBcSk-Xl8DYA6U8Q",
+                    "width": 672
+                }
+            ],
+            "place_id": "ChIJaxxtPjaLOxARu3qiWmBfCrQ",
+            "reference": "CnRmAAAAhokGxRBrCpDebfWlG_kfB9rkdaAKd-yTy8P6goJVtONNOv1KZyxpC7cBLknrIMoAGw3FLzOFRuf7kb5-6YuKRVLX7X1KFoBCBkmBP9n7GU5z4A3ZvyCICPYVZvJOS4VQakH-0ArmfYwtG2wch3l1MxIQSvA_Kel5OH53oD19XhDnZBoUD9MfJEp3H-L5ZFbncqByPhpHUpg",
+            "scope": "GOOGLE",
+            "types": [
+                "convenience_store",
+                "grocery_or_supermarket",
+                "food",
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Dolphin Estate"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.457946,
+                    "lng": 3.418019
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "cb8156acb23fbc8fdcb27c8369e559a92ae1fdb7",
+            "name": "Tehellah Supermarket",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAGzKLHhMdXCmd0g4jt4AG0d5MJOcciAO51d5NrBp8Im_Zhe0WlXVXAwH5vulkEKO6nnN_zRJZu6k_c7-zRKHYORnzK66s7-vZztVfk9vB1ue2RR5fFcKH68Ba8-XsqjWGVnSmNJ9hfoHRjZ5l36Wf2nLYk2p-8VSzvrd4qkH0CFiEhCi8m2j9xs7-DuS9TZCDyrwGhQMV8LXOR2ZFpCaQMF0mqNybkVFYw",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJnTNOGTWLOxARpHY8k89aAW4",
+            "reference": "CnRnAAAAGJO5ddOvAW69ikHVoP2TsOwvR1KGQBwYDTPIeKssvTEqtLWAReN8cC5gzKj1Hk_A7caQ1GsG-0F4DasWx1Jl4BF2UaiUhBJI7CWp6em9YlspVXnayFAgopSiIZJMQT_Su_b1-zhAlfGvGTTZ0wcyiBIQ73KuSbJInshgwW2uLykVfhoUWKA3bPXzOVzZxDZ8-4jCHi0TLek",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Dolphin Estate"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.488146,
+                    "lng": 3.362569
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "f9e9f54f975b27805f6932c8fbe40c39886c342d",
+            "name": "Otitoloju Gifts Store",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 603,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAAJURkCUCpPFOWTRY3oP5VQKOxIgdcqXcvp15L7hux-V82rc0Sv8c5vdfGMpTWJWDCCqUwaA24hSnWE7s9X-Kg1zXPZx02tZ5SLg2blTszEPd6DOKD_J4emNS7WfEP_AYJ-yQaDhbkFVIEzXZnqOQbS5uqXTqs-g_qqMwuBi3ZsXEhDlubrvg4Ln14OwOX5VdFfmGhQMMe4LWi63BpT4G1A7LTLs-yKCGA",
+                    "width": 603
+                }
+            ],
+            "place_id": "ChIJ8dbrk3OMOxARc2AnfKIk15k",
+            "reference": "CnRpAAAAAM8DhhfNxugUJK3cs5BVJ9mZyv-sa03DQkVpqsvMswM0cN4VB0YQA5JQprRMFnk2J1sRR0PiANt3TMkQ98L-WdPXXbEp07N8FErm-HC11rrFN8sBmvU8sxYta4yOYuDMi_FXc9se6WiiA2P_ci3SBBIQEz5ZXqdcllxdbX4LKzUbFRoUKBBGMeywb3CNnxht57LG2FWG_4E",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432124,
+                    "lng": 3.427885
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "b6eec67a2f043cbb080b6dc688647ed84231b60f",
+            "name": "Temple Muse",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ0T2uFy_1OxARNUCgHWP5I_c",
+            "reference": "CmRfAAAA8Tw2S86qvjp4SunGCQ4zV92XwldvVP-EPcRk_O0LMZQ8cKDC-Ft2lgN6vK_Jg9JuUJMtGdKoMqoirIO2NRJP3GFq7m0PcvBtZcaTyJP0uNkOAeLNGdTDPYxE27w29V1-EhDdBNbsTOKT0EWXY-Cu2BGjGhSkUOtJyfK3wO2SKLB4-nJbjI5vGw",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "21 Amodu Tijani St, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432123,
+                    "lng": 3.42621
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "fa2b715b5f29add2ba3001966ea4b4f96a0ed1ff",
+            "name": "Temple Muse",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJKyjyhi71OxARtSOFIPNncRM",
+            "reference": "CmReAAAAGbNuqarmTDsZtCIx0kpWYjseCDE3x0XHDKYpcOTOHXvLJTOjLx0MILyglc8fe9MYoY7Epcl6I28yLclq4BM6yLh4_gvanHajPtuueT7-pAQ87MnURBPD32BDHlIH2a52EhDqm-3henyUIwH98G0AOZViGhSQS3gZunYFgcMqqBIWPJxm2ebcxg",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "21, Amodu Tijani Close, Victoria Island, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.487181,
+                    "lng": 3.362794
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "e1f3f31bc38064e787aa26b9c07fb02862a38f57",
+            "name": "Shehab Ventures",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 637,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAJUmM77R_V-DQQAUiI-c3hHuCfynMgQDqCqS0-ARy2ubtawSfVZnjZlR5ZWcfhuuS3-5vBh5itN6Gf0oISavCd1oNT7T0WvzoWgYcWNJuPBKC-ubAqo8USxEIl6_syv9fqh3eH5jnKoWVvAdzCIzCL4LshDKYUJ2PJenwu-IW3NvEhDbDJKYny1UrVj1a5ovzX8wGhRIChLUkQUlzgWObHt8IBhSpVTF9Q",
+                    "width": 637
+                }
+            ],
+            "place_id": "ChIJgzVQdXSMOxARwBtEyhDMsSo",
+            "reference": "CnRiAAAAZkyRuJtx3fsIKViJDjySaIkgZMBktcsRpyMCvLx0P1b-xXj8wQ3YIHg-ehLoqDcm_VCadE39IaLr_QwzQGQx5bDbW3OPe6oWZXtBahfDdXe7TuPjAiZf2J4Iy1dGb3paEGe5AvuVGfVTt6t1gt5G4xIQWBYqlB0mw_2Ax-bD_79o8RoU7kZ07xG6iD8ny7GI-lln7eSU0Co",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.632199,
+                    "lng": 3.346185
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "5752ec7b06d5a078cc59cf1c290508d06b72b2fe",
+            "name": "So Fresh Neighborhood Market Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAOiRwsgp6BmZeo9B7-mhLE72vNuyFZV-heK5ekm1nRU0ghk9PlTxTvO3qGYipcdE30-n9rY_iSW_-pFUcCm5c38v7_XwROROp7q-cXFCTA84Arf1c8eFlAxWyPP19DBIJgiiYIOoZ9ERu9FVSd54vpLzNRkyvzqLgbmwPsBET7VQEhCHTwzRGdUytNeICJPPTKVJGhTrWRwsJOLDwrwuPvFcswcS_eRAng",
+                    "width": 1206
+                }
+            ],
+            "place_id": "ChIJp-KmdueTOxAROxP0M10MjiY",
+            "reference": "CoQBdwAAAGg8wMrkwnx6tUhvEso7GjpA5EcRW9ZhrQIWA-GF3LlMfU529wJvHpLa4wqnUe2zqL99QcECdp1LUE-knvDyUO9ZE9vi_5rRsmTus3Hj6ZCEjDmeNV5carw4qTGBB1xajqzrOCU8B5QPm0Mzlz8FqozNT0h7qAXYJle-r27svA2OEhClaOnAtyRbX7bsNS8UPCUrGhS9-5tKovezivV0FfYtB5ztoLCISQ",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.491342,
+                    "lng": 3.356396
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "id": "546793debea07487f5cdf4083b0085ceae984198",
+            "name": "Citrus Lifestyle Stores",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 320,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAAKHFovDVzlH5_pmmw_dz7r8iAEs1MBh8flL_yrdsoXjg2IOaazrnc2o4aQUBlR0ULHFQKF7sJvzTsEsVC1UT70PPhcXlTMjyY6EHcKF5EWEGxzQUa0LDcmPd2p_1pKJzkaUBvOJ7wkrQnxtb3KQjZxIQJLskrQohQx-LIVP0xt6_IxoU0Ne-Nacfph94bsGVqWQt8w2qy_c",
+                    "width": 315
+                }
+            ],
+            "place_id": "ChIJkVminw2MOxARmQgW34JQ_mY",
+            "reference": "CnRqAAAAPAjnM8GCrgj2g9jJqdxYoVpsNbdUZs3lcSZ8f61EcI3EAW7kNE7RC5ldke1-R_oMi__1rF2S5C7hhJ8-NcZ-FDI64x8vgE9lQrXmOgLlr5YmBuKD-ufd7ozgfF8Z234G0U7fXxHvxfECEeIyBqWtBBIQ50Ym-JJr15WIlG1YT_kjRRoUJM21hwJnAwlIqUcGuAu1xdr1zRk",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "store",
+                "establishment"
+            ],
+            "vicinity": "84 Adeniran Ogunsanya Street"
+        }
+    ],
+    "status": "OK"
+}

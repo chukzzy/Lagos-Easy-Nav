@@ -1,0 +1,9 @@
+{
+  "name": "places-migration",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "mariasql": "^0.1.23",
+    "needle": "~0.9.2"
+  }
+}

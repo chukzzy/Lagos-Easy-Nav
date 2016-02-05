@@ -1,0 +1,438 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9wAAABwqyhw3V_12TK8urBp_4Hn-uYwbI0dfMLcGpmc_79OUP8YRb9cBLPRdDtV1Jo6J5KT-MV6zjdGFUAdSCQNHSLRsaLW7yaAUFVGDulHS1RLQJpNZQf4c_an8pkk-byGfBCZ07mIGUyuYB1S9H4J7TETZ1PS1TbDGluAF6Iikt1Dkg1rAvYAIXeA8_oYZ11GFGSfMPm6HIZ0-zgX3jp5K3Ooiu8OGRZAZ8VChuFdFNKJSB9cXBVWoDBGgx-AvIkNNdqD3Ci_uj2TUT079z1br0Os7TIxjwc-UToSGpcbRdXTosvF_zzavH8Ke8R59Qvk4ArO7cg5A9-M3pX6M2jpEAA0SEGPOtI0Xy0SOrHo9HQBi2AEaFDVZYisEQOYkPU2dHEAFM64gfY99",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.594582,
+                    "lng": 3.370765
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "b9b52be8fd6e74ab57e4f99d2c7aa25233d03f18",
+            "name": "Yard 158",
+            "place_id": "ChIJQ2O3DFuSOxARJrYC5GRPUkI",
+            "reference": "CmRbAAAAn2n62XmuXMdOSoXwe81nZTAUjy2VBgXex6xaVWHrCeaxR7TNStXqrN8AYBAElwQdxxW_LDQ0PcsBTDJWcUGvejET1WRhf-kjm26ZgdllHad-Giu-QVwUkLwm81MQ9erTEhAWhxotWrGz3Wyl0Idt8yRZGhS8lTZKfYW4tb2Xfntxzkiw6UlP5Q",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Oregun, 34 Kudirat Abiola Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458619,
+                    "lng": 3.387241
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "e16678f72187d262baf603c2e40bcbc054016989",
+            "name": "Lspdc House",
+            "place_id": "ChIJn9weGw2LOxARvbe-Fz_pebQ",
+            "reference": "CmRfAAAAHnjMAYk6Fp1BiT_NgzPZQC2OqoiQ3wtGzB2QXOoJGW9QRvT4Waj97GgSWx3bJMKcV6SuE5s7ch1pVJAd7NoygL5GxZGtSofXhhKkgSP_IaPBg8PPrO03VIa38P6hfXwfEhA6OlGJhDIB5Je3Dd3ISl46GhRXjW9eb-cidXkov0Zw4Qx_VIK40Q",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Ali Balogun Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.612167,
+                    "lng": 3.273314
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "d7e9b37a965a34213707bf195526dddd06c3bb19",
+            "name": "Abidap Multipurpose Hall",
+            "place_id": "ChIJz6Y0iImQOxARTAfMIL5lt1I",
+            "reference": "CnRrAAAAYyTuQl2kO8J2XkxGQkuXJZj5mofsx_bPDjblirNP7MgY0LBI7ytCNuDMr-9iW4IAUmMOdwdwe2pXRu_UTKjdfWb0VfAZZ3XpsPcEhCHMjeAkqY4kEkHVQI1bFjcjcoUuUX-GQpqojoSlT-hx5t1a6RIQtTPnlhMbTokJSASXfQDuXhoUhhbSCarcLCspweF4wQ61fstDErg",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449491,
+                    "lng": 3.398125
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "76c44e1c502cb07f3e1eb988776503b35d154a26",
+            "name": "Contourglobal Solution Nigeria limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJdceDHxiLOxAR991xW3Cw9p4",
+            "reference": "CoQBegAAAB7NORUd4haCQXd2r6zr4nGEFE4LnpGHWDyb63X1qwtCYIhhLDGMmW9BCGgThpwWAMUXV5hfHyQyDlJOEOtvRs0K2fznBInXAmZ7rBGAcRwBCaeVSAbz5nYkO3jRTjLkVeXsaQ0Us2u2d7XbeusqFJ73YX2A_Bz-ejnI9geDGG8sEhDSJ_DuBBhnCuj4SoQsCD0cGhTLs0JiFRh6wqLWWjxT6WMr9s4MWg",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "First Floor, East Wing City Hall 23-25 Catholic Mission Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.516548,
+                    "lng": 3.375925
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "4b52b91da9883f47e8d5c0561d762f95acb186ed",
+            "name": "The Knot Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1632,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAKuL8UeQRBbwhkrCVKw1n6pqs4nmnWN6qwfzEhf1_ampf9cOkuFG4Wn8qI9LP8bAJ4mIHqsvPq9jgxYRtOaYGau8W5JBWu7Tl9lYooEKNxulXWQvEvpz9AIt96FdeVe5wv6RstYUfY5VExtlspc4TZhIQeqCTuL5w0kZfBe42YD_2shoUpLKx7ClMtMeROqCwLeIRid6k32s",
+                    "width": 1224
+                }
+            ],
+            "place_id": "ChIJk1L64laMOxARgtFhPyytfOs",
+            "reference": "CnRjAAAA91u5dfgkXa8yU9FHfCJpkqeHytfQx03xfwKIJI1IOjOpXbPg0829pl6-ChnF5bVXZgHtc8xphLVol2VAKi1pzMjcTbdJO8raw-mVlMntdaQWL37md-K7TJqphU77OukrqzP3vGSLdeJfUaCrXumx8xIQoI4r4i3rqq02dLpPt4_ANhoUac_kk1LEWBec9iyD-d0h28u6-Ag",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Yaba, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450559,
+                    "lng": 3.397589
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "0a500cc9cfb35deb4f54e38c6698e423f4a01f33",
+            "name": "Lagos City Hall",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBcgAAADMCjBkvhFLdFpdNj7JUtlOtQOF00m73BEtJx-QmiE4yE8RFLHX6Cyov4E_XTDQAL08ePPufuuHnEEI3xXYQg9xEy03cpX08vccohC9G7MFFPy4ahw5Xlzh_E2oAcTCCjiAyVHHZf7XchKdagtubTrwoCl300ICsgl1g7ZSxvYIjEhBglAj5EAdrG61KBaQNZXDhGhQdyeCXd2RcW5vawmW88SfLfgE3Gw",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJXRxZkBeLOxARlZbMCrRDaPg",
+            "reference": "CnRjAAAAdI9OwMSBzG8-jJ6VSitvxqCiiVroG-LTx2DaUe72lUqq-4f15HUGT7UiqZd2DBxnu5BUZg6w69rN5D616h9ub0SzB-ghaG1JwFAEd9RHrEwlCxi_cA7yQW6SdlaiHsXOuoRKaDB6If7imcPAh3tVChIQfRO1DydbRv7BsMBn4dlUzRoUbxYwzJPIKo5qsK41NQfW1hW1rXQ",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Catholic Mission Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450694,
+                    "lng": 3.397495
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "a1fde3d63fd24878b15d6385fd20902a8fa91a25",
+            "name": "Lagos City Hall",
+            "place_id": "ChIJK-UMbBeLOxAR0zspRYSCBpI",
+            "reference": "CnRjAAAAFlJElVlHHhXf1v9WdComQLYwualhCDy0gARCmQOB79p8VMlaof3wf6lv8J8JrMRnSv-IDOOWV7sFGuy4qjKF30Zaj0_HpaDAdpRh1JC01J8_8ahKuImnNjg_YUEPVg7XeZe8-nEOiu58QP6qKPYdnRIQGORxam6QlWbcibYIM9s9VhoUIEw2MOfb67g-FV0TgsQwc1frP_0",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Catholic Mission Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.621227,
+                    "lng": 3.355659
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "66ab82e9271a3a59a6d58045d6c8259ba7892376",
+            "name": "Lagos NUT Pavilion",
+            "place_id": "ChIJS9lZO8aTOxAR7nzNOoLx5JA",
+            "reference": "CnRmAAAAIksY2JikaRJwcZdRHMjnuwV_Rsi3KkZd_B-lW03qpOrhtCi-LWyVBLhfZbk7p7TqtqQVKswd0B0GCSpVIlXzuA5F1ex9ab6sU8UZ_FYXLmu7-T0QZQvpAe3Bl3jI1_3ey6N9hLPhaNW8XtYT7CbYGhIQacwVFgPWzGB4-64M2DkieRoUNazrVJqEzb1cJkJKe4jKTKasTfg",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Hakeem Balogun Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447725,
+                    "lng": 3.361462
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "515b8f1103837d64796fae11c9e6b6e9875ff66b",
+            "name": "Apapa City Hall",
+            "place_id": "ChIJ62WWqbeLOxARr7cX4OqKH9o",
+            "reference": "CnRjAAAAN8_fSgLPqIrrkMe0RTxqc6Tp0ls6cSyTUkuKmZn-wNyxxFoEiU6k06VBBSs9phbDSjS8iOmzlUGL_msPQ47x0_GrCiuhsM6uMMZetD5BrI4py_uUSmrJqv_nItnN7coUV9PC0fftGcn9aEtl5YtoIhIQ9EWZAmv2FEPqpsWtFxs7CRoUGy-mr2XjYMXcKgam01PcQ78Aa9E",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.471805,
+                    "lng": 3.315836
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "9b401d0dba6b8c0e39f8fe3e94fde3d54ae46f8d",
+            "name": "AMICHI DEVELOPMENT UNION",
+            "place_id": "ChIJT7VqfDeJOxAR3CUAys6qTIg",
+            "reference": "CnRsAAAAYjcvmFBq9IKjgPsAnxJFz6IIJzm5q_O504PnIBqRJe02xCnZ3YkrcGYn2CGrY0VtbFepJLxm8y3X0hT20XqW7X6RoRGinz589HfDrhJmPxtNsXmQo9ATKn5PL7IJzNDDDLuldGJhdVrFzSy2LbivXBIQ-PlQEelIBZQWuTmBTubwQBoUNl_wPnTGX1rLrxiNkdGc5rIOr2Q",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "New Festac Bridge Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.458927,
+                    "lng": 3.387733
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+            "id": "4a1bdebcb06f4000c9a6743fb342842a246c069c",
+            "name": "Tom Jones Memorial Hall And Library",
+            "place_id": "ChIJOTycFg2LOxARvYnH-fClxdM",
+            "reference": "CoQBdwAAAKlbbzrjA43UESH1GWRmbUUs3F3bSroHtm5bEVTQ1OjwVaQLbRI2IWKQCxF9-stdRf6cdViYU3s9fnP20Ed_4rGhx7W7wBScOQHY4bDmcjXCBQv1LLBQCuku4kWhRnYEQo6zUTx1rFlvWZ7n0UBkRNt91Yf4JQyH1qpo6aYbvoYCEhClFHfu5OGRvEfvrBywdy0qGhTldOjx42Pwa4uIgncPyxG_dktu7A",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "80 Nnamdi Azikiwe St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.465372,
+                    "lng": 3.340728
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "ae00bdd48c659a219616a32c768941b5e49e9f75",
+            "name": "amukoko community hall",
+            "place_id": "ChIJBU4akOGLOxARHbhyEqz70XI",
+            "reference": "CnRpAAAAjTUGf16Pox_CY1-0VTVg2vBXlqmwgL_Wa3_6kJhLWlQhOoPmiAenNcTvgO_vjJg8VgSGs5nkLxzxMPMQic8fcXob3EXAMRJI6s7HImt4UV3WoQ3s25CiIeoysgf_US6GCm7NwdNGw1Eihd9pE6M38xIQiuEO1qaA9UyoDAph5qGCwBoU74EW2IFw2btcD-1ikE8CdH7rD4U",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Dispensary Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.455228,
+                    "lng": 3.330478
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "7f0c553200e6953bb544c0b5ef713be31008af1f",
+            "name": "abayomi awodiora hall ltd.",
+            "place_id": "ChIJ-45p2WWJOxARr-mq_VBDcMw",
+            "reference": "CnRuAAAAwVRbJFu7JmRDL80XC5EkPV56WcTuqJHcIkQS4lxK5NkeRy89YvaoCeAm8Y6fMG8ps6OvmDq3Q-Q26huAnUctlorRnJtNt7-riKlf3ztm7Gygo9fNv-zNooRzoDfJxeAfolRk03LQsZW95mvIRfn8cBIQmG4NnVQ44SKn6coBvLdJpxoUUlFPjYgPviAeGE7gqKublgV2Ra0",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "36, Cardoso Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.570948,
+                    "lng": 3.362532
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "10eb8c79ba2baf2c42c35080c7ab1a9b0effdacd",
+            "name": "Onigbongbo Town Hall",
+            "place_id": "ChIJcSzJQXSSOxARX-ny_erdKgg",
+            "reference": "CnRnAAAAZUgGiEg_AopLicUPSjcgYZxJuKDBQ7BdijmQbgonZC1CDQduid9nLLNb4Pk3BGDkmJN1yAiqzYp9-iL6qdJtVAHIYvAlm6P_mfigZIymTeNlopALZyfxYbMMu_ChKl1tcTJl5ZH-tcPtyGViBtgvQRIQ54uf3aS6N3kB_xBY68R0rhoUzFizlOMkla7HU0wJdaVhOgzb0n8",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Onigbongbo, Ijaola St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.452755,
+                    "lng": 3.387753
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "087f83af9e1e6e3920b4ec3da9e3f5488c9f3a1e",
+            "name": "Glover Memorial Hall",
+            "place_id": "ChIJ44IKTA6LOxARVejXAlppdj0",
+            "reference": "CnRnAAAAyl8Sv2xrK94jQ2cKOMy60Nx0CN2Cf_Frde9fNkaSFVt0FcSp9lFeQ-K88cBWND5NFtRUJHd9Hv2i4p_hRuRt7Z-ll-P3gNPMROz7i6qDwNu08PmHt2OfQaiz6fHbBt_qa9I3Si-xwY_f-Mfv60hd-hIQAOWyCjoawKIiz-4jwtCKjRoUkHFb7pbTa6IXksVt1N66wK4jtwQ",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Custom St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.474897,
+                    "lng": 3.525367
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "2d4f9439c6a8c7a8155f01f3458dca60668ac1c0",
+            "name": "Gracefield Phoenix, Lekki Peninsula",
+            "place_id": "ChIJrxA-Usn2OxARreSd31nipyI",
+            "reference": "CoQBdgAAACitJ3HacRjOLXaF2lj2zbX_L5ji8EujJdrHDxNIOLRc2EyVet8JC3VCJQcZjAfPTi0uD1jsMPAog_W417MfJhYIc8OCElemGgT_e7q0iIUzK87JzAPPblaqGS9bYx-8RLwJfSl0C4WT6N_R_NZ6F9IRoSKlzl2I_v-NIUMcVI5nEhBcJJv0QzKBmsKRU10GiGKCGhSsClrk6DE5u1PNUTXLZnhKEFXF0w",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Coachwood Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.576856,
+                    "lng": 3.278747
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "112cf164f05cdf69efadf57ef0ff6cef96e6bf65",
+            "name": "Down Hall",
+            "place_id": "ChIJmfrYniKQOxARUOMwGarbaFs",
+            "reference": "CmRcAAAAHwdjOIZ8asoEWCbA_29M_AmGXK8VqdXKNhNYRKo86THgFRCOIWS2vmXvElRZAq3FwM5PV8bdcnlhtY_6vpPEE-TA9JBGPjJjfgwpf5YgtNTY0VbOBBlPzAeNHauXg6GOEhB58Y2IzG4cfz4AWuM7D9t-GhToqhkmwmLUf00yg4g8h_4Eo963Hw",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Abdusalau Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.449771,
+                    "lng": 3.341867
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "6e0cca17199d956bc61250146c3006406c8ed58b",
+            "name": "Community Hall",
+            "place_id": "ChIJ3T5FfNeLOxAR3d4FqhncLPc",
+            "reference": "CnRiAAAARrmew69x4iBv0Ba-SQEqiYIZnuF_tFe5XrTxMxohZ2ntGiBEACFDNTvuZtpTofu3j-VLRhb2TcSxNTYgBrDsT30zNbrYOptckPVHulgDhfv_Tea_gujoKox-G3wMEj8HARShUz23-roSHcywSq2vWxIQDYIwVSB9xM_i3IPCnCNscRoU34DFeKxKSZYNRdmaOSqbr9BTHlc",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Kirikiri Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.517486,
+                    "lng": 3.256347
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "f3a61542e4bad1f7d18af6934988f90b9a4f09e0",
+            "name": "Town Hall",
+            "place_id": "ChIJoTJ7BoeFOxARNdvigACN8II",
+            "reference": "CmRdAAAAKGtzYAGfL--YmXD1x37dBRoYiHMPE851RK4eQAy8vgE206E24wpvET1kK9H_xbntrEqs3vH49PzJgz3v_ifkCleX7OwoI3PbQGc3gp347XyP7vRqH1_q_WdhK24uYR6tEhDzPLw3w3NSMFfDNT2lrzywGhSitUw2gGJ_Qtf81rNY9Aq9JditIQ",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.613788,
+                    "lng": 3.502986
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+            "id": "306ca51d8c508584870b54acc8f14472555cc84f",
+            "name": "Ikorodu Town Hall",
+            "place_id": "ChIJ1Z7NeIHuOxARbNpE8BNiW2Y",
+            "reference": "CnRkAAAAHuI20n1MMjmUUvUVpJQrg9gslbbCAjGAGoX7af5juxPR7nZrUjm0xPjp4aI_3CglSN4qUTot6V04uvIQmPx3u2H3F07Be3jQYQjtT2KCNe-76GZxyuzRJogyB9bADjTLqroLCtHIQ7537Md3mq_MFhIQohlNCT2Jfgu69z4GCgLkRBoUwp_O62axXtNMI8VTX2s_gl9rdOU",
+            "scope": "GOOGLE",
+            "types": [
+                "city_hall",
+                "local_government_office",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu"
+        }
+    ],
+    "status": "OK"
+}

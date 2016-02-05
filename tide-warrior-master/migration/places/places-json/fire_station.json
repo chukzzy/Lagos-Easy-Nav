@@ -1,0 +1,267 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.508091,
+                    "lng": 3.36369
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f6b9a291b0a6de3d18ad1242e15e28998b027593",
+            "name": "Federal Fire Service",
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAszEHS-9xmBkWQNJ_oz1oCfWfJyrf6x6VRqUrRDt0X6dlLNGInAJQ0oPIqJ726wbqGrNcBCZRkihhWx-waZ4o5rJ_NjAwNiHPNGMIDfS0jSAowR7FWlWWsVzN9jeWTRgaw6_OQ8O73cW-kz_3C1bDfhIQghiwshahW0lAZROm_Gi0txoU8fbbv9zOf8LVR_6A-xI1MZjbfPg",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJlWFnUUGMOxARh5GLV5VKTGw",
+            "reference": "CnRnAAAApDsh_VSXiPbBCzVeJYYeMJWJQNGqxEYVfbxwgvKHRRlCzm2sIUP8feAMCvJlb9uK3bYZVA2J0i-Ray7C3kRcDSrjliOUj-5B1LNpgU-YB8G7xoaU_-pcitM4apFPUsyXd-rnw8raZkRP_wHx8SiubRIQ5OTqhzcxhySDekS7fSU1MhoUTvw6HZJ4p0P0Qhho70jtxkEOGiY",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450805,
+                    "lng": 3.393583
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "13cab4c3fa0e59f88cb09929d2e6ccf7c86c85a0",
+            "name": "Federal Fire Service Command Headquarters",
+            "place_id": "ChIJgZSXuRCLOxARZY3uWoJGmaw",
+            "reference": "CoQBfQAAAIiry9cn4lEO282utJeEV3tOnWq3xU8KloYtOvsaKQDJs2vOAZBukVQ5zy30Sb1epSbhCeQw3_NiE8Dg-wYHhnzmTfqIBRqOTA9GZMtCBUTA-osm1sqtqFkKw5TMxVlNClaMSHyQwyc661OkdM9H603jRoPxw-FNB15k2LbjpGvnEhAbG65xzWQpsIR8X1zGCEtTGhT6RDBBieaeJYux4gY6sOXF7rQLKw",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "No. 8 Campos St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442542,
+                    "lng": 3.413466
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "8310be135708465f2345cb473a159fb585445c38",
+            "name": "Ikoyi Fire Station",
+            "place_id": "ChIJ15lGbCmLOxARns_EUrOkB1U",
+            "reference": "CnRlAAAAYfUaNWJVevFAwrZ6ycSr7cS9XVgE99CuAsGFHKl4UoalfWkz-IPz93H_pMO5w2sEAK56twz0gdsxn9Hzk7XBhLU4WxhEBRMx0JsqZ1zOs1XYXJA77KPkbEM61Dx1nnWuZb4SCQckDEmUAu2Xe4FwwxIQFu__DOgRk0-hzdBciMJcqRoUuMcVVwxxsYbeik16Tq0N7aKZAPs",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Obalende"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604118,
+                    "lng": 3.50333
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "66bdc00d3d12831f9ff01298e56d1c62206a593d",
+            "name": "Matson & Co Nigeria Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJbW6B0H7uOxARrqZ6U3JZUm4",
+            "reference": "CnRuAAAAC9VIASKsw_eXXg1_6hRiarvU-wSYFjtoPuDvIDSKcdvFwIzax8moJOLn__dexvpceWI404W7OkdaFMDZBqZzg_OwoJk1sNhbGf2YR0ZNsL307jfVlGEQT6Cqdj_t51a_USpHFSggMG8srkuAHDcY2xIQoatWJSTbumEknlMvsf1XrBoUU51NHZWCF-nq2BdW1IrcTdenFfc",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "No. 3, Raimi Shoyiga Street, Aga, Ikorodu, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.444764,
+                    "lng": 3.418096
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bc3ebf54a6e8a3cfca42c4d982afd12a6f10520e",
+            "name": "State House Fire Station",
+            "place_id": "ChIJT8X-mCyLOxARmMSjLWa0LS0",
+            "reference": "CnRrAAAA_UDLGe9pepq9sWKsOD4VWgDlpcnqxwulW1bnhLlxtfqfZ6khxW_1no-9n20qu2Dwags_OQh7baD_LHT2RpzSUiwPUstkoJP3pNsm2OgkMhQ1mqMz_rQd1OIEw6CLqiPaSV6eYvCXR28UQ9LD9vbD1RIQKuRf7Cv0-sEQDfqJiNhwhhoUNy2meRNKvd3Lz5-sjoHVkQuaX0o",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Ribadu Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450466,
+                    "lng": 3.390537
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "052cac19ba5e4101c28c251f26183d21b7ab1a87",
+            "name": "Fire Service Station",
+            "place_id": "ChIJiSGtEhCLOxARElCdvvDLJIk",
+            "reference": "CnRoAAAAGpcOhkM-3Z1zG9jDKmoRZVQlg4GxOCK3uuDLumgJzcF_7A8qGoyNLcuWP08JOYRzHaJX3uAomlrvEcCLmXAf1wW_5GWOYk7zLP1zXyRNLwFcKiROZkcbKQx-w7dK_7vblw1kzXju8zZ5_lLqRldM0RIQ6qrztNWMq4FeuKzfQSWxWRoURn_5AHDbmsDmFB7obW8lZEhBlK4",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Marina Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.482149,
+                    "lng": 3.380978
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "990ad06216d350b3e4d4cd6f191159b71cff4b65",
+            "name": "Fire Service Station",
+            "place_id": "ChIJ49DPJYCMOxARFP7STk3J8BQ",
+            "reference": "CnRnAAAAMRB0ylHT_rb3gL4__rOOiLPrgk5381DXL7NiH1tdorWSEoDuDPnuch3Xc-oxRttHxoNMt1uKcDidz70ZLQnh4KZXxm3-_jOAXwmj6sxMdA4jnhFpnR-Ag8kY4Fs7JpSwK8fpoHnKy107sdCcTuBrtxIQM_KuNpjcQwkC2ZKq2EXgdhoUgLdoAd_43PxuCeVhTIniLvQh2zk",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Savage Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.48159,
+                    "lng": 3.380107
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "22f546340aeed7efb1733586301aab1daf19f83c",
+            "name": "Lagos Fire Brigade",
+            "place_id": "ChIJ2bue4X-LOxARSFBfal-yEds",
+            "reference": "CnRmAAAAyoGNBhnr3fhsY-BdR8g8rSVv-8HbdnQ0XcRISqnwiibM-idPCe4KAOc06dY0GoRfLLusQnYFMH2RxkK6H5yD_FAxIZYekNusuHAVpjvYmGWBl7wplFznELWqKRs1LnCuCZ_dUpwGrfI-icZE25gj7hIQZPjBZnC0guVOby4U8Rzg-xoURpiAqEXTs3h30nOPz9P4wA44ScI",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Jones Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.551989,
+                    "lng": 3.269129
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "39ef277e17783a6b52d8db7c726822a0c662d395",
+            "name": "Igando-Ikotun Fire ans Safety Station",
+            "place_id": "ChIJA7-SCO6POxARJ6Ef9tnvA0c",
+            "reference": "CoQBeAAAAAB358LhMb7uSFUpk_vsYON8PjKiESVS93T_N5Y32-XNgV8mhkf1jTKDanlGCarq0w07jVSWQxnUng0RZy89ZR0rkcpiTD4vEUdyqhU_0Z-7TYBH_pIZIpKzxJxmyPV0WQT_lt5FIih7G82WAKVpdzlHMF2sCsGYdy4YgUuYd9k2EhCHY2dZOc5vAE1W8weXqOGRGhRaDZwIv6CVt6LvfCLidgJ8dWIFLw",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.536054,
+                    "lng": 3.305679
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "674d91760ee05e0b6b476e70cda7cc6adbe7493c",
+            "name": "Ejigbo Fire Service Station",
+            "place_id": "ChIJdS1EKU6OOxARC-nXEVJAsIY",
+            "reference": "CnRvAAAA5jORX3KBGD-zzXNluuGuZxT6H2PhM1RIzbIL6pMQiIwmdhUFAZevBqvRIR6hp2FE5KvAUpnCBc2dHChmcf0lMgmsM6-q8RIKchCGytn4FN5sPrc3weMBMy3ykxB75KcroVgMLF57rDPIjPVxiGLMYRIQti9SP5xSgAryd-ma_-4YeBoUiiIerE5f3sTYeoRJNJR9sLj4Srg",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.5461,
+                    "lng": 3.336679
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "167da0160f06741ffc788dbc623262f493675efb",
+            "name": "Lagos State Fire Service",
+            "place_id": "ChIJn-GC1AqOOxARUXrnJc6eXWg",
+            "reference": "CnRrAAAALsT4PHYrxtPpoGCinhaRKzoFWIdZ0fNmWigLljpPVvDkt5yMbYXeB5TxHnSgs3GYaiLd6NJVk4sowDfg2NaHh66mtgvMqhvIStyPWk3d7V6d9pUiE6BdmhZiyslTfGmDcLg5p7seeRkOlINaWnuf1RIQZEjhdv9CqrWcrEGNmlqpnRoUJAzLdYwYlATJgyrpyR0PEnq1QIA",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443984,
+                    "lng": 3.402695
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "e78cc3483bc0ea7fc1d17848caaa9d4a13c6ccde",
+            "name": "Lagos State Onikan Fire Service",
+            "place_id": "ChIJkZ7nZCGLOxAR70J9QHCO4EU",
+            "reference": "CoQBcgAAAIDaTq3QCM_Ef-SGef2BlxfSPiiUy3O80f-7ByXFia82TddSFeZwDfzfZaJ-wSgDCje523bI73fAsBxw-_Dt4VNHFSLvJtjhZ9IxUC4PzsgOm3PGaIO20J68CS1ch-yiN0smVbuk938udl65ZVuchzZx0zF0GH8I4lnHj7vHBIJEEhD8DcOv-sIOLqrlvN0PWb4vGhQqeN69auTG5nwtFTHxRlUnm4115Q",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Opposite City Mall, Onikan, Awolowo Rd"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442483,
+                    "lng": 3.413592
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c55457dc5916fe411255846c3359dcd6811b3db9",
+            "name": "Federal Fire Service",
+            "place_id": "ChIJh3d9bimLOxARVg0Q9MwMQo0",
+            "reference": "CnRoAAAAxaJCnPX__ZJR2d3lAsSHLOmQ2FEJhdmPbJx25Eb3_kxdYuJ4XClEJW7LFrmT9w6W69ybq-2iH4xwOV1yZxr1vgc3YGsyptdZpG3wGyT7bReF3LqdkB7sDyoi5layl6xOQ-sdGO8sTByU0lgcxtByOhIQ_EpVWqG-NSWB_Df1raykShoUcxC-TOJ8AKvOSdp-0318l-xmMts",
+            "scope": "GOOGLE",
+            "types": [
+                "fire_station",
+                "establishment"
+            ],
+            "vicinity": "Ikoyi, 27 Awolowo Rd"
+        }
+    ],
+    "status": "OK"
+}

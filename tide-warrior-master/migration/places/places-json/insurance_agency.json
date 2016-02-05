@@ -1,0 +1,434 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC_gAAAFZQGAWLdUdHLwGAXLyPNIzQCfQpdGM1LaIBteBoBZLsx1tojwI8uzrbv2kUo16hHV3YOwmJrtGVHXsDBJADtdnlumHp59uAPggncttooXgRjXcAdDp0kTyKe2Xj2aK-0ZfmywRY-rK4G8FHI2tDD_sTwO5hjrJrTXIUHfmrHF4LImEj0BXx7NkLy2Afa5VNfQvsbTmf0zcZArfWA45HrKvJdJUQdK1aF-T68UUncEzsaUFxh-eAFEgc8aNxGS9w1oesr79vSYJUVmsh866-FVh4FSFZgftwHs6Wc-OSa_6_mPSAp7pJPyZa8fTOkdKIMHXRbm0AB5zPloGDPza8QmISEL-JlHJ9q2H14emVLO4R_dgaFF-voclXGM0D2e72doXoZw_xPVfm",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44946,
+                    "lng": 3.406608
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "d6f7aacad0221b927d6afb2c54641072548559dd",
+            "name": "Cornerstone Insurance PLC",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJJ_sL0ySLOxARxZWGTTfrh2Y",
+            "reference": "CnRsAAAAHYREVaknt0n2Crp6N_uWT7fumvO6cTAvLlM1L9a-kuqy2r-RsXDrA-67IkcPz8Lk0s7RPqDxM1XqTv13tYy5InGTyo5NmE21FcVXdJodZp5fgPRerRaTOKviZPbB7khf5a_cLpsy4w8NNvLa2qM42RIQfkG6qToQrnq8h7w2fLyzOxoUucXeDR8vrAiBxmiM8x-ZvkWJsjY",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "finance",
+                "establishment"
+            ],
+            "vicinity": "136 Lewis Street, Obalende, Victoria Island"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.452123,
+                    "lng": 3.417008
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "20844ca7fbd0b027c7023f06d4419f026470eae0",
+            "name": "National Insurance Commission",
+            "place_id": "ChIJjVB5VTKLOxARfBw9sFntYnM",
+            "reference": "CnRwAAAA3dx_5kivP88ng_fA3KvC7AK1nail6q7c6hDMr5bX3c4MWkXP7OhiSbCq0Nvh8cEiFAdeLHVzhRIaFFUmMLUgELK2IobxyO3llv4ufFTU3nXRx3rgELrqvyVzTH1UvJ-rtOg1LKMmg3P81Wn027MlgxIQOuc7DYrFYMHdUJ77q6EjxhoUHqvGWkktkkfvuO7lYFoSkw6OKr4",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Ikoyi"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.430113,
+                    "lng": 3.425846
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "cb0ee9a5592de44ec388c34ba09d8ff54be2b548",
+            "name": "African Reinsurance Corporation",
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRqAAAAHDpBsyjPOWLt2uXIQOTpI3THybfo8chZdosNcjaw4VhSScgIvYHqwPe78B1PXyoCsUJUCFhoUh1xQPq655uLxnIu4tZEK2HCrxc6ucJg1F9AUd384h98TCSyoTTFkQBCv3w-71pZQN6ISXlgxwSiLxIQ9-if0kTS4M0Ycu-_FT_-yhoUEJ-YRnnguGPCS6ufgXvte79XOrY",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJExIraC71OxARgLobA9bibC0",
+            "reference": "CoQBcgAAALKyTrmzsrhnL2CctDszTwGvF4x7-9Q_37LfAQg_quoXdoRBeV2Obo0sjWYYEOqBRfo2gkQRbn1TZg24Uy6ypDemwfRboIY-Ys-W8t9qWvhLAr4o4atyNAGwa0IiidOdr4lDpf_XNloLr-OJKUUW1_pl434-vB1BTSUknm5UX_LgEhCn5HM2eu55L2GfmxjhTc4OGhQDhRZZTNTakfxUKJLSLjjleyha4A",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Africa Re Building, Karimu Kotun Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.59085,
+                    "lng": 3.359808
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "5767984ff0a09ad6f6a26d9ed93f7f107e386016",
+            "name": "Leadway Assurance",
+            "place_id": "ChIJa7P4ekCSOxARDoHr6rJodHM",
+            "reference": "CnRkAAAAE-w7HneBb5Z6qZs2rPT2bEvEhxs6s5eI--Ut_LxCdLDRyajJuJrF6HzhbCW0ahNkMlWk3jpulqb3WvLnQrFNA5RllirXIjOOsbdv5C1rA_Jo2do6tRi4dHaKlRB5-Vy3DfQp_8uFnodaFWqebP-ekRIQAIs1kjC3R4-KanT-khDIuxoUj1Q44OhXj_B4HauEXANQwzXgshk",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Opebi Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.422552,
+                    "lng": 3.427129
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "87d5840cc2e154d41bd8a3ff8c82e93193628ecb",
+            "name": "Mansand Insurance",
+            "place_id": "ChIJN5kAKjf1OxARfMLE1VYhjEs",
+            "reference": "CnRkAAAAhDiM1hA6sSXN6-2n3sv4_UtgjClLSUskhtB4Eth34iK9CYoYchzFE0pFxnWrgo-bb5QLzcXn3hEw6YeUhZ86UsS4e7Qdi7q5A-Xkf9pKViVgKc_VsPK3I7lLWk93WI8GVMDRnFa-JPMM7l7ggwjrsBIQ-DBOesZpXfxGJQkqGc03EBoUzI3_sjk-Ohzk7-Qqgqa_Oupr_KI",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Santa Clara Court, Plot 1412, Ahmadu Bello Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.457635,
+                    "lng": 3.38008
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1435bd6c3091c987ae7931267533f203220431b9",
+            "name": "African Alliance Insurance PLC",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRoAAAAoCLtZ59pGwf8FFC7rxZVw1dwap6mq7dDtDhKIiWXlS38Gl7cZY5qIIqNdTnxcAbItrmr7MtpaFy_VLfbYRwhGpPBvUvibpeonmXpUPsNNCQEaxNkGXJjYgSCOf4aKC8UOq0oV-Kk5sdyjy_LQRQm-BIQtlJe3Afy8VBDJENVL6giyBoUdz2lkK8iTCm2ZGYOBFHkKHfPG0Y",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJb8p9YQqLOxARammkZC0glWI",
+            "reference": "CoQBcQAAACcWS4ti6HEQc0WA0ycFTxSY6YOt7aev3utWiZZ9x4Lz-WVWrwP0T39_3KDRmzm3tH0xRS2kcxlyLaW6xn3t-6aGBX25QFzKuk9WVvFzmP6Qw29I8d8E34nOsvfBZREp_c546Emj1nR89Z9zWEsPFH8KXmQE-aQuytUWLstoOW9uEhBUONnRX1VvMXLAVyyHyUECGhS6wQlKiM5kLjAE1qzXXPBbZUuxww",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Old Niger House, Marina, 163/165 Ring Road, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450669,
+                    "lng": 3.388935
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "4b8539017420bedb9dea3d40c6fc96b225e04753",
+            "name": "Royal Exchange Nigeria Plc",
+            "place_id": "ChIJg7iK4w-LOxAR71pikKAy4FA",
+            "reference": "CnRtAAAA5Ss3yRp4F-P05JhL0wB8X9UeaGzHOx8ZGUTSDp8qRj7gi52wWT2CXu2oEtsonr8XW1Ap3dCh4YjCz5POzLilKvu1lzAwLEU3xv4YUGQg5CVJWSNjjsoB9P9sd-AzwILRwFVbSWfm4b_Lxtn-lF07kRIQZoXbobD52f3BS8EYqbU22xoUcjZ4L4-cqsX2N_HqdwPCQZXNuKY",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.429773,
+                    "lng": 3.409833
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c109e387cba935715f4cbc56d619246fdd4af930",
+            "name": "IGI Pension Fund Managers",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "place_id": "ChIJlcZDc9CKOxARKd8hKjLXgUw",
+            "reference": "CnRsAAAAs35BHgXu5w7DV0nPFsPl7E7FkFDKnlqNCS1PNN1FpgCgPNHZcQ8G-ODikzFZfKvyabwGaC3b_Hn6L5Eo6W9SA89iXmg6G13uOsKUlS6WI4NEXEgOBXwXsFCSb4DwKXCISYYeeT_T7vaHOW6C61QWMBIQF61uurRoK_rgYXlSjcF9jBoU3AH7Q7wHrQ2Dz2iYu8SRVHCsanQ",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "8 Adeola Odeku Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.487702,
+                    "lng": 3.351383
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a4fc16b7c39559bca67c824198f78ffbb116ece4",
+            "name": "Ebenezer Obey Olasunkanmi Ogunsemowo Insurance Company",
+            "place_id": "ChIJi0GWKQ-MOxARdlApIgBEaQM",
+            "reference": "CpQBigAAAPDq3F2YZwUvd974hHbHuaYI9odHQADB7v8-l_3yNqB6cA4JGHw3zREg0q6Cv8LIBl8ggWYsZ5_iekqIWLptA38_kRMvLXkaFRcY-uh5abKLmH_36RtnQi1LTLzXFg8ZfwdrPW6fIB9ntXWrcBJg598i_YJhbhtiZ2prFgD15XDTV8Pp8C6qY5pSS1NwbbAoiRIQLAYh0GuBKALgJxjyT2vbDRoUmMJrZE0t7RAmMb56KNj83_tI9tk",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 20, Amosu Street, Jakonde Estate, Ipaja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.648927,
+                    "lng": 3.30324
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "aa1b6569ef7a3430ccbc6cd2e2a26d4b2467f72c",
+            "name": "Sovereign Trust Insurance PLC",
+            "place_id": "ChIJK1zqjCuROxARXbL-lzFQstc",
+            "reference": "CoQBcQAAAPXNMRJw1pnth9RThHUnPQlyCw8IHs2F3bL7xgeey6jYUMv_frxuF-THKsIbOgVNhHgOb9S63lap_B2CGbjavXrANb3ovZ_iNF5IWosuFWEaqPgYGuLD0WKzBDCs7wBauT2zOXvwo25IX0TCgVvSr57hK5Pm04YJrpKcaOhbGmhVEhDYENtUZ1-Oi74BiMsqF2XDGhQ8igra0Oc81WB7rnTb_EuHHchgAw",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 9/ 11 Ekoro Road, Abule Egba, Ikeja, Abeokuta Expressway, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.556354,
+                    "lng": 3.355229
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "f7b3750e8b3502ea6cdde9020a241c6a23fbc971",
+            "name": "Insurance For All",
+            "place_id": "ChIJ-7oo9e2NOxARdyc7IjTgrYo",
+            "reference": "CnRlAAAAKuULA3XYghceFwTy7SLsEq4Pszx0IpQugLlxViXcM-FT079G_2P2y1CUzKaRKknNR3sYlsf9QFvoWsge5hUR_4PZjuOWW0-uEKLk6BrBPS0ytPCpXbvf8RIh41sxKhT31LazldGLHe6WJK3Y8dNFhBIQN90jBZ9Vn-JHB1QAQntSKRoU12RgZjKXQfz4s_Yav7mr1wtxn88",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "19/ 21 Town Planning Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604504,
+                    "lng": 3.348298
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "a010a4f3c964e7875ae015e53124cd6e9d1f07c0",
+            "name": "G. T Insurance Brokers Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ8xjhBy6SOxARc3u1Z6FAoXU",
+            "reference": "CoQBcQAAAK85njaSmOTUfRTisd9kMbGA_olUfXKZVvFSiB2w5Q94zOwOTPIqPqUtrJaYtcPzZfsdEk-lpGVUZcdUrkEeF4VTCUemvP_BxO1IofIYmyanLKespR_ijyO_SpBNH37xDQJjcOXjSzjZ3cvGEWVz68y4tb8s2g068P23VSJWFVGLEhBD2qQz92dy26g0ckdhhKrDGhRO5FhrxYXSM8BtFgJCcxfBOfmLQQ",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Obokun Close, Off Johnson Street, Behinde SKYE Bank PLC, Opposite Airport Hotel, 2 Obafemi Awolowo Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.555714,
+                    "lng": 3.34023
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2d03e9f7350b2f9a6fa4110f7b764e83d217bfcf",
+            "name": "Temitope Famu Insurance Agency",
+            "place_id": "ChIJ3zITx-KNOxAR9hxAh7U3164",
+            "reference": "CoQBcgAAAKyJD_bgcnJ4zqjhLF3L4yXu6u28K0wiRzXLSd0Mq1HS6As-PqdFopKigdtRMJigYaa5xPtytSrd0nnOZcscebeqadmKc47qSK4WXVgCNkF2GbL91_HtkFkX2SKHjBk41pockd7yQd64xvKuZW5ikX89rfzyyyN4lFmacVQeKt-MEhAQ9cRBrS3Eg3R5W3pZrBX_GhS1F3p19GZZtpcWBj1g01WoyOktFQ",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "6, Franklin street, off Apapa road, Ebute-Metta (West) Apapa Oworonshoki Expressway, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.618591,
+                    "lng": 3.381024
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "14f5f293052c630a42cdedb6f536164b5b23f7f9",
+            "name": "Orthodox Insurance Brokers Limited",
+            "place_id": "ChIJ170XugeTOxAR_2V9b95J5ZQ",
+            "reference": "CoQBdgAAALXd5hHSdSKIO_rynwPPWoT2Aw9cdtEKVj-RkF7u2VShuw7HiY17RQdQB-ez7hlG1wEtPB4Zer-GwDN2acDTRxd4pjUvsxaWNkihzdbdj0ZgJOVun5G09bDMyANesy9TwYlVhiBNz38Kz4shfKqeE7dzNPiOjZFNuMwE0-hY_bXoEhBAqIhW-OzeU0-kCk_7njMSGhR6MGHoldgrkJiedlDW5GbJhgvK_g",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Magodo, Suite No. 8, Estate Plaza, No. 8, Emmanuel Keshi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.59344,
+                    "lng": 3.344367
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "c7537892b85cdb3e826f6429939070cbaa017593",
+            "name": "Distinct Healthcare Limited",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAADZkrO0HKMo2EsUFCMT-EWD3TF0kOqZ0l4Edf-uqkP4CKYXyq8tNJmAleLdaj4h40QH0DptxYdL8ZOH7tR2hDjXeWSTuXHy0s_Vc3r_dw0P2VVp8Ng61NKlwR1CkSbdnIUe-u_KMxKdb-R475m7pYzlAHpUwhDn2JeazKBlRTMMfBw_IvZmg54JJnGTwPSNJpBIQ_tdkUGKSGhjPEAy4UJQO9hoUVlB3ZCXJ6ecG16j4FdG3O3VdWRk",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJ6YH5NyGSOxARm8f2VpoFIAU",
+            "reference": "CnRuAAAAJ1WHUCuFbMwa2WmlS_TkwBI3ENhDGV5rsQCJqtFaTauyGZoYU4DJVVJuOoFdwgunRjNOd8AtYZQ6hRWPsoBT_ApUhqn4wZcpngaO9vPIxpWS3-X9dsW5eeVBapMU5MGfRQI0EqCaWeIW3koPeTeKcRIQMC-kx4-3dcTcMMDnQYEQdRoUn-VyBQYV9SIGoiIFwnQo6T-Qyr0",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "81 Mobolaji Bank Anthony Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.628289,
+                    "lng": 3.349958
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "1a798d804cceee2e73efdaf4465fce8e72deb314",
+            "name": "Clear Indemnity Insurance Broker Limited",
+            "place_id": "ChIJZyU6IcOTOxAR_E4MrW-IO8c",
+            "reference": "CoQBfAAAAGthCRhpiYLXqajNphgpygxctIbD3WQtFo8dBvHD-NBxzv5HIEShIAKM5Eag0Rp6uttXYrUq5IW-srBJ334Fv2NLlnA8Rmj02U5f7ApQgox8Jm8X6-Ym36pQSEMPDKHIqglFKfPu53rYAunn7xveyh-M12a1E6OR3lI5GcchMFq9EhDQ7r_zPvRSdh4UJeN1gDhzGhQtoUuAe5wTbVX_lar7eOsK33BDHA",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "No. 27, Ogda, Ciibl Sult, 3rd Floor, PM News House, Acme Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.461889,
+                    "lng": 3.27724
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "0da9d0e75b10b2fe8ad6f2e9bd88e29780f841eb",
+            "name": "Wealth Partners Cooperative Nigeria",
+            "place_id": "ChIJZRgc6L-IOxARpcNMXp7rmRk",
+            "reference": "CoQBdgAAAHo7ewSXP3b2USn7PGV1ZbXHTbND3BE1nwZ5bxHfkokfUhgJqs3vxFG4AUy1COJQJDiUAhBUDVggkrd_aytG2MeQTmXfiKpfwO74B_yQ_cz2qCEW9xXqFLFIazZ0G9KPQx3U3lgvIRkjcHAh4XdoSa91GniHszrJVqeKq2kUE1e-EhDAxuke7nQ9T2_n6DyuCwLFGhTGjcF87e1euiF_xexBbZOrjKfNGg",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Green Shopping Complex, Opposite A - Close, 402 Link Road, 23 Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.598649,
+                    "lng": 3.339229
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "671b92608c5b98bbe2feae9419bb53f44ac7c2b0",
+            "name": "Hilltop Insurance Brokers Ltd",
+            "place_id": "ChIJx4I1HoqROxARVfrDn-e-A1A",
+            "reference": "CnRwAAAAR7CMbL8Yw7dOkfQ9rV3JPhUUmRRw3PbKFBhm3_hwxCB4y44_KgwzzD8nnK3ELHH--gFi_txGkx-WlWhSCKJLMS7eJe4oHKAyR_NMHy5636_qTPDDeFfN-8hSbnNoXGxI6xS7nPp6LJ1-bpfz2oJW8BIQVdaQubepaG8ChZewh1GAHBoUq3JWN7oV5eAutNb6Cy41PkrrIbo",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "2A, Olaide Tomori Street, Ikeja, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.451082,
+                    "lng": 3.389408
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "60bfe5c43eb87a001ec61b36e315320ad33e0a7a",
+            "name": "Assurance House Nigeria Plc",
+            "place_id": "ChIJA5mGHxCLOxARqPjwMOtOX6k",
+            "reference": "CnRvAAAAz2SGNu6yXfnakCRYNFCR9QL5H7AR476yeXbMqg9LCxsw-E9YfmgjEP0yPIEPf1NqEuxVO3MIrJ3SbLZF_CJGMAi_Q1t5aemu7jGMKqVt-FMSpokZi4-WuqG3JAs_FDmHcDfdHgo7_jA3wBatvH4yaBIQBPaj_cAie83YpwrslnfiQBoUJnijWXHXB8GVY5d_wL8gjKHUXjs",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Tinubu Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.44983,
+                    "lng": 3.39169
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "2a685657eee20181aefee9bf1a587f171651497e",
+            "name": "Nigeria Deposit Insurance Corporation NDIC",
+            "place_id": "ChIJ44eafxCLOxARbPGlig-uaB4",
+            "reference": "CoQBfQAAAIsP08WRQjOPeRSiMRSti0FEw_1pebqp9gZYzG6DgfurVKz4jfqnJO5GRutU5w6av_eI0xYwBwF4ho6UkNsk9IeMdBX2jRKvmi6M-DBN_xl8lO7-wu5iUiPlCbUs65wMz7-28zdevwtOTyBdWGLnch_ecbF0xOOpUzkaM9qT9RDLEhCKU4gVHfvJWRO8daJWViS5GhTQXt-wcv7fU_mx0z0Ry9odI0i1pA",
+            "scope": "GOOGLE",
+            "types": [
+                "insurance_agency",
+                "establishment"
+            ],
+            "vicinity": "Mamman Kontagora House, 23A Marina Street, Marina, Lagos, Lagos"
+        }
+    ],
+    "status": "OK"
+}

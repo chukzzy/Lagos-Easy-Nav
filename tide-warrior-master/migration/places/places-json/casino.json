@@ -1,0 +1,95 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431561,
+                    "lng": 3.406783
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a285cb46e66e919148a2359307455631957080d9",
+            "name": "The Federal Palace Hotel",
+            "photos": [
+                {
+                    "height": 160,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAy4vHgIErfgJXoTA2yv6jTJWdam7Fz6xGzd3NsQUpNGAJ06GWbPjA_8sBy4EwN4gWdKkxVLYs80xibw3ibjWzv3wB6SW4ky3VZXvsQKWwYOwvSJJ1bYq2kzf2BhIdJ8lnMyWmLepTYyCHIpGcCdnLDxIQlFTEBcU1abJ1CHYS163yLBoUHypX5IyxEyoQLNTc_uxUc9kA9-I",
+                    "width": 310
+                }
+            ],
+            "place_id": "ChIJeaoJrduKOxARsP__JpZt5Z8",
+            "rating": 4.1,
+            "reference": "CnRsAAAADT2kvM2Yn2jUDqlp5M3B-2bz9MvCdMNs2_N3abeA8vYiIzIS7d_Kak0BnJucGt2pIhgj0iWhmr0f1APQvptjRNiBsZEdsULkTK33ICFR_w-NsIlEo-JQDmzTrUMuk426zIZn9IbFD_LDsDTohjSdHBIQtft5q2qJLZxV4R2bTuofXRoUpnUwOKyRlDhlSuwCVp3GvDYBPSQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "lodging",
+                "food",
+                "casino",
+                "establishment"
+            ],
+            "vicinity": "6-8 Ahmadu Bello Way, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.431966,
+                    "lng": 3.408706
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "f5729b718e425d1a3e51801225ae82632668dd3c",
+            "name": "Federal Palace Hotel & Casino",
+            "place_id": "ChIJ3YVnbtqKOxAR-c_nRQAb3U0",
+            "reference": "CnRwAAAAOXD-sf28j37VX9xhKh9BobgnEMYdImX4n-MHB4_tMRFVzL6Ba7GhP0d4lEw5c-y4Za0RktbZ_F3nUVkDlDUQS6RfiLEn5suSEdvIXtdc-LBcbgrCpqo-f4C3zKVKXiVkq5RLVaU3KdeJRTjtP-5PjxIQNVqKB_5YFZDQOYk_yilO9BoURDk8-1Nf_-PVPljxzIy-garJQLE",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "casino",
+                "establishment"
+            ],
+            "vicinity": "Adeola Odeku St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442071,
+                    "lng": 3.3694
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/casino-71.png",
+            "id": "3a2faa2741cdf667b9a17ec7f8419badfbf64c08",
+            "name": "Cerasar's Palace Casino",
+            "place_id": "ChIJ3z0vgq2LOxARq2fYrbpUIJs",
+            "reference": "CnRrAAAAlLYzxOgqncncVrh2ywqZYO7PET3TTngeAinUDRzfPTQnOIaEqEcZIsddK7lNrgiFL4KBHh74m8G6TqEA4aSOVo9skaQCizd0Tl5jPla2q4NOi4nrHwXEIshMvvqYQs-z09xw8UIe1KN70loWrQzTYRIQAlwbXk3ivoKPvB7p3OC1ixoU6dtVJCTIntrNZqqn_HsnMA6boi8",
+            "scope": "GOOGLE",
+            "types": [
+                "casino",
+                "establishment"
+            ],
+            "vicinity": ""
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.509466,
+                    "lng": 3.363336
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/casino-71.png",
+            "id": "7260fb9209f36fb871d166255582b9cf4e199d27",
+            "name": "Granada Amusement Casino",
+            "place_id": "ChIJT32PvEaMOxARzwsu2t6gvWk",
+            "reference": "CnRrAAAA8UmWOkTVHbSBcCUVS1ZMf32E8z3sb7j5bRBdgNd1u-bB_K7GF62Nz3VxV8CtGj7BBKPt5EigkaoIhBAFHDSlIqI-m8NrESwfFpM8cti5iZPhwgYheLgGFetGoarerS6PLSLako5BIh5Il11yghr6OBIQU02gy8S1J48gXZevs4MgRBoUQjm1JpAKJByu_PN1tP_uU6jG7xs",
+            "scope": "GOOGLE",
+            "types": [
+                "casino",
+                "establishment"
+            ],
+            "vicinity": ""
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,528 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CoQC9AAAADATtLKnCC13dbNvcBzPFOtMmohN-zfXMzHxMCMeMdlxcHvjr2PUyNK87qDTBGppBbxMBzWly1OUNEATDqRgEsKch04S7gvCk-pF8C-hmsvWdfy3NMWI3LuXwrxljNnV_c0V7RRwbGMGLidljaAo_jAJi6kUbsMfv1yHd3yKF0ST_x8qlQ7TUvz5tPr2UE5eRysjiKCtvfj-GcOko8OAX263gFUXHK0brHjUtUrQqztmC-wvRspUF7mnPMHGTW7dyh7EHVCDJDaOQq9uWMaH8sp4yfnea-Dl9d9PmgHaeA18Fiz-MeTup5MIjNjExlGQU5yOl-Vf20Uu-jKDoCLpD2oSEFDWWGU6ctO9cSMhZA_TlqIaFHMZsuC-OfUnk_4cYe4gT7PF59Vb",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.432168,
+                    "lng": 3.463976
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "a0d2e017c0a40d765f28f1c2073299825ec4ea35",
+            "name": "Paton Physiotherapy Services",
+            "place_id": "ChIJLdPYQKn1OxAR4oYk5YMTa9U",
+            "reference": "CnRwAAAAy1AO1P0LNMMwkAVBaNGsiOvCooxlBgple09t7Mmyq5-r3nbffoqeqZmIKIdBsBm2hCUhhirT_jwRt5TB39kVA_es8JU65yvyy2Jnx4BHRn7VUw4eHzGNTf7MYwR1n6qNgo5VGqWFLVXXD4hnPXAFZBIQ0BVSUxOHPPgzodf5My2OsRoUQqnVVY_gdeRw-TCOI6emUngq87k",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Russel House, Abike Suleiman Street, Lekki phase No. 1, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442824,
+                    "lng": 3.418567
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "1c503598db3047f697744e48fe6ae6c808e03809",
+            "name": "Clear View Optics",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1021,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAKm-8f7OQ5dGl65MWOjG2tdaJj-2lr-kG9nFSEJq1KPqROdnDrNhQQHiUXsa-FTqK6raqZB-dgEPa5gPw1aXzY6O8mLq_RgmMlDqhjMghLWdlfsju5OlJIU85rJ5H62uJWO9tEU-bQEoAHXUi3yx4ihj-gclnDAG34RZdeYDqkfxEhDvHNBZT77FrAci4WcJyAIXGhSX9gPLc-Llx6YzvCj-NgkPMa47fg",
+                    "width": 1016
+                }
+            ],
+            "place_id": "ChIJfVclPyuLOxARWzTbGmA0ayk",
+            "reference": "CnRkAAAADP7cCXKslB_ITg8pwXR1L2yQ3CvqjIcRM-MMh5CydJb0-rr2PF-3LETZUcBNclpRaUtPL8E1a0NAuOCpAYLgFodhf-PKg9kQiXK07V7lEz1atJw1LwITE_dWev7K85Y74bVq5SJhOzhZxPx9W-ELlxIQHCVdSb8dUVdejda04Aib5hoUr6ahMqfSdVS3TezxG0P2qifXIVc",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Falomo"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.496667,
+                    "lng": 3.352195
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "e27522153217d45fa529dbad99720dfb1b7ebb86",
+            "name": "Foremost Radiology Consultants Limited",
+            "place_id": "ChIJK9DuFxGMOxAR6ezCDqDIiZc",
+            "reference": "CoQBegAAAMCyLjj_Dzkv3h1ftjkhot7CjLH1pHlsYnMezrhJVi59WMz_OSGUcwI_OqaGbtpEQblGklKiJOnuU70S94oM3Ip_-ucWd9GVoPL7XDGLPM64VyI1JRaDMxXBk12boOAg4mizrY5Uwc8Iej_5TVfGDfIuoWfTRzl3QcBkMpk6g_1uEhBIpDZDHZXBSQR_yo2dlJb5GhQRoHH1I2K7VfVHjS2bZhZF5azqNQ",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "50, Ogunlana Dive, Surulere, Nigeria"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.600693,
+                    "lng": 3.300757
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "3adc19a1aa2ab97ceba40eab113c8ce58093638b",
+            "name": "Avon Healthcare Bee Hess Hospital",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 49,
+                    "html_attributions": [],
+                    "photo_reference": "CnRmAAAAF6oHtGo5i4IwVDt77dlal0dDr57tzGOc7_XCWkFuz7AbGMdq26ue22lWF6mgdNJQVkTRrikp3w5JMGphcyo4JOAtyMIAd21iKvDqzjYiDmrSJwgKLMA4DIbx7VOuiReJEj3fHHLHxrhlabr2kYrZdxIQTLXDfRIY5G1ZfcO9szd0sxoU7SEFUpLgZVusxchEjdEQrFFaD40",
+                    "width": 200
+                }
+            ],
+            "place_id": "ChIJuwChh1KQOxARIDut40R_mwA",
+            "reference": "CoQBcwAAAM5xE6ZAtvmdn2tNQgT2xab6Ln6_ddny6fN0i7UGaVT2Dp5J1RCAlo4A29pQvoL8LooCEUZaVJEvrdGEzD_OWzzenUeei4Ckj_hM2DIe_Q7y3pOKwxx0h7QTpqUE-gKN9TfPlT5LgdlRQszYEaj3OLOzlPdYsZHydx9_C2v3D4zcEhBZxGz4jwihSwDH7hzu0WFkGhQNoS9afIQ-BwgD5HLCrkPcdIPcRA",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "155, Akowonjo Road, Akowonjo, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.43174,
+                    "lng": 3.432197
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "492abae522a57ac6054b6386024fd686f0cf4010",
+            "name": "The Eye Doctor's Victoria Island",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [],
+                    "photo_reference": "CnRpAAAAv4W2wVnOLPAt3Nkpv7sz3IX1BEfRXAJAbCNLNzfW7z3oK88N761nwuYgD5rk01E1PWN0HBxTjQLR8cWUiy5DDhmWbz7y8TYcmcnI9o9U3_u5cXG6gVy3UEHVc0wOzwzWs6z9294P_qClUS_2yJuJdBIQjIE4W80l0EUJ7ZWwiWmm4RoU_Sq-WKJRf-TaTjrxWdHfwWbQlQs",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJZ-DWTCT1OxARwsrdJwu6HoE",
+            "reference": "CoQBdAAAANWf3kpL5ZRY2Wiy_wpOfQgduqwwdFOp07TJQBo1YDMlT0RJk3FtPgoQ74Hcbbpi4zaOImUl3b9ZcLkAyPBmHx_hx0N7OlVurnxtKI3FnBKKxWWvuOD6DfQTjsZEvn_T7cJUih4Ky72iPATtORov66oEIrNJsdhK7-PaCDK2L-wUEhBqBHBTdD9iCkno00q9yoDlGhSz-xs8LVs6ZuiZnZu7gQf_AYUcFA",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "241 Muri Okunola Street"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.486847,
+                    "lng": 3.373961
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "9067ad067246a02546f656f4368dd3c1bf904bda",
+            "name": "Ultimate Crew",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJxUZwVHmMOxARIpsHw31K9Ro",
+            "reference": "CmRgAAAAy7PUf43hquyFHF03u3VXSBH1-ouFHwcl19rb_JRSjn30VCOoO5D6k125f8J7a_wJHkyQtnHdh6tBy4fvgMPbJtKDJIW8Jz5O11DArXOXR9Gdp-e_MHm5QBmoewi1DOJtEhBjT_joJYeMJLBrXLuGWBeUGhRY-dRZyUE19-1ffEHuNCXUJ0Lq-w",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "9, Nubi Close, Ebutte Metta, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.496941,
+                    "lng": 3.37775
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "be437ca786a4291fee5dc43ede3f64ad9dc56dc9",
+            "name": "Blissfield Dental Clinic",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [],
+                    "photo_reference": "CpQBggAAAE-BJwDzRzRB4LGZhgM8sEsFsozbB5vbX5J5XvN3tqMjKlQpSUpaUpu-PbMv6RKsTOselMobT5kuvbEp_g-GF06ow7xDbuRBQjix_Zju9eX3WaJk0Rc0f9H_xYv9BOCB87lKuPIcq8dLUB-UDgs0NCJ6RRyqhMEhTUWdmTeBnL5oh2AvaVYOOIWMxo6ukQLdfRIQdClvDcpvCXxw0g-3L_BVMhoUeOejeSrwSqvcpvqehlxeZPbDwIs",
+                    "width": 450
+                }
+            ],
+            "place_id": "ChIJu1A8oGGMOxARHXx2MtLgb8Y",
+            "reference": "CnRsAAAAg9G1eBxxIJ47BC3mVQPoEg_5zUtJPD7DOME0ioOD_mu7_ziOFaBfDriTouLCK5vcmLK8qLbGvLT6t5ViYHyclm_Y5r_H26kI8sB7CdLWSpfS-YfPLvkjDBLr0OWVY3PbWne2xb3Hnw0XkUUGz5BtNxIQ7WgRXOO9dKRHdpgtC_NqpBoUkclLNIBrV1ew--KjuD06qbP1_i8",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "319 Borno Way, Alagomeji, Yaba, Lagos, Yaba"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.443926,
+                    "lng": 3.422425
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "774e5fbe03e9b8841bf1d7aeb16116912aedc05d",
+            "name": "Family Dental Cares Lagos",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 241,
+                    "html_attributions": [],
+                    "photo_reference": "CnRnAAAAmsC43FgFn6PNO1l1qJkGrfLmXlnHZ2PcV_7KOW3l3RNBRsR5hTEUtnKnNjZoacoaFN40QvAKofg4uogPakUYozUn76uy3Czs-PX-Txj2RoHQRZkt-gtPR7sdb7redELEmZKRUNERzPn3u-wEC7gwXBIQe0TRWbdO5rYlnsDg2-eNoBoUlzb8brQWo_yFQ62wLJR7x-xVADA",
+                    "width": 370
+                }
+            ],
+            "place_id": "ChIJP_7Pe9T0OxARb1n7T0XdVYk",
+            "reference": "CnRtAAAACpAyNNquRBaspmkw51Tvdkw77F9k1LgY_1_xOg9AWhHlbI68XgHxpmFUv12wADUFnuo4VE6eKBHXk8nsb6npnJ-UhvUqmywklPkqc-llh8WQuFmslzzxFO4SLwvf_OvIBwl1o99_nzM5KmsV1_GZ8BIQXVtRdPMgwX5IfMbs3DFRrBoUYV6MCIa610AzFftq5hBL4vH3Xw0",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "doctor",
+                "dentist",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "92, Awolowo Road, Ikoyi, Lagos, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.448102,
+                    "lng": 3.413875
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "4d2407b9a7a10fe250b687e1bd7362a05b0fba15",
+            "name": "Smartbase Services",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJOfqHbS6LOxARiwEKAqx_DrM",
+            "reference": "CnRmAAAADfy2Ks0YN0wsZK6IP-4wNX-nUPyF6ZlwQsAO1C6rsFZEpcUWi2HIHHAqciOl-1fqgIwxp1fLAKP8kk2apl_0kpiCdlmggQSGhVZ1raET2Jg_uZx5TYYhY2aa672ysDNAut4n9tSYPmvPWFUVyfzQlxIQtfvU8jNRkZ2eY1ODF3eEyxoUrx4grDP2vOssLCUP_RiVhnHfaDc",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "No. 23, Obalende Road, Moshalashi Street, Lagos"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.603179,
+                    "lng": 3.352858
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "7a727c1db5c0dda7cefd7dd97f3fe7d5b9fb6946",
+            "name": "Renal Dialysis Centre",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 329,
+                    "html_attributions": [
+                        "From a Google User"
+                    ],
+                    "photo_reference": "CnRjAAAAuAKGGYxSb7AG7Bnm4yF566sAcMPY8Sf0EWLw58Ylkm3QXm1gTgQKnvBXB5CoOmiuFQCBBiLerjosOMjjWZWcbvFA7uO0DmrstoYpn8DFhKgARkrKDINtYsf3VqvxiBvYB252iVlHRk7KJt19AV6nbRIQl1xIxmhmi_vRrzpBVM1xpRoUUKUaK2f013znh769psXJtavKNa0",
+                    "width": 500
+                }
+            ],
+            "place_id": "ChIJIT93QDGSOxARA6fFjlHH1b4",
+            "reference": "CnRpAAAAIXsFP7g6JIiwBzNCvMUeGP16WHbqs3yhLi34KYnkbOhL76-5fAB7PhRcjOBNg4jv0kAMc7X-TlvxyxiAfA0KX4VZ7IBam0uNsjig0s8xr5JGlNrBLMSIEBa6Cqq8AxtnuZIsnCGvHugu7UNcukidzRIQtjw2DLMQMIJYCLv4IW4tPBoUqTPcRAXuBl7B7tILzYrrXQVczgM",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "19 Adeboye Solanke Avenue, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596502,
+                    "lng": 3.340409
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "ef6b9bd69c08a94997438d924419a32cdb8d8ba0",
+            "name": "Jakux Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJYW0WCieSOxARN_1VVpJTSxI",
+            "reference": "CnRkAAAApCAm6NwR1s1P6TfmM8tM_4W7QUzXiMhkuT2U-kWg9BT4c-dfQpMZjtavgnhtiNlXLXVbyC9Ag5bJjYEzw9lssm3N5f99I28IfLgrvyURYBvOPPzI_oPFdZJbKGe1ftqK2QU6-Qm-_977y51wlzolIhIQtsgu4LZA0jwtxSLFMyxy3hoU0Xr0rmdCbDlQJC54zQSEUX8nBRU",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Opposite Awolowo House, 28 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.550614,
+                    "lng": 3.331713
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "7980b4fa207179dd71d88c83121fb863acad7e7b",
+            "name": "Fred Acholem & Associates",
+            "place_id": "ChIJc9DoMQyOOxARJPpAWfvEUuk",
+            "reference": "CnRtAAAA2yrcayYZp95hEEwlN7mjIO4jPIL8yPwgLPAFLI-ASzxnwoe5nS8mrXdZFrklosspW-xDcky2cuu55cYkyBIy8iuM2pdJ9OwqbSx7rLiG87BVbzcTE3yWS0csQm1Mbf4yFe0DM2oWbJDkLSJXE6rNzhIQ1ky1pvwCiLsio4jdhbB17BoU_GzlkqvTHS30WuWSoTpiMLFA3jI",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Osolo Way"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.596952,
+                    "lng": 3.340397
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "0755e790a2bcbbd0b4a43269c58e0413a34d6b96",
+            "name": "Exodus 2",
+            "place_id": "ChIJXS3moyeSOxAR7PdV8mIMXl0",
+            "reference": "CmRbAAAA_NbiEpIF4TGgBjdKxgFGKwYBGmOysynXJN3WKEghruk5LeDgTp5bieu-N0pA6NAq6B2OfmoqR4owzC8wPB9k989SVxhK0pFuRuNVALgNeBhWiBrkhXH0L6Q86w2oGCdnEhAIbkX59HNFHROo_eMN2R7VGhQf_PjoEql5StrFecUCQkbuCGSwMw",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "29/ 31 Obafemi Awolowo Way, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.643406,
+                    "lng": 3.362474
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+            "id": "24ef483799e3e9db209b919eacc14e47f4ff0202",
+            "name": "Stunning Expressions Makeover & Natural Hair",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJz4kFvI2TOxARcPdIGl-_EKY",
+            "reference": "CoQBgAAAAL5OJBG0IN5gnfZlv82Qm4Uiads9qUs6KfVvjokEVzKldle4ceMwlkH0-boDxNxT6k_e4STYJASd6NZKZMkU3L71rDBSFvxMQp_DNUApA4e526UATXVnUuT3Pl6BNGOM8a7fVc6jON6DExr-UBXQxIZyHJFMqX0l93aUIggzXtiSEhB7z_jbx_5CbE66Q_rbWbv5GhRhvgYSbi2qKBqmvY151-TP3dMuMg",
+            "scope": "GOOGLE",
+            "types": [
+                "beauty_salon",
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Ojodu Berger, 92/91 Aina Street, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.442028,
+                    "lng": 3.413795
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "b134134726e602e6efb1bef0a74ac8957542ecff",
+            "name": "Cares Eye Clinic Ltd",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [],
+                    "photo_reference": "CoQBdwAAAML_MY4s2nukFkQ-7TFO2V9s7CHLtRGCbaMbEx3rGoyM0_ssbiBKbhysFZDjaz7KD-a94797d0blNqUiODBX-12FS4JZoxwU6l4EuTRXDsRDQU3aGXRw7oYD5rrUafTsnRBF2iIdOHd3IKYm8eKQsVzPtBRZzsdEpFKUqIXLlf7pEhDDcSRAmYthSTSje23J1zNvGhRj56zR-b_Npi7JFMbVGshkFMTZZg",
+                    "width": 1211
+                }
+            ],
+            "place_id": "ChIJnePHcCmLOxARovZ7uBPilfM",
+            "reference": "CnRoAAAApD2pMaquYFA7gCP7qODAPV39XeKCZS0xLQ6dJExdOm42CoiBJmTzfgmOJ13jcupf3qQNN1uDaSTOzgXw8gQ6qbiPygDoztNm8TLi0joWixPPuwhWYZTpIJfiqAF21czW-NvzxkPNINefixuKg9MSMxIQGBlLWRRdIxoKq3Esz28dIRoUOkzqkXWYLGWfwWAkbUzhaK-1mwk",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "52 Awolowo Road"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.447652,
+                    "lng": 3.397567
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "45d3618ef761bed7f65c8338f6a2d11a51f53320",
+            "name": "Aspire Global Ventures",
+            "place_id": "ChIJnd7qWhiLOxARlvZjNhcHVi0",
+            "reference": "CnRpAAAAprU_hGCnI9vSE_eRBh63assuLo-t8GTNitM3oQIXM3qYaPH1u5hPxqr8wd3giVlqNvRTVJmDKoR9pH9lwURUdUe_akxc0Yn29P-yV9fx8_zg5Nq828DFV5u49Way10JP4twXdBUCAm72vJm9nvh-txIQbgkl9RXWL4XiQANh9dCBjxoUi0b2BQJhSi_0jayBGkq4FdOKZps",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "4th Floor, Suite No. 416, Western House, 8/10 Broad St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.450997,
+                    "lng": 3.401926
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "6f47e2f9b4c1637d5a27b52412e63260fa13b2ae",
+            "name": "Mr Qudus Enterprises",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJfYfw3zyLOxARmvVszwxN078",
+            "reference": "CnRoAAAAYKNcXcs2nT3Caq82K65mKZVqtOJP3bThixYTLtsH7UZHPoSaq5l-3j2Dtu1rjZ50uxAA8ACPDuQlEWbPkhzGudC47hcc8fzVl79m_GfSzADnw6mt5a8eNeFnpAArIgicB9OSIbM98U-p7B__RO-0LxIQ7G19qO54II1be3wLeUpDJhoUgq2EU7ygKFhmP_FDqO17_YKEb3k",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Lewis St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.604145,
+                    "lng": 3.34407
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "6551fbab3b164356d630a637e6974e415ccff568",
+            "name": "Bolasad Specialist Hospital Limited",
+            "place_id": "ChIJQW6LrC6SOxARFPVpfv6TMO8",
+            "reference": "CoQBdwAAAKSbQsfO7uLp3uaoXBtXpySqpYVayXwHbqgFvWlpJGZ4NBGcDoorafpoCu4TANMnupR0tHDprIL9nf4zP110ByNAkqFHM8mI44-mrO0xNwe3LC4_fEMU4X0rPw5DoiuyEOBhi8aPzQ2X9bvtATUdMoxmqJM02bi5PfN3r_b-jiaYEhDzlZH-jOk8R3dONNzbbwivGhRreHl10VAcgRaJb1XBNu-XdK74xA",
+            "scope": "GOOGLE",
+            "types": [
+                "hospital",
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "15 Olu Akerele St, Ikeja"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.534916,
+                    "lng": 3.373356
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "7c19c1d929a526c10f8e9f7ab8d17383a704238f",
+            "name": "Enmal Orthopaedics",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJjy78WK-NOxAR_Oa1wH8gHq0",
+            "reference": "CnRmAAAAgQycfJD_SuSdM94tH3MK2i_laDfmW9w59PBsSD2ebqTmvEEz8xMPErwmjHoyfALmOZPPFJ-kTYLdncnMJY_LlrSp7pZwiKkiViUt4EWtOzt4FtOihWXQRoMOMm_k1DNGomzHsQdWV0jfpZ6PKN9CBxIQSP5EJ98Xr-SUZ_aD8JZIWhoUkUCvNLoWVgWDuveIf5j_hWLJA2I",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Onipan, 23 Apata St"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 6.622309,
+                    "lng": 3.502119
+                }
+            },
+            "icon": "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "ee0c1ae9af1afc6450b87743003346fea0511d38",
+            "name": "ABeykat Beauty Concept",
+            "opening_hours": {
+                "open_now": false,
+                "weekday_text": []
+            },
+            "place_id": "ChIJ27xSpp3uOxARnuFum_M-D24",
+            "reference": "CnRpAAAAMhIHPjbuZcRAmkhMaMkTxeEXD44TgU8_OuMx1G6L9yL8n1uf0LZTK3gkGWh_KEmZi9-EoHCCwk_pcHc666vRkJip_TpuUP-6TEAq-w8g8nY0o29jU1Usy1cCtqVd_90_Hq_izjUOa55X7rW-nEIpiRIQ_mBla4W24279zrgcQ1xtgRoUGATgjivyq6B8J2ebR8COkaIMzxk",
+            "scope": "GOOGLE",
+            "types": [
+                "doctor",
+                "health",
+                "establishment"
+            ],
+            "vicinity": "Ikorodu, Benson, 1 Muniratu Alaje St, Ikorodu"
+        }
+    ],
+    "status": "OK"
+}

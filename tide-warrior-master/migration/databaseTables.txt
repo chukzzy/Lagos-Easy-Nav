@@ -1,0 +1,40 @@
+Tide Warrior Database Tables
+
+--------------
+geolocations |
+--------------
+location_id (Primary Key)
+location_points (Unique)
+location_address
+
+-------------------
+places_categories |
+-------------------
+category_id (Primary Key)
+category_name (Unique)
+
+--------
+places |
+--------
+place_id (Primary Key)
+place_category (Foreign Key)
+place_location (Foreign Key)
+place_name
+place_tags
+
+-------------------
+events_categories |
+-------------------
+category_id (Primary Key)
+category_name (Unique)
+
+--------
+events |
+--------
+event_id (Primary Key)
+event_category (Foreign Key)
+event_location (Foreign Key)
+event_name
+event_tags
+event_date
+event_time
